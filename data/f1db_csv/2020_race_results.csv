@@ -1,0 +1,341 @@
+constructorId,driverId,driverNumber,engineManufacturerId,gap,gridPosition,interval,laps,points,position,race,reasonRetired,time,timePenalty,tyreManufacturerId,year
+mercedes,valtteri-bottas,77,mercedes,,1,,71,25,1,01-austria,,1:30:55.739,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,+2.700,7,+2.700,71,18,2,01-austria,,1:30:58.439,,pirelli,2020
+mclaren,lando-norris,4,renault,+5.491,3,+2.791,71,16,3,01-austria,,1:31:01.230,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,+5.689,5,+0.198,71,12,4,01-austria,,1:31:01.428,5.000,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+8.903,8,+3.214,71,10,5,01-austria,,1:31:04.642,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,+15.092,6,+6.189,71,8,6,01-austria,,1:31:10.831,5.000,pirelli,2020
+alphatauri,pierre-gasly,10,honda,+16.682,12,+1.590,71,6,7,01-austria,,1:31:12.421,,pirelli,2020
+renault,esteban-ocon,31,renault,+17.456,14,+0.774,71,4,8,01-austria,,1:31:13.195,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+21.146,18,+3.690,71,2,9,01-austria,,1:31:16.885,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+24.545,11,+3.399,71,1,10,01-austria,,1:31:20.284,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+31.650,20,+7.105,71,,11,01-austria,,1:31:27.389,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,,13,,69,,12,01-austria,Suspension,,,pirelli,2020
+red-bull,alexander-albon,23,honda,,4,,67,,13,01-austria,Electronics,,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,,19,,53,,DNF,01-austria,Wheel,,,pirelli,2020
+williams,george-russell,63,mercedes,,17,,49,,DNF,01-austria,Fuel pressure,,,pirelli,2020
+haas,romain-grosjean,8,ferrari,,15,,49,,DNF,01-austria,Brakes,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,,16,,24,,DNF,01-austria,Brakes,,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,,9,,20,,DNF,01-austria,Engine,,,pirelli,2020
+renault,daniel-ricciardo,3,renault,,10,,17,,DNF,01-austria,Overheating,,,pirelli,2020
+red-bull,max-verstappen,33,honda,,2,,11,,DNF,01-austria,Electronics,,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,,1,,71,25,1,02-styria,,1:22:50.683,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+13.719,4,+13.719,71,18,2,02-styria,,1:23:04.402,,pirelli,2020
+red-bull,max-verstappen,33,honda,+33.698,2,+19.979,71,15,3,02-styria,,1:23:24.381,,pirelli,2020
+red-bull,alexander-albon,23,honda,+44.400,6,+10.702,71,12,4,02-styria,,1:23:35.083,,pirelli,2020
+mclaren,lando-norris,4,renault,+1:01.470,9,+17.070,71,10,5,02-styria,,1:23:52.153,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,+1:02.387,17,+0.917,71,8,6,02-styria,,1:23:53.070,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,+1:02.453,13,+0.066,71,6,7,02-styria,,1:23:53.136,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+1:02.591,8,+0.138,71,4,8,02-styria,,1:23:53.274,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+1 lap,3,,70,3,9,02-styria,,,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+1 lap,14,,70,1,10,02-styria,,,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,16,,70,,11,02-styria,,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,+1 lap,15,,70,,12,02-styria,,,,pirelli,2020
+haas,romain-grosjean,8,ferrari,+1 lap,PL,,70,,13,02-styria,,,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,19,,70,,14,02-styria,,,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,+1 lap,7,,70,,15,02-styria,,,,pirelli,2020
+williams,george-russell,63,mercedes,+2 laps,12,,69,,16,02-styria,,,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+2 laps,18,,69,,17,02-styria,,,,pirelli,2020
+renault,esteban-ocon,31,renault,,5,,25,,DNF,02-styria,Overheating,,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,,11,,4,,DNF,02-styria,Collision damage,,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,,10,,1,,DNF,02-styria,Collision damage,,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,,1,,70,26,1,03-hungary,,1:36:12.473,,pirelli,2020
+red-bull,max-verstappen,33,honda,+8.702,7,+8.702,70,18,2,03-hungary,,1:36:21.175,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+9.452,2,+0.750,70,15,3,03-hungary,,1:36:21.925,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,+57.579,3,+48.127,70,12,4,03-hungary,,1:37:10.052,,pirelli,2020
+red-bull,alexander-albon,23,honda,+1:18.316,13,+20.737,70,10,5,03-hungary,,1:37:30.789,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+1 lap,5,,69,8,6,03-hungary,,,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,4,,69,6,7,03-hungary,,,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+1 lap,11,,69,4,8,03-hungary,,,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+1 lap,9,,69,2,9,03-hungary,,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,+1 lap,PL,,69,1,10,03-hungary,,,10.000,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,+1 lap,6,,69,,11,03-hungary,,,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+1 lap,17,,69,,12,03-hungary,,,,pirelli,2020
+mclaren,lando-norris,4,renault,+1 lap,8,,69,,13,03-hungary,,,,pirelli,2020
+renault,esteban-ocon,31,renault,+1 lap,14,,69,,14,03-hungary,,,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,20,,69,,15,03-hungary,,,,pirelli,2020
+haas,romain-grosjean,8,ferrari,+1 lap,PL,,69,,16,03-hungary,,,10.000,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,19,,69,,17,03-hungary,,,,pirelli,2020
+williams,george-russell,63,mercedes,+1 lap,12,,69,,18,03-hungary,,,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+5 laps,15,,65,,19,03-hungary,,,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,,10,,15,,DNF,03-hungary,Gearbox,,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,,1,,52,25,1,04-great-britain,,1:28:01.283,,pirelli,2020
+red-bull,max-verstappen,33,honda,+5.856,3,+5.856,52,19,2,04-great-britain,,1:28:07.139,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,+18.474,4,+12.618,52,15,3,04-great-britain,,1:28:19.757,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+19.650,8,+1.176,52,12,4,04-great-britain,,1:28:20.933,,pirelli,2020
+mclaren,lando-norris,4,renault,+22.277,5,+2.627,52,10,5,04-great-britain,,1:28:23.560,,pirelli,2020
+renault,esteban-ocon,31,renault,+26.937,9,+4.660,52,8,6,04-great-britain,,1:28:28.220,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,+31.188,11,+4.251,52,6,7,04-great-britain,,1:28:32.471,,pirelli,2020
+red-bull,alexander-albon,23,honda,+32.670,12,+1.482,52,4,8,04-great-britain,,1:28:33.953,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,+37.311,6,+4.641,52,2,9,04-great-britain,,1:28:38.594,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+41.857,10,+4.546,52,1,10,04-great-britain,,1:28:43.140,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+42.167,2,+0.310,52,,11,04-great-britain,,1:28:43.450,,pirelli,2020
+williams,george-russell,63,mercedes,+52.004,20,+9.837,52,,12,04-great-britain,,1:28:53.287,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+53.370,7,+1.366,52,,13,04-great-britain,,1:28:54.653,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+54.205,15,+0.835,52,,14,04-great-britain,,1:28:55.488,5.000,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+54.549,18,+0.344,52,,15,04-great-britain,,1:28:55.832,,pirelli,2020
+haas,romain-grosjean,8,ferrari,+55.050,17,+0.501,52,,16,04-great-britain,,1:28:56.333,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,16,,51,,17,04-great-britain,,,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,,19,,11,,DNF,04-great-britain,Accident,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,,14,,1,,DNF,04-great-britain,Collision,,,pirelli,2020
+racing-point,nico-hulkenberg,27,bwt-mercedes,,13,,,,DNS,04-great-britain,Clutch,,,pirelli,2020
+red-bull,max-verstappen,33,honda,,4,,52,25,1,05-70th-anniversary,,1:19:41.993,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,+11.326,2,+11.326,52,19,2,05-70th-anniversary,,1:19:53.319,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+19.231,1,+7.905,52,15,3,05-70th-anniversary,,1:20:01.224,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,+29.289,8,+10.058,52,12,4,05-70th-anniversary,,1:20:11.282,,pirelli,2020
+red-bull,alexander-albon,23,honda,+39.146,9,+9.857,52,10,5,05-70th-anniversary,,1:20:21.139,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,+42.538,6,+3.392,52,8,6,05-70th-anniversary,,1:20:24.531,,pirelli,2020
+racing-point,nico-hulkenberg,27,bwt-mercedes,+55.951,3,+13.413,52,6,7,05-70th-anniversary,,1:20:37.944,,pirelli,2020
+renault,esteban-ocon,31,renault,+1:04.773,14,+8.822,52,4,8,05-70th-anniversary,,1:20:46.766,,pirelli,2020
+mclaren,lando-norris,4,renault,+1:05.544,10,+0.771,52,2,9,05-70th-anniversary,,1:20:47.537,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+1:09.669,16,+4.125,52,1,10,05-70th-anniversary,,1:20:51.662,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,+1:10.642,7,+0.973,52,,11,05-70th-anniversary,,1:20:52.635,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+1:13.370,11,+2.728,52,,12,05-70th-anniversary,,1:20:55.363,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+1:14.070,12,+0.700,52,,13,05-70th-anniversary,,1:20:56.063,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+1 lap,5,,51,,14,05-70th-anniversary,,,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,20,,51,,15,05-70th-anniversary,,,,pirelli,2020
+haas,romain-grosjean,8,ferrari,+1 lap,13,,51,,16,05-70th-anniversary,,,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,19,,51,,17,05-70th-anniversary,,,,pirelli,2020
+williams,george-russell,63,mercedes,+1 lap,15,,51,,18,05-70th-anniversary,,,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+1 lap,18,,51,,19,05-70th-anniversary,,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,,17,,43,,DNF,05-70th-anniversary,Tyre shortage,,5.000,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,,1,,66,25,1,06-spain,,1:31:45.279,,pirelli,2020
+red-bull,max-verstappen,33,honda,+24.177,3,+24.177,66,18,2,06-spain,,1:32:09.456,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+44.752,2,+20.575,66,16,3,06-spain,,1:32:30.031,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,+1 lap,5,,65,12,4,06-spain,,,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,4,,65,10,5,06-spain,,,5.000,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+1 lap,7,,65,8,6,06-spain,,,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+1 lap,11,,65,6,7,06-spain,,,,pirelli,2020
+red-bull,alexander-albon,23,honda,+1 lap,6,,65,4,8,06-spain,,,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,+1 lap,10,,65,2,9,06-spain,,,,pirelli,2020
+mclaren,lando-norris,4,renault,+1 lap,8,,65,1,10,06-spain,,,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+1 lap,13,,65,,11,06-spain,,,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+1 lap,12,,65,,12,06-spain,,,5.000,pirelli,2020
+renault,esteban-ocon,31,renault,+1 lap,15,,65,,13,06-spain,,,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,14,,65,,14,06-spain,,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,+1 lap,16,,65,,15,06-spain,,,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,20,,65,,16,06-spain,,,,pirelli,2020
+williams,george-russell,63,mercedes,+1 lap,18,,65,,17,06-spain,,,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+2 laps,19,,64,,18,06-spain,,,,pirelli,2020
+haas,romain-grosjean,8,ferrari,+2 laps,17,,64,,19,06-spain,,,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,,9,,38,,DNF,06-spain,Electrical,,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,,1,,44,25,1,07-belgium,,1:24:08.761,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+8.448,2,+8.448,44,18,2,07-belgium,,1:24:17.209,,pirelli,2020
+red-bull,max-verstappen,33,honda,+15.455,3,+7.007,44,15,3,07-belgium,,1:24:24.216,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+18.877,4,+3.422,44,13,4,07-belgium,,1:24:27.638,,pirelli,2020
+renault,esteban-ocon,31,renault,+40.650,6,+21.773,44,10,5,07-belgium,,1:24:49.411,,pirelli,2020
+red-bull,alexander-albon,23,honda,+42.712,5,+2.062,44,8,6,07-belgium,,1:24:51.473,,pirelli,2020
+mclaren,lando-norris,4,renault,+43.774,10,+1.062,44,6,7,07-belgium,,1:24:52.535,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,+47.371,12,+3.597,44,4,8,07-belgium,,1:24:56.132,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,+52.603,9,+5.232,44,2,9,07-belgium,,1:25:01.364,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,+53.179,8,+0.576,44,1,10,07-belgium,,1:25:01.940,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+1:10.200,11,+17.021,44,,11,07-belgium,,1:25:18.961,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+1:11.504,16,+1.304,44,,12,07-belgium,,1:25:20.265,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+1:12.894,14,+1.390,44,,13,07-belgium,,1:25:21.655,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,+1:14.920,13,+2.026,44,,14,07-belgium,,1:25:23.681,,pirelli,2020
+haas,romain-grosjean,8,ferrari,+1:16.793,17,+1.873,44,,15,07-belgium,,1:25:25.554,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+1:17.795,19,+1.002,44,,16,07-belgium,,1:25:26.556,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,+1:25.540,20,+7.745,44,,17,07-belgium,,1:25:34.301,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,,18,,9,,DNF,07-belgium,Accident,,,pirelli,2020
+williams,george-russell,63,mercedes,,15,,9,,DNF,07-belgium,Collision,,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,,,,,,DNS,07-belgium,Power unit,,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,,10,,53,25,1,08-italy,,1:47:06.056,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+0.415,3,+0.415,53,18,2,08-italy,,1:47:06.471,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,+3.358,8,+2.943,53,15,3,08-italy,,1:47:09.414,,pirelli,2020
+mclaren,lando-norris,4,renault,+6.000,6,+2.642,53,12,4,08-italy,,1:47:12.056,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+7.108,2,+1.108,53,10,5,08-italy,,1:47:13.164,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+8.391,7,+1.283,53,8,6,08-italy,,1:47:14.447,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,+17.245,1,+8.854,53,7,7,08-italy,,1:47:23.301,,pirelli,2020
+renault,esteban-ocon,31,renault,+18.691,12,+1.446,53,4,8,08-italy,,1:47:24.747,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+22.208,11,+3.517,53,2,9,08-italy,,1:47:28.264,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,+23.224,4,+1.016,53,1,10,08-italy,,1:47:29.280,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+32.876,20,+9.652,53,,11,08-italy,,1:47:38.932,,pirelli,2020
+haas,romain-grosjean,8,ferrari,+35.164,16,+2.288,53,,12,08-italy,,1:47:41.220,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+36.312,14,+1.148,53,,13,08-italy,,1:47:42.368,,pirelli,2020
+williams,george-russell,63,mercedes,+36.593,19,+0.281,53,,14,08-italy,,1:47:42.649,,pirelli,2020
+red-bull,alexander-albon,23,honda,+37.533,9,+0.940,53,,15,08-italy,,1:47:43.589,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+55.199,18,+17.666,53,,16,08-italy,,1:48:01.255,,pirelli,2020
+red-bull,max-verstappen,33,honda,,5,,30,,DNF,08-italy,Power unit,,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,,13,,23,,DNF,08-italy,Accident,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,,15,,17,,DNF,08-italy,Power unit,,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,,17,,6,,DNF,08-italy,Brakes,,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,,1,,59,26,1,09-tuscany,,2:19:35.060,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+4.880,2,+4.880,59,18,2,09-tuscany,,2:19:39.940,,pirelli,2020
+red-bull,alexander-albon,23,honda,+8.064,4,+3.184,59,15,3,09-tuscany,,2:19:43.124,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+10.417,8,+2.353,59,12,4,09-tuscany,,2:19:45.477,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,+15.650,7,+5.233,59,10,5,09-tuscany,,2:19:50.710,,pirelli,2020
+mclaren,lando-norris,4,renault,+18.883,11,+3.233,59,8,6,09-tuscany,,2:19:53.943,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+21.756,12,+2.873,59,6,7,09-tuscany,,2:19:56.816,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,+28.345,5,+6.589,59,4,8,09-tuscany,,2:20:03.405,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+29.770,13,+1.425,59,2,9,09-tuscany,,2:20:04.830,5.000,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+29.983,14,+0.213,59,1,10,09-tuscany,,2:20:05.043,,pirelli,2020
+williams,george-russell,63,mercedes,+32.404,18,+2.421,59,,11,09-tuscany,,2:20:07.464,,pirelli,2020
+haas,romain-grosjean,8,ferrari,+42.036,15,+9.632,59,,12,09-tuscany,,2:20:17.096,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,,6,,42,,DNF,09-tuscany,Accident,,,pirelli,2020
+renault,esteban-ocon,31,renault,,10,,7,,DNF,09-tuscany,Brakes,,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,,19,,6,,DNF,09-tuscany,Collision damage,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,,20,,5,,DNF,09-tuscany,Collision,,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,,17,,5,,DNF,09-tuscany,Collision,,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,,9,,5,,DNF,09-tuscany,Collision,,,pirelli,2020
+red-bull,max-verstappen,33,honda,,3,,0,,DNF,09-tuscany,Collision,,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,,16,,0,,DNF,09-tuscany,Collision,,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,,3,,53,26,1,10-russia,,1:34:00.364,,pirelli,2020
+red-bull,max-verstappen,33,honda,+7.729,2,+7.729,53,18,2,10-russia,,1:34:08.093,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,+22.729,1,+15.000,53,15,3,10-russia,,1:34:23.093,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,+30.558,4,+7.829,53,12,4,10-russia,,1:34:30.922,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+52.065,5,+21.507,53,10,5,10-russia,,1:34:52.429,5.000,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,+1:02.186,10,+10.121,53,8,6,10-russia,,1:35:02.550,,pirelli,2020
+renault,esteban-ocon,31,renault,+1:08.006,7,+5.820,53,6,7,10-russia,,1:35:08.370,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+1:08.740,11,+0.734,53,4,8,10-russia,,1:35:09.104,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,+1:29.766,9,+21.026,53,2,9,10-russia,,1:35:30.130,,pirelli,2020
+red-bull,alexander-albon,23,honda,+1:37.860,15,+8.094,53,1,10,10-russia,,1:35:38.224,5.000,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,17,,52,,11,10-russia,,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,+1 lap,18,,52,,12,10-russia,,,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+1 lap,14,,52,,13,10-russia,,,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,19,,52,,14,10-russia,,,,pirelli,2020
+mclaren,lando-norris,4,renault,+1 lap,8,,52,,15,10-russia,,,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+1 lap,20,,52,,16,10-russia,,,,pirelli,2020
+haas,romain-grosjean,8,ferrari,+1 lap,16,,52,,17,10-russia,,,,pirelli,2020
+williams,george-russell,63,mercedes,+1 lap,13,,52,,18,10-russia,,,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,,6,,0,,DNF,10-russia,Accident,,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,,12,,0,,DNF,10-russia,Collision,,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,,2,,60,25,1,11-eifel,,1:35:49.641,,pirelli,2020
+red-bull,max-verstappen,33,honda,+4.470,3,+4.470,60,19,2,11-eifel,,1:35:54.111,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+14.613,6,+10.143,60,15,3,11-eifel,,1:36:04.254,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,+16.070,9,+1.457,60,12,4,11-eifel,,1:36:05.711,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+21.905,10,+5.835,60,10,5,11-eifel,,1:36:11.546,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,+22.766,12,+0.861,60,8,6,11-eifel,,1:36:12.407,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,+30.814,4,+8.048,60,6,7,11-eifel,,1:36:20.455,,pirelli,2020
+racing-point,nico-hulkenberg,27,bwt-mercedes,+32.596,20,+1.782,60,4,8,11-eifel,,1:36:22.237,,pirelli,2020
+haas,romain-grosjean,8,ferrari,+39.081,16,+6.485,60,2,9,11-eifel,,1:36:28.722,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+40.035,14,+0.954,60,1,10,11-eifel,,1:36:29.676,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+40.810,11,+0.775,60,,11,11-eifel,,1:36:30.451,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+41.476,19,+0.666,60,,12,11-eifel,,1:36:31.117,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,+49.585,15,+8.109,60,,13,11-eifel,,1:36:39.226,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+54.449,18,+4.864,60,,14,11-eifel,,1:36:44.090,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+55.588,13,+1.139,60,,15,11-eifel,,1:36:45.229,,pirelli,2020
+mclaren,lando-norris,4,renault,,8,,42,,DNF,11-eifel,Power unit,,,pirelli,2020
+red-bull,alexander-albon,23,honda,,5,,23,,DNF,11-eifel,Radiator,,5.000,pirelli,2020
+renault,esteban-ocon,31,renault,,7,,22,,DNF,11-eifel,Hydraulics,,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,,1,,18,,DNF,11-eifel,Power unit,,,pirelli,2020
+williams,george-russell,63,mercedes,,17,,12,,DNF,11-eifel,Collision,,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,,1,,66,26,1,12-portugal,,1:29:56.828,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+25.592,2,+25.592,66,18,2,12-portugal,,1:30:22.420,,pirelli,2020
+red-bull,max-verstappen,33,honda,+34.508,3,+8.916,66,15,3,12-portugal,,1:30:31.336,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,+1:05.312,4,+30.804,66,12,4,12-portugal,,1:31:02.140,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,+1 lap,9,,65,10,5,12-portugal,,,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+1 lap,7,,65,8,6,12-portugal,,,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,5,,65,6,7,12-portugal,,,,pirelli,2020
+renault,esteban-ocon,31,renault,+1 lap,11,,65,4,8,12-portugal,,,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+1 lap,10,,65,2,9,12-portugal,,,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+1 lap,15,,65,1,10,12-portugal,,,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,16,,65,,11,12-portugal,,,,pirelli,2020
+red-bull,alexander-albon,23,honda,+1 lap,6,,65,,12,12-portugal,,,,pirelli,2020
+mclaren,lando-norris,4,renault,+1 lap,8,,65,,13,12-portugal,,,,pirelli,2020
+williams,george-russell,63,mercedes,+1 lap,14,,65,,14,12-portugal,,,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,17,,65,,15,12-portugal,,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,+1 lap,19,,65,,16,12-portugal,,,,pirelli,2020
+haas,romain-grosjean,8,ferrari,+1 lap,18,,65,,17,12-portugal,,,5.000,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+2 laps,20,,64,,18,12-portugal,,,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+2 laps,13,,64,,19,12-portugal,,,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,,12,,51,,DNF,12-portugal,Collision damage,,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,,2,,63,26,1,13-emilia-romagna,,1:28:32.430,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+5.783,1,+5.783,63,18,2,13-emilia-romagna,,1:28:38.213,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+14.320,5,+8.537,63,15,3,13-emilia-romagna,,1:28:46.750,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+15.141,8,+0.821,63,12,4,13-emilia-romagna,,1:28:47.571,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,+19.111,7,+3.970,63,10,5,13-emilia-romagna,,1:28:51.541,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,+19.652,11,+0.541,63,8,6,13-emilia-romagna,,1:28:52.082,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+20.230,10,+0.578,63,6,7,13-emilia-romagna,,1:28:52.660,,pirelli,2020
+mclaren,lando-norris,4,renault,+21.131,9,+0.901,63,4,8,13-emilia-romagna,,1:28:53.561,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+22.224,18,+1.093,63,2,9,13-emilia-romagna,,1:28:54.654,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+26.398,20,+4.174,63,1,10,13-emilia-romagna,,1:28:58.828,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+27.135,19,+0.737,63,,11,13-emilia-romagna,,1:28:59.565,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+28.453,14,+1.318,63,,12,13-emilia-romagna,,1:29:00.883,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,+29.163,15,+0.710,63,,13,13-emilia-romagna,,1:29:01.593,,pirelli,2020
+haas,romain-grosjean,8,ferrari,+32.935,16,+3.772,63,,14,13-emilia-romagna,,1:29:05.365,5.000,pirelli,2020
+red-bull,alexander-albon,23,honda,+57.284,6,+24.349,63,,15,13-emilia-romagna,,1:29:29.714,,pirelli,2020
+williams,george-russell,63,mercedes,,13,,51,,DNF,13-emilia-romagna,Accident,,,pirelli,2020
+red-bull,max-verstappen,33,honda,,3,,50,,DNF,13-emilia-romagna,Puncture,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,,17,,47,,DNF,13-emilia-romagna,Gearbox,,,pirelli,2020
+renault,esteban-ocon,31,renault,,12,,27,,DNF,13-emilia-romagna,Gearbox,,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,,4,,8,,DNF,13-emilia-romagna,Coolant leak,,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,,6,,58,25,1,14-turkey,,1:42:19.313,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,+31.633,3,+31.633,58,18,2,14-turkey,,1:42:50.946,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+31.960,11,+0.327,58,15,3,14-turkey,,1:42:51.273,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,+33.858,12,+1.898,58,12,4,14-turkey,,1:42:53.171,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+34.363,15,+0.505,58,10,5,14-turkey,,1:42:53.676,,pirelli,2020
+red-bull,max-verstappen,33,honda,+44.873,2,+10.510,58,8,6,14-turkey,,1:43:04.186,,pirelli,2020
+red-bull,alexander-albon,23,honda,+46.484,4,+1.611,58,6,7,14-turkey,,1:43:05.797,,pirelli,2020
+mclaren,lando-norris,4,renault,+1:01.259,14,+14.775,58,5,8,14-turkey,,1:43:20.572,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,+1:12.353,1,+11.094,58,2,9,14-turkey,,1:43:31.666,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+1:35.460,5,+23.107,58,1,10,14-turkey,,1:43:54.773,,pirelli,2020
+renault,esteban-ocon,31,renault,+1 lap,7,,57,,11,14-turkey,,,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+1 lap,16,,57,,12,14-turkey,,,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,+1 lap,19,,57,,13,14-turkey,,,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+1 lap,9,,57,,14,14-turkey,,,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,8,,57,,15,14-turkey,,,,pirelli,2020
+williams,george-russell,63,mercedes,+1 lap,PL,,57,,16,14-turkey,,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,,13,,55,,17,14-turkey,Withdrew,,,pirelli,2020
+haas,romain-grosjean,8,ferrari,,17,,49,,DNF,14-turkey,Collision damage,,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,,PL,,39,,DNF,14-turkey,Collision damage,,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,,10,,11,,DNF,14-turkey,Gearbox,,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,,1,,57,25,1,15-bahrain,,2:59:47.515,,pirelli,2020
+red-bull,max-verstappen,33,honda,+1.254,3,+1.254,57,19,2,15-bahrain,,2:59:48.769,,pirelli,2020
+red-bull,alexander-albon,23,honda,+8.005,4,+6.751,57,15,3,15-bahrain,,2:59:55.520,,pirelli,2020
+mclaren,lando-norris,4,renault,+11.337,9,+3.332,57,12,4,15-bahrain,,2:59:58.852,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+11.787,15,+0.450,57,10,5,15-bahrain,,2:59:59.302,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,+11.942,8,+0.155,57,8,6,15-bahrain,,2:59:59.457,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+19.368,6,+7.426,57,6,7,15-bahrain,,3:00:6.883,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+19.680,2,+0.312,57,4,8,15-bahrain,,3:00:7.195,,pirelli,2020
+renault,esteban-ocon,31,renault,+22.803,7,+3.123,57,2,9,15-bahrain,,3:00:10.318,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,+1 lap,12,,56,1,10,15-bahrain,,,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+1 lap,10,,56,,11,15-bahrain,,,,pirelli,2020
+williams,george-russell,63,mercedes,+1 lap,14,,56,,12,15-bahrain,,,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+1 lap,11,,56,,13,15-bahrain,,,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+1 lap,20,,56,,14,15-bahrain,,,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,17,,56,,15,15-bahrain,,,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,16,,56,,16,15-bahrain,,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,+1 lap,18,,56,,17,15-bahrain,,,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,,5,,53,,18,15-bahrain,Power unit,,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,,13,,2,,DNF,15-bahrain,Collision,,,pirelli,2020
+haas,romain-grosjean,8,ferrari,,19,,0,,DNF,15-bahrain,Collision,,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,,5,,87,25,1,16-sakhir,,1:31:15.114,,pirelli,2020
+renault,esteban-ocon,31,renault,+10.518,11,+10.518,87,18,2,16-sakhir,,1:31:25.632,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,+11.869,10,+1.351,87,15,3,16-sakhir,,1:31:26.983,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+12.580,8,+0.711,87,12,4,16-sakhir,,1:31:27.694,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+13.330,7,+0.750,87,10,5,16-sakhir,,1:31:28.444,,pirelli,2020
+red-bull,alexander-albon,23,honda,+13.842,12,+0.512,87,8,6,16-sakhir,,1:31:28.956,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+14.534,6,+0.692,87,6,7,16-sakhir,,1:31:29.648,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+15.389,1,+0.855,87,4,8,16-sakhir,,1:31:30.503,,pirelli,2020
+mercedes,george-russell,63,mercedes,+18.556,2,+3.167,87,3,9,16-sakhir,,1:31:33.670,,pirelli,2020
+mclaren,lando-norris,4,renault,+19.541,19,+0.985,87,1,10,16-sakhir,,1:31:34.655,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,+20.527,9,+0.986,87,,11,16-sakhir,,1:31:35.641,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+22.611,13,+2.084,87,,12,16-sakhir,,1:31:37.725,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+24.111,14,+1.500,87,,13,16-sakhir,,1:31:39.225,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+26.153,18,+2.042,87,,14,16-sakhir,,1:31:41.267,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,+32.370,15,+6.217,87,,15,16-sakhir,,1:31:47.484,,pirelli,2020
+williams,jack-aitken,89,mercedes,+33.674,17,+1.304,87,,16,16-sakhir,,1:31:48.788,,pirelli,2020
+haas,pietro-fittipaldi,51,ferrari,+36.858,20,+3.184,87,,17,16-sakhir,,1:31:51.972,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,,16,,52,,DNF,16-sakhir,Oil leak,,,pirelli,2020
+red-bull,max-verstappen,33,honda,,3,,0,,DNF,16-sakhir,Collision,,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,,4,,0,,DNF,16-sakhir,Collision,,,pirelli,2020
+red-bull,max-verstappen,33,honda,,1,,55,25,1,17-abu-dhabi,,1:36:28.645,,pirelli,2020
+mercedes,valtteri-bottas,77,mercedes,+15.976,2,+15.976,55,18,2,17-abu-dhabi,,1:36:44.621,,pirelli,2020
+mercedes,lewis-hamilton,44,mercedes,+18.415,3,+2.439,55,15,3,17-abu-dhabi,,1:36:47.060,,pirelli,2020
+red-bull,alexander-albon,23,honda,+19.987,5,+1.572,55,12,4,17-abu-dhabi,,1:36:48.632,,pirelli,2020
+mclaren,lando-norris,4,renault,+1:00.729,4,+40.742,55,10,5,17-abu-dhabi,,1:37:29.374,,pirelli,2020
+mclaren,carlos-sainz-jr,55,renault,+1:05.662,6,+4.933,55,8,6,17-abu-dhabi,,1:37:34.307,,pirelli,2020
+renault,daniel-ricciardo,3,renault,+1:13.748,11,+8.086,55,7,7,17-abu-dhabi,,1:37:42.393,,pirelli,2020
+alphatauri,pierre-gasly,10,honda,+1:29.718,9,+15.970,55,4,8,17-abu-dhabi,,1:37:58.363,,pirelli,2020
+renault,esteban-ocon,31,renault,+1:41.069,10,+11.351,55,2,9,17-abu-dhabi,,1:38:09.714,,pirelli,2020
+racing-point,lance-stroll,18,bwt-mercedes,+1:42.738,8,+1.669,55,1,10,17-abu-dhabi,,1:38:11.383,,pirelli,2020
+alphatauri,daniil-kvyat,26,honda,+1 lap,7,,54,,11,17-abu-dhabi,,,,pirelli,2020
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,15,,54,,12,17-abu-dhabi,,,,pirelli,2020
+ferrari,charles-leclerc,16,ferrari,+1 lap,12,,54,,13,17-abu-dhabi,,,,pirelli,2020
+ferrari,sebastian-vettel,5,ferrari,+1 lap,13,,54,,14,17-abu-dhabi,,,,pirelli,2020
+williams,george-russell,63,mercedes,+1 lap,16,,54,,15,17-abu-dhabi,,,,pirelli,2020
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,14,,54,,16,17-abu-dhabi,,,,pirelli,2020
+williams,nicholas-latifi,6,mercedes,+1 lap,18,,54,,17,17-abu-dhabi,,,,pirelli,2020
+haas,kevin-magnussen,20,ferrari,+1 lap,20,,54,,18,17-abu-dhabi,,,,pirelli,2020
+haas,pietro-fittipaldi,51,ferrari,+2 laps,17,,53,,19,17-abu-dhabi,,,,pirelli,2020
+racing-point,sergio-perez,11,bwt-mercedes,,19,,8,,DNF,17-abu-dhabi,Power unit,,,pirelli,2020

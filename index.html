@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1 Data Analysis | Portfolio</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/svg+xml"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏎️</text></svg>">
+</head>
+
+<body>
+    <!-- Animated Background -->
+    <div class="racing-lines"></div>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-brand">
+            <span class="brand-icon">🏎️</span>
+            <span class="brand-text">F1 <span class="accent">DATA</span> ANALYTICS</span>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#hero" class="nav-link active">Home</a></li>
+            <li><a href="#telemetry" class="nav-link">Telemetry</a></li>
+            <li><a href="#gforce" class="nav-link">G-Force</a></li>
+            <li><a href="#aero" class="nav-link">Aerodynamics</a></li>
+            <li><a href="#strategy" class="nav-link">Strategy</a></li>
+            <li><a href="#engines" class="nav-link">Power Units</a></li>
+            <li><a href="#about" class="nav-link">About</a></li>
+        </ul>
+        <div class="nav-toggle" id="navToggle">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero">
+        <div class="hero-content">
+            <div class="hero-badge">Formula 1 Data Science</div>
+            <h1 class="hero-title">
+                <span class="line1">PUSHING THE LIMITS OF</span>
+                <span class="line2">DATA <span class="gradient-text">ANALYSIS</span></span>
+            </h1>
+            <p class="hero-subtitle">
+                Deep dive into telemetry, aerodynamics, and race strategy using Python, FastF1, and advanced analytics
+            </p>
+            <div class="hero-stats">
+                <div class="stat-card">
+                    <div class="stat-value" data-count="22">0</div>
+                    <div class="stat-label">Visualizations</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" data-count="12">0</div>
+                    <div class="stat-label">Analysis Scripts</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" data-count="3">0</div>
+                    <div class="stat-label">Tracks Analyzed</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" data-count="20">0</div>
+                    <div class="stat-label">Drivers Compared</div>
+                </div>
+            </div>
+            <div class="hero-cta">
+                <a href="#telemetry" class="btn btn-primary">Explore Analysis</a>
+                <a href="https://github.com/YOUR_USERNAME/F1-Data" class="btn btn-secondary" target="_blank">
+                    <svg class="github-icon" viewBox="0 0 24 24">
+                        <path fill="currentColor"
+                            d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" />
+                    </svg>
+                    View on GitHub
+                </a>
+            </div>
+        </div>
+        <div class="hero-visual">
+            <div class="speed-indicator">
+                <div class="speed-ring"></div>
+                <div class="speed-value">350</div>
+                <div class="speed-unit">km/h</div>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <span>Scroll to explore</span>
+            <div class="scroll-arrow"></div>
+        </div>
+    </section>
+
+    <!-- Telemetry Section -->
+    <section id="telemetry" class="section telemetry-section">
+        <div class="section-header">
+            <span class="section-number">01</span>
+            <h2 class="section-title">TELEMETRY <span class="accent">ANALYSIS</span></h2>
+            <p class="section-desc">Real-time car data analysis including speed traces, throttle/brake application, and
+                driver comparison</p>
+        </div>
+
+        <div class="analysis-grid">
+            <div class="analysis-card featured">
+                <div class="card-image">
+                    <img src="telemetry_visualizations/2024_Monaco_Grand_Prix_track_map.png" alt="Monaco Track Map"
+                        loading="lazy">
+                </div>
+                <div class="card-content">
+                    <h3>Track Position Mapping</h3>
+                    <p>GPS-based track visualization with speed-colored trajectory showing where drivers gain and lose
+                        time</p>
+                    <div class="card-tags">
+                        <span class="tag">FastF1</span>
+                        <span class="tag">Matplotlib</span>
+                        <span class="tag">GPS Data</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="analysis-card">
+                <div class="card-image">
+                    <img src="telemetry_visualizations/2024_Monaco_Grand_Prix_speed_trace.png" alt="Speed Trace"
+                        loading="lazy">
+                </div>
+                <div class="card-content">
+                    <h3>Speed Trace Analysis</h3>
+                    <p>Lap-by-lap speed comparison revealing braking points and acceleration zones</p>
+                    <div class="card-tags">
+                        <span class="tag">Speed Data</span>
+                        <span class="tag">Comparison</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="analysis-card">
+                <div class="card-image">
+                    <img src="telemetry_visualizations/2024_Monaco_Grand_Prix_throttle_brake.png" alt="Throttle Brake"
+                        loading="lazy">
+                </div>
+                <div class="card-content">
+                    <h3>Throttle & Brake Usage</h3>
+                    <p>Driver input analysis showing pedal application patterns and driving style</p>
+                    <div class="card-tags">
+                        <span class="tag">Driver Inputs</span>
+                        <span class="tag">Telemetry</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="analysis-card">
+                <div class="card-image">
+                    <img src="telemetry_visualizations/2024_Monaco_Grand_Prix_driver_comparison.png"
+                        alt="Driver Comparison" loading="lazy">
+                </div>
+                <div class="card-content">
+                    <h3>Driver Comparison</h3>
+                    <p>Head-to-head analysis of driver performance across all telemetry channels</p>
+                    <div class="card-tags">
+                        <span class="tag">Multi-Driver</span>
+                        <span class="tag">Delta Time</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- G-Force Section -->
+    <section id="gforce" class="section gforce-section">
+        <div class="section-header">
+            <span class="section-number">02</span>
+            <h2 class="section-title">G-FORCE <span class="accent">MAPPING</span></h2>
+            <p class="section-desc">Calculate and visualize the extreme forces drivers experience - up to 6G in corners
+                and under braking</p>
+        </div>
+
+        <div class="gforce-showcase">
+            <div class="gforce-main">
+                <img src="gforce_visualizations/gforce_circular_meter.png" alt="G-Force Circular Meter" loading="lazy">
+                <div class="gforce-overlay">
+                    <div class="gforce-stat">
+                        <span class="value">5.2G</span>
+                        <span class="label">Max Braking</span>
+                    </div>
+                    <div class="gforce-stat">
+                        <span class="value">5.8G</span>
+                        <span class="label">Max Lateral</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gforce-gallery">
+                <div class="gallery-item">
+                    <img src="gforce_visualizations/gforce_diamond_cross.png" alt="Diamond G-Force" loading="lazy">
+                    <span class="gallery-label">Diamond Gauge</span>
+                </div>
+                <div class="gallery-item">
+                    <img src="gforce_visualizations/Monaco_Grand_Prix_driver_gforce_comparison.png" alt="Monaco G-Force"
+                        loading="lazy">
+                    <span class="gallery-label">Driver Comparison</span>
+                </div>
+                <div class="gallery-item">
+                    <img src="gforce_visualizations/gforce_track_gauge_comparison.png" alt="Track Comparison"
+                        loading="lazy">
+                    <span class="gallery-label">Track Comparison</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="gforce-explanation">
+            <div class="explanation-card">
+                <div class="icon">🔴</div>
+                <h4>Braking G</h4>
+                <p>Longitudinal deceleration calculated from speed derivative</p>
+                <code>a = Δv / Δt → G = a / 9.81</code>
+            </div>
+            <div class="explanation-card">
+                <div class="icon">🟡</div>
+                <h4>Lateral G</h4>
+                <p>Cornering force from centripetal acceleration</p>
+                <code>a = v² × κ → G = a / 9.81</code>
+            </div>
+            <div class="explanation-card">
+                <div class="icon">🟣</div>
+                <h4>Total G</h4>
+                <p>Combined force magnitude on driver</p>
+                <code>G_total = √(G_long² + G_lat²)</code>
+            </div>
+        </div>
+    </section>
+
+    <!-- Aerodynamics Section -->
+    <section id="aero" class="section aero-section">
+        <div class="section-header">
+            <span class="section-number">03</span>
+            <h2 class="section-title">AERODYNAMIC <span class="accent">SCIENCE</span></h2>
+            <p class="section-desc">Wind tunnel data analysis, downforce calculations, and ATR (Aerodynamic Testing
+                Restrictions) visualization</p>
+        </div>
+
+        <div class="aero-dashboard">
+            <div class="aero-card main-card">
+                <img src="windtunnel_data/visualizations/aero_calculator_plots.png" alt="Aero Calculator"
+                    loading="lazy">
+                <div class="aero-info">
+                    <h3>Downforce vs Speed Calculator</h3>
+                    <p>Physics-based calculations using PERRINN F1 CFD coefficients</p>
+                </div>
+            </div>
+
+            <div class="aero-metrics">
+                <div class="metric-card">
+                    <div class="metric-header">
+                        <span class="metric-icon">⬇️</span>
+                        <span class="metric-title">Downforce @ 250 km/h</span>
+                    </div>
+                    <div class="metric-value">9,600 <span>N</span></div>
+                    <div class="metric-sub">979 kg (exceeds car weight!)</div>
+                    <div class="metric-bar" style="--progress: 80%"></div>
+                </div>
+
+                <div class="metric-card">
+                    <div class="metric-header">
+                        <span class="metric-icon">💨</span>
+                        <span class="metric-title">Drag Force @ 250 km/h</span>
+                    </div>
+                    <div class="metric-value">3,426 <span>N</span></div>
+                    <div class="metric-sub">L/D Efficiency: 2.80</div>
+                    <div class="metric-bar" style="--progress: 45%"></div>
+                </div>
+
+                <div class="metric-card">
+                    <div class="metric-header">
+                        <span class="metric-icon">🔋</span>
+                        <span class="metric-title">Power to Overcome Drag</span>
+                    </div>
+                    <div class="metric-value">238 <span>kW</span></div>
+                    <div class="metric-sub">319 HP at 250 km/h</div>
+                    <div class="metric-bar" style="--progress: 32%"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="atr-section">
+            <h3 class="subsection-title">FIA Aerodynamic Testing Restrictions</h3>
+            <div class="atr-grid">
+                <div class="atr-visual">
+                    <img src="windtunnel_data/visualizations/atr_wind_tunnel_hours.png" alt="ATR Hours" loading="lazy">
+                </div>
+                <div class="atr-info">
+                    <p class="atr-desc">The FIA implements a sliding scale for wind tunnel time based on constructor
+                        standings - slower teams get more development time to close the gap.</p>
+                    <div class="atr-table">
+                        <div class="atr-row header">
+                            <span>Position</span>
+                            <span>Allocation</span>
+                            <span>Hours/Year</span>
+                        </div>
+                        <div class="atr-row">
+                            <span>P1</span>
+                            <span>70%</span>
+                            <span>224h</span>
+                        </div>
+                        <div class="atr-row">
+                            <span>P5</span>
+                            <span>90%</span>
+                            <span>288h</span>
+                        </div>
+                        <div class="atr-row">
+                            <span>P10</span>
+                            <span>115%</span>
+                            <span>368h</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Strategy Section -->
+    <section id="strategy" class="section strategy-section">
+        <div class="section-header">
+            <span class="section-number">04</span>
+            <h2 class="section-title">RACE <span class="accent">STRATEGY</span></h2>
+            <p class="section-desc">Tire compound analysis, pit stop optimization, and degradation modeling</p>
+        </div>
+
+        <div class="strategy-grid">
+            <div class="strategy-card">
+                <img src="tire_pitstop_visualizations/2024_Monaco_Grand_Prix_tire_strategy.png" alt="Tire Strategy"
+                    loading="lazy">
+                <div class="strategy-info">
+                    <h3>Tire Strategy Timeline</h3>
+                    <p>Compound usage per driver visualized across race distance</p>
+                </div>
+            </div>
+
+            <div class="strategy-card">
+                <img src="tire_pitstop_visualizations/fastest_pit_stops_2024.png" alt="Pit Stops" loading="lazy">
+                <div class="strategy-info">
+                    <h3>Pit Stop Performance</h3>
+                    <p>Team pit stop times analysis and comparison</p>
+                </div>
+            </div>
+
+            <div class="compound-legend">
+                <div class="compound soft">
+                    <span class="compound-ring"></span>
+                    <span class="compound-name">SOFT</span>
+                    <span class="compound-desc">Fastest, lowest durability</span>
+                </div>
+                <div class="compound medium">
+                    <span class="compound-ring"></span>
+                    <span class="compound-name">MEDIUM</span>
+                    <span class="compound-desc">Balanced performance</span>
+                </div>
+                <div class="compound hard">
+                    <span class="compound-ring"></span>
+                    <span class="compound-name">HARD</span>
+                    <span class="compound-desc">Most durable, slower</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Engines Section -->
+    <section id="engines" class="section engines-section">
+        <div class="section-header">
+            <span class="section-number">05</span>
+            <h2 class="section-title">POWER <span class="accent">UNITS</span></h2>
+            <p class="section-desc">Engine specifications, manufacturer analysis, and hybrid era technology breakdown
+            </p>
+        </div>
+
+        <div class="engine-showcase">
+            <div class="engine-specs">
+                <div class="spec-block">
+                    <div class="spec-title">CURRENT F1 POWER UNIT</div>
+                    <div class="spec-details">
+                        <div class="spec-row">
+                            <span class="spec-label">Configuration</span>
+                            <span class="spec-value">1.6L V6 Turbo Hybrid</span>
+                        </div>
+                        <div class="spec-row">
+                            <span class="spec-label">Total Power</span>
+                            <span class="spec-value highlight">~1,000 HP</span>
+                        </div>
+                        <div class="spec-row">
+                            <span class="spec-label">ICE Output</span>
+                            <span class="spec-value">~550 HP</span>
+                        </div>
+                        <div class="spec-row">
+                            <span class="spec-label">MGU-K</span>
+                            <span class="spec-value">~160 HP (120kW)</span>
+                        </div>
+                        <div class="spec-row">
+                            <span class="spec-label">Thermal Efficiency</span>
+                            <span class="spec-value highlight">50%+</span>
+                        </div>
+                        <div class="spec-row">
+                            <span class="spec-label">RPM Limit</span>
+                            <span class="spec-value">15,000</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="manufacturers-grid">
+                    <div class="mfr-card ferrari">
+                        <span class="mfr-name">Ferrari</span>
+                        <span class="mfr-engine">066/12</span>
+                    </div>
+                    <div class="mfr-card mercedes">
+                        <span class="mfr-name">Mercedes</span>
+                        <span class="mfr-engine">M15</span>
+                    </div>
+                    <div class="mfr-card honda">
+                        <span class="mfr-name">Honda RBPT</span>
+                        <span class="mfr-engine">RBPTH002</span>
+                    </div>
+                    <div class="mfr-card renault">
+                        <span class="mfr-name">Renault</span>
+                        <span class="mfr-engine">E-Tech RE24</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="engine-visuals">
+                <img src="engine_visualizations/engine_evolution.png" alt="Engine Evolution" loading="lazy">
+                <img src="engine_visualizations/hybrid_era_engines.png" alt="Hybrid Era" loading="lazy">
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section about-section">
+        <div class="section-header">
+            <span class="section-number">06</span>
+            <h2 class="section-title">ABOUT THIS <span class="accent">PROJECT</span></h2>
+        </div>
+
+        <div class="about-content">
+            <div class="tech-stack">
+                <h3>Technology Stack</h3>
+                <div class="tech-grid">
+                    <div class="tech-item">
+                        <span class="tech-icon">🐍</span>
+                        <span class="tech-name">Python</span>
+                    </div>
+                    <div class="tech-item">
+                        <span class="tech-icon">📊</span>
+                        <span class="tech-name">FastF1</span>
+                    </div>
+                    <div class="tech-item">
+                        <span class="tech-icon">📈</span>
+                        <span class="tech-name">Matplotlib</span>
+                    </div>
+                    <div class="tech-item">
+                        <span class="tech-icon">🔢</span>
+                        <span class="tech-name">NumPy</span>
+                    </div>
+                    <div class="tech-item">
+                        <span class="tech-icon">🐼</span>
+                        <span class="tech-name">Pandas</span>
+                    </div>
+                    <div class="tech-item">
+                        <span class="tech-icon">📉</span>
+                        <span class="tech-name">SciPy</span>
+                    </div>
+                    <div class="tech-item">
+                        <span class="tech-icon">🎨</span>
+                        <span class="tech-name">Seaborn</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="project-stats">
+                <h3>Project Overview</h3>
+                <ul class="stats-list">
+                    <li><strong>12</strong> Analysis Scripts</li>
+                    <li><strong>50+</strong> Visualizations Generated</li>
+                    <li><strong>3</strong> Tracks Deep-Dived (Monaco, Spa, Monza)</li>
+                    <li><strong>419</strong> Engine Records Analyzed</li>
+                    <li><strong>Real-time</strong> Telemetry Processing</li>
+                    <li><strong>Physics-based</strong> Aero Calculations</li>
+                </ul>
+            </div>
+
+            <div class="cta-section">
+                <a href="https://github.com/YOUR_USERNAME/F1-Data" class="btn btn-primary btn-large" target="_blank">
+                    View Full Repository on GitHub
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <span class="brand-icon">🏎️</span>
+                <span>F1 Data Analytics</span>
+            </div>
+            <p class="footer-text">
+                Built with Python, FastF1, and passion for motorsport data science.
+            </p>
+            <div class="footer-links">
+                <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a>
+                <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">LinkedIn</a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 F1 Data Analysis Portfolio. Data sourced via FastF1 API.</p>
+        </div>
+    </footer>
+
+    <!-- Image Modal -->
+    <div class="modal" id="imageModal">
+        <span class="modal-close">&times;</span>
+        <img class="modal-content" id="modalImage">
+        <div class="modal-caption" id="modalCaption"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

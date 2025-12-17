@@ -1,0 +1,8 @@
+F1 DATA ANALYSIS SUMMARY (2012-2025)
+==================================================
+
+Total Races Analyzed: 291
+Unique Drivers: 73
+Unique Constructors: 23
+Most Wins: lewis-hamilton (88 wins)
+Most Constructor Wins: mercedes (122 wins)

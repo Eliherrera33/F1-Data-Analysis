@@ -1,0 +1,441 @@
+constructorId,driverId,driverNumber,engineManufacturerId,gap,grandSlam,gridPosition,interval,laps,points,position,race,reasonRetired,time,timePenalty,tyreManufacturerId,year
+red-bull,max-verstappen,1,honda-rbpt,,,1,,57,25,1,01-bahrain,,1:33:56.736,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+11.987,,2,+11.987,57,18,2,01-bahrain,,1:34:08.723,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+38.637,,5,+26.650,57,15,3,01-bahrain,,1:34:35.373,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+48.052,,4,+9.415,57,12,4,01-bahrain,,1:34:44.788,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+50.977,,7,+2.925,57,10,5,01-bahrain,,1:34:47.713,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+54.502,,8,+3.525,57,8,6,01-bahrain,,1:34:51.238,,pirelli,2023
+mercedes,george-russell,63,mercedes,+55.873,,6,+1.371,57,6,7,01-bahrain,,1:34:52.609,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1:12.647,,12,+16.774,57,4,8,01-bahrain,,1:35:09.383,,pirelli,2023
+alpine,pierre-gasly,10,renault,+1:13.753,,20,+1.106,57,2,9,01-bahrain,,1:35:10.489,,pirelli,2023
+williams,alexander-albon,23,mercedes,+1:29.774,,15,+16.021,57,1,10,01-bahrain,,1:35:26.510,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1:30.870,,14,+1.096,57,,11,01-bahrain,,1:35:27.606,,pirelli,2023
+williams,logan-sargeant,2,mercedes,+1 lap,,16,,56,,12,01-bahrain,,,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1 lap,,17,,56,,13,01-bahrain,,,,pirelli,2023
+alphatauri,nyck-de-vries,21,honda-rbpt,+1 lap,,19,,56,,14,01-bahrain,,,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1 lap,,10,,56,,15,01-bahrain,,,15.000,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1 lap,,13,,56,,16,01-bahrain,,,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+2 laps,,11,,55,,17,01-bahrain,,,,pirelli,2023
+alpine,esteban-ocon,31,renault,,,9,,41,,DNF,01-bahrain,Withdrew,,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,,,3,,39,,DNF,01-bahrain,Engine,,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,,,18,,13,,DNF,01-bahrain,Electrical,,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,,,1,,50,25,1,02-saudi-arabia,,1:21:14.894,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,+5.355,,15,+5.355,50,19,2,02-saudi-arabia,,1:21:20.249,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+20.728,,2,+15.373,50,15,3,02-saudi-arabia,,1:21:35.622,,pirelli,2023
+mercedes,george-russell,63,mercedes,+25.866,,3,+5.138,50,12,4,02-saudi-arabia,,1:21:40.760,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+31.065,,7,+5.199,50,10,5,02-saudi-arabia,,1:21:45.959,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+35.876,,4,+4.811,50,8,6,02-saudi-arabia,,1:21:50.770,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+43.162,,12,+7.286,50,6,7,02-saudi-arabia,,1:21:58.056,,pirelli,2023
+alpine,esteban-ocon,31,renault,+52.832,,6,+9.670,50,4,8,02-saudi-arabia,,1:22:07.726,,pirelli,2023
+alpine,pierre-gasly,10,renault,+54.747,,9,+1.915,50,2,9,02-saudi-arabia,,1:22:09.641,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1:04.826,,13,+10.079,50,1,10,02-saudi-arabia,,1:22:19.720,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1:07.494,,16,+2.668,50,,11,02-saudi-arabia,,1:22:22.388,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1:10.588,,10,+3.094,50,,12,02-saudi-arabia,,1:22:25.482,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1:16.060,,11,+5.472,50,,13,02-saudi-arabia,,1:22:30.954,,pirelli,2023
+alphatauri,nyck-de-vries,21,honda-rbpt,+1:17.478,,18,+1.418,50,,14,02-saudi-arabia,,1:22:32.372,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+1:25.021,,8,+7.543,50,,15,02-saudi-arabia,,1:22:39.915,,pirelli,2023
+williams,logan-sargeant,2,mercedes,+1:26.293,,20,+1.272,50,,16,02-saudi-arabia,,1:22:41.187,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+1:26.445,,19,+0.152,50,,17,02-saudi-arabia,,1:22:41.339,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1 lap,,14,,49,,18,02-saudi-arabia,,,,pirelli,2023
+williams,alexander-albon,23,mercedes,,,17,,27,,DNF,02-saudi-arabia,Brakes,,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,,,5,,16,,DNF,02-saudi-arabia,Engine,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,1,,58,25,1,03-australia,,2:32:38.371,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+0.179,,3,+0.179,58,18,2,03-australia,,2:32:38.550,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+0.769,,4,+0.590,58,15,3,03-australia,,2:32:39.140,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+3.082,,6,+2.313,58,12,4,03-australia,,2:32:41.453,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+3.320,,PL,+0.238,58,11,5,03-australia,,2:32:41.691,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+3.701,,13,+0.381,58,8,6,03-australia,,2:32:42.072,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+4.939,,10,+1.238,58,6,7,03-australia,,2:32:43.310,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+5.382,,16,+0.443,58,4,8,03-australia,,2:32:43.753,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+5.713,,17,+0.331,58,2,9,03-australia,,2:32:44.084,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+6.052,,12,+0.339,58,1,10,03-australia,,2:32:44.423,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+6.513,,PL,+0.461,58,,11,03-australia,,2:32:44.884,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+6.594,,5,+0.081,58,,12,03-australia,,2:32:44.965,5.000,pirelli,2023
+alpine,pierre-gasly,10,renault,,,9,,56,,13,03-australia,Collision,,,pirelli,2023
+alpine,esteban-ocon,31,renault,,,11,,56,,14,03-australia,Collision,,,pirelli,2023
+alphatauri,nyck-de-vries,21,honda-rbpt,,,15,,56,,15,03-australia,Collision,,,pirelli,2023
+williams,logan-sargeant,2,mercedes,,,18,,56,,16,03-australia,Collision,,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,,,14,,52,,17,03-australia,Accident,,,pirelli,2023
+mercedes,george-russell,63,mercedes,,,2,,17,,DNF,03-australia,Engine,,,pirelli,2023
+williams,alexander-albon,23,mercedes,,,8,,6,,DNF,03-australia,Accident,,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,,,7,,0,,DNF,03-australia,Collision,,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,,,3,,51,25,1,04-azerbaijan,,1:32:42.436,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,+2.137,,2,+2.137,51,18,2,04-azerbaijan,,1:32:44.573,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+21.217,,1,+19.080,51,15,3,04-azerbaijan,,1:33:03.653,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+22.024,,6,+0.807,51,12,4,04-azerbaijan,,1:33:04.460,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+45.491,,4,+23.467,51,10,5,04-azerbaijan,,1:33:27.927,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+46.145,,5,+0.654,51,8,6,04-azerbaijan,,1:33:28.581,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+51.617,,9,+5.472,51,6,7,04-azerbaijan,,1:33:34.053,,pirelli,2023
+mercedes,george-russell,63,mercedes,+1:14.240,,11,+22.623,51,5,8,04-azerbaijan,,1:33:56.676,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+1:20.376,,7,+6.136,51,2,9,04-azerbaijan,,1:34:02.812,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1:23.862,,8,+3.486,51,1,10,04-azerbaijan,,1:34:06.298,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+1:26.501,,10,+2.639,51,,11,04-azerbaijan,,1:34:08.937,,pirelli,2023
+williams,alexander-albon,23,mercedes,+1:28.623,,12,+2.122,51,,12,04-azerbaijan,,1:34:11.059,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1:29.729,,16,+1.106,51,,13,04-azerbaijan,,1:34:12.165,,pirelli,2023
+alpine,pierre-gasly,10,renault,+1:31.332,,17,+1.603,51,,14,04-azerbaijan,,1:34:13.768,,pirelli,2023
+alpine,esteban-ocon,31,renault,+1:37.794,,PL,+6.462,51,,15,04-azerbaijan,,1:34:20.230,,pirelli,2023
+williams,logan-sargeant,2,mercedes,+1:40.943,,14,+3.149,51,,16,04-azerbaijan,,1:34:23.379,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1 lap,,PL,,50,,17,04-azerbaijan,,,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1 lap,,13,,50,,18,04-azerbaijan,,,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,,,15,,36,,DNF,04-azerbaijan,Overheating,,,pirelli,2023
+alphatauri,nyck-de-vries,21,honda-rbpt,,,18,,9,,DNF,04-azerbaijan,Accident,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,9,,57,26,1,05-miami,,1:27:38.241,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+5.384,,1,+5.384,57,18,2,05-miami,,1:27:43.625,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+26.305,,2,+20.921,57,15,3,05-miami,,1:28:04.546,,pirelli,2023
+mercedes,george-russell,63,mercedes,+33.229,,6,+6.924,57,12,4,05-miami,,1:28:11.470,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+42.511,,3,+9.282,57,10,5,05-miami,,1:28:20.752,5.000,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+51.249,,13,+8.738,57,8,6,05-miami,,1:28:29.490,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+52.988,,7,+1.739,57,6,7,05-miami,,1:28:31.229,,pirelli,2023
+alpine,pierre-gasly,10,renault,+55.670,,5,+2.682,57,4,8,05-miami,,1:28:33.911,,pirelli,2023
+alpine,esteban-ocon,31,renault,+58.123,,8,+2.453,57,2,9,05-miami,,1:28:36.364,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1:02.945,,4,+4.822,57,1,10,05-miami,,1:28:41.186,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1:04.309,,17,+1.364,57,,11,05-miami,,1:28:42.550,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+1:04.754,,18,+0.445,57,,12,05-miami,,1:28:42.995,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1:11.637,,10,+6.883,57,,13,05-miami,,1:28:49.878,,pirelli,2023
+williams,alexander-albon,23,mercedes,+1:12.861,,11,+1.224,57,,14,05-miami,,1:28:51.102,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1:14.950,,12,+2.089,57,,15,05-miami,,1:28:53.191,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1:18.440,,14,+3.490,57,,16,05-miami,,1:28:56.681,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+1:27.717,,16,+9.277,57,,17,05-miami,,1:29:05.958,,pirelli,2023
+alphatauri,nyck-de-vries,21,honda-rbpt,+1:28.949,,15,+1.232,57,,18,05-miami,,1:29:07.190,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+1 lap,,19,,56,,19,05-miami,,,,pirelli,2023
+williams,logan-sargeant,2,mercedes,+1 lap,,20,,56,,20,05-miami,,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,1,,78,25,1,06-monaco,,1:48:51.980,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+27.921,,2,+27.921,78,18,2,06-monaco,,1:49:19.901,,pirelli,2023
+alpine,esteban-ocon,31,renault,+36.990,,3,+9.069,78,15,3,06-monaco,,1:49:28.970,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+39.062,,5,+2.072,78,13,4,06-monaco,,1:49:31.042,,pirelli,2023
+mercedes,george-russell,63,mercedes,+56.284,,8,+17.222,78,10,5,06-monaco,,1:49:48.264,5.000,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+1:01.890,,6,+5.606,78,8,6,06-monaco,,1:49:53.870,,pirelli,2023
+alpine,pierre-gasly,10,renault,+1:02.362,,7,+0.472,78,6,7,06-monaco,,1:49:54.342,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+1:03.391,,4,+1.029,78,4,8,06-monaco,,1:49:55.371,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+1 lap,,10,,77,2,9,06-monaco,,,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+1 lap,,11,,77,1,10,06-monaco,,,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1 lap,,15,,77,,11,06-monaco,,,,pirelli,2023
+alphatauri,nyck-de-vries,21,honda-rbpt,+1 lap,,12,,77,,12,06-monaco,,,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1 lap,,19,,77,,13,06-monaco,,,,pirelli,2023
+williams,alexander-albon,23,mercedes,+1 lap,,13,,77,,14,06-monaco,,,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+2 laps,,9,,76,,15,06-monaco,,,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+2 laps,,20,,76,,16,06-monaco,,,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+2 laps,,18,,76,,17,06-monaco,,,10.000,pirelli,2023
+williams,logan-sargeant,2,mercedes,+2 laps,,16,,76,,18,06-monaco,,,5.000,pirelli,2023
+haas,kevin-magnussen,20,ferrari,,,17,,70,,19,06-monaco,Accident damage,,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,,,14,,53,,DNF,06-monaco,Accident damage,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,True,1,,66,26,1,07-spain,,1:27:57.940,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+24.090,,4,+24.090,66,18,2,07-spain,,1:28:22.030,,pirelli,2023
+mercedes,george-russell,63,mercedes,+32.389,,12,+8.299,66,15,3,07-spain,,1:28:30.329,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+35.812,,11,+3.423,66,12,4,07-spain,,1:28:33.752,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+45.698,,2,+9.886,66,10,5,07-spain,,1:28:43.638,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+1:03.320,,5,+17.622,66,8,6,07-spain,,1:29:01.260,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+1:04.127,,8,+0.807,66,6,7,07-spain,,1:29:02.067,,pirelli,2023
+alpine,esteban-ocon,31,renault,+1:09.242,,6,+5.115,66,4,8,07-spain,,1:29:07.182,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1:11.878,,13,+2.636,66,2,9,07-spain,,1:29:09.818,,pirelli,2023
+alpine,pierre-gasly,10,renault,+1:13.530,,10,+1.652,66,1,10,07-spain,,1:29:11.470,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+1:14.419,,PL,+0.889,66,,11,07-spain,,1:29:12.359,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1:15.416,,15,+0.997,66,,12,07-spain,,1:29:13.356,5.000,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+1 lap,,9,,65,,13,07-spain,,,,pirelli,2023
+alphatauri,nyck-de-vries,21,honda-rbpt,+1 lap,,14,,65,,14,07-spain,,,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1 lap,,7,,65,,15,07-spain,,,,pirelli,2023
+williams,alexander-albon,23,mercedes,+1 lap,,18,,65,,16,07-spain,,,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+1 lap,,3,,65,,17,07-spain,,,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1 lap,,17,,65,,18,07-spain,,,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1 lap,,16,,65,,19,07-spain,,,,pirelli,2023
+williams,logan-sargeant,2,mercedes,+1 lap,,PL,,65,,20,07-spain,,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,1,,70,25,1,08-canada,,1:33:58.348,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+9.570,,2,+9.570,70,18,2,08-canada,,1:34:07.918,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+14.168,,3,+4.598,70,15,3,08-canada,,1:34:12.516,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+18.648,,10,+4.480,70,12,4,08-canada,,1:34:16.996,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+21.540,,11,+2.892,70,10,5,08-canada,,1:34:19.888,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+51.028,,12,+29.488,70,9,6,08-canada,,1:34:49.376,,pirelli,2023
+williams,alexander-albon,23,mercedes,+1:00.813,,9,+9.785,70,6,7,08-canada,,1:34:59.161,,pirelli,2023
+alpine,esteban-ocon,31,renault,+1:01.692,,6,+0.879,70,4,8,08-canada,,1:35:00.040,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+1:04.402,,16,+2.710,70,2,9,08-canada,,1:35:02.750,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1:04.432,,14,+0.030,70,1,10,08-canada,,1:35:02.780,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+1:05.101,,8,+0.669,70,,11,08-canada,,1:35:03.449,,pirelli,2023
+alpine,pierre-gasly,10,renault,+1:05.249,,15,+0.148,70,,12,08-canada,,1:35:03.597,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+1:08.363,,7,+3.114,70,,13,08-canada,,1:35:06.711,5.000,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1:13.423,,19,+5.060,70,,14,08-canada,,1:35:11.771,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1 lap,,5,,69,,15,08-canada,,,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1 lap,,20,,69,,16,08-canada,,,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1 lap,,13,,69,,17,08-canada,,,,pirelli,2023
+alphatauri,nyck-de-vries,21,honda-rbpt,+1 lap,,17,,69,,18,08-canada,,,,pirelli,2023
+mercedes,george-russell,63,mercedes,,,4,,53,,DNF,08-canada,Brakes,,,pirelli,2023
+williams,logan-sargeant,2,mercedes,,,18,,6,,DNF,08-canada,Oil leak,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,1,,71,26,1,09-austria,,1:25:33.607,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+5.155,,2,+5.155,71,18,2,09-austria,,1:25:38.762,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+17.188,,15,+12.033,71,15,3,09-austria,,1:25:50.795,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+26.327,,4,+9.139,71,12,4,09-austria,,1:25:59.934,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+30.317,,7,+3.990,71,10,5,09-austria,,1:26:03.924,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+31.377,,3,+1.060,71,8,6,09-austria,,1:26:04.984,10.000,pirelli,2023
+mercedes,george-russell,63,mercedes,+48.403,,11,+17.026,71,6,7,09-austria,,1:26:22.010,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+49.196,,5,+0.793,71,4,8,09-austria,,1:26:22.803,10.000,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+59.043,,6,+9.847,71,2,9,09-austria,,1:26:32.650,,pirelli,2023
+alpine,pierre-gasly,10,renault,+1:07.667,,9,+8.624,71,1,10,09-austria,,1:26:41.274,10.000,pirelli,2023
+williams,alexander-albon,23,mercedes,+1:19.767,,10,+12.100,71,,11,09-austria,,1:26:53.374,10.000,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1 lap,,17,,70,,12,09-austria,,,,pirelli,2023
+williams,logan-sargeant,2,mercedes,+1 lap,,18,,70,,13,09-austria,,,15.000,pirelli,2023
+alpine,esteban-ocon,31,renault,+1 lap,,12,,70,,14,09-austria,,,30.000,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1 lap,,PL,,70,,15,09-austria,,,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+1 lap,,13,,70,,16,09-austria,,,,pirelli,2023
+alphatauri,nyck-de-vries,21,honda-rbpt,+1 lap,,PL,,70,,17,09-austria,,,20.000,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1 lap,,PL,,70,,18,09-austria,,,5.000,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1 lap,,16,,70,,19,09-austria,,,15.000,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,,,8,,12,,DNF,09-austria,Engine,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,1,,52,26,1,10-great-britain,,1:25:16.938,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+3.798,,2,+3.798,52,18,2,10-great-britain,,1:25:20.736,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+6.783,,7,+2.985,52,15,3,10-great-britain,,1:25:23.721,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+7.776,,3,+0.993,52,12,4,10-great-britain,,1:25:24.714,,pirelli,2023
+mercedes,george-russell,63,mercedes,+11.206,,6,+3.430,52,10,5,10-great-britain,,1:25:28.144,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+12.882,,15,+1.676,52,8,6,10-great-britain,,1:25:29.820,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+17.193,,9,+4.311,52,6,7,10-great-britain,,1:25:34.131,,pirelli,2023
+williams,alexander-albon,23,mercedes,+17.878,,8,+0.685,52,4,8,10-great-britain,,1:25:34.816,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+18.689,,4,+0.811,52,2,9,10-great-britain,,1:25:35.627,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+19.448,,5,+0.759,52,1,10,10-great-britain,,1:25:36.386,,pirelli,2023
+williams,logan-sargeant,2,mercedes,+23.632,,14,+4.184,52,,11,10-great-britain,,1:25:40.570,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+25.830,,20,+2.198,52,,12,10-great-britain,,1:25:42.768,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+26.663,,11,+0.833,52,,13,10-great-britain,,1:25:43.601,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+27.483,,12,+0.820,52,,14,10-great-britain,,1:25:44.421,5.000,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+29.820,,17,+2.337,52,,15,10-great-britain,,1:25:46.758,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+31.225,,16,+1.405,52,,16,10-great-britain,,1:25:48.163,,pirelli,2023
+alphatauri,nyck-de-vries,21,honda-rbpt,+33.128,,18,+1.903,52,,17,10-great-britain,,1:25:50.066,,pirelli,2023
+alpine,pierre-gasly,10,renault,,,10,,46,,18,10-great-britain,Collision,,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,,,19,,31,,DNF,10-great-britain,Engine,,,pirelli,2023
+alpine,esteban-ocon,31,renault,,,13,,9,,DNF,10-great-britain,Oil leak,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,2,,70,26,1,11-hungary,,1:38:08.634,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+33.731,,3,+33.731,70,18,2,11-hungary,,1:38:42.365,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+37.603,,9,+3.872,70,15,3,11-hungary,,1:38:46.237,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+39.134,,1,+1.531,70,12,4,11-hungary,,1:38:47.768,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+1:02.572,,4,+23.438,70,10,5,11-hungary,,1:39:11.206,,pirelli,2023
+mercedes,george-russell,63,mercedes,+1:05.825,,18,+3.253,70,8,6,11-hungary,,1:39:14.459,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+1:10.317,,6,+4.492,70,6,7,11-hungary,,1:39:18.951,5.000,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+1:11.073,,11,+0.756,70,4,8,11-hungary,,1:39:19.707,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+1:15.709,,8,+4.636,70,2,9,11-hungary,,1:39:24.343,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+1 lap,,14,,69,1,10,11-hungary,,,,pirelli,2023
+williams,alexander-albon,23,mercedes,+1 lap,,16,,69,,11,11-hungary,,,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1 lap,,7,,69,,12,11-hungary,,,,pirelli,2023
+alphatauri,daniel-ricciardo,3,honda-rbpt,+1 lap,,13,,69,,13,11-hungary,,,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1 lap,,10,,69,,14,11-hungary,,,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1 lap,,17,,69,,15,11-hungary,,,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1 lap,,5,,69,,16,11-hungary,,,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1 lap,,19,,69,,17,11-hungary,,,,pirelli,2023
+williams,logan-sargeant,2,mercedes,,,20,,67,,18,11-hungary,Withdrew,,,pirelli,2023
+alpine,esteban-ocon,31,renault,,,12,,2,,DNF,11-hungary,Collision,,,pirelli,2023
+alpine,pierre-gasly,10,renault,,,15,,1,,DNF,11-hungary,Collision,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,6,,44,25,1,12-belgium,,1:22:30.450,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+22.305,,2,+22.305,44,18,2,12-belgium,,1:22:52.755,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+32.259,,1,+9.954,44,15,3,12-belgium,,1:23:02.709,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+49.671,,3,+17.412,44,13,4,12-belgium,,1:23:20.121,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+56.184,,9,+6.513,44,10,5,12-belgium,,1:23:26.634,,pirelli,2023
+mercedes,george-russell,63,mercedes,+1:03.101,,8,+6.917,44,8,6,12-belgium,,1:23:33.551,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+1:13.719,,7,+10.618,44,6,7,12-belgium,,1:23:44.169,,pirelli,2023
+alpine,esteban-ocon,31,renault,+1:14.719,,14,+1.000,44,4,8,12-belgium,,1:23:45.169,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+1:19.340,,10,+4.621,44,2,9,12-belgium,,1:23:49.790,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1:20.221,,11,+0.881,44,1,10,12-belgium,,1:23:50.671,,pirelli,2023
+alpine,pierre-gasly,10,renault,+1:23.084,,12,+2.863,44,,11,12-belgium,,1:23:53.534,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1:25.191,,13,+2.107,44,,12,12-belgium,,1:23:55.641,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1:35.441,,17,+10.250,44,,13,12-belgium,,1:24:05.891,,pirelli,2023
+williams,alexander-albon,23,mercedes,+1:36.184,,15,+0.743,44,,14,12-belgium,,1:24:06.634,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1:41.754,,16,+5.570,44,,15,12-belgium,,1:24:12.204,,pirelli,2023
+alphatauri,daniel-ricciardo,3,honda-rbpt,+1:43.071,,19,+1.317,44,,16,12-belgium,,1:24:13.521,,pirelli,2023
+williams,logan-sargeant,2,mercedes,+1:44.476,,18,+1.405,44,,17,12-belgium,,1:24:14.926,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1:50.450,,PL,+5.974,44,,18,12-belgium,,1:24:20.900,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,,,4,,23,,DNF,12-belgium,Collision damage,,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,,,5,,0,,DNF,12-belgium,Collision damage,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,1,,72,25,1,13-netherlands,,2:24:04.411,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+3.744,,5,+3.744,72,19,2,13-netherlands,,2:24:08.155,,pirelli,2023
+alpine,pierre-gasly,10,renault,+7.058,,12,+3.314,72,15,3,13-netherlands,,2:24:11.469,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+10.068,,7,+3.010,72,12,4,13-netherlands,,2:24:14.479,5.000,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+12.541,,6,+2.473,72,10,5,13-netherlands,,2:24:16.952,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+13.209,,13,+0.668,72,8,6,13-netherlands,,2:24:17.620,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+13.232,,2,+0.023,72,6,7,13-netherlands,,2:24:17.643,,pirelli,2023
+williams,alexander-albon,23,mercedes,+15.155,,4,+1.923,72,4,8,13-netherlands,,2:24:19.566,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+16.580,,8,+1.425,72,2,9,13-netherlands,,2:24:20.991,,pirelli,2023
+alpine,esteban-ocon,31,renault,+18.346,,16,+1.766,72,1,10,13-netherlands,,2:24:22.757,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+20.087,,11,+1.741,72,,11,13-netherlands,,2:24:24.498,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+20.840,,14,+0.753,72,,12,13-netherlands,,2:24:25.251,,pirelli,2023
+alphatauri,liam-lawson,40,honda-rbpt,+26.147,,19,+5.307,72,,13,13-netherlands,,2:24:30.558,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+27.388,,18,+1.241,72,,14,13-netherlands,,2:24:31.799,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+29.893,,17,+2.505,72,,15,13-netherlands,,2:24:34.304,5.000,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+31.410,,PL,+1.517,72,,16,13-netherlands,,2:24:35.821,5.000,pirelli,2023
+mercedes,george-russell,63,mercedes,+55.754,,3,+24.344,72,,17,13-netherlands,,2:25:00.165,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,,,15,,62,,DNF,13-netherlands,Accident,,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,,,9,,41,,DNF,13-netherlands,Undertray,,,pirelli,2023
+williams,logan-sargeant,2,mercedes,,,10,,14,,DNF,13-netherlands,Hydraulics,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,2,,51,25,1,14-italy,,1:13:41.143,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+6.064,,5,+6.064,51,18,2,14-italy,,1:13:47.207,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+11.193,,1,+5.129,51,15,3,14-italy,,1:13:52.336,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+11.377,,3,+0.184,51,12,4,14-italy,,1:13:52.520,,pirelli,2023
+mercedes,george-russell,63,mercedes,+23.028,,4,+11.651,51,10,5,14-italy,,1:14:04.171,5.000,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+42.679,,8,+19.651,51,8,6,14-italy,,1:14:23.822,5.000,pirelli,2023
+williams,alexander-albon,23,mercedes,+45.106,,6,+2.427,51,6,7,14-italy,,1:14:26.249,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+45.449,,9,+0.343,51,4,8,14-italy,,1:14:26.592,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+46.294,,10,+0.845,51,2,9,14-italy,,1:14:27.437,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1:04.056,,14,+17.762,51,1,10,14-italy,,1:14:45.199,,pirelli,2023
+alphatauri,liam-lawson,40,honda-rbpt,+1:10.638,,12,+6.582,51,,11,14-italy,,1:14:51.781,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+1:13.074,,7,+2.436,51,,12,14-italy,,1:14:54.217,5.000,pirelli,2023
+williams,logan-sargeant,2,mercedes,+1:18.557,,15,+5.483,51,,13,14-italy,,1:14:59.700,5.000,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1:20.164,,16,+1.607,51,,14,14-italy,,1:15:01.307,,pirelli,2023
+alpine,pierre-gasly,10,renault,+1:22.510,,17,+2.346,51,,15,14-italy,,1:15:03.653,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+1:27.266,,20,+4.756,51,,16,14-italy,,1:15:08.409,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1 lap,,13,,50,,17,14-italy,,,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1 lap,,19,,50,,18,14-italy,,,,pirelli,2023
+alpine,esteban-ocon,31,renault,,,18,,39,,DNF,14-italy,Steering,,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,,,,,,,DNS,14-italy,Engine,,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,,,1,,62,25,1,15-singapore,,1:46:37.418,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+0.812,,4,+0.812,62,18,2,15-singapore,,1:46:38.230,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+1.269,,5,+0.457,62,16,3,15-singapore,,1:46:38.687,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+21.177,,3,+19.908,62,12,4,15-singapore,,1:46:58.595,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,+21.441,,11,+0.264,62,10,5,15-singapore,,1:46:58.859,,pirelli,2023
+alpine,pierre-gasly,10,renault,+38.441,,12,+17.000,62,8,6,15-singapore,,1:47:15.859,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+41.479,,17,+3.038,62,6,7,15-singapore,,1:47:18.897,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+54.534,,13,+13.055,62,4,8,15-singapore,,1:47:31.952,5.000,pirelli,2023
+alphatauri,liam-lawson,40,honda-rbpt,+1:05.918,,10,+11.384,62,2,9,15-singapore,,1:47:43.336,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1:12.116,,6,+6.198,62,1,10,15-singapore,,1:47:49.534,,pirelli,2023
+williams,alexander-albon,23,mercedes,+1:13.417,,14,+1.301,62,,11,15-singapore,,1:47:50.835,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1:23.649,,PL,+10.232,62,,12,15-singapore,,1:48:01.067,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1:26.201,,9,+2.552,62,,13,15-singapore,,1:48:03.619,,pirelli,2023
+williams,logan-sargeant,2,mercedes,+1:26.889,,18,+0.688,62,,14,15-singapore,,1:48:04.307,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+1:27.603,,7,+0.714,62,,15,15-singapore,,1:48:05.021,,pirelli,2023
+mercedes,george-russell,63,mercedes,,,2,,61,,16,15-singapore,Accident,,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,,,16,,51,,DNF,15-singapore,Hydraulics,,,pirelli,2023
+alpine,esteban-ocon,31,renault,,,8,,42,,DNF,15-singapore,Gearbox,,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,,,15,,0,,DNF,15-singapore,Collision,,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,,,,,,,DNS,15-singapore,Accident in qualifying,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,1,,53,26,1,16-japan,,1:30:58.421,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+19.387,,3,+19.387,53,18,2,16-japan,,1:31:17.808,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+36.494,,2,+17.107,53,15,3,16-japan,,1:31:34.915,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+43.998,,4,+7.504,53,12,4,16-japan,,1:31:42.419,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+49.376,,7,+5.378,53,10,5,16-japan,,1:31:47.797,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+50.221,,6,+0.845,53,8,6,16-japan,,1:31:48.642,,pirelli,2023
+mercedes,george-russell,63,mercedes,+57.659,,8,+7.438,53,6,7,16-japan,,1:31:56.080,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+1:14.725,,10,+17.066,53,4,8,16-japan,,1:32:13.146,,pirelli,2023
+alpine,esteban-ocon,31,renault,+1:19.678,,14,+4.953,53,2,9,16-japan,,1:32:18.099,,pirelli,2023
+alpine,pierre-gasly,10,renault,+1:23.155,,12,+3.477,53,1,10,16-japan,,1:32:21.576,,pirelli,2023
+alphatauri,liam-lawson,40,honda-rbpt,+1 lap,,11,,52,,11,16-japan,,,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1 lap,,9,,52,,12,16-japan,,,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1 lap,,19,,52,,13,16-japan,,,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1 lap,,18,,52,,14,16-japan,,,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1 lap,,15,,52,,15,16-japan,,,,pirelli,2023
+williams,alexander-albon,23,mercedes,,,13,,26,,DNF,16-japan,Undertray,,,pirelli,2023
+williams,logan-sargeant,2,mercedes,,,20,,22,,DNF,16-japan,Undertray,,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,,,17,,20,,DNF,16-japan,Rear wing,,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,,,5,,15,,DNF,16-japan,Withdrew,,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,,,16,,7,,DNF,16-japan,Undertray,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,True,1,,57,26,1,17-qatar,,1:27:39.168,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+4.833,,6,+4.833,57,18,2,17-qatar,,1:27:44.001,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+5.969,,10,+1.136,57,15,3,17-qatar,,1:27:45.137,,pirelli,2023
+mercedes,george-russell,63,mercedes,+34.119,,2,+28.150,57,12,4,17-qatar,,1:28:13.287,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+38.976,,5,+4.857,57,10,5,17-qatar,,1:28:18.144,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+49.032,,4,+10.056,57,8,6,17-qatar,,1:28:28.200,,pirelli,2023
+alpine,esteban-ocon,31,renault,+1:02.390,,8,+13.358,57,6,7,17-qatar,,1:28:41.558,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1:06.563,,9,+4.173,57,4,8,17-qatar,,1:28:45.731,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1:16.127,,19,+9.564,57,2,9,17-qatar,,1:28:55.295,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+1:20.181,,20,+4.054,57,1,10,17-qatar,,1:28:59.349,5.000,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+1:21.652,,16,+1.471,57,,11,17-qatar,,1:29:00.820,10.000,pirelli,2023
+alpine,pierre-gasly,10,renault,+1:22.300,,7,+0.648,57,,12,17-qatar,,1:29:01.468,10.000,pirelli,2023
+williams,alexander-albon,23,mercedes,+1:31.014,,13,+8.714,57,,13,17-qatar,,1:29:10.182,10.000,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1 lap,,18,,56,,14,17-qatar,,,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1 lap,,11,,56,,15,17-qatar,,,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1 lap,,12,,56,,16,17-qatar,,,,pirelli,2023
+alphatauri,liam-lawson,40,honda-rbpt,+1 lap,,17,,56,,17,17-qatar,,,,pirelli,2023
+williams,logan-sargeant,2,mercedes,,,15,,40,,DNF,17-qatar,Unwell,,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,,,3,,0,,DNF,17-qatar,Collision,,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,,,,,,,DNS,17-qatar,Fuel leak,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,6,,56,25,1,18-united-states,,1:35:21.362,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+10.730,,2,+8.505,56,18,2,18-united-states,,1:35:32.092,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+15.134,,4,+4.404,56,15,3,18-united-states,,1:35:36.496,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+18.460,,9,+3.326,56,12,4,18-united-states,,1:35:39.822,,pirelli,2023
+mercedes,george-russell,63,mercedes,+24.999,,5,+0.337,56,10,5,18-united-states,,1:35:46.361,,pirelli,2023
+alpine,pierre-gasly,10,renault,+47.996,,7,+22.997,56,8,6,18-united-states,,1:36:09.358,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+48.696,,PL,+0.700,56,6,7,18-united-states,,1:36:10.058,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1:14.385,,11,+25.689,56,5,8,18-united-states,,1:36:35.747,,pirelli,2023
+williams,alexander-albon,23,mercedes,+1:26.714,,15,+12.329,56,2,9,18-united-states,,1:36:48.076,5.000,pirelli,2023
+williams,logan-sargeant,2,mercedes,+1:27.998,,16,+1.284,56,1,10,18-united-states,,1:36:49.360,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1:29.904,,PL,+1.906,56,,11,18-united-states,,1:36:51.266,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1:38.601,,13,+8.697,56,,12,18-united-states,,1:36:59.963,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1 lap,,12,,55,,13,18-united-states,,,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1 lap,,PL,,55,,14,18-united-states,,,,pirelli,2023
+alphatauri,daniel-ricciardo,3,honda-rbpt,+1 lap,,14,,55,,15,18-united-states,,,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,,,PL,,49,,DNF,18-united-states,Undertray,,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,,,10,,10,,DNF,18-united-states,Collision damage,,,pirelli,2023
+alpine,esteban-ocon,31,renault,,,8,,6,,DNF,18-united-states,Collision damage,,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+2.225,,3,,56,,DSQ,18-united-states,Illegal skid block wear,1:35:23.587,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+24.662,,1,,56,,DSQ,18-united-states,Illegal skid block wear,1:35:46.024,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,3,,71,25,1,19-mexico,,2:02:30.814,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+13.875,,6,+13.875,71,19,2,19-mexico,,2:02:44.689,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+23.124,,1,+9.249,71,15,3,19-mexico,,2:02:53.938,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+27.154,,2,+4.030,71,12,4,19-mexico,,2:02:57.968,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+33.266,,17,+6.112,71,10,5,19-mexico,,2:03:04.080,,pirelli,2023
+mercedes,george-russell,63,mercedes,+41.020,,8,+7.754,71,8,6,19-mexico,,2:03:11.834,,pirelli,2023
+alphatauri,daniel-ricciardo,3,honda-rbpt,+41.570,,4,+0.550,71,6,7,19-mexico,,2:03:12.384,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+43.104,,7,+1.534,71,4,8,19-mexico,,2:03:13.918,,pirelli,2023
+williams,alexander-albon,23,mercedes,+48.573,,14,+5.469,71,2,9,19-mexico,,2:03:19.387,,pirelli,2023
+alpine,esteban-ocon,31,renault,+1:02.879,,15,+14.306,71,1,10,19-mexico,,2:03:33.693,,pirelli,2023
+alpine,pierre-gasly,10,renault,+1:06.208,,11,+3.329,71,,11,19-mexico,,2:03:37.022,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1:18.982,,18,+12.774,71,,12,19-mexico,,2:03:49.796,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1:20.309,,12,+1.327,71,,13,19-mexico,,2:03:51.123,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1:21.676,,10,+1.367,71,,14,19-mexico,,2:03:52.490,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1:25.597,,9,+3.921,71,,15,19-mexico,,2:03:56.411,5.000,pirelli,2023
+williams,logan-sargeant,2,mercedes,,,19,,70,,16,19-mexico,Fuel pump,,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,,,PL,,66,,17,19-mexico,Collision damage,,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,,,13,,47,,DNF,19-mexico,Collision damage,,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,,,16,,31,,DNF,19-mexico,Accident,,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,,,5,,1,,DNF,19-mexico,Collision damage,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,1,,71,25,1,20-sao-paulo,,1:56:48.894,,pirelli,2023
+mclaren,lando-norris,4,mercedes,+8.277,,6,+8.277,71,19,2,20-sao-paulo,,1:56:57.171,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+34.155,,4,+25.878,71,15,3,20-sao-paulo,,1:57:23.049,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+34.208,,9,+0.053,71,12,4,20-sao-paulo,,1:57:23.102,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+40.845,,3,+6.637,71,10,5,20-sao-paulo,,1:57:29.739,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+50.188,,7,+9.343,71,8,6,20-sao-paulo,,1:57:39.082,,pirelli,2023
+alpine,pierre-gasly,10,renault,+56.093,,15,+5.905,71,6,7,20-sao-paulo,,1:57:44.987,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+1:02.859,,5,+6.766,71,4,8,20-sao-paulo,,1:57:51.753,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+1:09.880,,16,+7.021,71,2,9,20-sao-paulo,,1:57:58.774,,pirelli,2023
+alpine,esteban-ocon,31,renault,+1 lap,,14,,70,1,10,20-sao-paulo,,,,pirelli,2023
+williams,logan-sargeant,2,mercedes,+1 lap,,19,,70,,11,20-sao-paulo,,,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1 lap,,11,,70,,12,20-sao-paulo,,,,pirelli,2023
+alphatauri,daniel-ricciardo,3,honda-rbpt,+1 lap,,17,,70,,13,20-sao-paulo,,,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+2 laps,,10,,69,,14,20-sao-paulo,,,,pirelli,2023
+mercedes,george-russell,63,mercedes,,,8,,57,,DNF,20-sao-paulo,Overheating,,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,,,18,,39,,DNF,20-sao-paulo,Hydraulics,,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,,,20,,22,,DNF,20-sao-paulo,Engine,,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,,,12,,0,,DNF,20-sao-paulo,Collision,,,pirelli,2023
+williams,alexander-albon,23,mercedes,,,13,,0,,DNF,20-sao-paulo,Collision,,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,,,2,,,,DNS,20-sao-paulo,Hydraulics,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,2,,50,25,1,21-las-vegas,,1:29:08.289,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+2.070,,1,+2.070,50,18,2,21-las-vegas,,1:29:10.359,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+2.241,,11,+0.171,50,15,3,21-las-vegas,,1:29:10.530,,pirelli,2023
+alpine,esteban-ocon,31,renault,+18.665,,16,+16.424,50,12,4,21-las-vegas,,1:29:26.954,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+20.067,,19,+1.402,50,10,5,21-las-vegas,,1:29:28.356,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,+20.834,,12,+0.767,50,8,6,21-las-vegas,,1:29:29.123,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+21.755,,10,+0.921,50,6,7,21-las-vegas,,1:29:30.044,,pirelli,2023
+mercedes,george-russell,63,mercedes,+23.091,,3,+1.336,50,4,8,21-las-vegas,,1:29:31.380,5.000,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+25.964,,9,+2.873,50,2,9,21-las-vegas,,1:29:34.253,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+29.496,,18,+3.532,50,2,10,21-las-vegas,,1:29:37.785,,pirelli,2023
+alpine,pierre-gasly,10,renault,+34.270,,4,+4.774,50,,11,21-las-vegas,,1:29:42.559,,pirelli,2023
+williams,alexander-albon,23,mercedes,+43.398,,5,+9.128,50,,12,21-las-vegas,,1:29:51.687,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+44.825,,8,+1.427,50,,13,21-las-vegas,,1:29:53.114,,pirelli,2023
+alphatauri,daniel-ricciardo,3,honda-rbpt,+48.525,,14,+3.700,50,,14,21-las-vegas,,1:29:56.814,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+50.162,,17,+1.637,50,,15,21-las-vegas,,1:29:58.451,,pirelli,2023
+williams,logan-sargeant,2,mercedes,+50.882,,6,+0.720,50,,16,21-las-vegas,,1:29:59.171,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1:25.350,,7,+34.468,50,,17,21-las-vegas,,1:30:33.639,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,,,20,,46,,18,21-las-vegas,,,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,,,13,,45,,19,21-las-vegas,,,,pirelli,2023
+mclaren,lando-norris,4,mercedes,,,15,,2,,DNF,21-las-vegas,,,,pirelli,2023
+red-bull,max-verstappen,1,honda-rbpt,,,1,,58,26,1,22-abu-dhabi,,1:27:02.624,,pirelli,2023
+ferrari,charles-leclerc,16,ferrari,+17.993,,2,+17.993,58,18,2,22-abu-dhabi,,1:27:20.617,,pirelli,2023
+mercedes,george-russell,63,mercedes,+20.328,,4,+2.335,58,15,3,22-abu-dhabi,,1:27:22.952,,pirelli,2023
+red-bull,sergio-perez,11,honda-rbpt,+21.453,,9,+1.125,58,12,4,22-abu-dhabi,,1:27:24.077,5.000,pirelli,2023
+mclaren,lando-norris,4,mercedes,+24.284,,5,+2.831,58,10,5,22-abu-dhabi,,1:27:26.908,,pirelli,2023
+mclaren,oscar-piastri,81,mercedes,+31.487,,3,+7.203,58,8,6,22-abu-dhabi,,1:27:34.111,,pirelli,2023
+aston-martin,fernando-alonso,14,mercedes,+39.512,,7,+8.025,58,6,7,22-abu-dhabi,,1:27:42.136,,pirelli,2023
+alphatauri,yuki-tsunoda,22,honda-rbpt,+43.088,,6,+3.576,58,4,8,22-abu-dhabi,,1:27:45.712,,pirelli,2023
+mercedes,lewis-hamilton,44,mercedes,+44.424,,11,+1.336,58,2,9,22-abu-dhabi,,1:27:47.048,,pirelli,2023
+aston-martin,lance-stroll,18,mercedes,+55.632,,13,+11.208,58,1,10,22-abu-dhabi,,1:27:58.256,,pirelli,2023
+alphatauri,daniel-ricciardo,3,honda-rbpt,+56.229,,15,+0.597,58,,11,22-abu-dhabi,,1:27:58.853,,pirelli,2023
+alpine,esteban-ocon,31,renault,+1:06.373,,12,+10.144,58,,12,22-abu-dhabi,,1:28:08.997,,pirelli,2023
+alpine,pierre-gasly,10,renault,+1:10.360,,10,+3.987,58,,13,22-abu-dhabi,,1:28:12.984,,pirelli,2023
+williams,alexander-albon,23,mercedes,+1:13.184,,14,+2.824,58,,14,22-abu-dhabi,,1:28:15.808,,pirelli,2023
+haas,nico-hulkenberg,27,ferrari,+1:23.696,,8,+10.512,58,,15,22-abu-dhabi,,1:28:26.320,,pirelli,2023
+williams,logan-sargeant,2,mercedes,+1:27.791,,20,+4.095,58,,16,22-abu-dhabi,,1:28:30.415,,pirelli,2023
+alfa-romeo,guanyu-zhou,24,ferrari,+1:29.422,,19,+1.631,58,,17,22-abu-dhabi,,1:28:32.046,,pirelli,2023
+ferrari,carlos-sainz-jr,55,ferrari,,,16,,57,,18,22-abu-dhabi,Engine,,,pirelli,2023
+alfa-romeo,valtteri-bottas,77,ferrari,+1 lap,,18,,57,,19,22-abu-dhabi,,,,pirelli,2023
+haas,kevin-magnussen,20,ferrari,+1 lap,,17,,57,,20,22-abu-dhabi,,,,pirelli,2023

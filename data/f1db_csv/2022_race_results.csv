@@ -1,0 +1,441 @@
+constructorId,driverId,driverNumber,engineManufacturerId,gap,grandSlam,gridPosition,interval,laps,points,position,race,reasonRetired,time,timePenalty,tyreManufacturerId,year
+ferrari,charles-leclerc,16,ferrari,,,1,,57,26,1,01-bahrain,,1:37:33.584,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+5.598,,3,+5.598,57,18,2,01-bahrain,,1:37:39.182,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+9.675,,5,+4.077,57,15,3,01-bahrain,,1:37:43.259,,pirelli,2022
+mercedes,george-russell,63,mercedes,+11.211,,9,+1.536,57,12,4,01-bahrain,,1:37:44.795,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+14.754,,7,+3.543,57,10,5,01-bahrain,,1:37:48.338,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+16.119,,6,+1.365,57,8,6,01-bahrain,,1:37:49.703,,pirelli,2022
+alpine,esteban-ocon,31,renault,+19.423,,11,+3.304,57,6,7,01-bahrain,,1:37:53.007,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+20.386,,16,+0.963,57,4,8,01-bahrain,,1:37:53.970,,pirelli,2022
+alpine,fernando-alonso,14,renault,+22.390,,8,+2.004,57,2,9,01-bahrain,,1:37:55.974,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+23.064,,15,+0.674,57,1,10,01-bahrain,,1:37:56.648,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+32.574,,12,+9.510,57,,11,01-bahrain,,1:38:06.158,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+45.873,,19,+13.299,57,,12,01-bahrain,,1:38:19.457,,pirelli,2022
+williams,alexander-albon,23,mercedes,+53.932,,14,+8.059,57,,13,01-bahrain,,1:38:27.516,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+54.975,,18,+1.043,57,,14,01-bahrain,,1:38:28.559,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+56.335,,13,+1.360,57,,15,01-bahrain,,1:38:29.919,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+1:01.795,,20,+5.460,57,,16,01-bahrain,,1:38:35.379,,pirelli,2022
+aston-martin,nico-hulkenberg,27,mercedes,+1:03.829,,17,+2.034,57,,17,01-bahrain,,1:38:37.413,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,,,4,,56,,18,01-bahrain,Fuel system,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,2,,54,,19,01-bahrain,Fuel system,,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,,,10,,44,,DNF,01-bahrain,Power unit,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,4,,50,25,1,02-saudi-arabia,,1:24:19.293,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+0.549,,2,+0.549,50,19,2,02-saudi-arabia,,1:24:19.842,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+8.097,,3,+7.548,50,15,3,02-saudi-arabia,,1:24:27.390,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+10.800,,1,+2.703,50,12,4,02-saudi-arabia,,1:24:30.093,,pirelli,2022
+mercedes,george-russell,63,mercedes,+32.732,,6,+21.932,50,10,5,02-saudi-arabia,,1:24:52.025,,pirelli,2022
+alpine,esteban-ocon,31,renault,+56.017,,5,+23.285,50,8,6,02-saudi-arabia,,1:25:15.310,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+56.124,,11,+0.107,50,6,7,02-saudi-arabia,,1:25:15.417,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1:02.946,,9,+6.822,50,4,8,02-saudi-arabia,,1:25:22.239,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+1:04.308,,10,+1.362,50,2,9,02-saudi-arabia,,1:25:23.601,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+1:13.948,,15,+9.640,50,1,10,02-saudi-arabia,,1:25:33.241,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+1:22.215,,12,+8.267,50,,11,02-saudi-arabia,,1:25:41.508,,pirelli,2022
+aston-martin,nico-hulkenberg,27,mercedes,+1:31.742,,17,+9.527,50,,12,02-saudi-arabia,,1:25:51.035,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+1 lap,,13,,49,,13,02-saudi-arabia,,,,pirelli,2022
+williams,alexander-albon,23,mercedes,,,16,,47,,14,02-saudi-arabia,Collision damage,,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,,,8,,36,,DNF,02-saudi-arabia,Cooling system,,,pirelli,2022
+alpine,fernando-alonso,14,renault,,,7,,35,,DNF,02-saudi-arabia,Water pressure,,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,,,14,,35,,DNF,02-saudi-arabia,Gearbox,,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,,,18,,14,,DNF,02-saudi-arabia,Accident,,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,,,,,,,DNS,02-saudi-arabia,Power unit,,,pirelli,2022
+haas,mick-schumacher,47,ferrari,,,,,,,DNS,02-saudi-arabia,Accident in qualifying,,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,,,1,,58,26,1,03-australia,,1:27:46.548,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+20.524,,3,+20.524,58,18,2,03-australia,,1:28:07.072,,pirelli,2022
+mercedes,george-russell,63,mercedes,+25.593,,6,+5.069,58,15,3,03-australia,,1:28:12.141,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+28.543,,5,+2.950,58,12,4,03-australia,,1:28:15.091,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+53.303,,4,+24.760,58,10,5,03-australia,,1:28:39.851,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+53.737,,7,+0.434,58,8,6,03-australia,,1:28:40.285,,pirelli,2022
+alpine,esteban-ocon,31,renault,+1:01.683,,8,+7.946,58,6,7,03-australia,,1:28:48.231,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+1:08.439,,12,+6.756,58,4,8,03-australia,,1:28:54.987,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1:16.221,,11,+7.782,58,2,9,03-australia,,1:29:02.769,,pirelli,2022
+williams,alexander-albon,23,mercedes,+1:19.382,,20,+3.161,58,1,10,03-australia,,1:29:05.930,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+1:21.695,,14,+2.313,58,,11,03-australia,,1:29:08.243,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+1:28.598,,19,+6.903,58,,12,03-australia,,1:29:15.146,5.000,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1 lap,,15,,57,,13,03-australia,,,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+1 lap,,16,,57,,14,03-australia,,,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+1 lap,,13,,57,,15,03-australia,,,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+1 lap,,18,,57,,16,03-australia,,,,pirelli,2022
+alpine,fernando-alonso,14,renault,+1 lap,,10,,57,,17,03-australia,,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,2,,38,,DNF,03-australia,Fuel leak,,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,,,17,,22,,DNF,03-australia,Accident,,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,,,9,,1,,DNF,03-australia,Spun off,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,True,1,,63,26,1,04-emilia-romagna,,1:32:07.986,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+16.527,,3,+16.527,63,18,2,04-emilia-romagna,,1:32:24.513,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+34.834,,5,+18.307,63,15,3,04-emilia-romagna,,1:32:42.820,,pirelli,2022
+mercedes,george-russell,63,mercedes,+42.506,,11,+7.672,63,12,4,04-emilia-romagna,,1:32:50.492,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+43.181,,7,+0.675,63,10,5,04-emilia-romagna,,1:32:51.167,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+56.072,,2,+12.891,63,8,6,04-emilia-romagna,,1:33:04.058,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+1:01.110,,12,+5.038,63,6,7,04-emilia-romagna,,1:33:09.096,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+1:10.892,,13,+9.782,63,4,8,04-emilia-romagna,,1:33:18.878,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+1:15.260,,8,+4.368,63,2,9,04-emilia-romagna,,1:33:23.246,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+1 lap,,15,,62,1,10,04-emilia-romagna,,,,pirelli,2022
+williams,alexander-albon,23,mercedes,+1 lap,,18,,62,,11,04-emilia-romagna,,,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1 lap,,17,,62,,12,04-emilia-romagna,,,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+1 lap,,14,,62,,13,04-emilia-romagna,,,,pirelli,2022
+alpine,esteban-ocon,31,renault,+1 lap,,16,,62,,14,04-emilia-romagna,,,5.000,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+1 lap,,PL,,62,,15,04-emilia-romagna,,,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+1 lap,,19,,62,,16,04-emilia-romagna,,,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1 lap,,10,,62,,17,04-emilia-romagna,,,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+1 lap,,6,,62,,18,04-emilia-romagna,,,,pirelli,2022
+alpine,fernando-alonso,14,renault,,,9,,6,,DNF,04-emilia-romagna,Collision damage,,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,,,4,,0,,DNF,04-emilia-romagna,Collision,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,3,,57,26,1,05-miami,,1:34:24.258,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+3.786,,1,+3.786,57,18,2,05-miami,,1:34:28.044,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+8.229,,2,+4.443,57,15,3,05-miami,,1:34:32.487,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+10.638,,4,+2.409,57,12,4,05-miami,,1:34:34.896,,pirelli,2022
+mercedes,george-russell,63,mercedes,+18.582,,12,+7.944,57,10,5,05-miami,,1:34:42.840,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+21.368,,6,+2.786,57,8,6,05-miami,,1:34:45.626,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+25.073,,5,+3.705,57,6,7,05-miami,,1:34:49.331,,pirelli,2022
+alpine,esteban-ocon,31,renault,+28.386,,20,+3.313,57,4,8,05-miami,,1:34:52.644,,pirelli,2022
+williams,alexander-albon,23,mercedes,+32.365,,18,+3.979,57,2,9,05-miami,,1:34:56.623,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+37.026,,PL,+4.661,57,1,10,05-miami,,1:35:01.284,,pirelli,2022
+alpine,fernando-alonso,14,renault,+37.128,,11,+0.102,57,,11,05-miami,,1:35:01.386,10.000,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+40.146,,9,+3.018,57,,12,05-miami,,1:35:04.404,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+40.902,,14,+0.756,57,,13,05-miami,,1:35:05.160,5.000,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+49.936,,19,+9.034,57,,14,05-miami,,1:35:14.194,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1:13.305,,15,+23.369,57,,15,05-miami,,1:35:37.563,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,,,16,,56,,16,05-miami,,,5.000,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,,,PL,,54,,17,05-miami,,,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,,,7,,45,,DNF,05-miami,,,,pirelli,2022
+mclaren,lando-norris,4,mercedes,,,8,,39,,DNF,05-miami,,,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,,,17,,6,,DNF,05-miami,,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,2,,66,25,1,06-spain,,1:37:20.475,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+13.072,,5,+13.072,66,19,2,06-spain,,1:37:33.547,,pirelli,2022
+mercedes,george-russell,63,mercedes,+32.927,,4,+19.855,66,15,3,06-spain,,1:37:53.402,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+45.208,,3,+12.281,66,12,4,06-spain,,1:38:05.683,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+54.534,,6,+9.326,66,10,5,06-spain,,1:38:15.009,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+59.976,,7,+5.442,66,8,6,06-spain,,1:38:20.451,,pirelli,2022
+alpine,esteban-ocon,31,renault,+1:15.397,,12,+15.421,66,6,7,06-spain,,1:38:35.872,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+1:23.235,,11,+7.838,66,4,8,06-spain,,1:38:43.710,,pirelli,2022
+alpine,fernando-alonso,14,renault,+1 lap,,20,,65,2,9,06-spain,,,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+1 lap,,13,,65,1,10,06-spain,,,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,16,,65,,11,06-spain,,,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+1 lap,,9,,65,,12,06-spain,,,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1 lap,,14,,65,,13,06-spain,,,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1 lap,,10,,65,,14,06-spain,,,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+1 lap,,17,,65,,15,06-spain,,,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+2 laps,,19,,64,,16,06-spain,,,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+2 laps,,8,,64,,17,06-spain,,,,pirelli,2022
+williams,alexander-albon,23,mercedes,+2 laps,,18,,64,,18,06-spain,,,5.000,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,,,15,,28,,DNF,06-spain,Power loss,,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,,,1,,27,,DNF,06-spain,Turbo,,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,,,3,,64,25,1,07-monaco,,1:56:30.265,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+1.154,,2,+1.154,64,18,2,07-monaco,,1:56:31.419,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,+1.491,,4,+0.337,64,15,3,07-monaco,,1:56:31.756,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+2.922,,1,+1.431,64,12,4,07-monaco,,1:56:33.187,,pirelli,2022
+mercedes,george-russell,63,mercedes,+11.968,,6,+9.046,64,10,5,07-monaco,,1:56:42.233,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+12.231,,5,+0.263,64,9,6,07-monaco,,1:56:42.496,,pirelli,2022
+alpine,fernando-alonso,14,renault,+46.358,,7,+34.127,64,6,7,07-monaco,,1:57:16.623,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+50.388,,8,+4.030,64,4,8,07-monaco,,1:57:20.653,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+52.525,,12,+2.137,64,2,9,07-monaco,,1:57:22.790,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+53.536,,9,+1.011,64,1,10,07-monaco,,1:57:23.801,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+54.289,,17,+0.753,64,,11,07-monaco,,1:57:24.554,,pirelli,2022
+alpine,esteban-ocon,31,renault,+55.644,,10,+1.355,64,,12,07-monaco,,1:57:25.909,5.000,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+57.635,,14,+1.991,64,,13,07-monaco,,1:57:27.900,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+1:00.802,,18,+3.167,64,,14,07-monaco,,1:57:31.067,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+1 lap,,19,,63,,15,07-monaco,,,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+1 lap,,20,,63,,16,07-monaco,,,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+1 lap,,11,,63,,17,07-monaco,,,,pirelli,2022
+williams,alexander-albon,23,mercedes,,,16,,48,,DNF,07-monaco,Mechanical,,5.000,pirelli,2022
+haas,mick-schumacher,47,ferrari,,,15,,24,,DNF,07-monaco,Accident,,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,,,13,,19,,DNF,07-monaco,Water pressure,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,3,,51,25,1,08-azerbaijan,,1:34:05.941,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+20.823,,2,+20.823,51,19,2,08-azerbaijan,,1:34:26.764,,pirelli,2022
+mercedes,george-russell,63,mercedes,+45.995,,5,+25.172,51,15,3,08-azerbaijan,,1:34:51.936,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+1:11.679,,7,+25.684,51,12,4,08-azerbaijan,,1:35:17.620,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1:17.299,,6,+5.620,51,10,5,08-azerbaijan,,1:35:23.240,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+1:24.099,,9,+6.800,51,8,6,08-azerbaijan,,1:35:30.040,,pirelli,2022
+alpine,fernando-alonso,14,renault,+1:28.596,,10,+4.497,51,6,7,08-azerbaijan,,1:35:34.537,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+1:32.207,,12,+3.611,51,4,8,08-azerbaijan,,1:35:38.148,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+1:32.556,,11,+0.349,51,2,9,08-azerbaijan,,1:35:38.497,,pirelli,2022
+alpine,esteban-ocon,31,renault,+1:48.184,,13,+15.628,51,1,10,08-azerbaijan,,1:35:54.125,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+1 lap,,15,,50,,11,08-azerbaijan,,,,pirelli,2022
+williams,alexander-albon,23,mercedes,+1 lap,,17,,50,,12,08-azerbaijan,,,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+1 lap,,8,,50,,13,08-azerbaijan,,,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1 lap,,20,,50,,14,08-azerbaijan,,,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+1 lap,,18,,50,,15,08-azerbaijan,,,5.000,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,,,19,,46,,16,08-azerbaijan,Vibrations,,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,,,16,,31,,DNF,08-azerbaijan,Power unit,,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,,,14,,23,,DNF,08-azerbaijan,Hydraulics,,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,,,1,,21,,DNF,08-azerbaijan,Power unit,,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,,,4,,8,,DNF,08-azerbaijan,Hydraulics,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,1,,70,25,1,09-canada,,1:36:21.757,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+0.993,,3,+0.993,70,19,2,09-canada,,1:36:22.750,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+7.006,,4,+6.013,70,15,3,09-canada,,1:36:28.763,,pirelli,2022
+mercedes,george-russell,63,mercedes,+12.313,,8,+5.307,70,12,4,09-canada,,1:36:34.070,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+15.168,,19,+2.855,70,10,5,09-canada,,1:36:36.925,,pirelli,2022
+alpine,esteban-ocon,31,renault,+23.890,,7,+8.722,70,8,6,09-canada,,1:36:45.647,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+25.247,,11,+1.357,70,6,7,09-canada,,1:36:47.004,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+26.952,,10,+1.705,70,4,8,09-canada,,1:36:48.709,,pirelli,2022
+alpine,fernando-alonso,14,renault,+29.945,,2,+2.993,70,2,9,09-canada,,1:36:51.702,5.000,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+38.222,,17,+8.277,70,1,10,09-canada,,1:36:59.979,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+43.047,,9,+4.825,70,,11,09-canada,,1:37:04.804,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+44.245,,16,+1.198,70,,12,09-canada,,1:37:06.002,,pirelli,2022
+williams,alexander-albon,23,mercedes,+44.893,,12,+0.648,70,,13,09-canada,,1:37:06.650,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+45.183,,15,+0.290,70,,14,09-canada,,1:37:06.940,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+52.145,,14,+6.962,70,,15,09-canada,,1:37:13.902,5.000,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+59.978,,18,+7.833,70,,16,09-canada,,1:37:21.735,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+1:08.180,,5,+8.202,70,,17,09-canada,,1:37:29.937,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,,,20,,47,,DNF,09-canada,Accident,,,pirelli,2022
+haas,mick-schumacher,47,ferrari,,,6,,18,,DNF,09-canada,Hydraulics,,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,,,13,,7,,DNF,09-canada,Gearbox,,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,,,1,,52,25,1,10-great-britain,,2:17:50.311,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+3.779,,4,+3.779,52,18,2,10-great-britain,,2:17:54.090,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+6.225,,5,+2.446,52,16,3,10-great-britain,,2:17:56.536,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+8.546,,3,+2.321,52,12,4,10-great-britain,,2:17:58.857,,pirelli,2022
+alpine,fernando-alonso,14,renault,+9.571,,7,+1.025,52,10,5,10-great-britain,,2:17:59.882,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+11.943,,6,+2.372,52,8,6,10-great-britain,,2:18:02.254,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,+18.777,,2,+6.834,52,6,7,10-great-britain,,2:18:09.088,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+18.995,,19,+0.218,52,4,8,10-great-britain,,2:18:09.306,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+22.356,,18,+3.361,52,2,9,10-great-britain,,2:18:12.667,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+24.590,,17,+2.234,52,1,10,10-great-britain,,2:18:14.901,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+26.147,,20,+1.557,52,,11,10-great-britain,,2:18:16.458,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+32.511,,10,+6.364,52,,12,10-great-britain,,2:18:22.822,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+32.817,,14,+0.306,52,,13,10-great-britain,,2:18:23.128,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+40.910,,13,+8.093,52,,14,10-great-britain,,2:18:31.221,5.000,pirelli,2022
+alpine,esteban-ocon,31,renault,,,15,,37,,DNF,10-great-britain,Fuel pump,,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,,,11,,26,,DNF,10-great-britain,Collision damage,,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,,,12,,20,,DNF,10-great-britain,Gearbox,,,pirelli,2022
+mercedes,george-russell,63,mercedes,,,8,,0,,DNF,10-great-britain,Collision,,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,,,9,,0,,DNF,10-great-britain,Collision,,,pirelli,2022
+williams,alexander-albon,23,mercedes,,,16,,0,,DNF,10-great-britain,Collision,,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,,,2,,71,25,1,11-austria,,1:24:24.312,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,+1.532,,1,+1.532,71,19,2,11-austria,,1:24:25.844,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+41.217,,8,+39.685,71,15,3,11-austria,,1:25:05.529,,pirelli,2022
+mercedes,george-russell,63,mercedes,+58.972,,4,+17.755,71,12,4,11-austria,,1:25:23.284,,pirelli,2022
+alpine,esteban-ocon,31,renault,+1:08.436,,6,+9.464,71,10,5,11-austria,,1:25:32.748,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1 lap,,9,,70,8,6,11-austria,,,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+1 lap,,10,,70,6,7,11-austria,,,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+1 lap,,7,,70,4,8,11-austria,,,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+1 lap,,11,,70,2,9,11-austria,,,,pirelli,2022
+alpine,fernando-alonso,14,renault,+1 lap,,19,,70,1,10,11-austria,,,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+1 lap,,PL,,70,,11,11-austria,,,,pirelli,2022
+williams,alexander-albon,23,mercedes,+1 lap,,15,,70,,12,11-austria,,,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+1 lap,,12,,70,,13,11-austria,,,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+1 lap,,13,,70,,14,11-austria,,,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1 lap,,14,,70,,15,11-austria,,,5.000,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+1 lap,,16,,70,,16,11-austria,,,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,18,,70,,17,11-austria,,,5.000,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,,,3,,56,,DNF,11-austria,Power unit,,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,,,17,,48,,DNF,11-austria,Undertray,,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,,,5,,24,,DNF,11-austria,Collision damage,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,2,,53,25,1,12-france,,1:30:02.112,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+10.587,,4,+10.587,53,18,2,12-france,,1:30:12.699,,pirelli,2022
+mercedes,george-russell,63,mercedes,+16.495,,6,+5.908,53,15,3,12-france,,1:30:18.607,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+17.310,,3,+0.815,53,12,4,12-france,,1:30:19.422,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+28.872,,19,+11.562,53,11,5,12-france,,1:30:30.984,,pirelli,2022
+alpine,fernando-alonso,14,renault,+42.879,,7,+14.007,53,8,6,12-france,,1:30:44.991,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+52.026,,5,+9.147,53,6,7,12-france,,1:30:54.138,,pirelli,2022
+alpine,esteban-ocon,31,renault,+56.959,,10,+4.933,53,4,8,12-france,,1:30:59.071,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+1:00.372,,9,+3.413,53,2,9,12-france,,1:31:02.484,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+1:02.549,,15,+2.177,53,1,10,12-france,,1:31:04.661,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+1:04.494,,12,+1.945,53,,11,12-france,,1:31:06.606,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1:05.448,,14,+0.954,53,,12,12-france,,1:31:07.560,,pirelli,2022
+williams,alexander-albon,23,mercedes,+1:08.565,,13,+3.117,53,,13,12-france,,1:31:10.677,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+1:16.666,,11,+8.101,53,,14,12-france,,1:31:18.778,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1:20.394,,17,+3.728,53,,15,12-france,,1:31:22.506,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+6 laps,,16,,47,,16,12-france,Power unit,,5.000,pirelli,2022
+williams,nicholas-latifi,6,mercedes,,,18,,40,,DNF,12-france,Collision damage,,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,,,20,,37,,DNF,12-france,Collision damage,,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,,,1,,17,,DNF,12-france,Accident,,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,,,8,,17,,DNF,12-france,Undertray,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,10,,70,25,1,13-hungary,,1:39:35.912,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+7.834,,7,+7.834,70,19,2,13-hungary,,1:39:43.746,,pirelli,2022
+mercedes,george-russell,63,mercedes,+12.337,,1,+4.503,70,15,3,13-hungary,,1:39:48.249,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+14.579,,2,+2.242,70,12,4,13-hungary,,1:39:50.491,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+15.688,,11,+1.109,70,10,5,13-hungary,,1:39:51.600,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+16.047,,3,+0.359,70,8,6,13-hungary,,1:39:51.959,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+1:18.300,,4,+1:02.253,70,6,7,13-hungary,,1:40:54.212,,pirelli,2022
+alpine,fernando-alonso,14,renault,+1 lap,,6,,69,4,8,13-hungary,,,,pirelli,2022
+alpine,esteban-ocon,31,renault,+1 lap,,5,,69,2,9,13-hungary,,,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,18,,69,1,10,13-hungary,,,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+1 lap,,14,,69,,11,13-hungary,,,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1 lap,,20,,69,,12,13-hungary,,,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+1 lap,,12,,69,,13,13-hungary,,,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1 lap,,15,,69,,14,13-hungary,,,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+1 lap,,9,,69,,15,13-hungary,,,5.000,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+1 lap,,13,,69,,16,13-hungary,,,,pirelli,2022
+williams,alexander-albon,23,mercedes,+1 lap,,17,,69,,17,13-hungary,,,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+1 lap,,19,,69,,18,13-hungary,,,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+2 laps,,16,,68,,19,13-hungary,,,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,,,8,,65,,20,13-hungary,Fuel system,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,14,,44,26,1,14-belgium,,1:25:52.894,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+17.841,,2,+17.841,44,18,2,14-belgium,,1:26:10.735,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+26.886,,1,+9.045,44,15,3,14-belgium,,1:26:19.780,,pirelli,2022
+mercedes,george-russell,63,mercedes,+29.140,,5,+2.254,44,12,4,14-belgium,,1:26:22.034,,pirelli,2022
+alpine,fernando-alonso,14,renault,+1:13.256,,3,+44.116,44,10,5,14-belgium,,1:27:06.150,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+1:14.936,,15,+1.680,44,8,6,14-belgium,,1:27:07.830,+5.000,pirelli,2022
+alpine,esteban-ocon,31,renault,+1:15.640,,16,+0.704,44,6,7,14-belgium,,1:27:08.534,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+1:18.107,,10,+2.467,44,4,8,14-belgium,,1:27:11.001,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1:32.181,,PL,+14.074,44,2,9,14-belgium,,1:27:25.075,,pirelli,2022
+williams,alexander-albon,23,mercedes,+1:41.900,,6,+9.719,44,1,10,14-belgium,,1:27:34.794,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+1:43.078,,9,+1.178,44,,11,14-belgium,,1:27:35.972,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+1:44.739,,17,+1.661,44,,12,14-belgium,,1:27:37.633,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+1:45.217,,20,+0.478,44,,13,14-belgium,,1:27:38.111,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+1:46.252,,18,+1.035,44,,14,14-belgium,,1:27:39.146,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+1:47.163,,7,+0.911,44,,15,14-belgium,,1:27:40.057,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+1 lap,,12,,43,,16,14-belgium,,,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1 lap,,19,,43,,17,14-belgium,,,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+1 lap,,11,,43,,18,14-belgium,,,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,,,13,,1,,DNF,14-belgium,Accident,,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,,,4,,0,,DNF,14-belgium,Collision damage,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,1,,72,26,1,15-netherlands,,1:36:42.773,,pirelli,2022
+mercedes,george-russell,63,mercedes,+4.071,,6,+4.071,72,18,2,15-netherlands,,1:36:46.844,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+10.929,,2,+6.858,72,15,3,15-netherlands,,1:36:53.702,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+13.016,,4,+2.087,72,12,4,15-netherlands,,1:36:55.789,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+18.168,,5,+5.152,72,10,5,15-netherlands,,1:37:00.941,,pirelli,2022
+alpine,fernando-alonso,14,renault,+18.754,,13,+0.586,72,8,6,15-netherlands,,1:37:01.527,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+19.306,,7,+0.552,72,6,7,15-netherlands,,1:37:02.079,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+20.916,,3,+1.610,72,4,8,15-netherlands,,1:37:03.689,5.000,pirelli,2022
+alpine,esteban-ocon,31,renault,+21.117,,12,+0.201,72,2,9,15-netherlands,,1:37:03.890,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+22.459,,10,+1.342,72,1,10,15-netherlands,,1:37:05.232,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+27.009,,11,+4.550,72,,11,15-netherlands,,1:37:09.782,,pirelli,2022
+williams,alexander-albon,23,mercedes,+30.390,,15,+3.381,72,,12,15-netherlands,,1:37:13.163,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+32.995,,8,+2.605,72,,13,15-netherlands,,1:37:15.768,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+36.007,,19,+3.012,72,,14,15-netherlands,,1:37:18.780,5.000,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+36.869,,18,+0.862,72,,15,15-netherlands,,1:37:19.642,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+37.320,,14,+0.451,72,,16,15-netherlands,,1:37:20.093,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+37.764,,17,+0.444,72,,17,15-netherlands,,1:37:20.537,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+1 lap,,20,,71,,18,15-netherlands,,,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,,,16,,53,,DNF,15-netherlands,Engine,,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,,,9,,43,,DNF,15-netherlands,Differential,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,7,,53,25,1,16-italy,,1:20:27.511,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+2.446,,1,+2.446,53,18,2,16-italy,,1:20:29.957,,pirelli,2022
+mercedes,george-russell,63,mercedes,+3.405,,2,+0.959,53,15,3,16-italy,,1:20:30.916,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+5.061,,18,+1.656,53,12,4,16-italy,,1:20:32.572,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+5.380,,19,+0.319,53,10,5,16-italy,,1:20:32.891,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+6.091,,13,+0.711,53,9,6,16-italy,,1:20:33.602,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+6.207,,3,+0.116,53,6,7,16-italy,,1:20:33.718,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+6.396,,5,+0.189,53,4,8,16-italy,,1:20:33.907,,pirelli,2022
+williams,nyck-de-vries,45,mercedes,+7.122,,8,+0.726,53,2,9,16-italy,,1:20:34.633,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+7.910,,9,+0.788,53,1,10,16-italy,,1:20:35.421,,pirelli,2022
+alpine,esteban-ocon,31,renault,+8.323,,14,+0.413,53,,11,16-italy,,1:20:35.834,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+8.549,,17,+0.226,53,,12,16-italy,,1:20:36.060,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+1 lap,,15,,52,,13,16-italy,,,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+1 lap,,20,,52,,14,16-italy,,,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+1 lap,,10,,52,,15,16-italy,,,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+1 lap,,16,,52,,16,16-italy,,,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,,,4,,45,,DNF,16-italy,Oil leak,,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,,,12,,39,,DNF,16-italy,Engine,,,pirelli,2022
+alpine,fernando-alonso,14,renault,,,6,,31,,DNF,16-italy,Water pressure,,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,,,11,,10,,DNF,16-italy,Engine,,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,,,2,,59,25,1,17-singapore,,2:02:20.238,5.000,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+2.595,,1,+2.595,59,18,2,17-singapore,,2:02:22.833,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+10.305,,4,+7.710,59,15,3,17-singapore,,2:02:30.543,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+21.133,,6,+10.828,59,12,4,17-singapore,,2:02:41.371,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+53.282,,16,+32.149,59,10,5,17-singapore,,2:03:13.520,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+56.330,,11,+3.048,59,8,6,17-singapore,,2:03:16.568,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,+58.825,,8,+2.495,59,6,7,17-singapore,,2:03:19.063,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+1:00.032,,13,+1.207,59,4,8,17-singapore,,2:03:20.270,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+1:01.515,,3,+1.483,59,2,9,17-singapore,,2:03:21.753,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1:09.576,,7,+8.061,59,1,10,17-singapore,,2:03:29.814,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+1:28.844,,15,+19.268,59,,11,17-singapore,,2:03:49.082,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+1:32.610,,9,+3.766,59,,12,17-singapore,,2:03:52.848,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1 lap,,12,,58,,13,17-singapore,,,,pirelli,2022
+mercedes,george-russell,63,mercedes,+2 laps,,PL,,57,,14,17-singapore,,,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,,,10,,34,,DNF,17-singapore,Accident,,,pirelli,2022
+alpine,esteban-ocon,31,renault,,,17,,26,,DNF,17-singapore,Engine,,,pirelli,2022
+williams,alexander-albon,23,mercedes,,,18,,25,,DNF,17-singapore,Collision damage,,,pirelli,2022
+alpine,fernando-alonso,14,renault,,,5,,20,,DNF,17-singapore,Engine,,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,,,19,,7,,DNF,17-singapore,Collision damage,,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,,,14,,6,,DNF,17-singapore,Collision,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,1,,28,25,1,18-japan,,3:01:44.004,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+27.066,,4,+27.066,28,18,2,18-japan,,3:02:11.070,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+31.763,,2,+4.697,28,15,3,18-japan,,3:02:15.767,5.000,pirelli,2022
+alpine,esteban-ocon,31,renault,+39.685,,5,+7.922,28,12,4,18-japan,,3:02:23.689,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+40.326,,6,+0.641,28,10,5,18-japan,,3:02:24.330,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+46.358,,9,+6.032,28,8,6,18-japan,,3:02:30.362,,pirelli,2022
+alpine,fernando-alonso,14,renault,+46.369,,7,+0.011,28,6,7,18-japan,,3:02:30.373,,pirelli,2022
+mercedes,george-russell,63,mercedes,+47.661,,8,+1.292,28,4,8,18-japan,,3:02:31.665,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+1:10.143,,19,+22.482,28,2,9,18-japan,,3:02:54.147,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+1:10.782,,10,+0.639,28,1,10,18-japan,,3:02:54.786,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+1:12.877,,11,+2.095,28,,11,18-japan,,3:02:56.881,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+1:13.904,,18,+1.027,28,,12,18-japan,,3:02:57.908,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+1:15.599,,13,+1.695,28,,13,18-japan,,3:02:59.603,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+1:26.016,,17,+10.417,28,,14,18-japan,,3:03:10.020,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+1:26.496,,12,+0.480,28,,15,18-japan,,3:03:10.500,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+1:27.043,,14,+0.547,28,,16,18-japan,,3:03:11.047,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1:32.523,,15,+5.480,28,,17,18-japan,,3:03:16.527,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1:48.091,,PL,+15.568,28,,18,18-japan,,3:03:32.095,20.000,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,,,3,,0,,DNF,18-japan,Accident,,,pirelli,2022
+williams,alexander-albon,23,mercedes,,,16,,0,,DNF,18-japan,Collision damage,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,2,,56,25,1,19-united-states,,1:42:11.687,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+5.023,,3,+5.023,56,18,2,19-united-states,,1:42:16.710,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+7.501,,12,+2.478,56,15,3,19-united-states,,1:42:19.188,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+8.293,,9,+0.792,56,12,4,19-united-states,,1:42:19.980,,pirelli,2022
+mercedes,george-russell,63,mercedes,+44.815,,4,+36.522,56,11,5,19-united-states,,1:42:56.502,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+53.785,,6,+8.970,56,8,6,19-united-states,,1:43:05.472,,pirelli,2022
+alpine,fernando-alonso,14,renault,+55.078,,14,+1.293,56,6,7,19-united-states,,1:43:06.765,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+1:05.354,,10,+10.276,56,4,8,19-united-states,,1:43:17.041,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+1:05.834,,13,+0.480,56,2,9,19-united-states,,1:43:17.521,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+1:10.919,,19,+5.085,56,1,10,19-united-states,,1:43:22.606,,pirelli,2022
+alpine,esteban-ocon,31,renault,+1:12.875,,PL,+1.956,56,,11,19-united-states,,1:43:24.562,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+1:16.164,,18,+3.289,56,,12,19-united-states,,1:43:27.851,,pirelli,2022
+williams,alexander-albon,23,mercedes,+1:20.057,,8,+3.893,56,,13,19-united-states,,1:43:31.744,5.000,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1:21.763,,11,+1.706,56,,14,19-united-states,,1:43:33.450,10.000,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1:24.490,,16,+2.727,56,,15,19-united-states,,1:43:36.177,5.000,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+1:30.487,,15,+5.997,56,,16,19-united-states,,1:43:42.174,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+1:43.588,,17,+13.101,56,,17,19-united-states,,1:43:55.275,5.000,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,,,5,,21,,DNF,19-united-states,Collision,,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,,,7,,16,,DNF,19-united-states,Spun off,,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,,,1,,1,,DNF,19-united-states,Collision damage,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,1,,71,25,1,20-mexico,,1:38:36.729,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+15.186,,3,+15.186,71,18,2,20-mexico,,1:38:51.915,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+18.097,,4,+2.911,71,15,3,20-mexico,,1:38:54.826,,pirelli,2022
+mercedes,george-russell,63,mercedes,+49.431,,2,+31.334,71,13,4,20-mexico,,1:39:26.160,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+58.123,,5,+8.692,71,10,5,20-mexico,,1:39:34.852,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+1:08.774,,7,+10.651,71,8,6,20-mexico,,1:39:45.503,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+1 lap,,11,,70,6,7,20-mexico,,,10.000,pirelli,2022
+alpine,esteban-ocon,31,renault,+1 lap,,10,,70,4,8,20-mexico,,,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+1 lap,,8,,70,2,9,20-mexico,,,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+1 lap,,6,,70,1,10,20-mexico,,,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1 lap,,14,,70,,11,20-mexico,,,,pirelli,2022
+williams,alexander-albon,23,mercedes,+1 lap,,17,,70,,12,20-mexico,,,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+1 lap,,12,,70,,13,20-mexico,,,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,16,,70,,14,20-mexico,,,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+1 lap,,20,,70,,15,20-mexico,,,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1 lap,,15,,70,,16,20-mexico,,,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+1 lap,,19,,70,,17,20-mexico,,,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+2 laps,,18,,69,,18,20-mexico,,,,pirelli,2022
+alpine,fernando-alonso,14,renault,,,9,,63,,19,20-mexico,Engine,,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,,,13,,50,,DNF,20-mexico,Collision damage,,,pirelli,2022
+mercedes,george-russell,63,mercedes,,,1,,71,26,1,21-sao-paulo,,1:38:34.044,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,+1.529,,2,+1.529,71,18,2,21-sao-paulo,,1:38:35.573,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+4.051,,7,+2.522,71,15,3,21-sao-paulo,,1:38:38.095,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+8.441,,5,+4.390,71,12,4,21-sao-paulo,,1:38:42.485,,pirelli,2022
+alpine,fernando-alonso,14,renault,+9.561,,17,+1.120,71,10,5,21-sao-paulo,,1:38:43.605,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,+10.056,,3,+0.495,71,8,6,21-sao-paulo,,1:38:44.100,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+14.080,,4,+4.024,71,6,7,21-sao-paulo,,1:38:48.124,,pirelli,2022
+alpine,esteban-ocon,31,renault,+18.690,,16,+4.610,71,4,8,21-sao-paulo,,1:38:52.734,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+22.552,,14,+3.862,71,2,9,21-sao-paulo,,1:38:56.596,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+23.552,,15,+1.000,71,1,10,21-sao-paulo,,1:38:57.596,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+26.183,,9,+2.631,71,,11,21-sao-paulo,,1:39:00.227,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+29.325,,13,+3.142,71,,12,21-sao-paulo,,1:39:03.369,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+29.899,,12,+0.574,71,,13,21-sao-paulo,,1:39:03.943,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+31.867,,10,+1.968,71,,14,21-sao-paulo,,1:39:05.911,5.000,pirelli,2022
+williams,alexander-albon,23,mercedes,+36.016,,19,+4.149,71,,15,21-sao-paulo,,1:39:10.060,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,+37.038,,18,+1.022,71,,16,21-sao-paulo,,1:39:11.082,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+1 lap,,PL,,70,,17,21-sao-paulo,,,,pirelli,2022
+mclaren,lando-norris,4,mercedes,,,6,,50,,DNF,21-sao-paulo,Gearbox,,,pirelli,2022
+haas,kevin-magnussen,20,ferrari,,,8,,0,,DNF,21-sao-paulo,Collision,,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,,,11,,0,,DNF,21-sao-paulo,Collision,,,pirelli,2022
+red-bull,max-verstappen,1,rbpt,,,1,,58,25,1,22-abu-dhabi,,1:27:45.914,,pirelli,2022
+ferrari,charles-leclerc,16,ferrari,+8.771,,3,+8.771,58,18,2,22-abu-dhabi,,1:27:54.685,,pirelli,2022
+red-bull,sergio-perez,11,rbpt,+10.093,,2,+1.322,58,15,3,22-abu-dhabi,,1:27:56.007,,pirelli,2022
+ferrari,carlos-sainz-jr,55,ferrari,+24.892,,4,+14.799,58,12,4,22-abu-dhabi,,1:28:10.806,,pirelli,2022
+mercedes,george-russell,63,mercedes,+35.888,,6,+10.996,58,10,5,22-abu-dhabi,,1:28:21.802,,pirelli,2022
+mclaren,lando-norris,4,mercedes,+56.234,,7,+20.346,58,9,6,22-abu-dhabi,,1:28:42.148,,pirelli,2022
+alpine,esteban-ocon,31,renault,+57.240,,8,+1.006,58,6,7,22-abu-dhabi,,1:28:43.154,,pirelli,2022
+aston-martin,lance-stroll,18,mercedes,+1:16.931,,14,+19.691,58,4,8,22-abu-dhabi,,1:29:02.845,,pirelli,2022
+mclaren,daniel-ricciardo,3,mercedes,+1:23.268,,13,+6.337,58,2,9,22-abu-dhabi,,1:29:09.182,,pirelli,2022
+aston-martin,sebastian-vettel,5,mercedes,+1:23.898,,9,+0.630,58,1,10,22-abu-dhabi,,1:29:09.812,,pirelli,2022
+alphatauri,yuki-tsunoda,22,rbpt,+1:29.371,,11,+5.473,58,,11,22-abu-dhabi,,1:29:15.285,,pirelli,2022
+alfa-romeo,guanyu-zhou,24,ferrari,+1 lap,,15,,57,,12,22-abu-dhabi,,,,pirelli,2022
+williams,alexander-albon,23,mercedes,+1 lap,,19,,57,,13,22-abu-dhabi,,,,pirelli,2022
+alphatauri,pierre-gasly,10,rbpt,+1 lap,,17,,57,,14,22-abu-dhabi,,,,pirelli,2022
+alfa-romeo,valtteri-bottas,77,ferrari,+1 lap,,18,,57,,15,22-abu-dhabi,,,,pirelli,2022
+haas,mick-schumacher,47,ferrari,+1 lap,,12,,57,,16,22-abu-dhabi,,,5.000,pirelli,2022
+haas,kevin-magnussen,20,ferrari,+1 lap,,16,,57,,17,22-abu-dhabi,,,,pirelli,2022
+mercedes,lewis-hamilton,44,mercedes,,,5,,55,,18,22-abu-dhabi,Gearbox,,,pirelli,2022
+williams,nicholas-latifi,6,mercedes,,,20,,55,,19,22-abu-dhabi,Collision damage,,,pirelli,2022
+alpine,fernando-alonso,14,renault,,,10,,27,,DNF,22-abu-dhabi,Water leak,,,pirelli,2022

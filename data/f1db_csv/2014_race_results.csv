@@ -1,0 +1,408 @@
+constructorId,driverId,driverNumber,engineManufacturerId,gap,grandSlam,gridPosition,interval,laps,points,position,race,reasonRetired,time,timePenalty,tyreManufacturerId,year
+mercedes,nico-rosberg,6,mercedes,,,3,,57,25,1,01-australia,,1:32:58.710,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+26.777,,4,+26.777,57,18,2,01-australia,,1:33:25.487,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+30.027,,10,+3.250,57,15,3,01-australia,,1:33:28.737,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+35.284,,5,+5.257,57,12,4,01-australia,,1:33:33.994,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+47.639,,15,+12.355,57,10,5,01-australia,,1:33:46.349,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+50.718,,7,+3.079,57,8,6,01-australia,,1:33:49.428,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+57.675,,11,+6.957,57,6,7,01-australia,,1:33:56.385,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+1:00.441,,6,+2.766,57,4,8,01-australia,,1:33:59.151,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+1:03.585,,8,+3.144,57,2,9,01-australia,,1:34:02.295,,pirelli,2014
+force-india,sergio-perez,11,mercedes,+1:25.916,,16,+22.331,57,1,10,01-australia,,1:34:24.626,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,+1 lap,,13,,56,,11,01-australia,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,+1 lap,,20,,56,,12,01-australia,,,,pirelli,2014
+marussia,max-chilton,4,ferrari,+2 laps,,PL,,55,,13,01-australia,,,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,+8 laps,,PL,,49,,NC,01-australia,,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,,,PL,,43,,DNF,01-australia,Power unit,,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,,,21,,29,,DNF,01-australia,Power unit,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,,,19,,27,,DNF,01-australia,Oil pressure,,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,,,12,,3,,DNF,01-australia,Power unit,,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,,1,,2,,DNF,01-australia,Power unit,,,pirelli,2014
+williams,felipe-massa,19,mercedes,,,9,,0,,DNF,01-australia,Collision,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,,,14,,0,,DNF,01-australia,Collision,,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+24.525,,2,,57,,DSQ,01-australia,Fuel,1:33:23.235,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,True,1,,56,25,1,02-malaysia,,1:40:25.974,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,+17.313,,3,+17.313,56,18,2,02-malaysia,,1:40:43.287,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+24.534,,2,+7.221,56,15,3,02-malaysia,,1:40:50.508,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+35.992,,4,+11.458,56,12,4,02-malaysia,,1:41:01.966,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+47.199,,7,+11.207,56,10,5,02-malaysia,,1:41:13.173,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+1:23.691,,10,+36.492,56,8,6,02-malaysia,,1:41:49.665,,pirelli,2014
+williams,felipe-massa,19,mercedes,+1:25.076,,13,+1.385,56,6,7,02-malaysia,,1:41:51.050,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+1:25.537,,18,+0.461,56,4,8,02-malaysia,,1:41:51.511,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1 lap,,8,,55,2,9,02-malaysia,,,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+1 lap,,11,,55,1,10,02-malaysia,,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,+1 lap,,15,,55,,11,02-malaysia,,,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+1 lap,,6,,55,,12,02-malaysia,,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,+1 lap,,20,,55,,13,02-malaysia,,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,+2 laps,,22,,54,,14,02-malaysia,,,,pirelli,2014
+marussia,max-chilton,4,ferrari,+2 laps,,21,,54,,15,02-malaysia,,,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,,,5,,49,,DNF,02-malaysia,Front wing,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,,,12,,35,,DNF,02-malaysia,Gearbox,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,,,17,,32,,DNF,02-malaysia,Power unit,,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,,,9,,18,,DNF,02-malaysia,Turbo,,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,,,19,,8,,DNF,02-malaysia,Brakes,,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,,,16,,7,,DNF,02-malaysia,Power unit,,,pirelli,2014
+force-india,sergio-perez,11,mercedes,,,14,,,,DNS,02-malaysia,,,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,,2,,57,25,1,03-bahrain,,1:39:42.743,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,+1.085,,1,+1.085,57,18,2,03-bahrain,,1:39:43.828,,pirelli,2014
+force-india,sergio-perez,11,mercedes,+24.067,,4,+22.982,57,15,3,03-bahrain,,1:40:06.810,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+24.489,,13,+0.422,57,12,4,03-bahrain,,1:40:07.232,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+28.654,,11,+4.165,57,10,5,03-bahrain,,1:40:11.397,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+29.879,,10,+1.225,57,8,6,03-bahrain,,1:40:12.622,,pirelli,2014
+williams,felipe-massa,19,mercedes,+31.265,,7,+1.386,57,6,7,03-bahrain,,1:40:14.008,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+31.876,,3,+0.611,57,4,8,03-bahrain,,1:40:14.619,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+32.595,,9,+0.719,57,2,9,03-bahrain,,1:40:15.338,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+33.462,,5,+0.867,57,1,10,03-bahrain,,1:40:16.205,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+41.342,,12,+7.880,57,,11,03-bahrain,,1:40:24.085,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,+43.143,,16,+1.801,57,,12,03-bahrain,,1:40:25.886,,pirelli,2014
+marussia,max-chilton,4,ferrari,+59.909,,21,+16.766,57,,13,03-bahrain,,1:40:42.652,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,+1:02.803,,17,+2.894,57,,14,03-bahrain,,1:40:45.546,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,+1:27.900,,18,+25.097,57,,15,03-bahrain,,1:41:10.643,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,+1 lap,,19,,56,,16,03-bahrain,,,,pirelli,2014
+mclaren,jenson-button,22,mercedes,,,6,,55,,17,03-bahrain,Clutch,,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,,,8,,40,,DNF,03-bahrain,Clutch,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,,,15,,39,,DNF,03-bahrain,Collision,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,,,20,,33,,DNF,03-bahrain,Oil leak,,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,,,14,,18,,DNF,03-bahrain,Collision damage,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,,,22,,17,,DNF,03-bahrain,Collision,,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,,1,,54,25,1,04-china,,1:33:28.338,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,+18.062,,4,+18.062,54,18,2,04-china,,1:33:46.400,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+23.604,,5,+5.542,54,15,3,04-china,,1:33:51.942,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+27.136,,2,+3.532,54,12,4,04-china,,1:33:55.474,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+47.778,,3,+20.642,54,10,5,04-china,,1:34:16.116,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+54.295,,8,+6.517,54,8,6,04-china,,1:34:22.633,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+55.697,,7,+1.402,54,6,7,04-china,,1:34:24.035,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+1:16.335,,11,+20.638,54,4,8,04-china,,1:34:44.673,,pirelli,2014
+force-india,sergio-perez,11,mercedes,+1:22.647,,16,+6.312,54,2,9,04-china,,1:34:50.985,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+1 lap,,13,,53,1,10,04-china,,,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+1 lap,,12,,53,,11,04-china,,,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+1 lap,,9,,53,,12,04-china,,,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1 lap,,15,,53,,13,04-china,,,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,+1 lap,,22,,53,,14,04-china,,,,pirelli,2014
+williams,felipe-massa,19,mercedes,+1 lap,,6,,53,,15,04-china,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,+1 lap,,17,,53,,16,04-china,,,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,+1 lap,,19,,53,,17,04-china,,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,+1 lap,,18,,53,,18,04-china,,,,pirelli,2014
+marussia,max-chilton,4,ferrari,+2 laps,,21,,52,,19,04-china,,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,+2 laps,,20,,52,,20,04-china,,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,,,10,,28,,DNF,04-china,Gearbox,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,,,14,,5,,DNF,04-china,Engine,,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,,1,,66,25,1,05-spain,,1:41:05.155,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,+0.636,,2,+0.636,66,18,2,05-spain,,1:41:05.791,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+49.014,,3,+48.378,66,15,3,05-spain,,1:41:54.169,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+1:16.702,,15,+27.688,66,12,4,05-spain,,1:42:21.857,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+1:19.293,,4,+2.591,66,10,5,05-spain,,1:42:24.448,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+1:27.743,,7,+8.450,66,8,6,05-spain,,1:42:32.898,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+1 lap,,6,,65,6,7,05-spain,,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,+1 lap,,5,,65,4,8,05-spain,,,,pirelli,2014
+force-india,sergio-perez,11,mercedes,+1 lap,,11,,65,2,9,05-spain,,,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+1 lap,,10,,65,1,10,05-spain,,,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+1 lap,,8,,65,,11,05-spain,,,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1 lap,,14,,65,,12,05-spain,,,,pirelli,2014
+williams,felipe-massa,19,mercedes,+1 lap,,9,,65,,13,05-spain,,,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+1 lap,,12,,65,,14,05-spain,,,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,+1 lap,,22,,65,,15,05-spain,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,+1 lap,,13,,65,,16,05-spain,,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,+1 lap,,16,,65,,17,05-spain,,,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,+2 laps,,18,,64,,18,05-spain,,,,pirelli,2014
+marussia,max-chilton,4,ferrari,+2 laps,,17,,64,,19,05-spain,,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,+2 laps,,19,,64,,20,05-spain,,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,,,20,,34,,DNF,05-spain,Brakes,,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,,,21,,24,,DNF,05-spain,Exhaust,,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,,,1,,78,25,1,06-monaco,,1:49:27.661,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,+9.210,,2,+9.210,78,18,2,06-monaco,,1:49:36.871,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+9.614,,3,+0.404,78,15,3,06-monaco,,1:49:37.275,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+32.452,,5,+22.838,78,12,4,06-monaco,,1:50:00.113,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+1 lap,,11,,77,10,5,06-monaco,,,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+1 lap,,12,,77,8,6,06-monaco,,,,pirelli,2014
+williams,felipe-massa,19,mercedes,+1 lap,,16,,77,6,7,06-monaco,,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,+1 lap,,14,,77,4,8,06-monaco,,,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,+1 lap,,21,,77,2,9,06-monaco,,,5.000,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1 lap,,8,,77,1,10,06-monaco,,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,+1 lap,,PL,,77,,11,06-monaco,,,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+1 lap,,6,,77,,12,06-monaco,,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,+3 laps,,20,,75,,13,06-monaco,,,,pirelli,2014
+marussia,max-chilton,4,ferrari,+3 laps,,19,,75,,14,06-monaco,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,,,17,,59,,DNF,06-monaco,Accident,,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,,,13,,55,,DNF,06-monaco,Engine,,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,,,7,,50,,DNF,06-monaco,Exhaust,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,,,18,,23,,DNF,06-monaco,Accident,,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,,,9,,10,,DNF,06-monaco,Exhaust,,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,,,4,,5,,DNF,06-monaco,Turbo,,,pirelli,2014
+force-india,sergio-perez,11,mercedes,,,10,,0,,DNF,06-monaco,Collision,,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,,,15,,,,DNS,06-monaco,Fuel pump,,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,,,6,,70,25,1,07-canada,,1:39:12.830,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,+4.236,,1,+4.236,70,18,2,07-canada,,1:39:17.066,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+5.247,,3,+1.011,70,15,3,07-canada,,1:39:18.077,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+11.755,,9,+6.508,70,12,4,07-canada,,1:39:24.585,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+12.843,,11,+1.088,70,10,5,07-canada,,1:39:25.673,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+14.869,,7,+2.026,70,8,6,07-canada,,1:39:27.699,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+23.578,,4,+8.709,70,6,7,07-canada,,1:39:36.408,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+28.026,,8,+4.448,70,4,8,07-canada,,1:39:40.856,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+29.254,,12,+1.228,70,2,9,07-canada,,1:39:42.084,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+53.678,,10,+24.424,70,1,10,07-canada,,1:40:06.508,,pirelli,2014
+force-india,sergio-perez,11,mercedes,,,13,,69,,11,07-canada,Collision,,,pirelli,2014
+williams,felipe-massa,19,mercedes,,,5,,69,,12,07-canada,Collision,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,+1 lap,,16,,69,,13,07-canada,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,,,PL,,64,,14,07-canada,Energy storage system failure,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,,,14,,59,,DNF,07-canada,Rear wing,,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,,,15,,47,,DNF,07-canada,Drivetrain,,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,,2,,46,,DNF,07-canada,Brakes,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,,,21,,23,,DNF,07-canada,Suspension,,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,,,17,,21,,DNF,07-canada,Power unit,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,,,20,,7,,DNF,07-canada,Turbo,,,pirelli,2014
+marussia,max-chilton,4,ferrari,,,18,,0,,DNF,07-canada,Accident,,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,,,19,,0,,DNF,07-canada,Accident,,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,,,3,,71,25,1,08-austria,,1:27:54.976,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,+1.932,,9,+1.932,71,18,2,08-austria,,1:27:56.908,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+8.172,,2,+6.240,71,15,3,08-austria,,1:28:03.148,,pirelli,2014
+williams,felipe-massa,19,mercedes,+17.358,,1,+9.186,71,12,4,08-austria,,1:28:12.334,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+18.553,,4,+1.195,71,10,5,08-austria,,1:28:13.529,,pirelli,2014
+force-india,sergio-perez,11,mercedes,+28.546,,15,+9.993,71,8,6,08-austria,,1:28:23.522,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+32.031,,6,+3.485,71,6,7,08-austria,,1:28:27.007,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+43.522,,5,+11.491,71,4,8,08-austria,,1:28:38.498,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+44.137,,10,+0.615,71,2,9,08-austria,,1:28:39.113,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+47.777,,8,+3.640,71,1,10,08-austria,,1:28:42.753,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+50.966,,11,+3.189,71,,11,08-austria,,1:28:45.942,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,+1 lap,,13,,70,,12,08-austria,,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,+1 lap,,16,,70,,13,08-austria,,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,+1 lap,,PL,,70,,14,08-austria,,,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,+2 laps,,18,,69,,15,08-austria,,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,+2 laps,,19,,69,,16,08-austria,,,,pirelli,2014
+marussia,max-chilton,4,ferrari,+2 laps,,21,,69,,17,08-austria,,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,+2 laps,,20,,69,,18,08-austria,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,+2 laps,,17,,69,,19,08-austria,,,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,,,14,,59,,DNF,08-austria,Brakes,,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,,,12,,34,,DNF,08-austria,Electrical,,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,,,7,,24,,DNF,08-austria,Suspension,,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,,6,,52,25,1,09-great-britain,,2:26:52.094,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+30.135,,14,+30.135,52,18,2,09-great-britain,,2:27:22.229,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+46.495,,8,+16.360,52,15,3,09-great-britain,,2:27:38.589,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+47.390,,3,+0.895,52,12,4,09-great-britain,,2:27:39.484,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+53.864,,2,+6.474,52,10,5,09-great-britain,,2:27:45.958,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+59.946,,16,+6.082,52,8,6,09-great-britain,,2:27:52.040,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1:02.563,,5,+2.617,52,6,7,09-great-britain,,2:27:54.657,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+1:28.692,,4,+26.129,52,4,8,09-great-britain,,2:28:20.786,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+1:29.340,,9,+0.648,52,2,9,09-great-britain,,2:28:21.434,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+1 lap,,10,,51,1,10,09-great-britain,,,,pirelli,2014
+force-india,sergio-perez,11,mercedes,+1 lap,,7,,51,,11,09-great-britain,,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,+1 lap,,11,,51,,12,09-great-britain,,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,+1 lap,,13,,51,,13,09-great-britain,,,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,+1 lap,,12,,51,,14,09-great-britain,,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,+2 laps,,22,,50,,15,09-great-britain,,,,pirelli,2014
+marussia,max-chilton,4,ferrari,+2 laps,,17,,50,,16,09-great-britain,,,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,,,20,,49,,17,09-great-britain,Exhaust,,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,,,1,,28,,DNF,09-great-britain,Gearbox,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,,,21,,11,,DNF,09-great-britain,Suspension,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,,,19,,9,,DNF,09-great-britain,Collision damage,,,pirelli,2014
+williams,felipe-massa,19,mercedes,,,15,,0,,DNF,09-great-britain,Collision damage,,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,,,18,,0,,DNF,09-great-britain,Accident,,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,,,1,,67,25,1,10-germany,,1:33:42.914,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+20.789,,2,+20.789,67,18,2,10-germany,,1:34:03.703,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,+22.530,,20,+1.741,67,15,3,10-germany,,1:34:05.444,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+44.014,,6,+21.484,67,12,4,10-germany,,1:34:26.928,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+52.467,,7,+8.453,67,10,5,10-germany,,1:34:35.381,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+52.549,,5,+0.082,67,8,6,10-germany,,1:34:35.463,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+1:04.178,,9,+11.629,67,6,7,10-germany,,1:34:47.092,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+1:24.711,,11,+20.533,67,4,8,10-germany,,1:35:07.625,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1 lap,,4,,66,2,9,10-germany,,,,pirelli,2014
+force-india,sergio-perez,11,mercedes,+1 lap,,10,,66,1,10,10-germany,,,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+1 lap,,12,,66,,11,10-germany,,,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,+1 lap,,18,,66,,12,10-germany,,,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+1 lap,,13,,66,,13,10-germany,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,+1 lap,,16,,66,,14,10-germany,,,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,+1 lap,,17,,66,,15,10-germany,,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,+2 laps,,19,,65,,16,10-germany,,,,pirelli,2014
+marussia,max-chilton,4,ferrari,+2 laps,,21,,65,,17,10-germany,,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,+2 laps,,PL,,65,,18,10-germany,,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,,,15,,47,,DNF,10-germany,Spun off,,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,,,8,,44,,DNF,10-germany,Oil leak,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,,,14,,26,,DNF,10-germany,Water leak,,,pirelli,2014
+williams,felipe-massa,19,mercedes,,,3,,0,,DNF,10-germany,Collision,,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,,,4,,70,25,1,11-hungary,,1:53:05.058,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+5.225,,5,+5.225,70,18,2,11-hungary,,1:53:10.283,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,+5.857,,PL,+0.632,70,15,3,11-hungary,,1:53:10.915,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,+6.361,,1,+0.504,70,12,4,11-hungary,,1:53:11.419,,pirelli,2014
+williams,felipe-massa,19,mercedes,+29.841,,6,+23.480,70,10,5,11-hungary,,1:53:34.899,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+31.491,,16,+1.650,70,8,6,11-hungary,,1:53:36.549,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+40.964,,2,+9.473,70,6,7,11-hungary,,1:53:46.022,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+41.344,,3,+0.380,70,4,8,11-hungary,,1:53:46.402,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+58.527,,8,+17.183,70,2,9,11-hungary,,1:54:03.585,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+1:07.280,,7,+8.753,70,1,10,11-hungary,,1:54:12.338,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,+1:08.169,,11,+0.889,70,,11,11-hungary,,1:54:13.227,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1:18.465,,PL,+10.296,70,,12,11-hungary,,1:54:23.523,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,+1:24.024,,20,+5.559,70,,13,11-hungary,,1:54:29.082,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+1 lap,,10,,69,,14,11-hungary,,,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,+1 lap,,15,,69,,15,11-hungary,,,,pirelli,2014
+marussia,max-chilton,4,ferrari,+1 lap,,18,,69,,16,11-hungary,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,,,13,,32,,DNF,11-hungary,Electrical,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,,,17,,24,,DNF,11-hungary,Fuel system,,,pirelli,2014
+force-india,sergio-perez,11,mercedes,,,12,,22,,DNF,11-hungary,Accident,,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,,,9,,14,,DNF,11-hungary,Collision,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,,,14,,10,,DNF,11-hungary,Accident,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,,,19,,7,,DNF,11-hungary,Accident,,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,,,5,,44,25,1,12-belgium,,1:24:36.556,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,+3.383,,1,+3.383,44,18,2,12-belgium,,1:24:39.939,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+28.032,,6,+24.649,44,15,3,12-belgium,,1:25:04.588,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+36.815,,8,+8.783,44,12,4,12-belgium,,1:25:13.371,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+52.196,,3,+15.381,44,10,5,12-belgium,,1:25:28.752,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+54.580,,10,+2.384,44,8,6,12-belgium,,1:25:31.136,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+1:01.162,,4,+6.582,44,6,7,12-belgium,,1:25:37.718,,pirelli,2014
+force-india,sergio-perez,11,mercedes,+1:04.293,,13,+3.131,44,4,8,12-belgium,,1:25:40.849,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+1:05.347,,11,+1.054,44,2,9,12-belgium,,1:25:41.903,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+1:05.697,,18,+0.350,44,1,10,12-belgium,,1:25:42.253,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+1:11.920,,12,+6.223,44,,11,12-belgium,,1:25:48.476,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1:14.262,,7,+2.342,44,,12,12-belgium,,1:25:50.818,20.000,pirelli,2014
+williams,felipe-massa,19,mercedes,+1:15.975,,9,+1.713,44,,13,12-belgium,,1:25:52.531,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,+1:22.447,,14,+6.472,44,,14,12-belgium,,1:25:59.003,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,+1:30.825,,20,+8.378,44,,15,12-belgium,,1:26:07.381,,pirelli,2014
+marussia,max-chilton,4,ferrari,+1 lap,,19,,43,,16,12-belgium,,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,+1 lap,,22,,43,,17,12-belgium,,,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,,,16,,39,,18,12-belgium,Gearbox,,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,,2,,38,,DNF,12-belgium,Collision damage,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,,,15,,33,,DNF,12-belgium,Power unit,,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,,,17,,1,,DNF,12-belgium,Exhaust,,,pirelli,2014
+caterham,andre-lotterer,45,renault,,,21,,1,,DNF,12-belgium,Electrical,,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,,1,,53,25,1,13-italy,,1:19:10.236,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,+3.175,,2,+3.175,53,18,2,13-italy,,1:19:13.411,,pirelli,2014
+williams,felipe-massa,19,mercedes,+25.026,,4,+21.851,53,15,3,13-italy,,1:19:35.262,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+40.786,,3,+15.760,53,12,4,13-italy,,1:19:51.022,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+50.309,,9,+9.523,53,10,5,13-italy,,1:20:00.545,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+59.965,,8,+9.656,53,8,6,13-italy,,1:20:10.201,,pirelli,2014
+force-india,sergio-perez,11,mercedes,+1:02.518,,10,+2.553,53,6,7,13-italy,,1:20:12.754,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+1:03.063,,6,+0.545,53,4,8,13-italy,,1:20:13.299,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+1:03.535,,11,+0.472,53,2,9,13-italy,,1:20:13.771,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1:06.171,,5,+2.636,53,1,10,13-italy,,1:20:16.407,5.000,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+1:11.184,,21,+5.013,53,,11,13-italy,,1:20:21.420,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+1:12.606,,13,+1.422,53,,12,13-italy,,1:20:22.842,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+1:13.093,,12,+0.487,53,,13,13-italy,,1:20:23.329,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,+1 lap,,16,,52,,14,13-italy,,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,+1 lap,,14,,52,,15,13-italy,,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,+1 lap,,17,,52,,16,13-italy,,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,+1 lap,,18,,52,,17,13-italy,,,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,+1 lap,,19,,52,,18,13-italy,,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,+2 laps,,PL,,51,,19,13-italy,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,+2 laps,,15,,51,,20,13-italy,,,20.000,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,,,7,,28,,DNF,13-italy,Engine,,,pirelli,2014
+marussia,max-chilton,4,ferrari,,,20,,5,,DNF,13-italy,Accident,,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,,1,,60,25,1,14-singapore,,2:00:04.795,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+13.534,,4,+13.534,60,18,2,14-singapore,,2:00:18.329,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+14.273,,3,+0.739,60,15,3,14-singapore,,2:00:19.068,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+15.389,,5,+1.116,60,12,4,14-singapore,,2:00:20.184,,pirelli,2014
+williams,felipe-massa,19,mercedes,+42.161,,6,+26.772,60,10,5,14-singapore,,2:00:46.956,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+56.801,,12,+14.640,60,8,6,14-singapore,,2:01:01.596,5.000,pirelli,2014
+force-india,sergio-perez,11,mercedes,+59.038,,15,+2.237,60,6,7,14-singapore,,2:01:03.833,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+1:00.641,,7,+1.603,60,4,8,14-singapore,,2:01:05.436,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+1:01.661,,13,+1.020,60,2,9,14-singapore,,2:01:06.456,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1:02.230,,9,+0.569,60,1,10,14-singapore,,2:01:07.025,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+1:05.065,,8,+2.835,60,,11,14-singapore,,2:01:09.860,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,+1:06.915,,18,+1.850,60,,12,14-singapore,,2:01:11.710,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,+1:08.029,,16,+1.114,60,,13,14-singapore,,2:01:12.824,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+1:12.008,,10,+3.979,60,,14,14-singapore,,2:01:16.803,,pirelli,2014
+caterham,marcus-ericsson,9,renault,+1:34.188,,22,+22.180,60,,15,14-singapore,,2:01:38.983,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,+1:34.543,,19,+0.355,60,,16,14-singapore,,2:01:39.338,,pirelli,2014
+marussia,max-chilton,4,ferrari,+1 lap,,21,,59,,17,14-singapore,,,,pirelli,2014
+mclaren,jenson-button,22,mercedes,,,11,,52,,DNF,14-singapore,Electrical,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,,,17,,40,,DNF,14-singapore,Water leak,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,,,14,,17,,DNF,14-singapore,Electrical,,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,,,PL,,13,,DNF,14-singapore,Steering,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,,,20,,,,DNS,14-singapore,Oil pressure,,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,,2,,44,25,1,15-japan,,1:51:43.021,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,+9.180,,1,+9.180,44,18,2,15-japan,,1:51:52.201,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+29.122,,9,+19.942,44,15,3,15-japan,,1:52:12.143,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+38.818,,6,+9.696,44,12,4,15-japan,,1:52:21.839,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+1:07.550,,8,+28.732,44,10,5,15-japan,,1:52:50.571,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+1:53.773,,3,+46.223,44,8,6,15-japan,,1:53:36.794,,pirelli,2014
+williams,felipe-massa,19,mercedes,+1:55.126,,4,+1.353,44,6,7,15-japan,,1:53:38.147,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+1:55.948,,13,+0.822,44,4,8,15-japan,,1:53:38.969,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+2:07.638,,20,+11.690,44,2,9,15-japan,,1:53:50.659,,pirelli,2014
+force-india,sergio-perez,11,mercedes,+1 lap,,11,,43,1,10,15-japan,,,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+1 lap,,12,,43,,11,15-japan,,,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+1 lap,,10,,43,,12,15-japan,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,+1 lap,,15,,43,,13,15-japan,,,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1 lap,,7,,43,,14,15-japan,,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,+1 lap,,16,,43,,15,15-japan,,,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,+1 lap,,22,,43,,16,15-japan,,,20.000,pirelli,2014
+caterham,marcus-ericsson,9,renault,+1 lap,,17,,43,,17,15-japan,,,,pirelli,2014
+marussia,max-chilton,4,ferrari,+1 lap,,21,,43,,18,15-japan,,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,+1 lap,,19,,43,,19,15-japan,,,,pirelli,2014
+marussia,jules-bianchi,17,ferrari,,,18,,41,,20,15-japan,Fatal accident,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,,,14,,40,,21,15-japan,Accident,,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,,,5,,2,,DNF,15-japan,Electrical,,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,,1,,53,25,1,16-russia,,1:31:50.744,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,+13.657,,2,+13.657,53,18,2,16-russia,,1:32:04.401,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+17.425,,3,+3.768,53,15,3,16-russia,,1:32:08.169,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+30.234,,4,+12.809,53,12,4,16-russia,,1:32:20.978,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+53.616,,11,+23.382,53,10,5,16-russia,,1:32:44.360,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+1:00.016,,7,+6.400,53,8,6,16-russia,,1:32:50.760,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+1:01.812,,6,+1.796,53,6,7,16-russia,,1:32:52.556,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+1:06.185,,10,+4.373,53,4,8,16-russia,,1:32:56.929,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+1:18.877,,8,+12.692,53,2,9,16-russia,,1:33:09.621,,pirelli,2014
+force-india,sergio-perez,11,mercedes,+1:20.067,,12,+1.190,53,1,10,16-russia,,1:33:10.811,,pirelli,2014
+williams,felipe-massa,19,mercedes,+1:20.877,,18,+0.810,53,,11,16-russia,,1:33:11.621,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+1:21.309,,17,+0.432,53,,12,16-russia,,1:33:12.053,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+1:37.295,,9,+15.986,53,,13,16-russia,,1:33:28.039,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+1 lap,,5,,52,,14,16-russia,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,+1 lap,,13,,52,,15,16-russia,,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,+1 lap,,14,,52,,16,16-russia,,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,+1 lap,,15,,52,,17,16-russia,,,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,+1 lap,,21,,52,,18,16-russia,,,,pirelli,2014
+caterham,marcus-ericsson,9,renault,+2 laps,,16,,51,,19,16-russia,,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,,,19,,21,,DNF,16-russia,Brakes,,,pirelli,2014
+marussia,max-chilton,4,ferrari,,,20,,9,,DNF,16-russia,Suspension,,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,,2,,56,25,1,17-united-states,,1:40:04.785,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,+4.314,,1,+4.314,56,18,2,17-united-states,,1:40:09.099,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+25.560,,5,+21.246,56,15,3,17-united-states,,1:40:30.345,,pirelli,2014
+williams,felipe-massa,19,mercedes,+26.924,,4,+1.364,56,12,4,17-united-states,,1:40:31.709,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+30.992,,3,+4.068,56,10,5,17-united-states,,1:40:35.777,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+1:35.231,,6,+1:04.239,56,8,6,17-united-states,,1:41:40.016,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+1:35.734,,PL,+0.503,56,6,7,17-united-states,,1:41:40.519,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1:40.682,,7,+4.948,56,4,8,17-united-states,,1:41:45.467,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,+1:47.870,,10,+7.188,56,2,9,17-united-states,,1:41:52.655,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+1:48.863,,14,+0.993,56,1,10,17-united-states,,1:41:53.648,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,+1 lap,,16,,55,,11,17-united-states,,,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+1 lap,,12,,55,,12,17-united-states,,,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+1 lap,,8,,55,,13,17-united-states,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,+1 lap,,15,,55,,14,17-united-states,,,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+1 lap,,17,,55,,15,17-united-states,,,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,,,13,,16,,DNF,17-united-states,Engine,,,pirelli,2014
+force-india,sergio-perez,11,mercedes,,,11,,1,,DNF,17-united-states,Collision damage,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,,,9,,0,,DNF,17-united-states,Collision,,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,,,1,,71,25,1,18-brazil,,1:30:02.555,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,+1.457,,2,+1.457,71,18,2,18-brazil,,1:30:04.012,,pirelli,2014
+williams,felipe-massa,19,mercedes,+41.031,,3,+39.574,71,15,3,18-brazil,,1:30:43.586,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+48.658,,5,+7.627,71,12,4,18-brazil,,1:30:51.213,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+51.420,,6,+2.762,71,10,5,18-brazil,,1:30:53.975,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+1:01.906,,8,+10.486,71,8,6,18-brazil,,1:31:04.461,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+1:03.730,,10,+1.824,71,6,7,18-brazil,,1:31:06.285,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+1:03.934,,12,+0.204,71,4,8,18-brazil,,1:31:06.489,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1:10.085,,7,+6.151,71,2,9,18-brazil,,1:31:12.640,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+1 lap,,4,,70,1,10,18-brazil,,,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,+1 lap,,17,,70,,11,18-brazil,,,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,+1 lap,,16,,70,,12,18-brazil,,,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+1 lap,,15,,70,,13,18-brazil,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,+1 lap,,11,,70,,14,18-brazil,,,,pirelli,2014
+force-india,sergio-perez,11,mercedes,+1 lap,,18,,70,,15,18-brazil,,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,+1 lap,,13,,70,,16,18-brazil,,,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,,,14,,63,,17,18-brazil,Power unit,,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,,,9,,39,,DNF,18-brazil,Suspension,,,pirelli,2014
+mercedes,lewis-hamilton,44,mercedes,,,2,,55,50,1,19-abu-dhabi,,1:39:02.619,,pirelli,2014
+williams,felipe-massa,19,mercedes,+2.576,,4,+2.576,55,36,2,19-abu-dhabi,,1:39:05.195,,pirelli,2014
+williams,valtteri-bottas,77,mercedes,+28.880,,3,+26.304,55,30,3,19-abu-dhabi,,1:39:31.499,,pirelli,2014
+red-bull,daniel-ricciardo,3,renault,+37.237,,PL,+8.357,55,24,4,19-abu-dhabi,,1:39:39.856,,pirelli,2014
+mclaren,jenson-button,22,mercedes,+1:00.334,,6,+23.097,55,20,5,19-abu-dhabi,,1:40:02.953,,pirelli,2014
+force-india,nico-hulkenberg,27,mercedes,+1:02.148,,12,+1.814,55,16,6,19-abu-dhabi,,1:40:04.767,,pirelli,2014
+force-india,sergio-perez,11,mercedes,+1:11.060,,11,+8.912,55,12,7,19-abu-dhabi,,1:40:13.679,,pirelli,2014
+red-bull,sebastian-vettel,1,renault,+1:12.045,,PL,+0.985,55,8,8,19-abu-dhabi,,1:40:14.664,,pirelli,2014
+ferrari,fernando-alonso,14,ferrari,+1:25.813,,8,+13.768,55,4,9,19-abu-dhabi,,1:40:28.432,,pirelli,2014
+ferrari,kimi-raikkonen,7,ferrari,+1:27.820,,7,+2.007,55,2,10,19-abu-dhabi,,1:40:30.439,,pirelli,2014
+mclaren,kevin-magnussen,20,mercedes,+1:30.376,,9,+2.556,55,,11,19-abu-dhabi,,1:40:32.995,,pirelli,2014
+toro-rosso,jean-eric-vergne,25,renault,+1:31.947,,10,+1.571,55,,12,19-abu-dhabi,,1:40:34.566,,pirelli,2014
+lotus-f1,romain-grosjean,8,renault,+1 lap,,18,,54,,13,19-abu-dhabi,,,,pirelli,2014
+mercedes,nico-rosberg,6,mercedes,+1 lap,,1,,54,,14,19-abu-dhabi,,,,pirelli,2014
+sauber,esteban-gutierrez,21,ferrari,+1 lap,,14,,54,,15,19-abu-dhabi,,,,pirelli,2014
+sauber,adrian-sutil,99,ferrari,+1 lap,,13,,54,,16,19-abu-dhabi,,,,pirelli,2014
+caterham,will-stevens,46,renault,+1 lap,,17,,54,,17,19-abu-dhabi,,,,pirelli,2014
+caterham,kamui-kobayashi,10,renault,,,16,,42,,DNF,19-abu-dhabi,Vibrations,,,pirelli,2014
+lotus-f1,pastor-maldonado,13,renault,,,15,,26,,DNF,19-abu-dhabi,Engine,,,pirelli,2014
+toro-rosso,daniil-kvyat,26,renault,,,5,,14,,DNF,19-abu-dhabi,Driveshaft,,,pirelli,2014

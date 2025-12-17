@@ -1,0 +1,22 @@
+Parameter,Symbol,Value,Unit,Source,Notes
+Frontal Area,S,1.5,m²,PERRINN Reference,Approximate
+Drag Coeff x Area (30mm front RH),sCx,1.15,m²,CAE Conference,50mm rear ride height
+Drag Coeff x Area (40mm front RH),sCx,1.16,m²,CAE Conference,50mm rear ride height
+Drag Coeff x Area (50mm front RH),sCx,1.17,m²,CAE Conference,50mm rear ride height
+Downforce Coeff x Area (30mm front RH),sCz,3.23,m²,CAE Conference,50mm rear ride height
+Downforce Coeff x Area (40mm front RH),sCz,3.25,m²,CAE Conference,50mm rear ride height
+Downforce Coeff x Area (50mm front RH),sCz,3.27,m²,CAE Conference,50mm rear ride height
+L/D Efficiency (30mm),L/D,2.81,-,Calculated,Downforce/Drag
+L/D Efficiency (40mm),L/D,2.80,-,Calculated,Downforce/Drag
+L/D Efficiency (50mm),L/D,2.79,-,Calculated,Downforce/Drag
+Underbody Downforce Contribution,%,42.5,%,Research Paper,Average estimate
+Rear Wing Downforce Contribution,%,27.5,%,Research Paper,Average estimate
+Front Wing Downforce Contribution,%,22.5,%,Research Paper,Average estimate
+Diffuser Downforce Contribution,%,12.5,%,Research Paper,Average estimate
+Rear Wing Drag Contribution,%,32.5,%,Research Paper,Induced drag
+Wheel Drag Contribution (total),%,35,%,Research Paper,Front + Rear wheels
+Body Drag Contribution,%,12.5,%,Research Paper,Sidepods/Chassis
+k-w SST Drag Error,%,-11,%,David Publisher,Underestimation
+k-w SST Downforce Error,%,-20,%,David Publisher,Underestimation
+Mesh Cell Count,cells,40000000,cells,Academic,Half-car simulation
+Typical Inlet Velocity,V,50,m/s,Academic,~180 km/h

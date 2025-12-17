@@ -1,0 +1,381 @@
+constructorId,driverId,driverNumber,engineManufacturerId,gap,grandSlam,gridPosition,interval,laps,points,position,race,reasonRetired,time,timePenalty,tyreManufacturerId,year
+mercedes,lewis-hamilton,44,mercedes,,,1,,58,25,1,01-australia,,1:31:54.067,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,+1.360,,2,+1.360,58,18,2,01-australia,,1:31:55.427,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+34.523,,4,+33.163,58,15,3,01-australia,,1:32:28.590,,pirelli,2015
+williams,felipe-massa,19,mercedes,+38.196,,3,+3.673,58,12,4,01-australia,,1:32:32.263,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+1:35.149,,10,+56.953,58,10,5,01-australia,,1:33:29.216,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+1 lap,,6,,57,8,6,01-australia,,,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,+1 lap,,13,,57,6,7,01-australia,,,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+1 lap,,15,,57,4,8,01-australia,,,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,+1 lap,,7,,57,2,9,01-australia,,,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+1 lap,,14,,57,1,10,01-australia,,,,pirelli,2015
+mclaren,jenson-button,22,honda,+2 laps,,16,,56,,11,01-australia,,,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,,,5,,40,,DNF,01-australia,Wheel,,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,,,11,,32,,DNF,01-australia,Engine,,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,,,8,,0,,DNF,01-australia,Power loss,,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,,,9,,0,,DNF,01-australia,Collision,,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,,,12,,,,DNS,01-australia,,,,pirelli,2015
+mclaren,kevin-magnussen,20,honda,,,17,,,,DNS,01-australia,,,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,,,,,,,DNS,01-australia,Injury,,,pirelli,2015
+marussia,will-stevens,28,ferrari,,,,,,,DNP,01-australia,,,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,,,,,,,DNP,01-australia,,,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,,,2,,56,25,1,02-malaysia,,1:41:05.793,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,+8.569,,1,+8.569,56,18,2,02-malaysia,,1:41:14.362,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,+12.310,,3,+3.741,56,15,3,02-malaysia,,1:41:18.103,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+53.822,,11,+41.512,56,12,4,02-malaysia,,1:41:59.615,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+1:10.409,,8,+16.587,56,10,5,02-malaysia,,1:42:16.202,,pirelli,2015
+williams,felipe-massa,19,mercedes,+1:13.586,,7,+3.177,56,8,6,02-malaysia,,1:42:19.379,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+1:37.762,,6,+24.176,56,6,7,02-malaysia,,1:42:43.555,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,+1 lap,,15,,55,4,8,02-malaysia,,,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+1 lap,,5,,55,2,9,02-malaysia,,,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+1 lap,,4,,55,1,10,02-malaysia,,,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,+1 lap,,10,,55,,11,02-malaysia,,,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+1 lap,,16,,55,,12,02-malaysia,,,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+1 lap,,14,,55,,13,02-malaysia,,,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,+1 lap,,13,,55,,14,02-malaysia,,,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,+3 laps,,19,,53,,15,02-malaysia,,,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,,,12,,47,,DNF,02-malaysia,Brakes,,,pirelli,2015
+mclaren,jenson-button,22,honda,,,17,,41,,DNF,02-malaysia,Turbo,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,,,18,,21,,DNF,02-malaysia,Power unit,,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,,,9,,3,,DNF,02-malaysia,Spun off,,,pirelli,2015
+marussia,will-stevens,28,ferrari,,,20,,,,DNS,02-malaysia,Fuel system,,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,,,1,,56,25,1,03-china,,1:39:42.008,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,+0.714,,2,+0.714,56,18,2,03-china,,1:39:42.722,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+2.988,,3,+2.274,56,15,3,03-china,,1:39:44.996,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+3.835,,6,+0.847,56,12,4,03-china,,1:39:45.843,,pirelli,2015
+williams,felipe-massa,19,mercedes,+8.544,,4,+4.709,56,10,5,03-china,,1:39:50.552,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+9.885,,5,+1.341,56,8,6,03-china,,1:39:51.893,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,+19.008,,8,+9.123,56,6,7,03-china,,1:40:01.016,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+22.625,,9,+3.617,56,4,8,03-china,,1:40:04.633,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+32.117,,7,+9.492,56,2,9,03-china,,1:40:14.125,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+1 lap,,10,,55,1,10,03-china,,,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+1 lap,,15,,55,,11,03-china,,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,+1 lap,,18,,55,,12,03-china,,,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,+1 lap,,14,,55,,13,03-china,,,,pirelli,2015
+mclaren,jenson-button,22,honda,+1 lap,,17,,55,,14,03-china,,,5.000,pirelli,2015
+marussia,will-stevens,28,ferrari,+2 laps,,19,,54,,15,03-china,,,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,+2 laps,,20,,54,,16,03-china,,,5.000,pirelli,2015
+toro-rosso,max-verstappen,33,renault,,,13,,52,,17,03-china,Drivetrain,,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,,,11,,49,,DNF,03-china,Brakes,,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,,,12,,15,,DNF,03-china,Engine,,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,,,16,,9,,DNF,03-china,Gearbox,,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,,,1,,57,25,1,04-bahrain,,1:35:05.809,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+3.380,,4,+3.380,57,18,2,04-bahrain,,1:35:09.189,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,+6.033,,3,+2.653,57,15,3,04-bahrain,,1:35:11.842,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+42.957,,5,+36.924,57,12,4,04-bahrain,,1:35:48.766,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+43.989,,2,+1.032,57,10,5,04-bahrain,,1:35:49.798,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+1:01.751,,7,+17.762,57,8,6,04-bahrain,,1:36:07.560,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,+1:24.763,,10,+23.012,57,6,7,04-bahrain,,1:36:30.572,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+1 lap,,11,,56,4,8,04-bahrain,,,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+1 lap,,17,,56,2,9,04-bahrain,,,,pirelli,2015
+williams,felipe-massa,19,mercedes,+1 lap,,6,,56,1,10,04-bahrain,,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,+1 lap,,14,,56,,11,04-bahrain,,,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+1 lap,,12,,56,,12,04-bahrain,,,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,+1 lap,,8,,56,,13,04-bahrain,,,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+1 lap,,13,,56,,14,04-bahrain,,,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,+1 lap,,18,,56,,15,04-bahrain,,,5.000,pirelli,2015
+marussia,will-stevens,28,ferrari,+2 laps,,20,,55,,16,04-bahrain,,,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,+3 laps,,19,,54,,17,04-bahrain,,,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,,,15,,34,,DNF,04-bahrain,Electrical,,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,,,9,,29,,DNF,04-bahrain,Wheel hub,,,pirelli,2015
+mclaren,jenson-button,22,honda,,,20,,,,DNS,04-bahrain,Power unit,,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,,,1,,66,25,1,05-spain,,1:41:12.555,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,+17.551,,2,+17.551,66,18,2,05-spain,,1:41:30.106,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+45.342,,3,+27.791,66,15,3,05-spain,,1:41:57.897,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+59.217,,4,+13.875,66,12,4,05-spain,,1:42:11.772,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+1:00.002,,7,+0.785,66,10,5,05-spain,,1:42:12.557,,pirelli,2015
+williams,felipe-massa,19,mercedes,+1:21.314,,9,+21.312,66,8,6,05-spain,,1:42:33.869,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+1 lap,,10,,65,6,7,05-spain,,,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,+1 lap,,11,,65,4,8,05-spain,,,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,+1 lap,,5,,65,2,9,05-spain,,,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+1 lap,,8,,65,1,10,05-spain,,,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+1 lap,,6,,65,,11,05-spain,,,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+1 lap,,15,,65,,12,05-spain,,,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+1 lap,,18,,65,,13,05-spain,,,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+1 lap,,16,,65,,14,05-spain,,,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,+1 lap,,17,,65,,15,05-spain,,,,pirelli,2015
+mclaren,jenson-button,22,honda,+1 lap,,14,,65,,16,05-spain,,,,pirelli,2015
+marussia,will-stevens,28,ferrari,+3 laps,,19,,63,,17,05-spain,,,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,+4 laps,,20,,62,,18,05-spain,,,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,,,12,,45,,DNF,05-spain,Collision damage,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,,,13,,26,,DNF,05-spain,Brakes,,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,,,2,,78,25,1,06-monaco,,1:49:18.420,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+4.486,,3,+4.486,78,18,2,06-monaco,,1:49:22.906,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,+6.053,,1,+1.567,78,15,3,06-monaco,,1:49:24.473,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+11.965,,5,+5.912,78,12,4,06-monaco,,1:49:30.385,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+13.608,,4,+1.643,78,10,5,06-monaco,,1:49:32.028,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+14.345,,6,+0.737,78,8,6,06-monaco,,1:49:32.765,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+15.013,,7,+0.668,78,6,7,06-monaco,,1:49:33.433,,pirelli,2015
+mclaren,jenson-button,22,honda,+16.063,,10,+1.050,78,4,8,06-monaco,,1:49:34.483,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+23.626,,14,+7.563,78,2,9,06-monaco,,1:49:42.046,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,+25.056,,PL,+1.430,78,1,10,06-monaco,,1:49:43.476,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,+26.232,,11,+1.176,78,,11,06-monaco,,1:49:44.652,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,+28.415,,15,+2.183,78,,12,06-monaco,,1:49:46.835,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+31.159,,17,+2.744,78,,13,06-monaco,,1:49:49.579,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+45.789,,16,+14.630,78,,14,06-monaco,,1:50:04.209,,pirelli,2015
+williams,felipe-massa,19,mercedes,+1 lap,,12,,77,,15,06-monaco,,,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,+2 laps,,19,,76,,16,06-monaco,,,,pirelli,2015
+marussia,will-stevens,28,ferrari,+2 laps,,18,,76,,17,06-monaco,,,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,,,9,,62,,DNF,06-monaco,Collision,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,,,13,,41,,DNF,06-monaco,Gearbox,,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,,,8,,5,,DNF,06-monaco,Brakes,,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,,,1,,70,25,1,07-canada,,1:31:53.145,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,+2.285,,2,+2.285,70,18,2,07-canada,,1:31:55.430,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+40.666,,4,+38.381,70,15,3,07-canada,,1:32:33.811,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+45.625,,3,+4.959,70,12,4,07-canada,,1:32:38.770,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+49.903,,18,+4.278,70,10,5,07-canada,,1:32:43.048,,pirelli,2015
+williams,felipe-massa,19,mercedes,+56.381,,15,+6.478,70,8,6,07-canada,,1:32:49.526,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,+1:06.664,,6,+10.283,70,6,7,07-canada,,1:32:59.809,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,+1 lap,,7,,69,4,8,07-canada,,,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+1 lap,,8,,69,2,9,07-canada,,,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,+1 lap,,5,,69,1,10,07-canada,,,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+1 lap,,10,,69,,11,07-canada,,,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,+1 lap,,11,,69,,12,07-canada,,,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+1 lap,,9,,69,,13,07-canada,,,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+1 lap,,12,,69,,14,07-canada,,,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+1 lap,,19,,69,,15,07-canada,,,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+2 laps,,14,,68,,16,07-canada,,,,pirelli,2015
+marussia,will-stevens,28,ferrari,+4 laps,,17,,66,,17,07-canada,,,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,,,16,,57,,DNF,07-canada,Driveshaft,,,pirelli,2015
+mclaren,jenson-button,22,honda,,,20,,54,,DNF,07-canada,Exhaust,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,,,13,,44,,DNF,07-canada,Exhaust,,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,,,2,,71,25,1,08-austria,,1:30:16.930,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,+8.800,,1,+8.800,71,18,2,08-austria,,1:30:25.730,5.000,pirelli,2015
+williams,felipe-massa,19,mercedes,+17.573,,4,+8.773,71,15,3,08-austria,,1:30:34.503,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+18.181,,3,+0.608,71,12,4,08-austria,,1:30:35.111,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+53.604,,6,+35.423,71,10,5,08-austria,,1:31:10.534,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,+1:04.075,,5,+10.471,71,8,6,08-austria,,1:31:21.005,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,+1 lap,,10,,70,6,7,08-austria,,,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+1 lap,,7,,70,4,8,08-austria,,,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+1 lap,,13,,70,2,9,08-austria,,,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+1 lap,,18,,70,1,10,08-austria,,,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+1 lap,,8,,70,,11,08-austria,,,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+1 lap,,15,,70,,12,08-austria,,,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+2 laps,,11,,69,,13,08-austria,,,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,+3 laps,,16,,68,,14,08-austria,,,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,,,9,,35,,DNF,08-austria,Gearbox,,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,,,12,,35,,DNF,08-austria,Electrical,,5.000,pirelli,2015
+mclaren,jenson-button,22,honda,,,20,,8,,DNF,08-austria,Electrical,,,pirelli,2015
+marussia,will-stevens,28,ferrari,,,17,,1,,DNF,08-austria,Oil leak,,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,,,14,,0,,DNF,08-austria,Collision,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,,,19,,0,,DNF,08-austria,Collision,,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,,,1,,52,25,1,09-great-britain,,1:31:27.729,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,+10.956,,2,+10.956,52,18,2,09-great-britain,,1:31:38.685,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+25.443,,6,+14.487,52,15,3,09-great-britain,,1:31:53.172,,pirelli,2015
+williams,felipe-massa,19,mercedes,+36.839,,3,+11.396,52,12,4,09-great-britain,,1:32:04.568,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+1:03.194,,4,+26.355,52,10,5,09-great-britain,,1:32:30.923,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+1:03.955,,7,+0.761,52,8,6,09-great-britain,,1:32:31.684,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,+1:18.744,,9,+14.789,52,6,7,09-great-britain,,1:32:46.473,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+1 lap,,5,,51,4,8,09-great-britain,,,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+1 lap,,11,,51,2,9,09-great-britain,,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,+1 lap,,17,,51,1,10,09-great-britain,,,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+1 lap,,15,,51,,11,09-great-britain,,,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,+3 laps,,20,,49,,12,09-great-britain,,,,pirelli,2015
+marussia,will-stevens,28,ferrari,+3 laps,,19,,49,,13,09-great-britain,,,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,,,8,,31,,DNF,09-great-britain,Electrical,,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,,,10,,21,,DNF,09-great-britain,Electrical,,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,,,13,,3,,DNF,09-great-britain,Spun off,,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,,,12,,0,,DNF,09-great-britain,Collision,,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,,,14,,0,,DNF,09-great-britain,Collision damage,,,pirelli,2015
+mclaren,jenson-button,22,honda,,,18,,0,,DNF,09-great-britain,Collision,,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,,,16,,,,DNS,09-great-britain,Gearbox,,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,,,3,,69,25,1,10-hungary,,1:46:09.985,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+15.748,,7,+15.748,69,18,2,10-hungary,,1:46:25.733,10.000,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+25.084,,4,+9.336,69,15,3,10-hungary,,1:46:35.069,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+44.251,,9,+19.167,69,12,4,10-hungary,,1:46:54.236,,pirelli,2015
+mclaren,fernando-alonso,14,honda,+49.079,,15,+4.828,69,10,5,10-hungary,,1:46:59.064,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,+52.025,,1,+2.946,69,8,6,10-hungary,,1:47:02.010,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,+58.578,,10,+6.553,69,6,7,10-hungary,,1:47:08.563,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,+58.876,,2,+0.298,69,4,8,10-hungary,,1:47:08.861,,pirelli,2015
+mclaren,jenson-button,22,honda,+1:07.028,,16,+8.152,69,2,9,10-hungary,,1:47:17.013,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+1:09.130,,17,+2.102,69,1,10,10-hungary,,1:47:19.115,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+1:13.458,,18,+4.328,69,,11,10-hungary,,1:47:23.443,,pirelli,2015
+williams,felipe-massa,19,mercedes,+1:14.278,,8,+0.820,69,,12,10-hungary,,1:47:24.263,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+1:20.228,,6,+5.950,69,,13,10-hungary,,1:47:30.213,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,+1:25.142,,14,+4.914,69,,14,10-hungary,,1:47:35.127,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,+2 laps,,19,,67,,15,10-hungary,,,,pirelli,2015
+marussia,will-stevens,28,ferrari,,,20,,65,,16,10-hungary,Suspension,,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,,,12,,60,,DNF,10-hungary,Fuel pressure,,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,,,5,,55,,DNF,10-hungary,Hybrid system,,,pirelli,2015
+force-india,sergio-perez,11,mercedes,,,13,,53,,DNF,10-hungary,Brakes,,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,,,11,,41,,DNF,10-hungary,Front wing,,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,,,1,,43,25,1,11-belgium,,1:23:40.387,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,+2.058,,2,+2.058,43,18,2,11-belgium,,1:23:42.445,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,+37.988,,9,+35.930,43,15,3,11-belgium,,1:24:18.375,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+45.692,,12,+7.704,43,12,4,11-belgium,,1:24:26.079,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+53.997,,4,+8.305,43,10,5,11-belgium,,1:24:34.384,,pirelli,2015
+williams,felipe-massa,19,mercedes,+55.283,,6,+1.286,43,8,6,11-belgium,,1:24:35.670,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+55.703,,16,+0.420,43,6,7,11-belgium,,1:24:36.090,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+56.076,,18,+0.373,43,4,8,11-belgium,,1:24:36.463,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+1:01.040,,3,+4.964,43,2,9,11-belgium,,1:24:41.427,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+1:31.234,,13,+30.194,43,1,10,11-belgium,,1:25:11.621,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+1:42.311,,14,+11.077,43,,11,11-belgium,,1:25:22.698,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,,,8,,42,,12,11-belgium,Tyre,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,+1 lap,,20,,42,,13,11-belgium,,,,pirelli,2015
+mclaren,jenson-button,22,honda,+1 lap,,19,,42,,14,11-belgium,,,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,+1 lap,,17,,42,,15,11-belgium,,,,pirelli,2015
+marussia,will-stevens,28,ferrari,+1 lap,,15,,42,,16,11-belgium,,,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,,,10,,32,,DNF,11-belgium,Power unit,,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,,,5,,19,,DNF,11-belgium,Electrical,,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,,,7,,2,,DNF,11-belgium,Power unit,,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,,,11,,,,DNS,11-belgium,Power unit,,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,,True,1,,53,25,1,12-italy,,1:18:00.688,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+25.042,,3,+25.042,53,18,2,12-italy,,1:18:25.730,,pirelli,2015
+williams,felipe-massa,19,mercedes,+47.635,,5,+22.593,53,15,3,12-italy,,1:18:48.323,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+47.996,,6,+0.361,53,12,4,12-italy,,1:18:48.684,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+1:08.860,,2,+20.864,53,10,5,12-italy,,1:19:09.548,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+1:12.783,,7,+3.923,53,8,6,12-italy,,1:19:13.471,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,+1 lap,,9,,52,6,7,12-italy,,,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+1 lap,,19,,52,4,8,12-italy,,,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+1 lap,,12,,52,2,9,12-italy,,,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+1 lap,,18,,52,1,10,12-italy,,,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,+1 lap,,17,,52,,11,12-italy,,,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+1 lap,,20,,52,,12,12-italy,,,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+1 lap,,11,,52,,13,12-italy,,,,pirelli,2015
+mclaren,jenson-button,22,honda,+1 lap,,15,,52,,14,12-italy,,,,pirelli,2015
+marussia,will-stevens,28,ferrari,+2 laps,,13,,51,,15,12-italy,,,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,+2 laps,,14,,51,,16,12-italy,,,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,,,4,,50,,17,12-italy,Engine,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,,,16,,47,,18,12-italy,Electrical,,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,,,8,,1,,DNF,12-italy,Collision damage,,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,,,10,,1,,DNF,12-italy,Collision damage,,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,,,1,,61,25,1,13-singapore,,2:01:22.118,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+1.478,,2,+1.478,61,18,2,13-singapore,,2:01:23.596,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+17.154,,3,+15.676,61,15,3,13-singapore,,2:01:39.272,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,+24.720,,6,+7.566,61,12,4,13-singapore,,2:01:46.838,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+34.204,,7,+9.484,61,10,5,13-singapore,,2:01:56.322,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+35.508,,4,+1.304,61,8,6,13-singapore,,2:01:57.626,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+50.836,,13,+15.328,61,6,7,13-singapore,,2:02:12.954,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+51.450,,8,+0.614,61,4,8,13-singapore,,2:02:13.568,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,+52.860,,14,+1.410,61,2,9,13-singapore,,2:02:14.978,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+1:30.045,,16,+37.185,61,1,10,13-singapore,,2:02:52.163,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+1:37.507,,17,+7.462,61,,11,13-singapore,,2:02:59.625,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,+1:37.718,,18,+0.211,61,,12,13-singapore,,2:02:59.836,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,,,10,,59,,13,13-singapore,Gearbox,,,pirelli,2015
+marussia,alexander-rossi,53,ferrari,+2 laps,,20,,59,,14,13-singapore,,,,pirelli,2015
+marussia,will-stevens,28,ferrari,+2 laps,,19,,59,,15,13-singapore,,,,pirelli,2015
+mclaren,jenson-button,22,honda,,,15,,52,,DNF,13-singapore,Gearbox,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,,,12,,33,,DNF,13-singapore,Gearbox,,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,,,5,,32,,DNF,13-singapore,Power unit,,,pirelli,2015
+williams,felipe-massa,19,mercedes,,,9,,30,,DNF,13-singapore,Gearbox,,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,,,11,,12,,DNF,13-singapore,Collision,,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,,,2,,53,25,1,14-japan,,1:28:06.508,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,+18.964,,1,+18.964,53,18,2,14-japan,,1:28:25.472,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+20.850,,4,+1.886,53,15,3,14-japan,,1:28:27.358,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+33.768,,6,+12.918,53,12,4,14-japan,,1:28:40.276,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+36.746,,3,+2.978,53,10,5,14-japan,,1:28:43.254,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,+55.559,,13,+18.813,53,8,6,14-japan,,1:29:02.067,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,+1:12.298,,8,+16.739,53,6,7,14-japan,,1:29:18.806,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,+1:13.575,,11,+1.277,53,4,8,14-japan,,1:29:20.083,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+1:35.315,,17,+21.740,53,2,9,14-japan,,1:29:41.823,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,+1 lap,,10,,52,1,10,14-japan,,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,+1 lap,,12,,52,,11,14-japan,,,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+1 lap,,9,,52,,12,14-japan,,,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+1 lap,,PL,,52,,13,14-japan,,,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+1 lap,,15,,52,,14,14-japan,,,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+1 lap,,7,,52,,15,14-japan,,,,pirelli,2015
+mclaren,jenson-button,22,honda,+1 lap,,14,,52,,16,14-japan,,,,pirelli,2015
+williams,felipe-massa,19,mercedes,+2 laps,,5,,51,,17,14-japan,,,,pirelli,2015
+marussia,alexander-rossi,53,ferrari,+2 laps,,19,,51,,18,14-japan,,,,pirelli,2015
+marussia,will-stevens,28,ferrari,+3 laps,,18,,50,,19,14-japan,,,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,,,16,,49,,20,14-japan,Mechanical,,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,,,2,,53,25,1,15-russia,,1:37:11.024,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+5.953,,4,+5.953,53,18,2,15-russia,,1:37:16.977,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+28.918,,7,+22.965,53,15,3,15-russia,,1:37:39.942,,pirelli,2015
+williams,felipe-massa,19,mercedes,+38.831,,15,+9.913,53,12,4,15-russia,,1:37:49.855,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+47.566,,11,+8.735,53,10,5,15-russia,,1:37:58.590,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+56.508,,12,+8.942,53,8,6,15-russia,,1:38:07.532,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,+1:01.088,,14,+4.580,53,6,7,15-russia,,1:38:12.112,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+1:12.358,,5,+11.270,53,4,8,15-russia,,1:38:23.382,30.000,pirelli,2015
+mclaren,jenson-button,22,honda,+1:19.467,,13,+7.109,53,2,9,15-russia,,1:38:30.491,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+1:28.424,,9,+8.957,53,1,10,15-russia,,1:38:39.448,,pirelli,2015
+mclaren,fernando-alonso,14,honda,+1:31.210,,19,+2.786,53,,11,15-russia,,1:38:42.234,5.000,pirelli,2015
+williams,valtteri-bottas,77,mercedes,,,3,,52,,12,15-russia,Collision,,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,+1 lap,,18,,52,,13,15-russia,,,,pirelli,2015
+marussia,will-stevens,28,ferrari,+2 laps,,17,,51,,14,15-russia,,,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,,,10,,47,,15,15-russia,Suspension,,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,,,20,,45,,DNF,15-russia,Brakes,,5.000,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,,,8,,11,,DNF,15-russia,Accident,,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,,,1,,7,,DNF,15-russia,Throttle,,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,,,6,,0,,DNF,15-russia,Collision,,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,,,16,,0,,DNF,15-russia,Collision,,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,,,2,,56,25,1,16-united-states,,1:50:52.703,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,+2.850,,1,+2.850,56,18,2,16-united-states,,1:50:55.553,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+3.381,,13,+0.531,56,15,3,16-united-states,,1:50:56.084,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+22.359,,8,+18.978,56,12,4,16-united-states,,1:51:15.062,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+24.413,,5,+2.054,56,10,5,16-united-states,,1:51:17.116,,pirelli,2015
+mclaren,jenson-button,22,honda,+28.058,,11,+3.645,56,8,6,16-united-states,,1:51:20.761,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,+30.619,,20,+2.561,56,6,7,16-united-states,,1:51:23.322,5.000,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,+32.273,,12,+1.654,56,4,8,16-united-states,,1:51:24.976,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+40.257,,15,+7.984,56,2,9,16-united-states,,1:51:32.960,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+53.371,,3,+13.114,56,1,10,16-united-states,,1:51:46.074,,pirelli,2015
+mclaren,fernando-alonso,14,honda,+54.816,,9,+1.445,56,,11,16-united-states,,1:51:47.519,,pirelli,2015
+marussia,alexander-rossi,53,ferrari,+1:15.277,,17,+20.461,56,,12,16-united-states,,1:52:07.980,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,,,4,,41,,DNF,16-united-states,Accident,,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,,,6,,35,,DNF,16-united-states,Collision,,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,,,14,,25,,DNF,16-united-states,Electrical,,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,,,18,,25,,DNF,16-united-states,Brakes,,,pirelli,2015
+williams,felipe-massa,19,mercedes,,,7,,23,,DNF,16-united-states,Suspension,,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,,,10,,10,,DNF,16-united-states,Brakes,,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,,,16,,5,,DNF,16-united-states,Suspension,,,pirelli,2015
+marussia,will-stevens,28,ferrari,,,19,,1,,DNF,16-united-states,Collision damage,,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,,,1,,71,25,1,17-mexico,,1:42:35.038,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,+1.954,,2,+1.954,71,18,2,17-mexico,,1:42:36.992,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+14.592,,6,+12.638,71,15,3,17-mexico,,1:42:49.630,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+16.572,,4,+1.980,71,12,4,17-mexico,,1:42:51.610,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+19.682,,5,+3.110,71,10,5,17-mexico,,1:42:54.720,,pirelli,2015
+williams,felipe-massa,19,mercedes,+21.493,,7,+1.811,71,8,6,17-mexico,,1:42:56.531,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,+25.860,,10,+4.367,71,6,7,17-mexico,,1:43:00.898,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+34.343,,9,+8.483,71,4,8,17-mexico,,1:43:09.381,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+35.229,,8,+0.886,71,2,9,17-mexico,,1:43:10.267,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,+37.934,,12,+2.705,71,1,10,17-mexico,,1:43:12.972,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,+38.538,,13,+0.604,71,,11,17-mexico,,1:43:13.576,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+40.180,,14,+1.642,71,,12,17-mexico,,1:43:15.218,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,+48.772,,11,+8.592,71,,13,17-mexico,,1:43:23.810,,pirelli,2015
+mclaren,jenson-button,22,honda,+49.214,,20,+0.442,71,,14,17-mexico,,1:43:24.252,,pirelli,2015
+marussia,alexander-rossi,53,ferrari,+2 laps,,16,,69,,15,17-mexico,,,,pirelli,2015
+marussia,will-stevens,28,ferrari,+2 laps,,17,,69,,16,17-mexico,,,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,,,15,,57,,DNF,17-mexico,Brakes,,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,,,3,,50,,DNF,17-mexico,Accident,,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,,,19,,21,,DNF,17-mexico,Collision,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,,,18,,1,,DNF,17-mexico,Power unit,,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,,,1,,71,25,1,18-brazil,,1:31:09.090,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,+7.756,,2,+7.756,71,18,2,18-brazil,,1:31:16.846,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+14.244,,3,+6.488,71,15,3,18-brazil,,1:31:23.334,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+47.543,,4,+33.299,71,12,4,18-brazil,,1:31:56.633,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+1 lap,,7,,70,10,5,18-brazil,,,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,+1 lap,,5,,70,8,6,18-brazil,,,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+1 lap,,6,,70,6,7,18-brazil,,,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,+1 lap,,14,,70,4,8,18-brazil,,,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+1 lap,,9,,70,2,9,18-brazil,,,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,+1 lap,,15,,70,1,10,18-brazil,,,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+1 lap,,19,,70,,11,18-brazil,,,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+1 lap,,11,,70,,12,18-brazil,,,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+1 lap,,13,,70,,13,18-brazil,,,,pirelli,2015
+mclaren,jenson-button,22,honda,+1 lap,,16,,70,,14,18-brazil,,,,pirelli,2015
+mclaren,fernando-alonso,14,honda,+1 lap,,20,,70,,15,18-brazil,,,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+2 laps,,12,,69,,16,18-brazil,,,,pirelli,2015
+marussia,will-stevens,28,ferrari,+4 laps,,18,,67,,17,18-brazil,,,,pirelli,2015
+marussia,alexander-rossi,53,ferrari,+4 laps,,17,,67,,18,18-brazil,,,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,,,PL,,0,,DNF,18-brazil,Technical defect,,,pirelli,2015
+williams,felipe-massa,19,mercedes,+1 lap,,8,,70,,DSQ,18-brazil,Tyre temperature,,,pirelli,2015
+mercedes,nico-rosberg,6,mercedes,,,1,,55,25,1,19-abu-dhabi,,1:38:30.175,,pirelli,2015
+mercedes,lewis-hamilton,44,mercedes,+8.271,,2,+8.271,55,18,2,19-abu-dhabi,,1:38:38.446,,pirelli,2015
+ferrari,kimi-raikkonen,7,ferrari,+19.430,,3,+11.159,55,15,3,19-abu-dhabi,,1:38:49.605,,pirelli,2015
+ferrari,sebastian-vettel,5,ferrari,+43.735,,15,+24.305,55,12,4,19-abu-dhabi,,1:39:13.910,,pirelli,2015
+force-india,sergio-perez,11,mercedes,+1:03.952,,4,+20.217,55,10,5,19-abu-dhabi,,1:39:34.127,,pirelli,2015
+red-bull,daniel-ricciardo,3,renault,+1:05.010,,5,+1.058,55,8,6,19-abu-dhabi,,1:39:35.185,,pirelli,2015
+force-india,nico-hulkenberg,27,mercedes,+1:33.618,,7,+28.608,55,6,7,19-abu-dhabi,,1:40:03.793,,pirelli,2015
+williams,felipe-massa,19,mercedes,+1:37.751,,8,+4.133,55,4,8,19-abu-dhabi,,1:40:07.926,,pirelli,2015
+lotus-f1,romain-grosjean,8,mercedes,+1:38.201,,18,+0.450,55,2,9,19-abu-dhabi,,1:40:08.376,,pirelli,2015
+red-bull,daniil-kvyat,26,renault,+1:42.371,,9,+4.170,55,1,10,19-abu-dhabi,,1:40:12.546,,pirelli,2015
+toro-rosso,carlos-sainz-jr,55,renault,+1:43.525,,10,+1.154,55,,11,19-abu-dhabi,,1:40:13.700,,pirelli,2015
+mclaren,jenson-button,22,honda,+1 lap,,12,,54,,12,19-abu-dhabi,,,,pirelli,2015
+williams,valtteri-bottas,77,mercedes,+1 lap,,6,,54,,13,19-abu-dhabi,,,,pirelli,2015
+sauber,marcus-ericsson,9,ferrari,+1 lap,,17,,54,,14,19-abu-dhabi,,,,pirelli,2015
+sauber,felipe-nasr,12,ferrari,+1 lap,,14,,54,,15,19-abu-dhabi,,,,pirelli,2015
+toro-rosso,max-verstappen,33,renault,+1 lap,,11,,54,,16,19-abu-dhabi,,,25.000,pirelli,2015
+mclaren,fernando-alonso,14,honda,+2 laps,,16,,53,,17,19-abu-dhabi,,,,pirelli,2015
+marussia,will-stevens,28,ferrari,+2 laps,,19,,53,,18,19-abu-dhabi,,,,pirelli,2015
+marussia,roberto-merhi,98,ferrari,+3 laps,,PL,,52,,19,19-abu-dhabi,,,,pirelli,2015
+lotus-f1,pastor-maldonado,13,mercedes,,,13,,0,,DNF,19-abu-dhabi,Collision,,,pirelli,2015

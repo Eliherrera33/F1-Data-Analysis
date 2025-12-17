@@ -1,0 +1,421 @@
+constructorId,driverId,driverNumber,engineManufacturerId,gap,grandSlam,gridPosition,interval,laps,points,position,race,reasonRetired,time,timePenalty,tyreManufacturerId,year
+mercedes,valtteri-bottas,77,mercedes,,,2,,58,26,1,01-australia,,1:25:27.325,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,+20.886,,1,+20.886,58,18,2,01-australia,,1:25:48.211,,pirelli,2019
+red-bull,max-verstappen,33,honda,+22.520,,4,+1.634,58,15,3,01-australia,,1:25:49.845,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+57.109,,3,+34.589,58,12,4,01-australia,,1:26:24.434,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+58.230,,5,+1.121,58,10,5,01-australia,,1:26:25.555,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+1:27.156,,7,+28.926,58,8,6,01-australia,,1:26:54.481,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+1 lap,,11,,57,6,7,01-australia,,,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,9,,57,4,8,01-australia,,,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1 lap,,16,,57,2,9,01-australia,,,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+1 lap,,15,,57,1,10,01-australia,,,,pirelli,2019
+red-bull,pierre-gasly,10,honda,+1 lap,,17,,57,,11,01-australia,,,,pirelli,2019
+mclaren,lando-norris,4,renault,+1 lap,,8,,57,,12,01-australia,,,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,,10,,57,,13,01-australia,,,,pirelli,2019
+toro-rosso,alexander-albon,23,honda,+1 lap,,13,,57,,14,01-australia,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,14,,57,,15,01-australia,,,,pirelli,2019
+williams,george-russell,63,mercedes,+2 laps,,19,,56,,16,01-australia,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+3 laps,,20,,55,,17,01-australia,,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,,,6,,29,,DNF,01-australia,Wheel,,,pirelli,2019
+renault,daniel-ricciardo,3,renault,,,12,,28,,DNF,01-australia,Accident damage,,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,,,18,,9,,DNF,01-australia,Power unit,,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,,,3,,57,25,1,02-bahrain,,1:34:21.295,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+2.980,,4,+2.980,57,18,2,02-bahrain,,1:34:24.275,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+6.131,,1,+3.151,57,16,3,02-bahrain,,1:34:27.426,,pirelli,2019
+red-bull,max-verstappen,33,honda,+6.408,,5,+0.277,57,12,4,02-bahrain,,1:34:27.703,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+36.068,,2,+29.660,57,10,5,02-bahrain,,1:34:57.363,,pirelli,2019
+mclaren,lando-norris,4,renault,+45.754,,9,+9.686,57,8,6,02-bahrain,,1:35:07.049,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+47.470,,8,+1.716,57,6,7,02-bahrain,,1:35:08.765,,pirelli,2019
+red-bull,pierre-gasly,10,honda,+58.094,,13,+10.624,57,4,8,02-bahrain,,1:35:19.389,,pirelli,2019
+toro-rosso,alexander-albon,23,honda,+1:02.697,,12,+4.603,57,2,9,02-bahrain,,1:35:23.992,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1:03.696,,14,+0.999,57,1,10,02-bahrain,,1:35:24.991,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1:04.599,,16,+0.903,57,,11,02-bahrain,,1:35:25.894,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+1 lap,,15,,56,,12,02-bahrain,,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+1 lap,,6,,56,,13,02-bahrain,,,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1 lap,,18,,56,,14,02-bahrain,,,,pirelli,2019
+williams,george-russell,63,mercedes,+1 lap,,19,,56,,15,02-bahrain,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+2 laps,,20,,55,,16,02-bahrain,,,,pirelli,2019
+renault,nico-hulkenberg,27,renault,,,17,,53,,17,02-bahrain,Power unit,,,pirelli,2019
+renault,daniel-ricciardo,3,renault,,,10,,53,,18,02-bahrain,Power loss,,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,,,7,,53,,19,02-bahrain,Gearbox,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,,,11,,16,,DNF,02-bahrain,Collision damage,,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,,,2,,56,25,1,03-china,,1:32:06.350,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+6.552,,1,+6.552,56,18,2,03-china,,1:32:12.902,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+13.744,,3,+7.192,56,15,3,03-china,,1:32:20.094,,pirelli,2019
+red-bull,max-verstappen,33,honda,+27.627,,5,+13.883,56,12,4,03-china,,1:32:33.977,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+31.276,,4,+3.649,56,10,5,03-china,,1:32:37.626,,pirelli,2019
+red-bull,pierre-gasly,10,honda,+1:29.307,,6,+58.031,56,9,6,03-china,,1:33:35.657,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+1 lap,,7,,55,6,7,03-china,,,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,,12,,55,4,8,03-china,,,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,13,,55,2,9,03-china,,,,pirelli,2019
+toro-rosso,alexander-albon,23,honda,+1 lap,,PL,,55,1,10,03-china,,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,+1 lap,,10,,55,,11,03-china,,,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1 lap,,16,,55,,12,03-china,,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+1 lap,,9,,55,,13,03-china,,,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+1 lap,,14,,55,,14,03-china,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,19,,55,,15,03-china,,,,pirelli,2019
+williams,george-russell,63,mercedes,+2 laps,,17,,54,,16,03-china,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+2 laps,,18,,54,,17,03-china,,,,pirelli,2019
+mclaren,lando-norris,4,renault,,,15,,50,,18,03-china,Collision damage,,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,,,11,,41,,DNF,03-china,Collision damage,,,pirelli,2019
+renault,nico-hulkenberg,27,renault,,,8,,16,,DNF,03-china,Power unit,,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,,,1,,51,25,1,04-azerbaijan,,1:31:52.942,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,+1.524,,2,+1.524,51,18,2,04-azerbaijan,,1:31:54.466,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+11.739,,3,+10.215,51,15,3,04-azerbaijan,,1:32:04.681,,pirelli,2019
+red-bull,max-verstappen,33,honda,+17.493,,4,+5.754,51,12,4,04-azerbaijan,,1:32:10.435,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+1:09.107,,8,+51.614,51,11,5,04-azerbaijan,,1:33:02.049,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1:16.416,,5,+7.309,51,8,6,04-azerbaijan,,1:33:09.358,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+1:23.826,,9,+7.410,51,6,7,04-azerbaijan,,1:33:16.768,,pirelli,2019
+mclaren,lando-norris,4,renault,+1:40.268,,7,+16.442,51,4,8,04-azerbaijan,,1:33:33.210,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1:43.816,,13,+3.548,51,2,9,04-azerbaijan,,1:33:36.758,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,PL,,50,1,10,04-azerbaijan,,,,pirelli,2019
+toro-rosso,alexander-albon,23,honda,+1 lap,,11,,50,,11,04-azerbaijan,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,17,,50,,12,04-azerbaijan,,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+1 lap,,12,,50,,13,04-azerbaijan,,,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+1 lap,,15,,50,,14,04-azerbaijan,,,,pirelli,2019
+williams,george-russell,63,mercedes,+2 laps,,16,,49,,15,04-azerbaijan,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+2 laps,,PL,,49,,16,04-azerbaijan,,,,pirelli,2019
+red-bull,pierre-gasly,10,honda,,,PL,,38,,DNF,04-azerbaijan,Driveshaft,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,,,14,,38,,DNF,04-azerbaijan,Brakes,,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,,,6,,33,,DNF,04-azerbaijan,Collision damage,,,pirelli,2019
+renault,daniel-ricciardo,3,renault,,,10,,31,,DNF,04-azerbaijan,Collision damage,,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,,,2,,66,26,1,05-spain,,1:35:50.443,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+4.074,,1,+4.074,66,18,2,05-spain,,1:35:54.517,,pirelli,2019
+red-bull,max-verstappen,33,honda,+7.679,,4,+3.605,66,15,3,05-spain,,1:35:58.122,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+9.167,,3,+1.488,66,12,4,05-spain,,1:35:59.610,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+13.361,,5,+4.194,66,10,5,05-spain,,1:36:03.804,,pirelli,2019
+red-bull,pierre-gasly,10,honda,+19.576,,6,+6.215,66,8,6,05-spain,,1:36:10.019,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+28.159,,8,+8.583,66,6,7,05-spain,,1:36:18.602,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+32.342,,12,+4.183,66,4,8,05-spain,,1:36:22.785,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+33.056,,9,+0.714,66,2,9,05-spain,,1:36:23.499,,pirelli,2019
+haas,romain-grosjean,8,ferrari,+34.641,,7,+1.585,66,1,10,05-spain,,1:36:25.084,,pirelli,2019
+toro-rosso,alexander-albon,23,honda,+35.445,,11,+0.804,66,,11,05-spain,,1:36:25.888,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+36.758,,13,+1.313,66,,12,05-spain,,1:36:27.201,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+39.241,,PL,+2.483,66,,13,05-spain,,1:36:29.684,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+41.803,,14,+2.562,66,,14,05-spain,,1:36:32.246,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+46.877,,15,+5.074,66,,15,05-spain,,1:36:37.320,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+47.691,,18,+0.814,66,,16,05-spain,,1:36:38.134,,pirelli,2019
+williams,george-russell,63,mercedes,+1 lap,,19,,65,,17,05-spain,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+1 lap,,17,,65,,18,05-spain,,,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,,,16,,44,,DNF,05-spain,Collision,,,pirelli,2019
+mclaren,lando-norris,4,renault,,,10,,44,,DNF,05-spain,Collision,,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,,,1,,78,25,1,06-monaco,,1:43:28.437,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+2.602,,4,+2.602,78,18,2,06-monaco,,1:43:31.039,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+3.162,,2,+0.560,78,15,3,06-monaco,,1:43:31.599,,pirelli,2019
+red-bull,max-verstappen,33,honda,+5.537,,3,+2.375,78,12,4,06-monaco,,1:43:33.974,5.000,pirelli,2019
+red-bull,pierre-gasly,10,honda,+9.946,,8,+4.409,78,11,5,06-monaco,,1:43:38.383,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+53.454,,9,+43.508,78,8,6,06-monaco,,1:44:21.891,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+54.574,,7,+1.120,78,6,7,06-monaco,,1:44:23.011,,pirelli,2019
+toro-rosso,alexander-albon,23,honda,+55.200,,10,+0.626,78,4,8,06-monaco,,1:44:23.637,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+1:00.894,,6,+5.694,78,2,9,06-monaco,,1:44:29.331,,pirelli,2019
+haas,romain-grosjean,8,ferrari,+1:01.034,,13,+0.140,78,1,10,06-monaco,,1:44:29.471,5.000,pirelli,2019
+mclaren,lando-norris,4,renault,+1:06.801,,12,+5.767,78,,11,06-monaco,,1:44:35.238,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,,16,,77,,12,06-monaco,,,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+1 lap,,11,,77,,13,06-monaco,,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+1 lap,,5,,77,,14,06-monaco,,,5.000,pirelli,2019
+williams,george-russell,63,mercedes,+1 lap,,19,,77,,15,06-monaco,,,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1 lap,,17,,77,,16,06-monaco,,,5.000,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,14,,77,,17,06-monaco,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+1 lap,,20,,77,,18,06-monaco,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+2 laps,,18,,76,,19,06-monaco,,,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,,,15,,16,,DNF,06-monaco,Puncture,,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,,,2,,70,25,1,07-canada,,1:29:07.084,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+3.658,,1,+3.658,70,18,2,07-canada,,1:29:10.742,5.000,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+4.696,,3,+1.038,70,15,3,07-canada,,1:29:11.780,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+51.043,,6,+46.347,70,13,4,07-canada,,1:29:58.127,,pirelli,2019
+red-bull,max-verstappen,33,honda,+57.655,,9,+6.612,70,10,5,07-canada,,1:30:04.739,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+1 lap,,4,,69,8,6,07-canada,,,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+1 lap,,7,,69,6,7,07-canada,,,,pirelli,2019
+red-bull,pierre-gasly,10,honda,+1 lap,,5,,69,4,8,07-canada,,,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1 lap,,17,,69,2,9,07-canada,,,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+1 lap,,10,,69,1,10,07-canada,,,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+1 lap,,11,,69,,11,07-canada,,,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,,15,,69,,12,07-canada,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,12,,69,,13,07-canada,,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,+1 lap,,14,,69,,14,07-canada,,,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,16,,69,,15,07-canada,,,,pirelli,2019
+williams,george-russell,63,mercedes,+2 laps,,18,,68,,16,07-canada,,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+2 laps,,PL,,68,,17,07-canada,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+3 laps,,19,,67,,18,07-canada,,,,pirelli,2019
+toro-rosso,alexander-albon,23,honda,,,13,,59,,DNF,07-canada,Collision damage,,,pirelli,2019
+mclaren,lando-norris,4,renault,,,8,,8,,DNF,07-canada,Suspension,,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,,,1,,53,25,1,08-france,,1:24:31.198,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+18.056,,2,+18.056,53,18,2,08-france,,1:24:49.254,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+18.985,,3,+0.929,53,15,3,08-france,,1:24:50.183,,pirelli,2019
+red-bull,max-verstappen,33,honda,+34.905,,4,+15.920,53,12,4,08-france,,1:25:06.103,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+1:02.796,,7,+27.891,53,11,5,08-france,,1:25:33.994,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+1:35.462,,6,+32.666,53,8,6,08-france,,1:26:06.660,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,12,,52,6,7,08-france,,,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+1 lap,,13,,52,4,8,08-france,,,,pirelli,2019
+mclaren,lando-norris,4,renault,+1 lap,,5,,52,2,9,08-france,,,,pirelli,2019
+red-bull,pierre-gasly,10,honda,+1 lap,,9,,52,1,10,08-france,,,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+1 lap,,8,,52,,11,08-france,,,10.000,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,,14,,52,,12,08-france,,,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1 lap,,17,,52,,13,08-france,,,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+1 lap,,19,,52,,14,08-france,,,,pirelli,2019
+toro-rosso,alexander-albon,23,honda,+1 lap,,11,,52,,15,08-france,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,10,,52,,16,08-france,,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+1 lap,,15,,52,,17,08-france,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+2 laps,,18,,51,,18,08-france,,,,pirelli,2019
+williams,george-russell,63,mercedes,+2 laps,,20,,51,,19,08-france,,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,,,16,,44,,DNF,08-france,Retirement,,,pirelli,2019
+red-bull,max-verstappen,33,honda,,,2,,71,26,1,09-austria,,1:22:01.822,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+2.724,,1,+2.724,71,18,2,09-austria,,1:22:04.546,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+18.960,,3,+16.236,71,15,3,09-austria,,1:22:20.782,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+19.610,,9,+0.650,71,12,4,09-austria,,1:22:21.432,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,+22.805,,4,+3.195,71,10,5,09-austria,,1:22:24.627,,pirelli,2019
+mclaren,lando-norris,4,renault,+1 lap,,5,,70,8,6,09-austria,,,,pirelli,2019
+red-bull,pierre-gasly,10,honda,+1 lap,,8,,70,6,7,09-austria,,,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+1 lap,,19,,70,4,8,09-austria,,,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,6,,70,2,9,09-austria,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,7,,70,1,10,09-austria,,,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,,13,,70,,11,09-austria,,,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+1 lap,,12,,70,,12,09-austria,,,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+1 lap,,15,,70,,13,09-austria,,,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1 lap,,14,,70,,14,09-austria,,,,pirelli,2019
+toro-rosso,alexander-albon,23,honda,+1 lap,,18,,70,,15,09-austria,,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,+1 lap,,11,,70,,16,09-austria,,,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+1 lap,,16,,70,,17,09-austria,,,,pirelli,2019
+williams,george-russell,63,mercedes,+2 laps,,PL,,69,,18,09-austria,,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+2 laps,,10,,69,,19,09-austria,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+3 laps,,17,,68,,20,09-austria,,,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,,,2,,52,26,1,10-great-britain,,1:21:08.452,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+24.928,,1,+24.928,52,18,2,10-great-britain,,1:21:33.380,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+30.117,,3,+5.189,52,15,3,10-great-britain,,1:21:38.569,,pirelli,2019
+red-bull,pierre-gasly,10,honda,+34.692,,5,+4.575,52,12,4,10-great-britain,,1:21:43.144,,pirelli,2019
+red-bull,max-verstappen,33,honda,+39.458,,4,+4.766,52,10,5,10-great-britain,,1:21:47.910,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+53.639,,13,+14.181,52,8,6,10-great-britain,,1:22:02.091,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+54.401,,7,+0.762,52,6,7,10-great-britain,,1:22:02.853,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1:05.540,,12,+11.139,52,4,8,10-great-britain,,1:22:13.992,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+1:06.720,,17,+1.180,52,2,9,10-great-britain,,1:22:15.172,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+1:12.733,,10,+6.013,52,1,10,10-great-britain,,1:22:21.185,,pirelli,2019
+mclaren,lando-norris,4,renault,+1:14.281,,8,+1.548,52,,11,10-great-britain,,1:22:22.733,,pirelli,2019
+toro-rosso,alexander-albon,23,honda,+1:15.617,,9,+1.336,52,,12,10-great-britain,,1:22:24.069,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1:21.086,,18,+5.469,52,,13,10-great-britain,,1:22:29.538,,pirelli,2019
+williams,george-russell,63,mercedes,+1 lap,,19,,51,,14,10-great-britain,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+1 lap,,20,,51,,15,10-great-britain,,,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+1 lap,,6,,51,,16,10-great-britain,,,10.000,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,,15,,51,,17,10-great-britain,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,,,11,,18,,DNF,10-great-britain,Spun off,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,,,14,,9,,DNF,10-great-britain,Collision damage,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,,,16,,6,,DNF,10-great-britain,Collision damage,,,pirelli,2019
+red-bull,max-verstappen,33,honda,,,2,,64,26,1,11-germany,,1:44:31.275,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+7.333,,20,+7.333,64,18,2,11-germany,,1:44:38.608,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+8.305,,14,+0.972,64,15,3,11-germany,,1:44:39.580,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+8.966,,15,+0.661,64,12,4,11-germany,,1:44:40.241,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+9.583,,7,+0.617,64,10,5,11-germany,,1:44:40.858,,pirelli,2019
+toro-rosso,alexander-albon,23,honda,+10.052,,16,+0.469,64,8,6,11-germany,,1:44:41.327,,pirelli,2019
+haas,romain-grosjean,8,ferrari,+16.838,,6,+6.786,64,6,7,11-germany,,1:44:48.113,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+18.765,,12,+1.927,64,4,8,11-germany,,1:44:50.040,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,+19.667,,1,+0.902,64,2,9,11-germany,,1:44:50.942,,pirelli,2019
+williams,robert-kubica,88,mercedes,+24.987,,18,+5.320,64,1,10,11-germany,,1:44:56.262,,pirelli,2019
+williams,george-russell,63,mercedes,+26.404,,17,+1.417,64,,11,11-germany,,1:44:57.679,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+42.214,,5,+15.810,64,,12,11-germany,,1:45:13.489,30.000,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+43.849,,11,+1.635,64,,13,11-germany,,1:45:15.124,30.000,pirelli,2019
+red-bull,pierre-gasly,10,honda,,,4,,61,,14,11-germany,Collision,,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,,,3,,56,,DNF,11-germany,Accident,,,pirelli,2019
+renault,nico-hulkenberg,27,renault,,,9,,39,,DNF,11-germany,Accident,,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,,,10,,27,,DNF,11-germany,Accident,,,pirelli,2019
+mclaren,lando-norris,4,renault,,,19,,25,,DNF,11-germany,Power loss,,,pirelli,2019
+renault,daniel-ricciardo,3,renault,,,13,,13,,DNF,11-germany,Exhaust,,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,,,8,,1,,DNF,11-germany,Accident,,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,,,3,,70,25,1,12-hungary,,1:35:03.796,,pirelli,2019
+red-bull,max-verstappen,33,honda,+17.796,,1,+17.796,70,19,2,12-hungary,,1:35:21.592,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+1:01.433,,5,+43.637,70,15,3,12-hungary,,1:36:05.229,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+1:05.250,,4,+3.817,70,12,4,12-hungary,,1:36:09.046,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+1 lap,,8,,69,10,5,12-hungary,,,,pirelli,2019
+red-bull,pierre-gasly,10,honda,+1 lap,,6,,69,8,6,12-hungary,,,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,10,,69,6,7,12-hungary,,,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+1 lap,,2,,69,4,8,12-hungary,,,,pirelli,2019
+mclaren,lando-norris,4,renault,+1 lap,,7,,69,2,9,12-hungary,,,,pirelli,2019
+toro-rosso,alexander-albon,23,honda,+1 lap,,12,,69,1,10,12-hungary,,,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,,16,,69,,11,12-hungary,,,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+1 lap,,11,,69,,12,12-hungary,,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+1 lap,,14,,69,,13,12-hungary,,,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+1 lap,,20,,69,,14,12-hungary,,,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+2 laps,,13,,68,,15,12-hungary,,,,pirelli,2019
+williams,george-russell,63,mercedes,+2 laps,,15,,68,,16,12-hungary,,,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+2 laps,,18,,68,,17,12-hungary,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+2 laps,,17,,68,,18,12-hungary,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+3 laps,,19,,67,,19,12-hungary,,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,,,9,,49,,DNF,12-hungary,Water pressure,,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,,,1,,44,25,1,13-belgium,,1:23:45.710,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,+0.981,,3,+0.981,44,18,2,13-belgium,,1:23:46.691,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+12.585,,4,+11.604,44,15,3,13-belgium,,1:23:58.295,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+26.422,,2,+13.837,44,13,4,13-belgium,,1:24:12.132,,pirelli,2019
+red-bull,alexander-albon,23,honda,+1:21.325,,17,+54.903,44,10,5,13-belgium,,1:25:07.035,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1:24.448,,7,+3.123,44,8,6,13-belgium,,1:25:10.158,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+1:29.657,,19,+5.209,44,6,7,13-belgium,,1:25:15.367,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+1:46.639,,12,+16.982,44,4,8,13-belgium,,1:25:32.349,,pirelli,2019
+toro-rosso,pierre-gasly,10,honda,+1:49.168,,13,+2.529,44,2,9,13-belgium,,1:25:34.878,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1:49.838,,16,+0.670,44,1,10,13-belgium,,1:25:35.548,,pirelli,2019
+mclaren,lando-norris,4,renault,,,11,,43,,11,13-belgium,Power loss,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+1 lap,,8,,43,,12,13-belgium,,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,+1 lap,,9,,43,,13,13-belgium,,,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+1 lap,,10,,43,,14,13-belgium,,,,pirelli,2019
+williams,george-russell,63,mercedes,+1 lap,,14,,43,,15,13-belgium,,,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,6,,43,,16,13-belgium,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+1 lap,,PL,,43,,17,13-belgium,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,,,18,,42,,18,13-belgium,Accident,,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,,,15,,1,,DNF,13-belgium,Power loss,,,pirelli,2019
+red-bull,max-verstappen,33,honda,,,5,,0,,DNF,13-belgium,Accident,,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,,,1,,53,25,1,14-italy,,1:15:26.665,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+0.835,,3,+0.835,53,18,2,14-italy,,1:15:27.500,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,+35.199,,2,+34.364,53,16,3,14-italy,,1:16:01.864,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+45.515,,5,+10.316,53,12,4,14-italy,,1:16:12.180,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+58.165,,6,+12.650,53,10,5,14-italy,,1:16:24.830,,pirelli,2019
+red-bull,alexander-albon,23,honda,+59.315,,8,+1.150,53,8,6,14-italy,,1:16:25.980,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1:13.802,,18,+14.487,53,6,7,14-italy,,1:16:40.467,,pirelli,2019
+red-bull,max-verstappen,33,honda,+1:14.492,,19,+0.690,53,4,8,14-italy,,1:16:41.157,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,10,,52,2,9,14-italy,,,,pirelli,2019
+mclaren,lando-norris,4,renault,+1 lap,,16,,52,1,10,14-italy,,,,pirelli,2019
+toro-rosso,pierre-gasly,10,honda,+1 lap,,17,,52,,11,14-italy,,,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1 lap,,9,,52,,12,14-italy,,,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+1 lap,,4,,52,,13,14-italy,,,,pirelli,2019
+williams,george-russell,63,mercedes,+1 lap,,14,,52,,14,14-italy,,,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,PL,,52,,15,14-italy,,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,+1 lap,,13,,52,,16,14-italy,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+2 laps,,15,,51,,17,14-italy,,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,,,11,,43,,DNF,14-italy,Hydraulics,,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,,,12,,29,,DNF,14-italy,Oil leak,,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,,,7,,27,,DNF,14-italy,Wheel,,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,,,3,,61,25,1,15-singapore,,1:58:33.667,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+2.641,,1,+2.641,61,18,2,15-singapore,,1:58:36.308,,pirelli,2019
+red-bull,max-verstappen,33,honda,+3.821,,4,+1.180,61,15,3,15-singapore,,1:58:37.488,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,+4.608,,2,+0.787,61,12,4,15-singapore,,1:58:38.275,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+6.119,,5,+1.511,61,10,5,15-singapore,,1:58:39.786,,pirelli,2019
+red-bull,alexander-albon,23,honda,+11.663,,6,+5.544,61,8,6,15-singapore,,1:58:45.330,,pirelli,2019
+mclaren,lando-norris,4,renault,+14.769,,9,+3.106,61,6,7,15-singapore,,1:58:48.436,,pirelli,2019
+toro-rosso,pierre-gasly,10,honda,+15.547,,11,+0.778,61,4,8,15-singapore,,1:58:49.214,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+16.718,,8,+1.171,61,2,9,15-singapore,,1:58:50.385,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+27.855,,10,+11.137,61,1,10,15-singapore,,1:59:01.522,10.000,pirelli,2019
+haas,romain-grosjean,8,ferrari,+35.436,,17,+7.581,61,,11,15-singapore,,1:59:09.103,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+35.974,,7,+0.538,61,,12,15-singapore,,1:59:09.641,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+36.419,,16,+0.445,61,,13,15-singapore,,1:59:10.086,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+37.660,,20,+1.241,61,,14,15-singapore,,1:59:11.327,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+38.178,,14,+0.518,61,,15,15-singapore,,1:59:11.845,,pirelli,2019
+williams,robert-kubica,88,mercedes,+47.024,,19,+8.846,61,,16,15-singapore,,1:59:20.691,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+1:26.522,,13,+39.498,61,,17,15-singapore,,2:00:0.189,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,,,12,,49,,DNF,15-singapore,Collision,,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,,,15,,42,,DNF,15-singapore,Oil leak,,,pirelli,2019
+williams,george-russell,63,mercedes,,,18,,34,,DNF,15-singapore,Collision,,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,,,2,,53,26,1,16-russia,,1:33:38.992,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+3.829,,4,+3.829,53,18,2,16-russia,,1:33:42.821,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+5.212,,1,+1.383,53,15,3,16-russia,,1:33:44.204,,pirelli,2019
+red-bull,max-verstappen,33,honda,+14.210,,9,+8.998,53,12,4,16-russia,,1:33:53.202,,pirelli,2019
+red-bull,alexander-albon,23,honda,+38.348,,PL,+24.138,53,10,5,16-russia,,1:34:17.340,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+45.889,,5,+7.541,53,8,6,16-russia,,1:34:24.881,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+48.728,,11,+2.839,53,6,7,16-russia,,1:34:27.720,,pirelli,2019
+mclaren,lando-norris,4,renault,+57.749,,7,+9.021,53,4,8,16-russia,,1:34:36.741,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+58.779,,13,+1.030,53,2,9,16-russia,,1:34:37.771,5.000,pirelli,2019
+renault,nico-hulkenberg,27,renault,+59.841,,6,+1.062,53,1,10,16-russia,,1:34:38.833,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1:00.821,,14,+0.980,53,,11,16-russia,,1:34:39.813,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+1:02.496,,19,+1.675,53,,12,16-russia,,1:34:41.488,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1:08.910,,15,+6.414,53,,13,16-russia,,1:34:47.902,,pirelli,2019
+toro-rosso,pierre-gasly,10,honda,+1:10.076,,16,+1.166,53,,14,16-russia,,1:34:49.068,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1:13.346,,12,+3.270,53,,15,16-russia,,1:34:52.338,,pirelli,2019
+williams,robert-kubica,88,mercedes,,,18,,28,,DNF,16-russia,Withdrew,,,pirelli,2019
+williams,george-russell,63,mercedes,,,17,,27,,DNF,16-russia,Wheel nut,,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,,,3,,26,,DNF,16-russia,Power loss,,,pirelli,2019
+renault,daniel-ricciardo,3,renault,,,10,,24,,DNF,16-russia,Collision damage,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,,,8,,0,,DNF,16-russia,Collision,,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,,,3,,52,25,1,17-japan,,1:21:46.755,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+13.343,,1,+13.343,52,18,2,17-japan,,1:22:00.098,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,+13.858,,4,+0.515,52,16,3,17-japan,,1:22:00.613,,pirelli,2019
+red-bull,alexander-albon,23,honda,+59.537,,6,+45.679,52,12,4,17-japan,,1:22:46.292,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+1:09.101,,7,+9.564,52,10,5,17-japan,,1:22:55.856,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+1 lap,,2,,51,8,6,17-japan,,,15.000,pirelli,2019
+toro-rosso,pierre-gasly,10,honda,+1 lap,,9,,51,6,7,17-japan,,,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,,17,,51,4,8,17-japan,,,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1 lap,,12,,51,2,9,17-japan,,,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+1 lap,,14,,51,1,10,17-japan,,,,pirelli,2019
+mclaren,lando-norris,4,renault,+1 lap,,8,,51,,11,17-japan,,,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,13,,51,,12,17-japan,,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,+1 lap,,10,,51,,13,17-japan,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,11,,51,,14,17-japan,,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+1 lap,,19,,51,,15,17-japan,,,,pirelli,2019
+williams,george-russell,63,mercedes,+2 laps,,18,,50,,16,17-japan,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+2 laps,,PL,,50,,17,17-japan,,,,pirelli,2019
+red-bull,max-verstappen,33,honda,,,5,,14,,DNF,17-japan,Collision damage,,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+1 lap,,16,,51,,DSQ,17-japan,Brake bias,,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+1 lap,,15,,51,,DSQ,17-japan,Brake bias,,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,,,3,,71,25,1,18-mexico,,1:36:48.904,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+1.766,,2,+1.766,71,18,2,18-mexico,,1:36:50.670,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+3.553,,6,+1.787,71,15,3,18-mexico,,1:36:52.457,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+6.368,,1,+2.815,71,13,4,18-mexico,,1:36:55.272,,pirelli,2019
+red-bull,alexander-albon,23,honda,+21.399,,5,+15.031,71,10,5,18-mexico,,1:37:10.303,,pirelli,2019
+red-bull,max-verstappen,33,honda,+1:08.807,,4,+47.408,71,8,6,18-mexico,,1:37:57.711,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1:13.819,,11,+5.012,71,6,7,18-mexico,,1:38:02.723,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+1:14.924,,13,+1.105,71,4,8,18-mexico,,1:38:03.828,,pirelli,2019
+toro-rosso,pierre-gasly,10,honda,+1 lap,,10,,70,2,9,18-mexico,,,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+1 lap,,12,,70,1,10,18-mexico,,,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+1 lap,,9,,70,,11,18-mexico,,,10.000,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1 lap,,16,,70,,12,18-mexico,,,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+1 lap,,7,,70,,13,18-mexico,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,15,,70,,14,18-mexico,,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+2 laps,,17,,69,,15,18-mexico,,,,pirelli,2019
+williams,george-russell,63,mercedes,+2 laps,,19,,69,,16,18-mexico,,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,+2 laps,,18,,69,,17,18-mexico,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+2 laps,,20,,69,,18,18-mexico,,,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,,,14,,58,,DNF,18-mexico,Overheating,,,pirelli,2019
+mclaren,lando-norris,4,renault,,,8,,48,,DNF,18-mexico,Withdrew,,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,,,1,,56,25,1,19-united-states,,1:33:55.653,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,+4.148,,5,+4.148,56,18,2,19-united-states,,1:33:59.801,,pirelli,2019
+red-bull,max-verstappen,33,honda,+5.002,,3,+0.854,56,15,3,19-united-states,,1:34:00.655,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+52.239,,4,+47.237,56,13,4,19-united-states,,1:34:47.892,,pirelli,2019
+red-bull,alexander-albon,23,honda,+1:18.038,,6,+25.799,56,10,5,19-united-states,,1:35:13.691,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+1:30.366,,9,+12.328,56,8,6,19-united-states,,1:35:26.019,,pirelli,2019
+mclaren,lando-norris,4,renault,+1:30.764,,8,+0.398,56,6,7,19-united-states,,1:35:26.417,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+1 lap,,7,,55,4,8,19-united-states,,,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+1 lap,,11,,55,2,9,19-united-states,,,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,,PL,,55,1,10,19-united-states,,,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,17,,55,,11,19-united-states,,,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+1 lap,,13,,55,,12,19-united-states,,,5.000,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,+1 lap,,14,,55,,13,19-united-states,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,16,,55,,14,19-united-states,,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,+1 lap,,15,,55,,15,19-united-states,,,,pirelli,2019
+toro-rosso,pierre-gasly,10,honda,,,10,,54,,16,19-united-states,Suspension,,,pirelli,2019
+williams,george-russell,63,mercedes,+2 laps,,18,,54,,17,19-united-states,,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,,,12,,52,,18,19-united-states,Brakes,,,pirelli,2019
+williams,robert-kubica,88,mercedes,,,19,,31,,DNF,19-united-states,Oil leak,,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,,,2,,7,,DNF,19-united-states,Suspension,,,pirelli,2019
+red-bull,max-verstappen,33,honda,,,1,,71,25,1,20-brazil,,1:33:14.678,,pirelli,2019
+toro-rosso,pierre-gasly,10,honda,+6.077,,6,+6.077,71,18,2,20-brazil,,1:33:20.755,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+8.896,,20,+2.819,71,15,3,20-brazil,,1:33:23.574,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+9.452,,8,+0.556,71,12,4,20-brazil,,1:33:24.130,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+10.201,,12,+0.749,71,10,5,20-brazil,,1:33:24.879,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+10.541,,11,+0.340,71,8,6,20-brazil,,1:33:25.219,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,+11.139,,3,+0.598,71,6,7,20-brazil,,1:33:25.817,5.000,pirelli,2019
+mclaren,lando-norris,4,renault,+11.204,,10,+0.065,71,4,8,20-brazil,,1:33:25.882,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+11.529,,15,+0.325,71,2,9,20-brazil,,1:33:26.207,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+11.931,,16,+0.402,71,1,10,20-brazil,,1:33:26.609,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+12.732,,9,+0.801,71,,11,20-brazil,,1:33:27.410,,pirelli,2019
+williams,george-russell,63,mercedes,+13.599,,18,+0.867,71,,12,20-brazil,,1:33:28.277,,pirelli,2019
+haas,romain-grosjean,8,ferrari,+14.247,,7,+0.648,71,,13,20-brazil,,1:33:28.925,,pirelli,2019
+red-bull,alexander-albon,23,honda,+14.927,,5,+0.680,71,,14,20-brazil,,1:33:29.605,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+18.059,,13,+3.132,71,,15,20-brazil,,1:33:32.737,5.000,pirelli,2019
+williams,robert-kubica,88,mercedes,+1 lap,,19,,70,,16,20-brazil,,,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,,,2,,65,,17,20-brazil,Collision,,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,,,14,,65,,18,20-brazil,Collision,,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,,,17,,65,,19,20-brazil,Suspension,,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,,,4,,51,,DNF,20-brazil,Oil pressure,,,pirelli,2019
+mercedes,lewis-hamilton,44,mercedes,,True,1,,55,26,1,21-abu-dhabi,,1:34:05.715,,pirelli,2019
+red-bull,max-verstappen,33,honda,+16.772,,2,+16.772,55,18,2,21-abu-dhabi,,1:34:22.487,,pirelli,2019
+ferrari,charles-leclerc,16,ferrari,+43.435,,3,+26.663,55,15,3,21-abu-dhabi,,1:34:49.150,,pirelli,2019
+mercedes,valtteri-bottas,77,mercedes,+44.379,,20,+0.944,55,12,4,21-abu-dhabi,,1:34:50.094,,pirelli,2019
+ferrari,sebastian-vettel,5,ferrari,+1:04.357,,4,+19.978,55,10,5,21-abu-dhabi,,1:35:10.072,,pirelli,2019
+red-bull,alexander-albon,23,honda,+1:09.205,,5,+4.848,55,8,6,21-abu-dhabi,,1:35:14.920,,pirelli,2019
+racing-point,sergio-perez,11,bwt-mercedes,+1 lap,,10,,54,6,7,21-abu-dhabi,,,,pirelli,2019
+mclaren,lando-norris,4,renault,+1 lap,,6,,54,4,8,21-abu-dhabi,,,,pirelli,2019
+toro-rosso,daniil-kvyat,26,honda,+1 lap,,13,,54,2,9,21-abu-dhabi,,,,pirelli,2019
+mclaren,carlos-sainz-jr,55,renault,+1 lap,,8,,54,1,10,21-abu-dhabi,,,,pirelli,2019
+renault,daniel-ricciardo,3,renault,+1 lap,,7,,54,,11,21-abu-dhabi,,,,pirelli,2019
+renault,nico-hulkenberg,27,renault,+1 lap,,9,,54,,12,21-abu-dhabi,,,,pirelli,2019
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,17,,54,,13,21-abu-dhabi,,,,pirelli,2019
+haas,kevin-magnussen,20,ferrari,+1 lap,,14,,54,,14,21-abu-dhabi,,,,pirelli,2019
+haas,romain-grosjean,8,ferrari,+1 lap,,15,,54,,15,21-abu-dhabi,,,,pirelli,2019
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,16,,54,,16,21-abu-dhabi,,,,pirelli,2019
+williams,george-russell,63,mercedes,+1 lap,,18,,54,,17,21-abu-dhabi,,,,pirelli,2019
+toro-rosso,pierre-gasly,10,honda,+2 laps,,11,,53,,18,21-abu-dhabi,,,,pirelli,2019
+williams,robert-kubica,88,mercedes,+2 laps,,19,,53,,19,21-abu-dhabi,,,,pirelli,2019
+racing-point,lance-stroll,18,bwt-mercedes,,,12,,45,,DNF,21-abu-dhabi,Brakes,,,pirelli,2019

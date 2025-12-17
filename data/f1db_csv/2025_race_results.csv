@@ -1,0 +1,481 @@
+constructorId,driverId,driverNumber,engineManufacturerId,gap,grandSlam,gridPosition,interval,laps,points,position,race,reasonRetired,time,timePenalty,tyreManufacturerId,year
+mclaren,lando-norris,4,mercedes,,,1,,57,25,1,01-australia,,1:42:06.304,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+0.895,,3,+0.895,57,18,2,01-australia,,1:42:07.199,,pirelli,2025
+mercedes,george-russell,63,mercedes,+8.481,,4,+7.586,57,15,3,01-australia,,1:42:14.785,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+10.135,,16,+1.654,57,12,4,01-australia,,1:42:16.439,,pirelli,2025
+williams,alexander-albon,23,mercedes,+12.773,,6,+2.638,57,10,5,01-australia,,1:42:19.077,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+17.413,,13,+4.640,57,8,6,01-australia,,1:42:23.717,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+18.423,,17,+1.010,57,6,7,01-australia,,1:42:24.727,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+19.826,,7,+1.403,57,4,8,01-australia,,1:42:26.130,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+20.448,,2,+0.622,57,2,9,01-australia,,1:42:26.752,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+22.473,,8,+2.025,57,1,10,01-australia,,1:42:28.777,,pirelli,2025
+alpine,pierre-gasly,10,renault,+26.502,,9,+4.029,57,,11,01-australia,,1:42:32.806,,pirelli,2025
+racing-bulls,yuki-tsunoda,22,honda-rbpt,+29.884,,5,+3.382,57,,12,01-australia,,1:42:36.188,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+33.161,,19,+3.277,57,,13,01-australia,,1:42:39.465,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+40.351,,PL,+7.190,57,,14,01-australia,,1:42:46.655,,pirelli,2025
+red-bull,liam-lawson,30,honda-rbpt,,,PL,,46,,DNF,01-australia,Accident,,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,,,15,,45,,DNF,01-australia,Accident,,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,,,12,,32,,DNF,01-australia,Accident,,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,,,10,,0,,DNF,01-australia,Accident,,,pirelli,2025
+alpine,jack-doohan,7,renault,,,14,,0,,DNF,01-australia,Accident,,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,,,11,,0,,DNF,01-australia,Accident on formation lap,,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,,,1,,56,25,1,02-china,,1:30:55.026,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+9.748,,3,+9.748,56,18,2,02-china,,1:31:04.774,,pirelli,2025
+mercedes,george-russell,63,mercedes,+11.097,,2,+1.349,56,15,3,02-china,,1:31:06.123,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+16.656,,4,+5.559,56,12,4,02-china,,1:31:11.682,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+49.969,,11,+33.313,56,10,5,02-china,,1:31:44.995,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+53.748,,8,+3.779,56,8,6,02-china,,1:31:48.774,,pirelli,2025
+williams,alexander-albon,23,mercedes,+56.321,,10,+2.573,56,6,7,02-china,,1:31:51.347,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+1:01.303,,17,+4.982,56,4,8,02-china,,1:31:56.329,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1:10.204,,14,+8.901,56,2,9,02-china,,1:32:05.230,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+1:16.387,,15,+6.183,56,1,10,02-china,,1:32:11.413,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+1:18.875,,7,+2.488,56,,11,02-china,,1:32:13.901,,pirelli,2025
+red-bull,liam-lawson,30,honda-rbpt,+1:21.147,,PL,+2.272,56,,12,02-china,,1:32:16.173,,pirelli,2025
+alpine,jack-doohan,7,renault,+1:28.401,,18,+7.254,56,,13,02-china,,1:32:23.427,10.000,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+1 lap,,19,,55,,14,02-china,,,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+1 lap,,12,,55,,15,02-china,,,,pirelli,2025
+racing-bulls,yuki-tsunoda,22,honda-rbpt,+1 lap,,9,,55,,16,02-china,,,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,,,13,,4,,DNF,02-china,Brakes,,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,,,6,,56,,DSQ,02-china,Car underweight,,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,,,5,,56,,DSQ,02-china,Illegal skid block wear,,,pirelli,2025
+alpine,pierre-gasly,10,renault,,,16,,56,,DSQ,02-china,Car underweight,,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,,,1,,53,25,1,03-japan,,1:22:06.983,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+1.423,,2,+1.423,53,18,2,03-japan,,1:22:08.406,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+2.129,,3,+0.706,53,15,3,03-japan,,1:22:09.112,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+16.097,,4,+13.968,53,12,4,03-japan,,1:22:23.080,,pirelli,2025
+mercedes,george-russell,63,mercedes,+17.362,,5,+1.265,53,10,5,03-japan,,1:22:24.345,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+18.671,,6,+1.309,53,8,6,03-japan,,1:22:25.654,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+29.182,,8,+10.511,53,6,7,03-japan,,1:22:36.165,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+37.134,,7,+7.952,53,4,8,03-japan,,1:22:44.117,,pirelli,2025
+williams,alexander-albon,23,mercedes,+40.367,,9,+3.233,53,2,9,03-japan,,1:22:47.350,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+54.529,,10,+14.162,53,1,10,03-japan,,1:23:01.512,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+57.333,,12,+2.804,53,,11,03-japan,,1:23:04.316,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+58.401,,14,+1.068,53,,12,03-japan,,1:23:05.384,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1:02.122,,11,+3.721,53,,13,03-japan,,1:23:09.105,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+1:14.129,,15,+12.007,53,,14,03-japan,,1:23:21.112,,pirelli,2025
+alpine,jack-doohan,7,renault,+1:21.314,,19,+7.185,53,,15,03-japan,,1:23:28.297,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+1:21.957,,16,+0.643,53,,16,03-japan,,1:23:28.940,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+1:22.734,,13,+0.777,53,,17,03-japan,,1:23:29.717,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1:23.438,,18,+0.704,53,,18,03-japan,,1:23:30.421,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+1:23.897,,17,+0.459,53,,19,03-japan,,1:23:30.880,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1 lap,,20,,52,,20,03-japan,,,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,,True,1,,57,25,1,04-bahrain,,1:35:39.435,,pirelli,2025
+mercedes,george-russell,63,mercedes,+15.499,,3,+15.499,57,18,2,04-bahrain,,1:35:54.934,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+16.273,,6,+0.774,57,15,3,04-bahrain,,1:35:55.708,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+19.679,,2,+3.406,57,12,4,04-bahrain,,1:35:59.114,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+27.993,,9,+8.314,57,10,5,04-bahrain,,1:36:07.428,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+34.395,,7,+6.402,57,8,6,04-bahrain,,1:36:13.830,,pirelli,2025
+alpine,pierre-gasly,10,renault,+36.002,,4,+1.607,57,6,7,04-bahrain,,1:36:15.437,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+44.244,,14,+8.242,57,4,8,04-bahrain,,1:36:23.679,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+45.061,,10,+0.817,57,2,9,04-bahrain,,1:36:24.496,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+47.594,,20,+2.533,57,1,10,04-bahrain,,1:36:27.029,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+48.016,,5,+0.422,57,,11,04-bahrain,,1:36:27.451,,pirelli,2025
+williams,alexander-albon,23,mercedes,+48.839,,15,+0.823,57,,12,04-bahrain,,1:36:28.274,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+56.314,,12,+7.475,57,,13,04-bahrain,,1:36:35.749,,pirelli,2025
+alpine,jack-doohan,7,renault,+57.806,,11,+1.492,57,,14,04-bahrain,,1:36:37.241,5.000,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+1:00.340,,13,+2.534,57,,15,04-bahrain,,1:36:39.775,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+1:04.435,,17,+4.095,57,,16,04-bahrain,,1:36:43.870,15.000,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1:05.489,,19,+1.054,57,,17,04-bahrain,,1:36:44.924,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+1:06.872,,18,+1.383,57,,18,04-bahrain,,1:36:46.307,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,,,8,,45,,DNF,04-bahrain,Collision damage,,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,,,16,,,,DSQ,04-bahrain,Illegal skid block wear,,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,,,2,,50,25,1,05-saudi-arabia,,1:21:06.758,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+2.843,,1,+2.843,50,18,2,05-saudi-arabia,,1:21:09.601,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+8.104,,4,+5.261,50,15,3,05-saudi-arabia,,1:21:14.862,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+9.196,,10,+1.092,50,12,4,05-saudi-arabia,,1:21:15.954,,pirelli,2025
+mercedes,george-russell,63,mercedes,+27.236,,3,+18.040,50,10,5,05-saudi-arabia,,1:21:33.994,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+34.688,,5,+7.452,50,8,6,05-saudi-arabia,,1:21:41.446,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+39.073,,7,+4.385,50,6,7,05-saudi-arabia,,1:21:45.831,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+1:04.630,,6,+25.557,50,4,8,05-saudi-arabia,,1:22:11.388,,pirelli,2025
+williams,alexander-albon,23,mercedes,+1:06.515,,11,+1.885,50,2,9,05-saudi-arabia,,1:22:13.273,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+1:07.091,,14,+0.576,50,1,10,05-saudi-arabia,,1:22:13.849,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+1:15.917,,13,+8.826,50,,11,05-saudi-arabia,,1:22:22.675,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+1:18.451,,12,+2.534,50,,12,05-saudi-arabia,,1:22:25.209,10.000,pirelli,2025
+haas,oliver-bearman,87,ferrari,+1:19.194,,15,+0.743,50,,13,05-saudi-arabia,,1:22:25.952,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1:39.723,,19,+20.529,50,,14,05-saudi-arabia,,1:22:46.481,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+1 lap,,18,,49,,15,05-saudi-arabia,,,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1 lap,,16,,49,,16,05-saudi-arabia,,,,pirelli,2025
+alpine,jack-doohan,7,renault,+1 lap,,17,,49,,17,05-saudi-arabia,,,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+1 lap,,20,,49,,18,05-saudi-arabia,,,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,,,8,,1,,DNF,05-saudi-arabia,Collision damage,,,pirelli,2025
+alpine,pierre-gasly,10,renault,,,9,,0,,DNF,05-saudi-arabia,Collision,,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,,,4,,57,25,1,06-miami,,1:28:51.587,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+4.630,,2,+4.630,57,18,2,06-miami,,1:28:56.217,,pirelli,2025
+mercedes,george-russell,63,mercedes,+37.644,,5,+33.014,57,15,3,06-miami,,1:29:29.231,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+39.956,,1,+2.312,57,12,4,06-miami,,1:29:31.543,,pirelli,2025
+williams,alexander-albon,23,mercedes,+48.067,,7,+8.111,57,10,5,06-miami,,1:29:39.654,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+55.502,,3,+7.435,57,8,6,06-miami,,1:29:47.089,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+57.036,,8,+1.534,57,6,7,06-miami,,1:29:48.623,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+1:00.186,,12,+3.150,57,4,8,06-miami,,1:29:51.773,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+1:00.577,,6,+0.391,57,2,9,06-miami,,1:29:52.164,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+1:14.434,,10,+13.857,57,1,10,06-miami,,1:30:06.021,5.000,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+1:14.602,,11,+0.168,57,,11,06-miami,,1:30:06.189,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1:22.006,,9,+7.404,57,,12,06-miami,,1:30:13.593,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1:30.445,,PL,+8.439,57,,13,06-miami,,1:30:22.032,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+1 lap,,16,,56,,14,06-miami,,,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+1 lap,,17,,56,,15,06-miami,,,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1 lap,,18,,56,,16,06-miami,,,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,,,15,,36,,DNF,06-miami,Collision damage,,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,,,13,,30,,DNF,06-miami,Engine,,,pirelli,2025
+haas,oliver-bearman,87,ferrari,,,19,,27,,DNF,06-miami,Fuel system,,,pirelli,2025
+alpine,jack-doohan,7,renault,,,14,,0,,DNF,06-miami,Collision,,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,,,2,,63,25,1,07-emilia-romagna,,1:31:33.199,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+6.109,,4,+6.109,63,18,2,07-emilia-romagna,,1:31:39.308,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+12.956,,1,+6.847,63,15,3,07-emilia-romagna,,1:31:46.155,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+14.356,,12,+1.400,63,12,4,07-emilia-romagna,,1:31:47.555,,pirelli,2025
+williams,alexander-albon,23,mercedes,+17.945,,7,+3.589,63,10,5,07-emilia-romagna,,1:31:51.144,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+20.774,,11,+2.829,63,8,6,07-emilia-romagna,,1:31:53.973,,pirelli,2025
+mercedes,george-russell,63,mercedes,+22.034,,3,+1.260,63,6,7,07-emilia-romagna,,1:31:55.233,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+22.898,,6,+0.864,63,4,8,07-emilia-romagna,,1:31:56.097,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+23.586,,9,+0.688,63,2,9,07-emilia-romagna,,1:31:56.785,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+26.446,,PL,+2.860,63,1,10,07-emilia-romagna,,1:31:59.645,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+27.250,,5,+0.804,63,,11,07-emilia-romagna,,1:32:00.449,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+30.296,,17,+3.046,63,,12,07-emilia-romagna,,1:32:03.495,,pirelli,2025
+alpine,pierre-gasly,10,renault,+31.424,,10,+1.128,63,,13,07-emilia-romagna,,1:32:04.623,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+32.511,,15,+1.087,63,,14,07-emilia-romagna,,1:32:05.710,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+32.993,,8,+0.482,63,,15,07-emilia-romagna,,1:32:06.192,,pirelli,2025
+alpine,franco-colapinto,43,renault,+33.411,,16,+0.418,63,,16,07-emilia-romagna,,1:32:06.610,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+33.808,,19,+0.397,63,,17,07-emilia-romagna,,1:32:07.007,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+38.572,,14,+4.764,63,,18,07-emilia-romagna,,1:32:11.771,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,,,13,,44,,DNF,07-emilia-romagna,Throttle,,,pirelli,2025
+haas,esteban-ocon,31,ferrari,,,18,,27,,DNF,07-emilia-romagna,Engine,,,pirelli,2025
+mclaren,lando-norris,4,mercedes,,,1,,78,25,1,08-monaco,,1:40:33.843,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+3.131,,2,+3.131,78,18,2,08-monaco,,1:40:36.974,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+3.658,,3,+0.527,78,15,3,08-monaco,,1:40:37.501,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+20.572,,4,+16.914,78,12,4,08-monaco,,1:40:54.415,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+51.387,,7,+30.815,78,10,5,08-monaco,,1:41:25.230,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+1 lap,,5,,77,8,6,08-monaco,,,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1 lap,,8,,77,6,7,08-monaco,,,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+1 lap,,9,,77,4,8,08-monaco,,,,pirelli,2025
+williams,alexander-albon,23,mercedes,+2 laps,,10,,76,2,9,08-monaco,,,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+2 laps,,11,,76,1,10,08-monaco,,,,pirelli,2025
+mercedes,george-russell,63,mercedes,+2 laps,,14,,76,,11,08-monaco,,,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+2 laps,,20,,76,,12,08-monaco,,,,pirelli,2025
+alpine,franco-colapinto,43,renault,+2 laps,,18,,76,,13,08-monaco,,,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+2 laps,,16,,76,,14,08-monaco,,,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+2 laps,,19,,76,,15,08-monaco,,,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+2 laps,,13,,76,,16,08-monaco,,,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+2 laps,,12,,76,,17,08-monaco,,,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+3 laps,,15,,75,,18,08-monaco,,,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,,,6,,36,,DNF,08-monaco,Engine,,,pirelli,2025
+alpine,pierre-gasly,10,renault,,,17,,7,,DNF,08-monaco,Collision damage,,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,,,1,,66,25,1,09-spain,,1:32:57.375,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+2.471,,2,+2.471,66,18,2,09-spain,,1:32:59.846,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+10.455,,7,+7.984,66,15,3,09-spain,,1:33:07.830,,pirelli,2025
+mercedes,george-russell,63,mercedes,+11.359,,4,+0.904,66,12,4,09-spain,,1:33:08.734,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+13.648,,15,+2.289,66,10,5,09-spain,,1:33:11.023,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+15.508,,5,+1.860,66,8,6,09-spain,,1:33:12.883,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+16.022,,9,+0.514,66,6,7,09-spain,,1:33:13.397,,pirelli,2025
+alpine,pierre-gasly,10,renault,+17.882,,8,+1.860,66,4,8,09-spain,,1:33:15.257,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+21.564,,10,+3.682,66,2,9,09-spain,,1:33:18.939,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+21.826,,3,+0.262,66,1,10,09-spain,,1:33:19.201,10.000,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+25.532,,13,+3.706,66,,11,09-spain,,1:33:22.907,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+25.996,,12,+0.464,66,,12,09-spain,,1:33:23.371,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+28.822,,PL,+2.826,66,,13,09-spain,,1:33:26.197,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+29.309,,17,+0.487,66,,14,09-spain,,1:33:26.684,,pirelli,2025
+alpine,franco-colapinto,43,renault,+31.381,,18,+2.072,66,,15,09-spain,,1:33:28.756,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+32.197,,16,+0.816,66,,16,09-spain,,1:33:29.572,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+37.065,,14,+4.868,66,,17,09-spain,,1:33:34.440,10.000,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,,,6,,53,,DNF,09-spain,Oil pressure,,,pirelli,2025
+williams,alexander-albon,23,mercedes,,,11,,27,,DNF,09-spain,,,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,,,,,,,DNS,09-spain,Injury,,,pirelli,2025
+mercedes,george-russell,63,mercedes,,,1,,70,25,1,10-canada,,1:31:52.688,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+0.228,,2,+0.228,70,18,2,10-canada,,1:31:52.916,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+1.014,,4,+0.786,70,15,3,10-canada,,1:31:53.702,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+2.109,,3,+1.095,70,12,4,10-canada,,1:31:54.797,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+3.442,,8,+1.333,70,10,5,10-canada,,1:31:56.130,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+10.713,,5,+7.271,70,8,6,10-canada,,1:32:03.401,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+10.972,,6,+0.259,70,6,7,10-canada,,1:32:03.660,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+15.364,,11,+4.392,70,4,8,10-canada,,1:32:08.052,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1 lap,,14,,69,2,9,10-canada,,,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+1 lap,,16,,69,1,10,10-canada,,,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+1 lap,,13,,69,,11,10-canada,,,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+1 lap,,18,,69,,12,10-canada,,,,pirelli,2025
+alpine,franco-colapinto,43,renault,+1 lap,,10,,69,,13,10-canada,,,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+1 lap,,15,,69,,14,10-canada,,,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1 lap,,PL,,69,,15,10-canada,,,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+1 lap,,12,,69,,16,10-canada,,,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1 lap,,17,,69,,17,10-canada,,,,pirelli,2025
+mclaren,lando-norris,4,mercedes,,,7,,66,,18,10-canada,Collision,,5.000,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,,,PL,,53,,DNF,10-canada,Overheating,,,pirelli,2025
+williams,alexander-albon,23,mercedes,,,9,,46,,DNF,10-canada,Engine,,,pirelli,2025
+mclaren,lando-norris,4,mercedes,,,1,,70,25,1,11-austria,,1:23:47.693,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+2.695,,3,+2.695,70,18,2,11-austria,,1:23:50.388,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+19.820,,2,+17.125,70,15,3,11-austria,,1:24:07.513,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+29.020,,4,+9.200,70,12,4,11-austria,,1:24:16.713,,pirelli,2025
+mercedes,george-russell,63,mercedes,+1:02.396,,5,+33.376,70,10,5,11-austria,,1:24:50.089,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+1:07.754,,6,+5.358,70,8,6,11-austria,,1:24:55.447,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+1 lap,,11,,69,6,7,11-austria,,,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+1 lap,,8,,69,4,8,11-austria,,,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+1 lap,,20,,69,2,9,11-austria,,,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1 lap,,17,,69,1,10,11-austria,,,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+1 lap,,15,,69,,11,11-austria,,,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+1 lap,,13,,69,,12,11-austria,,,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1 lap,,10,,69,,13,11-austria,,,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1 lap,,16,,69,,14,11-austria,,,,pirelli,2025
+alpine,franco-colapinto,43,renault,+1 lap,,14,,69,,15,11-austria,,,5.000,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+2 laps,,18,,68,,16,11-austria,,,,pirelli,2025
+williams,alexander-albon,23,mercedes,,,12,,15,,DNF,11-austria,Engine,,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,,,7,,0,,DNF,11-austria,Collision,,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,,,9,,0,,DNF,11-austria,Collision,,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,,,,,,,DNS,11-austria,Brakes,,,pirelli,2025
+mclaren,lando-norris,4,mercedes,,,3,,52,25,1,12-great-britain,,1:37:15.735,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+6.812,,2,+6.812,52,18,2,12-great-britain,,1:37:22.547,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+34.742,,19,+27.930,52,15,3,12-great-britain,,1:37:50.477,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+39.812,,5,+5.070,52,12,4,12-great-britain,,1:37:55.547,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+56.781,,1,+16.969,52,10,5,12-great-britain,,1:38:12.516,,pirelli,2025
+alpine,pierre-gasly,10,renault,+59.857,,8,+3.076,52,8,6,12-great-britain,,1:38:15.592,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1:00.603,,17,+0.746,52,6,7,12-great-britain,,1:38:16.338,,pirelli,2025
+williams,alexander-albon,23,mercedes,+1:04.135,,13,+3.532,52,4,8,12-great-britain,,1:38:19.870,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+1:05.858,,7,+1.723,52,2,9,12-great-britain,,1:38:21.593,,pirelli,2025
+mercedes,george-russell,63,mercedes,+1:10.674,,4,+4.816,52,1,10,12-great-britain,,1:38:26.409,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+1:12.095,,18,+1.421,52,,11,12-great-britain,,1:38:27.830,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+1:16.592,,9,+4.497,52,,12,12-great-britain,,1:38:32.327,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1:17.301,,14,+0.709,52,,13,12-great-britain,,1:38:33.036,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+1:24.477,,6,+7.176,52,,14,12-great-britain,,1:38:40.212,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+1 lap,,11,,51,,15,12-great-britain,,,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,,,10,,23,,DNF,12-great-britain,Collision damage,,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,,,12,,17,,DNF,12-great-britain,Accident,,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,,,16,,3,,DNF,12-great-britain,Accident,,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,,,15,,0,,DNF,12-great-britain,Collision,,,pirelli,2025
+alpine,franco-colapinto,43,renault,,,PL,,,,DNS,12-great-britain,Transmission,,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,,,2,,44,25,1,13-belgium,,1:25:22.601,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+3.415,,1,+3.415,44,18,2,13-belgium,,1:25:26.016,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+20.185,,3,+16.770,44,15,3,13-belgium,,1:25:42.786,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+21.731,,4,+1.546,44,12,4,13-belgium,,1:25:44.332,,pirelli,2025
+mercedes,george-russell,63,mercedes,+34.863,,6,+13.132,44,10,5,13-belgium,,1:25:57.464,,pirelli,2025
+williams,alexander-albon,23,mercedes,+39.926,,5,+5.063,44,8,6,13-belgium,,1:26:02.527,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+40.679,,PL,+0.753,44,6,7,13-belgium,,1:26:03.280,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+52.033,,9,+11.354,44,4,8,13-belgium,,1:26:14.634,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+56.434,,10,+4.401,44,2,9,13-belgium,,1:26:19.035,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1:12.714,,13,+16.280,44,1,10,13-belgium,,1:26:35.315,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+1:13.145,,12,+0.431,44,,11,13-belgium,,1:26:35.746,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+1:13.628,,14,+0.483,44,,12,13-belgium,,1:26:36.229,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+1:15.395,,7,+1.767,44,,13,13-belgium,,1:26:37.996,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1:19.831,,16,+4.436,44,,14,13-belgium,,1:26:42.432,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1:26.063,,11,+6.232,44,,15,13-belgium,,1:26:48.664,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+1:26.721,,PL,+0.658,44,,16,13-belgium,,1:26:49.322,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+1:27.924,,PL,+1.203,44,,17,13-belgium,,1:26:50.525,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+1:32.024,,PL,+4.100,44,,18,13-belgium,,1:26:54.625,,pirelli,2025
+alpine,franco-colapinto,43,renault,+1:35.250,,15,+3.226,44,,19,13-belgium,,1:26:57.851,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+1 lap,,8,,43,,20,13-belgium,,,,pirelli,2025
+mclaren,lando-norris,4,mercedes,,,3,,70,25,1,14-hungary,,1:35:21.231,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+0.698,,2,+0.698,70,18,2,14-hungary,,1:35:21.929,,pirelli,2025
+mercedes,george-russell,63,mercedes,+21.916,,4,+21.218,70,15,3,14-hungary,,1:35:43.147,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+42.560,,1,+20.644,70,12,4,14-hungary,,1:36:03.791,5.000,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+59.040,,5,+16.480,70,10,5,14-hungary,,1:36:20.271,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+1:06.169,,7,+7.129,70,8,6,14-hungary,,1:36:27.400,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1:08.174,,6,+2.005,70,6,7,14-hungary,,1:36:29.405,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+1:09.451,,9,+1.277,70,4,8,14-hungary,,1:36:30.682,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+1:12.645,,8,+3.194,70,2,9,14-hungary,,1:36:33.876,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+1 lap,,15,,69,1,10,14-hungary,,,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+1 lap,,10,,69,,11,14-hungary,,,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+1 lap,,12,,69,,12,14-hungary,,,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+1 lap,,18,,69,,13,14-hungary,,,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+1 lap,,13,,69,,14,14-hungary,,,,pirelli,2025
+williams,alexander-albon,23,mercedes,+1 lap,,19,,69,,15,14-hungary,,,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1 lap,,17,,69,,16,14-hungary,,,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+1 lap,,PL,,69,,17,14-hungary,,,,pirelli,2025
+alpine,franco-colapinto,43,renault,+1 lap,,14,,69,,18,14-hungary,,,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1 lap,,16,,69,,19,14-hungary,,,10.000,pirelli,2025
+haas,oliver-bearman,87,ferrari,,,11,,48,,DNF,14-hungary,Undertray,,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,,True,1,,72,25,1,15-netherlands,,1:38:29.849,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+1.271,,3,+1.271,72,18,2,15-netherlands,,1:38:31.120,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+3.233,,4,+1.962,72,15,3,15-netherlands,,1:38:33.082,,pirelli,2025
+mercedes,george-russell,63,mercedes,+5.654,,5,+2.421,72,12,4,15-netherlands,,1:38:35.503,,pirelli,2025
+williams,alexander-albon,23,mercedes,+6.327,,15,+0.673,72,10,5,15-netherlands,,1:38:36.176,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+9.044,,PL,+2.717,72,8,6,15-netherlands,,1:38:38.893,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+9.497,,19,+0.453,72,6,7,15-netherlands,,1:38:39.346,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+11.709,,10,+2.212,72,4,8,15-netherlands,,1:38:41.558,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+13.597,,12,+1.888,72,2,9,15-netherlands,,1:38:43.446,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+14.063,,18,+0.466,72,1,10,15-netherlands,,1:38:43.912,,pirelli,2025
+alpine,franco-colapinto,43,renault,+14.511,,16,+0.448,72,,11,15-netherlands,,1:38:44.360,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+17.063,,8,+2.552,72,,12,15-netherlands,,1:38:46.912,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+17.376,,9,+0.313,72,,13,15-netherlands,,1:38:47.225,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+19.725,,17,+2.349,72,,14,15-netherlands,,1:38:49.574,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+21.565,,13,+1.840,72,,15,15-netherlands,,1:38:51.414,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+22.029,,11,+0.464,72,,16,15-netherlands,,1:38:51.878,15.000,pirelli,2025
+alpine,pierre-gasly,10,renault,+23.629,,14,+1.600,72,,17,15-netherlands,,1:38:53.478,,pirelli,2025
+mclaren,lando-norris,4,mercedes,,,2,,64,,18,15-netherlands,Chassis,,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,,,6,,52,,DNF,15-netherlands,Collision,,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,,,7,,22,,DNF,15-netherlands,Accident,,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,,,1,,53,25,1,16-italy,,1:13:24.325,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+19.207,,2,+19.207,53,18,2,16-italy,,1:13:43.532,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+21.351,,3,+2.144,53,15,3,16-italy,,1:13:45.676,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+25.624,,4,+4.273,53,12,4,16-italy,,1:13:49.949,,pirelli,2025
+mercedes,george-russell,63,mercedes,+32.881,,5,+7.257,53,10,5,16-italy,,1:13:57.206,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+37.449,,10,+4.568,53,8,6,16-italy,,1:14:01.774,,pirelli,2025
+williams,alexander-albon,23,mercedes,+50.537,,14,+13.088,53,6,7,16-italy,,1:14:14.862,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+58.484,,7,+7.947,53,4,8,16-italy,,1:14:22.809,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+59.762,,6,+1.278,53,2,9,16-italy,,1:14:24.087,5.000,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+1:03.891,,PL,+4.129,53,1,10,16-italy,,1:14:28.216,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+1:04.469,,13,+0.578,53,,11,16-italy,,1:14:28.794,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+1:19.288,,11,+14.819,53,,12,16-italy,,1:14:43.613,10.000,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+1:20.701,,9,+1.413,53,,13,16-italy,,1:14:45.026,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+1:22.351,,18,+1.650,53,,14,16-italy,,1:14:46.676,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1 lap,,15,,52,,15,16-italy,,,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1 lap,,PL,,52,,16,16-italy,,,,pirelli,2025
+alpine,franco-colapinto,43,renault,+1 lap,,17,,52,,17,16-italy,,,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1 lap,,16,,52,,18,16-italy,,,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,,,8,,24,,DNF,16-italy,Suspension,,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,,,,,,,DNS,16-italy,Hydraulics,,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,,True,1,,51,25,1,17-azerbaijan,,1:33:26.408,,pirelli,2025
+mercedes,george-russell,63,mercedes,+14.609,,5,+14.609,51,18,2,17-azerbaijan,,1:33:41.017,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+19.199,,2,+4.590,51,15,3,17-azerbaijan,,1:33:45.607,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+21.760,,4,+2.561,51,12,4,17-azerbaijan,,1:33:48.168,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+33.290,,3,+11.530,51,10,5,17-azerbaijan,,1:33:59.698,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+33.808,,6,+0.518,51,8,6,17-azerbaijan,,1:34:00.216,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+34.227,,7,+0.419,51,6,7,17-azerbaijan,,1:34:00.635,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+36.310,,12,+2.083,51,4,8,17-azerbaijan,,1:34:02.718,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+36.774,,10,+0.464,51,2,9,17-azerbaijan,,1:34:03.182,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+38.982,,8,+2.208,51,1,10,17-azerbaijan,,1:34:05.390,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+1:07.606,,13,+28.624,51,,11,17-azerbaijan,,1:34:34.014,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+1:08.262,,15,+0.656,51,,12,17-azerbaijan,,1:34:34.670,,pirelli,2025
+williams,alexander-albon,23,mercedes,+1:12.870,,19,+4.608,51,,13,17-azerbaijan,,1:34:39.278,10.000,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1:17.580,,20,+4.710,51,,14,17-azerbaijan,,1:34:43.988,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+1:18.707,,11,+1.127,51,,15,17-azerbaijan,,1:34:45.115,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+1:20.237,,17,+1.530,51,,16,17-azerbaijan,,1:34:46.645,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1:36.392,,14,+16.155,51,,17,17-azerbaijan,,1:35:02.800,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1 lap,,18,,50,,18,17-azerbaijan,,,,pirelli,2025
+alpine,franco-colapinto,43,renault,+1 lap,,16,,50,,19,17-azerbaijan,,,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,,,9,,0,,DNF,17-azerbaijan,Accident,,,pirelli,2025
+mercedes,george-russell,63,mercedes,,,1,,62,25,1,18-singapore,,1:40:22.367,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+5.430,,2,+5.430,62,18,2,18-singapore,,1:40:27.797,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+6.066,,5,+0.636,62,15,3,18-singapore,,1:40:28.433,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+8.146,,3,+2.080,62,12,4,18-singapore,,1:40:30.513,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+33.681,,4,+25.535,62,10,5,18-singapore,,1:40:56.048,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+45.996,,7,+12.315,62,8,6,18-singapore,,1:41:08.363,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+1:20.667,,10,+34.671,62,6,7,18-singapore,,1:41:43.034,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+1:25.251,,6,+4.584,62,4,8,18-singapore,,1:41:47.618,10.000,pirelli,2025
+haas,oliver-bearman,87,ferrari,+1:33.527,,9,+8.276,62,2,9,18-singapore,,1:41:55.894,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+1 lap,,18,,61,1,10,18-singapore,,,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+1 lap,,8,,61,,11,18-singapore,,,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+1 lap,,13,,61,,12,18-singapore,,,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1 lap,,15,,61,,13,18-singapore,,,,pirelli,2025
+williams,alexander-albon,23,mercedes,+1 lap,,PL,,61,,14,18-singapore,,,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+1 lap,,12,,61,,15,18-singapore,,,,pirelli,2025
+alpine,franco-colapinto,43,renault,+1 lap,,16,,61,,16,18-singapore,,,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+1 lap,,14,,61,,17,18-singapore,,,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1 lap,,17,,61,,18,18-singapore,,,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1 lap,,PL,,61,,19,18-singapore,,,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+1 lap,,11,,61,,20,18-singapore,,,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,,,1,,56,25,1,19-united-states,,1:34:00.161,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+7.959,,2,+7.959,56,18,2,19-united-states,,1:34:08.120,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+15.373,,3,+7.414,56,15,3,19-united-states,,1:34:15.534,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+28.536,,5,+13.163,56,12,4,19-united-states,,1:34:28.697,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+29.678,,6,+1.142,56,10,5,19-united-states,,1:34:29.839,,pirelli,2025
+mercedes,george-russell,63,mercedes,+33.456,,4,+3.778,56,8,6,19-united-states,,1:34:33.617,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+52.714,,13,+19.258,56,6,7,19-united-states,,1:34:52.875,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+57.249,,11,+4.535,56,4,8,19-united-states,,1:34:57.410,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+1:04.722,,8,+7.473,56,2,9,19-united-states,,1:35:04.883,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+1:10.001,,10,+5.279,56,1,10,19-united-states,,1:35:10.162,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+1:13.209,,12,+3.208,56,,11,19-united-states,,1:35:13.370,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1:14.778,,19,+1.569,56,,12,19-united-states,,1:35:14.939,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+1:15.746,,7,+0.968,56,,13,19-united-states,,1:35:15.907,,pirelli,2025
+williams,alexander-albon,23,mercedes,+1:20.000,,18,+4.254,56,,14,19-united-states,,1:35:20.161,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1:23.043,,17,+3.043,56,,15,19-united-states,,1:35:23.204,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+1:32.807,,20,+9.764,56,,16,19-united-states,,1:35:32.968,,pirelli,2025
+alpine,franco-colapinto,43,renault,+1 lap,,15,,55,,17,19-united-states,,,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+1 lap,,16,,55,,18,19-united-states,,,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1 lap,,14,,55,,19,19-united-states,,,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,,,9,,5,,DNF,19-united-states,Collision damage,,,pirelli,2025
+mclaren,lando-norris,4,mercedes,,,1,,71,25,1,20-mexico,,1:37:58.574,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+30.324,,2,+30.324,71,18,2,20-mexico,,1:38:28.898,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+31.049,,5,+0.725,71,15,3,20-mexico,,1:38:29.623,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+40.955,,9,+9.906,71,12,4,20-mexico,,1:38:39.529,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+42.065,,7,+1.110,71,10,5,20-mexico,,1:38:40.639,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+47.837,,6,+5.772,71,8,6,20-mexico,,1:38:46.411,,pirelli,2025
+mercedes,george-russell,63,mercedes,+50.287,,4,+2.450,71,6,7,20-mexico,,1:38:48.861,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+56.446,,3,+6.159,71,4,8,20-mexico,,1:38:55.020,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1:15.464,,11,+19.018,71,2,9,20-mexico,,1:39:14.038,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+1:16.863,,16,+1.399,71,1,10,20-mexico,,1:39:15.437,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+1:19.048,,10,+2.185,71,,11,20-mexico,,1:39:17.622,,pirelli,2025
+williams,alexander-albon,23,mercedes,+1 lap,,17,,70,,12,20-mexico,,,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+1 lap,,8,,70,,13,20-mexico,,,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1 lap,,19,,70,,14,20-mexico,,,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1 lap,,18,,70,,15,20-mexico,,,,pirelli,2025
+alpine,franco-colapinto,43,renault,+1 lap,,20,,70,,16,20-mexico,,,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,,,12,,67,,17,20-mexico,Accident,,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,,,14,,34,,DNF,20-mexico,Brakes,,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,,,13,,25,,DNF,20-mexico,Handling,,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,,,15,,5,,DNF,20-mexico,Collision damage,,,pirelli,2025
+mclaren,lando-norris,4,mercedes,,,1,,71,25,1,21-sao-paulo,,1:32:01.596,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+10.388,,2,+10.388,71,18,2,21-sao-paulo,,1:32:11.984,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,+10.750,,PL,+0.362,71,15,3,21-sao-paulo,,1:32:12.346,,pirelli,2025
+mercedes,george-russell,63,mercedes,+15.267,,6,+4.517,71,12,4,21-sao-paulo,,1:32:16.863,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+15.749,,4,+0.482,71,10,5,21-sao-paulo,,1:32:17.345,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+29.630,,8,+13.881,71,8,6,21-sao-paulo,,1:32:31.226,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+52.642,,7,+23.012,71,6,7,21-sao-paulo,,1:32:54.238,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+52.873,,5,+0.231,71,4,8,21-sao-paulo,,1:32:54.469,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+53.324,,10,+0.451,71,2,9,21-sao-paulo,,1:32:54.920,,pirelli,2025
+alpine,pierre-gasly,10,renault,+53.914,,9,+0.590,71,1,10,21-sao-paulo,,1:32:55.510,,pirelli,2025
+williams,alexander-albon,23,mercedes,+54.184,,12,+0.270,71,,11,21-sao-paulo,,1:32:55.780,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+54.696,,PL,+0.512,71,,12,21-sao-paulo,,1:32:56.292,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+55.420,,15,+0.724,71,,13,21-sao-paulo,,1:32:57.016,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+55.766,,11,+0.346,71,,14,21-sao-paulo,,1:32:57.362,,pirelli,2025
+alpine,franco-colapinto,43,renault,+57.777,,16,+2.011,71,,15,21-sao-paulo,,1:32:59.373,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+58.247,,14,+0.470,71,,16,21-sao-paulo,,1:32:59.843,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+1:09.176,,17,+10.929,71,,17,21-sao-paulo,,1:33:10.772,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,,,13,,37,,DNF,21-sao-paulo,Collision damage,,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,,,3,,5,,DNF,21-sao-paulo,Collision,,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,,,18,,0,,DNF,21-sao-paulo,Accident,,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,,,2,,50,25,1,22-las-vegas,,1:21:08.429,,pirelli,2025
+mercedes,george-russell,63,mercedes,+23.546,,4,+23.546,50,18,2,22-las-vegas,,1:21:31.975,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+30.488,,17,+6.942,50,15,3,22-las-vegas,,1:21:38.917,5.000,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+30.678,,9,+0.190,50,12,4,22-las-vegas,,1:21:39.107,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+34.924,,3,+4.246,50,10,5,22-las-vegas,,1:21:43.353,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+45.257,,8,+10.333,50,8,6,22-las-vegas,,1:21:53.686,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+51.134,,11,+5.877,50,6,7,22-las-vegas,,1:21:59.563,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+59.369,,19,+8.235,50,4,8,22-las-vegas,,1:22:07.798,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1:00.635,,13,+1.266,50,2,9,22-las-vegas,,1:22:09.064,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+1:10.549,,14,+9.914,50,1,10,22-las-vegas,,1:22:18.978,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+1:25.308,,7,+14.759,50,,11,22-las-vegas,,1:22:33.737,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+1:26.974,,PL,+1.666,50,,12,22-las-vegas,,1:22:35.403,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1:31.702,,10,+4.728,50,,13,22-las-vegas,,1:22:40.131,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+1 lap,,6,,49,,14,22-las-vegas,,,,pirelli,2025
+alpine,franco-colapinto,43,renault,+1 lap,,15,,49,,15,22-las-vegas,,,,pirelli,2025
+williams,alexander-albon,23,mercedes,,,16,,35,,DNF,22-las-vegas,Collision damage,,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,,,18,,2,,DNF,22-las-vegas,Collision,,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,,,12,,0,,DNF,22-las-vegas,Collision,,,pirelli,2025
+mclaren,lando-norris,4,mercedes,,,1,,,,DSQ,22-las-vegas,Illegal skid block wear,,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,,,5,,,,DSQ,22-las-vegas,Illegal skid block wear,,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,,,3,,57,25,1,23-qatar,,1:24:38.241,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+7.995,,1,+7.995,57,18,2,23-qatar,,1:24:46.236,,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+22.665,,7,+14.670,57,15,3,23-qatar,,1:25:00.906,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+23.315,,2,+0.650,57,12,4,23-qatar,,1:25:01.556,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+28.317,,5,+5.002,57,10,5,23-qatar,,1:25:06.558,,pirelli,2025
+mercedes,george-russell,63,mercedes,+48.599,,4,+20.282,57,8,6,23-qatar,,1:25:26.840,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+54.045,,8,+5.446,57,6,7,23-qatar,,1:25:32.286,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+56.785,,10,+2.740,57,4,8,23-qatar,,1:25:35.026,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+1:00.073,,12,+3.288,57,2,9,23-qatar,,1:25:38.314,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+1:01.770,,15,+1.697,57,1,10,23-qatar,,1:25:40.011,,pirelli,2025
+williams,alexander-albon,23,mercedes,+1:06.931,,14,+5.161,57,,11,23-qatar,,1:25:45.172,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+1:17.730,,17,+10.799,57,,12,23-qatar,,1:25:55.971,,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+1:24.812,,19,+7.082,57,,13,23-qatar,,1:26:03.053,,pirelli,2025
+alpine,franco-colapinto,43,renault,+1 lap,,PL,,56,,14,23-qatar,,,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1 lap,,16,,56,,15,23-qatar,,,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1 lap,,9,,56,,16,23-qatar,,,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,,,18,,55,,17,23-qatar,Collision damage,,,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,,,6,,55,,18,23-qatar,Puncture,,,pirelli,2025
+haas,oliver-bearman,87,ferrari,,,13,,41,,DNF,23-qatar,Pit stop issue,,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,,,11,,6,,DNF,23-qatar,Collision,,,pirelli,2025
+red-bull,max-verstappen,1,honda-rbpt,,,1,,58,25,1,24-abu-dhabi,,1:26:07.469,,pirelli,2025
+mclaren,oscar-piastri,81,mercedes,+12.594,,3,+12.594,58,18,2,24-abu-dhabi,,1:26:20.063,,pirelli,2025
+mclaren,lando-norris,4,mercedes,+16.572,,2,+3.978,58,15,3,24-abu-dhabi,,1:26:24.041,,pirelli,2025
+ferrari,charles-leclerc,16,ferrari,+23.279,,5,+6.707,58,12,4,24-abu-dhabi,,1:26:30.748,,pirelli,2025
+mercedes,george-russell,63,mercedes,+48.563,,4,+25.284,58,10,5,24-abu-dhabi,,1:26:56.032,,pirelli,2025
+aston-martin,fernando-alonso,14,mercedes,+1:07.562,,6,+18.999,58,8,6,24-abu-dhabi,,1:27:15.031,,pirelli,2025
+haas,esteban-ocon,31,ferrari,+1:09.876,,8,+2.314,58,6,7,24-abu-dhabi,,1:27:17.345,,pirelli,2025
+ferrari,lewis-hamilton,44,ferrari,+1:12.670,,16,+2.794,58,4,8,24-abu-dhabi,,1:27:20.139,,pirelli,2025
+kick-sauber,nico-hulkenberg,27,ferrari,+1:19.014,,18,+6.344,58,2,9,24-abu-dhabi,,1:27:26.483,,pirelli,2025
+aston-martin,lance-stroll,18,mercedes,+1:19.523,,15,+0.509,58,1,10,24-abu-dhabi,,1:27:26.992,5.000,pirelli,2025
+kick-sauber,gabriel-bortoleto,5,ferrari,+1:21.043,,7,+1.520,58,,11,24-abu-dhabi,,1:27:28.512,,pirelli,2025
+haas,oliver-bearman,87,ferrari,+1:21.166,,11,+0.123,58,,12,24-abu-dhabi,,1:27:28.635,10.000,pirelli,2025
+williams,carlos-sainz-jr,55,mercedes,+1:22.158,,12,+0.992,58,,13,24-abu-dhabi,,1:27:29.627,,pirelli,2025
+red-bull,yuki-tsunoda,22,honda-rbpt,+1:23.794,,10,+1.636,58,,14,24-abu-dhabi,,1:27:31.263,,pirelli,2025
+mercedes,kimi-antonelli,12,mercedes,+1:24.399,,14,+0.605,58,,15,24-abu-dhabi,,1:27:31.868,,pirelli,2025
+williams,alexander-albon,23,mercedes,+1:30.327,,17,+5.928,58,,16,24-abu-dhabi,,1:27:37.796,5.000,pirelli,2025
+racing-bulls,isack-hadjar,6,honda-rbpt,+1 lap,,9,,57,,17,24-abu-dhabi,,,,pirelli,2025
+racing-bulls,liam-lawson,30,honda-rbpt,+1 lap,,13,,57,,18,24-abu-dhabi,,,,pirelli,2025
+alpine,pierre-gasly,10,renault,+1 lap,,19,,57,,19,24-abu-dhabi,,,5.000,pirelli,2025
+alpine,franco-colapinto,43,renault,+1 lap,,20,,57,,20,24-abu-dhabi,,,,pirelli,2025

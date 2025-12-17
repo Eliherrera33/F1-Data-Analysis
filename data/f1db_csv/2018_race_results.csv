@@ -1,0 +1,421 @@
+constructorId,driverId,driverNumber,engineManufacturerId,gap,gridPosition,interval,laps,points,position,race,reasonRetired,time,timePenalty,tyreManufacturerId,year
+ferrari,sebastian-vettel,5,ferrari,,3,,58,25,1,01-australia,,1:29:33.283,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,+5.036,1,+5.036,58,18,2,01-australia,,1:29:38.319,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+6.309,2,+1.273,58,15,3,01-australia,,1:29:39.592,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,+7.069,8,+0.760,58,12,4,01-australia,,1:29:40.352,,pirelli,2018
+mclaren,fernando-alonso,14,renault,+27.886,10,+20.817,58,10,5,01-australia,,1:30:01.169,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+28.945,4,+1.059,58,8,6,01-australia,,1:30:02.228,,pirelli,2018
+renault,nico-hulkenberg,27,renault,+32.671,7,+3.726,58,6,7,01-australia,,1:30:05.954,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+34.339,15,+1.668,58,4,8,01-australia,,1:30:07.622,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+34.921,11,+0.582,58,2,9,01-australia,,1:30:08.204,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+45.722,9,+10.801,58,1,10,01-australia,,1:30:19.005,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+46.817,12,+1.095,58,,11,01-australia,,1:30:20.100,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+1:00.278,14,+13.461,58,,12,01-australia,,1:30:33.561,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+1:15.759,18,+15.481,58,,13,01-australia,,1:30:49.042,,pirelli,2018
+williams,lance-stroll,18,mercedes,+1:18.288,13,+2.529,58,,14,01-australia,,1:30:51.571,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+1 lap,16,,57,,15,01-australia,,,,pirelli,2018
+haas,romain-grosjean,8,ferrari,,6,,24,,DNF,01-australia,Wheel,,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,,5,,22,,DNF,01-australia,Wheel,,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,,20,,13,,DNF,01-australia,Engine,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,,17,,5,,DNF,01-australia,Hydraulics,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,,19,,4,,DNF,01-australia,Brakes,,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,,1,,57,25,1,02-bahrain,,1:32:01.940,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+0.699,3,+0.699,57,18,2,02-bahrain,,1:32:02.639,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,+6.512,9,+5.813,57,15,3,02-bahrain,,1:32:08.452,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+1:02.234,5,+55.722,57,12,4,02-bahrain,,1:33:04.174,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+1:15.046,6,+12.812,57,10,5,02-bahrain,,1:33:16.986,,pirelli,2018
+renault,nico-hulkenberg,27,renault,+1:39.024,7,+23.978,57,8,6,02-bahrain,,1:33:40.964,,pirelli,2018
+mclaren,fernando-alonso,14,renault,+1 lap,13,,56,6,7,02-bahrain,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+1 lap,14,,56,4,8,02-bahrain,,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+1 lap,17,,56,2,9,02-bahrain,,,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+1 lap,8,,56,1,10,02-bahrain,,,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1 lap,10,,56,,11,02-bahrain,,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+1 lap,19,,56,,12,02-bahrain,,,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+1 lap,16,,56,,13,02-bahrain,,,,pirelli,2018
+williams,lance-stroll,18,mercedes,+1 lap,20,,56,,14,02-bahrain,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+1 lap,18,,56,,15,02-bahrain,,,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+1 lap,12,,56,,16,02-bahrain,,,30.000,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+1 lap,11,,56,,17,02-bahrain,,,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,,2,,35,,DNF,02-bahrain,Wheel,,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,,15,,3,,DNF,02-bahrain,Transmission,,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,,4,,1,,DNF,02-bahrain,Electrical,,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,,6,,56,25,1,03-china,,1:35:36.380,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+8.894,3,+8.894,56,18,2,03-china,,1:35:45.274,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+9.637,2,+0.743,56,15,3,03-china,,1:35:46.017,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,+16.985,4,+7.348,56,12,4,03-china,,1:35:53.365,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+20.436,5,+3.451,56,10,5,03-china,,1:35:56.816,10.000,pirelli,2018
+renault,nico-hulkenberg,27,renault,+21.052,7,+0.616,56,8,6,03-china,,1:35:57.432,,pirelli,2018
+mclaren,fernando-alonso,14,renault,+30.639,13,+9.587,56,6,7,03-china,,1:36:07.019,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+35.286,1,+4.647,56,4,8,03-china,,1:36:11.666,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+35.763,9,+0.477,56,2,9,03-china,,1:36:12.143,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+39.594,11,+3.831,56,1,10,03-china,,1:36:15.974,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+44.050,12,+4.456,56,,11,03-china,,1:36:20.430,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+44.725,8,+0.675,56,,12,03-china,,1:36:21.105,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+49.373,14,+4.648,56,,13,03-china,,1:36:25.753,,pirelli,2018
+williams,lance-stroll,18,mercedes,+55.490,18,+6.117,56,,14,03-china,,1:36:31.870,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+58.241,16,+2.751,56,,15,03-china,,1:36:34.621,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+1:02.604,20,+4.363,56,,16,03-china,,1:36:38.984,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+1:05.296,10,+2.692,56,,17,03-china,,1:36:41.676,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+1:06.330,17,+1.034,56,,18,03-china,,1:36:42.710,10.000,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+1:22.575,19,+16.245,56,,19,03-china,,1:36:58.955,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,,15,,51,,20,03-china,Gearbox,,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,,2,,51,25,1,04-azerbaijan,,1:43:44.291,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+2.460,6,+2.460,51,18,2,04-azerbaijan,,1:43:46.751,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+4.024,8,+1.564,51,15,3,04-azerbaijan,,1:43:48.315,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+5.329,1,+1.305,51,12,4,04-azerbaijan,,1:43:49.620,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+7.515,9,+2.186,51,10,5,04-azerbaijan,,1:43:51.806,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+9.158,13,+1.643,51,8,6,04-azerbaijan,,1:43:53.449,,pirelli,2018
+mclaren,fernando-alonso,14,renault,+10.931,12,+1.773,51,6,7,04-azerbaijan,,1:43:55.222,,pirelli,2018
+williams,lance-stroll,18,mercedes,+12.546,10,+1.615,51,4,8,04-azerbaijan,,1:43:56.837,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+14.152,16,+1.606,51,2,9,04-azerbaijan,,1:43:58.443,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+18.030,19,+3.878,51,1,10,04-azerbaijan,,1:44:02.321,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+18.512,18,+0.482,51,,11,04-azerbaijan,,1:44:02.803,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+24.720,17,+6.208,51,,12,04-azerbaijan,,1:44:09.011,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+40.663,15,+15.943,51,,13,04-azerbaijan,,1:44:24.954,10.000,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,,3,,48,,14,04-azerbaijan,Puncture,,,pirelli,2018
+haas,romain-grosjean,8,ferrari,,20,,42,,DNF,04-azerbaijan,Accident,,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,,5,,39,,DNF,04-azerbaijan,Collision,,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,,4,,39,,DNF,04-azerbaijan,Collision,,,pirelli,2018
+renault,nico-hulkenberg,27,renault,,14,,10,,DNF,04-azerbaijan,Accident,,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,,7,,0,,DNF,04-azerbaijan,Collision,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,,11,,0,,DNF,04-azerbaijan,Collision,,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,,1,,66,25,1,05-spain,,1:35:29.972,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+20.593,2,+20.593,66,18,2,05-spain,,1:35:50.565,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+26.873,5,+6.280,66,15,3,05-spain,,1:35:56.845,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+27.584,3,+0.711,66,12,4,05-spain,,1:35:57.556,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,+50.058,6,+22.474,66,10,5,05-spain,,1:36:20.030,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+1 lap,7,,65,8,6,05-spain,,,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1 lap,9,,65,6,7,05-spain,,,,pirelli,2018
+mclaren,fernando-alonso,14,renault,+1 lap,8,,65,4,8,05-spain,,,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+2 laps,15,,64,2,9,05-spain,,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+2 laps,14,,64,1,10,05-spain,,,,pirelli,2018
+williams,lance-stroll,18,mercedes,+2 laps,18,,64,,11,05-spain,,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+2 laps,20,,64,,12,05-spain,,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+2 laps,17,,64,,13,05-spain,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+3 laps,19,,63,,14,05-spain,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,,11,,45,,DNF,05-spain,Gearbox,,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,,13,,38,,DNF,05-spain,Oil leak,,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,,4,,25,,DNF,05-spain,Turbo,,,pirelli,2018
+haas,romain-grosjean,8,ferrari,,10,,0,,DNF,05-spain,Collision,,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,,12,,0,,DNF,05-spain,Collision,,,pirelli,2018
+renault,nico-hulkenberg,27,renault,,16,,0,,DNF,05-spain,Collision,,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,,1,,78,25,1,06-monaco,,1:42:54.807,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+7.336,2,+7.336,78,18,2,06-monaco,,1:43:02.143,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,+17.013,3,+9.677,78,15,3,06-monaco,,1:43:11.820,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+18.127,4,+1.114,78,12,4,06-monaco,,1:43:12.934,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+18.822,5,+0.695,78,10,5,06-monaco,,1:43:13.629,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+23.667,6,+4.845,78,8,6,06-monaco,,1:43:18.474,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+24.331,10,+0.664,78,6,7,06-monaco,,1:43:19.138,,pirelli,2018
+renault,nico-hulkenberg,27,renault,+24.839,11,+0.508,78,4,8,06-monaco,,1:43:19.646,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+25.317,20,+0.478,78,2,9,06-monaco,,1:43:20.124,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1:09.013,8,+43.696,78,1,10,06-monaco,,1:44:03.820,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+1:09.864,16,+0.851,78,,11,06-monaco,,1:44:04.671,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+1:10.461,9,+0.597,78,,12,06-monaco,,1:44:05.268,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+1:14.823,19,+4.362,78,,13,06-monaco,,1:44:09.630,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+1 lap,12,,77,,14,06-monaco,,,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+1 lap,18,,77,,15,06-monaco,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+1 lap,13,,77,,16,06-monaco,,,,pirelli,2018
+williams,lance-stroll,18,mercedes,+2 laps,17,,76,,17,06-monaco,,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,,14,,70,,18,06-monaco,Collision,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,,15,,70,,19,06-monaco,Collision damage,,5.000,pirelli,2018
+mclaren,fernando-alonso,14,renault,,7,,52,,DNF,06-monaco,Gearbox,,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,,1,,68,25,1,07-canada,,1:28:31.377,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+7.376,2,+7.376,68,18,2,07-canada,,1:28:38.753,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+8.360,3,+0.984,68,15,3,07-canada,,1:28:39.737,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,+20.892,6,+12.532,68,12,4,07-canada,,1:28:52.269,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,+21.559,4,+0.667,68,10,5,07-canada,,1:28:52.936,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+27.184,5,+5.625,68,8,6,07-canada,,1:28:58.561,,pirelli,2018
+renault,nico-hulkenberg,27,renault,+1 lap,7,,67,6,7,07-canada,,,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1 lap,9,,67,4,8,07-canada,,,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+1 lap,8,,67,2,9,07-canada,,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+1 lap,13,,67,1,10,07-canada,,,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+1 lap,19,,67,,11,07-canada,,,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+1 lap,20,,67,,12,07-canada,,,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+1 lap,11,,67,,13,07-canada,,,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+1 lap,10,,67,,14,07-canada,,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+2 laps,18,,66,,15,07-canada,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+2 laps,15,,66,,16,07-canada,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+2 laps,17,,66,,17,07-canada,,,,pirelli,2018
+mclaren,fernando-alonso,14,renault,,14,,40,,DNF,07-canada,Exhaust,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,,12,,0,,DNF,07-canada,Collision,,,pirelli,2018
+williams,lance-stroll,18,mercedes,,16,,0,,DNF,07-canada,Collision,,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,,1,,53,25,1,08-france,,1:30:11.385,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+7.090,4,+7.090,53,18,2,08-france,,1:30:18.475,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+25.888,6,+18.798,53,15,3,08-france,,1:30:37.273,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,+34.736,5,+8.848,53,12,4,08-france,,1:30:46.121,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+1:01.935,3,+27.199,53,10,5,08-france,,1:31:13.320,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+1:19.364,9,+17.429,53,8,6,08-france,,1:31:30.749,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+1:20.632,2,+1.268,53,6,7,08-france,,1:31:32.017,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1:27.184,7,+6.552,53,4,8,08-france,,1:31:38.569,,pirelli,2018
+renault,nico-hulkenberg,27,renault,+1:31.989,12,+4.805,53,2,9,08-france,,1:31:43.374,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+1:33.873,8,+1.884,53,1,10,08-france,,1:31:45.258,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+1 lap,10,,52,,11,08-france,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+1 lap,17,,52,,12,08-france,,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+1 lap,15,,52,,13,08-france,,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+1 lap,20,,52,,14,08-france,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+1 lap,18,,52,,15,08-france,,,5.000,pirelli,2018
+mclaren,fernando-alonso,14,renault,,16,,50,,16,08-france,Suspension,,,pirelli,2018
+williams,lance-stroll,18,mercedes,,19,,48,,17,08-france,Puncture,,,pirelli,2018
+force-india,sergio-perez,11,mercedes,,13,,27,,DNF,08-france,Engine,,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,,11,,0,,DNF,08-france,Collision,,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,,14,,0,,DNF,08-france,Collision,,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,,4,,71,25,1,09-austria,,1:21:56.024,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+1.504,3,+1.504,71,18,2,09-austria,,1:21:57.528,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+3.181,6,+1.677,71,15,3,09-austria,,1:21:59.205,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+1 lap,5,,70,12,4,09-austria,,,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+1 lap,8,,70,10,5,09-austria,,,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+1 lap,11,,70,8,6,09-austria,,,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+1 lap,15,,70,6,7,09-austria,,,,pirelli,2018
+mclaren,fernando-alonso,14,renault,+1 lap,PL,,70,4,8,09-austria,,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+1 lap,17,,70,2,9,09-austria,,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+1 lap,18,,70,1,10,09-austria,,,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+1 lap,12,,70,,11,09-austria,,,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1 lap,9,,70,,12,09-austria,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+2 laps,16,,69,,13,09-austria,,,,pirelli,2018
+williams,lance-stroll,18,mercedes,+2 laps,13,,69,,14,09-austria,,,10.000,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,,14,,65,,15,09-austria,Collision damage,,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,,2,,62,,DNF,09-austria,Fuel pressure,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,,19,,54,,DNF,09-austria,Hydraulics,,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,,7,,53,,DNF,09-austria,Exhaust,,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,,1,,13,,DNF,09-austria,Hydraulics,,,pirelli,2018
+renault,nico-hulkenberg,27,renault,,10,,11,,DNF,09-austria,Engine,,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,,2,,52,25,1,10-great-britain,,1:27:29.784,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,+2.264,1,+2.264,52,18,2,10-great-britain,,1:27:32.048,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+3.652,3,+1.388,52,15,3,10-great-britain,,1:27:33.436,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+8.883,4,+5.231,52,12,4,10-great-britain,,1:27:38.667,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,+9.500,6,+0.617,52,10,5,10-great-britain,,1:27:39.284,,pirelli,2018
+renault,nico-hulkenberg,27,renault,+28.220,11,+18.720,52,8,6,10-great-britain,,1:27:58.004,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+29.930,10,+1.710,52,6,7,10-great-britain,,1:27:59.714,,pirelli,2018
+mclaren,fernando-alonso,14,renault,+31.115,13,+1.185,52,4,8,10-great-britain,,1:28:00.899,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+33.188,7,+2.073,52,2,9,10-great-britain,,1:28:02.972,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+34.708,12,+1.520,52,1,10,10-great-britain,,1:28:04.492,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+35.774,17,+1.066,52,,11,10-great-britain,,1:28:05.558,,pirelli,2018
+williams,lance-stroll,18,mercedes,+38.106,PL,+2.332,52,,12,10-great-britain,,1:28:07.890,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+39.129,14,+1.023,52,,13,10-great-britain,,1:28:08.913,5.000,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+48.113,PL,+8.984,52,,14,10-great-britain,,1:28:17.897,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,,5,,46,,15,10-great-britain,Brakes,,,pirelli,2018
+haas,romain-grosjean,8,ferrari,,8,,37,,DNF,10-great-britain,Collision,,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,,16,,37,,DNF,10-great-britain,Collision,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,,15,,31,,DNF,10-great-britain,Accident,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,,9,,18,,DNF,10-great-britain,Wheel,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,,PL,,1,,DNF,10-great-britain,Power unit,,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,,14,,67,25,1,11-germany,,1:32:29.845,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+4.535,2,+4.535,67,18,2,11-germany,,1:32:34.380,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+6.732,3,+2.197,67,15,3,11-germany,,1:32:36.577,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+7.654,4,+0.922,67,12,4,11-germany,,1:32:37.499,,pirelli,2018
+renault,nico-hulkenberg,27,renault,+26.609,7,+18.955,67,10,5,11-germany,,1:32:56.454,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+28.871,6,+2.262,67,8,6,11-germany,,1:32:58.716,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+30.556,10,+1.685,67,6,7,11-germany,,1:33:00.401,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+31.750,15,+1.194,67,4,8,11-germany,,1:33:01.595,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+32.362,13,+0.612,67,2,9,11-germany,,1:33:02.207,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+34.197,16,+1.835,67,1,10,11-germany,,1:33:04.042,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+34.919,5,+0.722,67,,11,11-germany,,1:33:04.764,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+43.069,8,+8.150,67,,12,11-germany,,1:33:12.914,10.000,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+46.617,18,+3.548,67,,13,11-germany,,1:33:16.462,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+1 lap,20,,66,,14,11-germany,,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+1 lap,9,,66,,15,11-germany,,,,pirelli,2018
+mclaren,fernando-alonso,14,renault,,11,,65,,16,11-germany,Gearbox,,,pirelli,2018
+williams,lance-stroll,18,mercedes,,17,,53,,DNF,11-germany,Brakes,,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,,1,,51,,DNF,11-germany,Accident,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,,12,,51,,DNF,11-germany,Oil leak,,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,,19,,27,,DNF,11-germany,Power loss,,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,,1,,70,25,1,12-hungary,,1:37:16.427,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+17.123,4,+17.123,70,18,2,12-hungary,,1:37:33.550,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+20.101,3,+2.978,70,15,3,12-hungary,,1:37:36.528,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,+46.419,12,+26.318,70,12,4,12-hungary,,1:38:02.846,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+1:00.000,2,+13.581,70,10,5,12-hungary,,1:38:16.427,10.000,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+1:13.273,6,+13.273,70,8,6,12-hungary,,1:38:29.700,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+1 lap,9,,69,6,7,12-hungary,,,,pirelli,2018
+mclaren,fernando-alonso,14,renault,+1 lap,11,,69,4,8,12-hungary,,,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1 lap,5,,69,2,9,12-hungary,,,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+1 lap,10,,69,1,10,12-hungary,,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+1 lap,8,,69,,11,12-hungary,,,,pirelli,2018
+renault,nico-hulkenberg,27,renault,+1 lap,13,,69,,12,12-hungary,,,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+1 lap,17,,69,,13,12-hungary,,,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+1 lap,18,,69,,14,12-hungary,,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+2 laps,14,,68,,15,12-hungary,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+2 laps,19,,68,,16,12-hungary,,,,pirelli,2018
+williams,lance-stroll,18,mercedes,+2 laps,PL,,68,,17,12-hungary,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,,15,,49,,DNF,12-hungary,Gearbox,,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,,7,,5,,DNF,12-hungary,Power loss,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,,16,,0,,DNF,12-hungary,Suspension,,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,,2,,44,25,1,13-belgium,,1:23:34.476,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,+11.061,1,+11.061,44,18,2,13-belgium,,1:23:45.537,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+31.372,7,+20.311,44,15,3,13-belgium,,1:24:05.848,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+1:08.605,17,+37.233,44,12,4,13-belgium,,1:24:43.081,5.000,pirelli,2018
+force-india,sergio-perez,11,mercedes,+1:11.023,4,+2.418,44,10,5,13-belgium,,1:24:45.499,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+1:19.520,3,+8.497,44,8,6,13-belgium,,1:24:53.996,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+1:25.953,5,+6.433,44,6,7,13-belgium,,1:25:00.429,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+1:27.639,9,+1.686,44,4,8,13-belgium,,1:25:02.115,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+1:45.892,10,+18.253,44,2,9,13-belgium,,1:25:20.368,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+1 lap,13,,43,1,10,13-belgium,,,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1 lap,19,,43,,11,13-belgium,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+1 lap,15,,43,,12,13-belgium,,,,pirelli,2018
+williams,lance-stroll,18,mercedes,+1 lap,16,,43,,13,13-belgium,,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+1 lap,11,,43,,14,13-belgium,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+1 lap,20,,43,,15,13-belgium,,,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,,8,,28,,DNF,13-belgium,Collision damage,,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,,6,,8,,DNF,13-belgium,Collision damage,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,,12,,0,,DNF,13-belgium,Collision,,,pirelli,2018
+mclaren,fernando-alonso,14,renault,,14,,0,,DNF,13-belgium,Collision,,,pirelli,2018
+renault,nico-hulkenberg,27,renault,,18,,0,,DNF,13-belgium,Collision,,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,,3,,53,25,1,14-italy,,1:16:54.484,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+8.705,1,+8.705,53,18,2,14-italy,,1:17:03.189,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+14.066,4,+5.361,53,15,3,14-italy,,1:17:08.550,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+16.151,2,+2.085,53,12,4,14-italy,,1:17:10.635,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+18.208,5,+2.057,53,10,5,14-italy,,1:17:12.692,5.000,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+57.761,8,+39.553,53,8,6,14-italy,,1:17:52.245,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+58.678,14,+0.917,53,6,7,14-italy,,1:17:53.162,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1:18.140,7,+19.462,53,4,8,14-italy,,1:18:12.624,,pirelli,2018
+williams,lance-stroll,18,mercedes,+1 lap,10,,52,2,9,14-italy,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+1 lap,12,,52,1,10,14-italy,,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+1 lap,15,,52,,11,14-italy,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+1 lap,17,,52,,12,14-italy,,,,pirelli,2018
+renault,nico-hulkenberg,27,renault,+1 lap,20,,52,,13,14-italy,,,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+1 lap,9,,52,,14,14-italy,,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+1 lap,18,,52,,15,14-italy,,,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+1 lap,11,,52,,16,14-italy,,,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,,19,,23,,DNF,14-italy,Clutch,,,pirelli,2018
+mclaren,fernando-alonso,14,renault,,13,,9,,DNF,14-italy,Electrical,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,,16,,0,,DNF,14-italy,Collision,,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+56.320,6,,53,,DSQ,14-italy,Illegal floor,1:17:50.804,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,,1,,61,25,1,15-singapore,,1:51:11.611,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+8.961,2,+8.961,61,18,2,15-singapore,,1:51:20.572,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+39.945,3,+30.984,61,15,3,15-singapore,,1:51:51.556,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+51.930,4,+11.985,61,12,4,15-singapore,,1:52:03.541,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+53.001,5,+1.071,61,10,5,15-singapore,,1:52:04.612,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,+53.982,6,+0.981,61,8,6,15-singapore,,1:52:05.593,,pirelli,2018
+mclaren,fernando-alonso,14,renault,+1:43.011,11,+49.029,61,6,7,15-singapore,,1:52:54.622,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1 lap,12,,60,4,8,15-singapore,,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+1 lap,13,,60,2,9,15-singapore,,,,pirelli,2018
+renault,nico-hulkenberg,27,renault,+1 lap,10,,60,1,10,15-singapore,,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+1 lap,14,,60,,11,15-singapore,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+1 lap,18,,60,,12,15-singapore,,,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+1 lap,15,,60,,13,15-singapore,,,,pirelli,2018
+williams,lance-stroll,18,mercedes,+1 lap,20,,60,,14,15-singapore,,,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+1 lap,8,,60,,15,15-singapore,,,5.000,pirelli,2018
+force-india,sergio-perez,11,mercedes,+1 lap,7,,60,,16,15-singapore,,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+1 lap,17,,60,,17,15-singapore,,,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+2 laps,16,,59,,18,15-singapore,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+2 laps,19,,59,,19,15-singapore,,,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,,9,,0,,DNF,15-singapore,Collision,,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,,2,,53,25,1,16-russia,,1:27:25.181,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+2.545,1,+2.545,53,18,2,16-russia,,1:27:27.726,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+7.487,3,+4.942,53,15,3,16-russia,,1:27:32.668,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+16.543,4,+9.056,53,12,4,16-russia,,1:27:41.724,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+31.016,19,+14.473,53,10,5,16-russia,,1:27:56.197,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,+1:20.451,18,+49.435,53,8,6,16-russia,,1:28:45.632,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+1:38.390,7,+17.939,53,6,7,16-russia,,1:29:03.571,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+1 lap,5,,52,4,8,16-russia,,,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+1 lap,6,,52,2,9,16-russia,,,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+1 lap,8,,52,1,10,16-russia,,,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+1 lap,9,,52,,11,16-russia,,,,pirelli,2018
+renault,nico-hulkenberg,27,renault,+1 lap,12,,52,,12,16-russia,,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+1 lap,10,,52,,13,16-russia,,,,pirelli,2018
+mclaren,fernando-alonso,14,renault,+1 lap,16,,52,,14,16-russia,,,,pirelli,2018
+williams,lance-stroll,18,mercedes,+1 lap,14,,52,,15,16-russia,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+2 laps,15,,51,,16,16-russia,,,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+2 laps,11,,51,,17,16-russia,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+2 laps,13,,51,,18,16-russia,,,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,,17,,4,,DNF,16-russia,Brakes,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,,20,,4,,DNF,16-russia,Brakes,,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,,1,,53,25,1,17-japan,,1:27:17.062,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+12.919,2,+12.919,53,18,2,17-japan,,1:27:29.981,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+14.295,3,+1.376,53,15,3,17-japan,,1:27:31.357,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,+19.495,15,+5.200,53,12,4,17-japan,,1:27:36.557,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+50.998,4,+31.503,53,10,5,17-japan,,1:28:08.060,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+1:09.873,8,+18.875,53,8,6,17-japan,,1:28:26.935,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+1:19.379,9,+9.506,53,6,7,17-japan,,1:28:36.441,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+1:27.198,5,+7.819,53,4,8,17-japan,,1:28:44.260,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+1:28.055,11,+0.857,53,2,9,17-japan,,1:28:45.117,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1 lap,13,,52,1,10,17-japan,,,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+1 lap,7,,52,,11,17-japan,,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+1 lap,20,,52,,12,17-japan,,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+1 lap,6,,52,,13,17-japan,,,,pirelli,2018
+mclaren,fernando-alonso,14,renault,+1 lap,18,,52,,14,17-japan,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+1 lap,19,,52,,15,17-japan,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+1 lap,17,,52,,16,17-japan,,,,pirelli,2018
+williams,lance-stroll,18,mercedes,+1 lap,14,,52,,17,17-japan,,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,,10,,38,,DNF,17-japan,Mechanical,,,pirelli,2018
+renault,nico-hulkenberg,27,renault,,16,,37,,DNF,17-japan,Engine,,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,,12,,8,,DNF,17-japan,Collision damage,,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,,2,,56,25,1,18-united-states,,1:34:18.643,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+1.281,18,+1.281,56,18,2,18-united-states,,1:34:19.924,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,+2.342,1,+1.061,56,15,3,18-united-states,,1:34:20.985,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+18.222,5,+15.880,56,12,4,18-united-states,,1:34:36.865,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+24.744,3,+6.522,56,10,5,18-united-states,,1:34:43.387,,pirelli,2018
+renault,nico-hulkenberg,27,renault,+1:27.210,7,+1:02.466,56,8,6,18-united-states,,1:35:45.853,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1:34.994,11,+7.784,56,6,7,18-united-states,,1:35:53.637,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+1:41.080,10,+6.086,56,4,8,18-united-states,,1:35:59.723,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+1 lap,20,,55,2,9,18-united-states,,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+1 lap,16,,55,1,10,18-united-states,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+1 lap,17,,55,,11,18-united-states,,,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+1 lap,19,,55,,12,18-united-states,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+1 lap,14,,55,,13,18-united-states,,,,pirelli,2018
+williams,lance-stroll,18,mercedes,+2 laps,15,,54,,14,18-united-states,,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,,9,,31,,DNF,18-united-states,Collision damage,,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,,4,,8,,DNF,18-united-states,Battery,,,pirelli,2018
+haas,romain-grosjean,8,ferrari,,8,,2,,DNF,18-united-states,Collision,,,pirelli,2018
+mclaren,fernando-alonso,14,renault,,13,,1,,DNF,18-united-states,Collision,,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+1:39.288,6,,56,,DSQ,18-united-states,Fuel,1:35:57.931,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+1:40.657,12,,56,,DSQ,18-united-states,Fuel,1:35:59.300,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,,2,,71,25,1,19-mexico,,1:38:28.851,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+17.316,4,+17.316,71,18,2,19-mexico,,1:38:46.167,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+49.914,6,+32.598,71,15,3,19-mexico,,1:39:18.765,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,+1:18.738,3,+28.824,71,12,4,19-mexico,,1:39:47.589,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+1 lap,5,,70,10,5,19-mexico,,,,pirelli,2018
+renault,nico-hulkenberg,27,renault,+2 laps,7,,69,8,6,19-mexico,,,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+2 laps,9,,69,6,7,19-mexico,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+2 laps,15,,69,4,8,19-mexico,,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,+2 laps,10,,69,2,9,19-mexico,,,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+2 laps,20,,69,1,10,19-mexico,,,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+2 laps,11,,69,,11,19-mexico,,,,pirelli,2018
+williams,lance-stroll,18,mercedes,+2 laps,17,,69,,12,19-mexico,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+2 laps,19,,69,,13,19-mexico,,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+2 laps,14,,69,,14,19-mexico,,,5.000,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+2 laps,16,,69,,15,19-mexico,,,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+3 laps,18,,68,,16,19-mexico,,,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,,1,,61,,DNF,19-mexico,Hydraulics,,,pirelli,2018
+force-india,sergio-perez,11,mercedes,,13,,38,,DNF,19-mexico,Brakes,,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,,8,,28,,DNF,19-mexico,Clutch,,,pirelli,2018
+mclaren,fernando-alonso,14,renault,,12,,3,,DNF,19-mexico,Water pressure,,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,,1,,71,25,1,20-brazil,,1:27:09.066,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+1.469,5,+1.469,71,18,2,20-brazil,,1:27:10.535,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,+4.764,4,+3.295,71,15,3,20-brazil,,1:27:13.830,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,+5.193,11,+0.429,71,12,4,20-brazil,,1:27:14.259,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+22.943,3,+17.750,71,10,5,20-brazil,,1:27:32.009,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+26.997,2,+4.054,71,8,6,20-brazil,,1:27:36.063,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+44.199,7,+17.202,71,6,7,20-brazil,,1:27:53.265,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+51.230,8,+7.031,71,4,8,20-brazil,,1:28:00.296,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+52.857,10,+1.627,71,2,9,20-brazil,,1:28:01.923,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+1 lap,12,,70,1,10,20-brazil,,,,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+1 lap,16,,70,,11,20-brazil,,,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1 lap,15,,70,,12,20-brazil,,,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,+1 lap,9,,70,,13,20-brazil,,,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,+1 lap,18,,70,,14,20-brazil,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+1 lap,20,,70,,15,20-brazil,,,5.000,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+2 laps,14,,69,,16,20-brazil,,,,pirelli,2018
+mclaren,fernando-alonso,14,renault,+2 laps,17,,69,,17,20-brazil,,,5.000,pirelli,2018
+williams,lance-stroll,18,mercedes,+2 laps,19,,69,,18,20-brazil,,,,pirelli,2018
+renault,nico-hulkenberg,27,renault,,13,,32,,DNF,20-brazil,Overheating,,,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,,6,,20,,DNF,20-brazil,Collision damage,,,pirelli,2018
+mercedes,lewis-hamilton,44,mercedes,,1,,55,25,1,21-abu-dhabi,,1:39:40.382,,pirelli,2018
+ferrari,sebastian-vettel,5,ferrari,+2.581,3,+2.581,55,18,2,21-abu-dhabi,,1:39:42.963,,pirelli,2018
+red-bull,max-verstappen,33,tag-heuer,+12.706,6,+10.125,55,15,3,21-abu-dhabi,,1:39:53.088,,pirelli,2018
+red-bull,daniel-ricciardo,3,tag-heuer,+15.379,5,+2.673,55,12,4,21-abu-dhabi,,1:39:55.761,,pirelli,2018
+mercedes,valtteri-bottas,77,mercedes,+47.957,2,+32.578,55,10,5,21-abu-dhabi,,1:40:28.339,,pirelli,2018
+renault,carlos-sainz-jr,55,renault,+1:12.548,11,+24.591,55,8,6,21-abu-dhabi,,1:40:52.930,,pirelli,2018
+sauber,charles-leclerc,16,ferrari,+1:30.789,8,+18.241,55,6,7,21-abu-dhabi,,1:41:11.171,,pirelli,2018
+force-india,sergio-perez,11,mercedes,+1:31.275,14,+0.486,55,4,8,21-abu-dhabi,,1:41:11.657,,pirelli,2018
+haas,romain-grosjean,8,ferrari,+1 lap,7,,54,2,9,21-abu-dhabi,,,,pirelli,2018
+haas,kevin-magnussen,20,ferrari,+1 lap,13,,54,1,10,21-abu-dhabi,,,,pirelli,2018
+mclaren,fernando-alonso,14,renault,+1 lap,15,,54,,11,21-abu-dhabi,,,15.000,pirelli,2018
+toro-rosso,brendon-hartley,28,honda,+1 lap,16,,54,,12,21-abu-dhabi,,,,pirelli,2018
+williams,lance-stroll,18,mercedes,+1 lap,20,,54,,13,21-abu-dhabi,,,,pirelli,2018
+mclaren,stoffel-vandoorne,2,renault,+1 lap,18,,54,,14,21-abu-dhabi,,,,pirelli,2018
+williams,sergey-sirotkin,35,mercedes,+1 lap,19,,54,,15,21-abu-dhabi,,,,pirelli,2018
+toro-rosso,pierre-gasly,10,honda,,17,,46,,DNF,21-abu-dhabi,Engine,,,pirelli,2018
+force-india,esteban-ocon,31,mercedes,,9,,44,,DNF,21-abu-dhabi,Engine,,5.000,pirelli,2018
+sauber,marcus-ericsson,9,ferrari,,12,,24,,DNF,21-abu-dhabi,Power loss,,,pirelli,2018
+ferrari,kimi-raikkonen,7,ferrari,,4,,6,,DNF,21-abu-dhabi,Power loss,,,pirelli,2018
+renault,nico-hulkenberg,27,renault,,10,,0,,DNF,21-abu-dhabi,Collision,,,pirelli,2018

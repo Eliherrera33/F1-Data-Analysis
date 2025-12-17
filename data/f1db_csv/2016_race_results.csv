@@ -1,0 +1,463 @@
+constructorId,driverId,driverNumber,engineManufacturerId,gap,gridPosition,interval,laps,points,position,race,reasonRetired,time,timePenalty,tyreManufacturerId,year
+mercedes,nico-rosberg,6,mercedes,,2,,57,25,1,01-australia,,1:48:15.565,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,+8.060,1,+8.060,57,18,2,01-australia,,1:48:23.625,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+9.643,3,+1.583,57,15,3,01-australia,,1:48:25.208,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+24.330,8,+14.687,57,12,4,01-australia,,1:48:39.895,,pirelli,2016
+williams,felipe-massa,19,mercedes,+58.979,6,+34.649,57,10,5,01-australia,,1:49:14.544,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+1:12.081,19,+13.102,57,8,6,01-australia,,1:49:27.646,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+1:14.199,10,+2.118,57,6,7,01-australia,,1:49:29.764,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1:15.153,16,+0.954,57,4,8,01-australia,,1:49:30.718,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1:15.680,7,+0.527,57,2,9,01-australia,,1:49:31.245,,pirelli,2016
+toro-rosso,max-verstappen,33,ferrari,+1:16.833,5,+1.153,57,1,10,01-australia,,1:49:32.398,,pirelli,2016
+renault,jolyon-palmer,30,renault,+1:23.399,13,+6.566,57,,11,01-australia,,1:49:38.964,,pirelli,2016
+renault,kevin-magnussen,20,renault,+1:25.606,14,+2.207,57,,12,01-australia,,1:49:41.171,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1:31.699,9,+6.093,57,,13,01-australia,,1:49:47.264,,pirelli,2016
+mclaren,jenson-button,22,honda,+1 lap,12,,56,,14,01-australia,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,17,,56,,15,01-australia,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+1 lap,21,,56,,16,01-australia,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,,15,,38,,DNF,01-australia,Transmission,,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,,4,,21,,DNF,01-australia,Turbo,,,pirelli,2016
+manor,rio-haryanto,88,mercedes,,22,,17,,DNF,01-australia,Driveshaft,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,,20,,16,,DNF,01-australia,Collision,,,pirelli,2016
+mclaren,fernando-alonso,14,honda,,11,,16,,DNF,01-australia,Collision,,,pirelli,2016
+red-bull,daniil-kvyat,26,tag-heuer,,18,,,,DNS,01-australia,Electrical,,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,,2,,57,25,1,02-bahrain,,1:33:34.696,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+10.282,4,+10.282,57,18,2,02-bahrain,,1:33:44.978,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,+30.148,1,+19.866,57,15,3,02-bahrain,,1:34:04.844,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+1:02.494,5,+32.346,57,12,4,02-bahrain,,1:34:37.190,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+1:18.299,9,+15.805,57,10,5,02-bahrain,,1:34:52.995,,pirelli,2016
+toro-rosso,max-verstappen,33,ferrari,+1:20.929,10,+2.630,57,8,6,02-bahrain,,1:34:55.625,,pirelli,2016
+red-bull,daniil-kvyat,26,tag-heuer,+1 lap,15,,56,6,7,02-bahrain,,,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1 lap,7,,56,4,8,02-bahrain,,,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1 lap,6,,56,2,9,02-bahrain,,,,pirelli,2016
+mclaren,stoffel-vandoorne,47,honda,+1 lap,12,,56,1,10,02-bahrain,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,+1 lap,PL,,56,,11,02-bahrain,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+1 lap,17,,56,,12,02-bahrain,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+1 lap,16,,56,,13,02-bahrain,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,21,,56,,14,02-bahrain,,,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+1 lap,8,,56,,15,02-bahrain,,,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1 lap,18,,56,,16,02-bahrain,,,,pirelli,2016
+manor,rio-haryanto,88,mercedes,+1 lap,20,,56,,17,02-bahrain,,,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,,11,,29,,DNF,02-bahrain,Collision damage,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,,13,,9,,DNF,02-bahrain,Brakes,,,pirelli,2016
+mclaren,jenson-button,22,honda,,14,,6,,DNF,02-bahrain,Engine,,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,,3,,,,DNS,02-bahrain,Engine,,,pirelli,2016
+renault,jolyon-palmer,30,renault,,19,,,,DNS,02-bahrain,Hydraulics,,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,,1,,56,25,1,03-china,,1:38:53.891,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+37.776,4,+37.776,56,18,2,03-china,,1:39:31.667,,pirelli,2016
+red-bull,daniil-kvyat,26,tag-heuer,+45.936,6,+8.160,56,15,3,03-china,,1:39:39.827,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+52.688,2,+6.752,56,12,4,03-china,,1:39:46.579,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+1:05.872,3,+13.184,56,10,5,03-china,,1:39:59.763,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1:15.511,10,+9.639,56,8,6,03-china,,1:40:09.402,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,+1:18.230,22,+2.719,56,6,7,03-china,,1:40:12.121,,pirelli,2016
+toro-rosso,max-verstappen,33,ferrari,+1:19.268,9,+1.038,56,4,8,03-china,,1:40:13.159,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1:24.127,8,+4.859,56,2,9,03-china,,1:40:18.018,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1:26.192,5,+2.065,56,1,10,03-china,,1:40:20.083,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1:34.283,7,+8.091,56,,11,03-china,,1:40:28.174,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+1:37.253,11,+2.970,56,,12,03-china,,1:40:31.144,,pirelli,2016
+mclaren,jenson-button,22,honda,+1:41.990,12,+4.737,56,,13,03-china,,1:40:35.881,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1 lap,18,,55,,14,03-china,,,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+1 lap,13,,55,,15,03-china,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+1 lap,15,,55,,16,03-china,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,+1 lap,17,,55,,17,03-china,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+1 lap,21,,55,,18,03-china,,,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+1 lap,14,,55,,19,03-china,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,16,,55,,20,03-china,,,,pirelli,2016
+manor,rio-haryanto,88,mercedes,+1 lap,20,,55,,21,03-china,,,,pirelli,2016
+renault,jolyon-palmer,30,renault,+1 lap,19,,55,,22,03-china,,,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,,1,,53,25,1,04-russia,,1:32:41.997,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,+25.022,10,+25.022,53,18,2,04-russia,,1:33:07.019,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+31.998,3,+6.976,53,15,3,04-russia,,1:33:13.995,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+50.217,2,+18.219,53,12,4,04-russia,,1:33:32.214,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1:14.427,4,+24.210,53,10,5,04-russia,,1:33:56.424,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+1 lap,14,,52,8,6,04-russia,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,+1 lap,17,,52,6,7,04-russia,,,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+1 lap,15,,52,4,8,04-russia,,,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1 lap,6,,52,2,9,04-russia,,,,pirelli,2016
+mclaren,jenson-button,22,honda,+1 lap,12,,52,1,10,04-russia,,,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+1 lap,5,,52,,11,04-russia,,,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1 lap,11,,52,,12,04-russia,,,,pirelli,2016
+renault,jolyon-palmer,30,renault,+1 lap,18,,52,,13,04-russia,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+1 lap,22,,52,,14,04-russia,,,,pirelli,2016
+red-bull,daniil-kvyat,26,tag-heuer,+1 lap,8,,52,,15,04-russia,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,19,,52,,16,04-russia,,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1 lap,16,,52,,17,04-russia,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+2 laps,20,,51,,18,04-russia,,,,pirelli,2016
+toro-rosso,max-verstappen,33,ferrari,,9,,33,,DNF,04-russia,Power unit,,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,,7,,0,,DNF,04-russia,Collision,,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,,13,,0,,DNF,04-russia,Collision,,,pirelli,2016
+manor,rio-haryanto,88,mercedes,,21,,0,,DNF,04-russia,Collision,,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,,4,,66,25,1,05-spain,,1:41:40.017,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+0.616,5,+0.616,66,18,2,05-spain,,1:41:40.633,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+5.581,6,+4.965,66,15,3,05-spain,,1:41:45.598,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+43.950,3,+38.369,66,12,4,05-spain,,1:42:23.967,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+45.271,7,+1.321,66,10,5,05-spain,,1:42:25.288,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1:01.395,8,+16.124,66,8,6,05-spain,,1:42:41.412,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1:19.538,9,+18.143,66,6,7,05-spain,,1:42:59.555,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1:20.707,18,+1.169,66,4,8,05-spain,,1:43:00.724,,pirelli,2016
+mclaren,jenson-button,22,honda,+1 lap,12,,65,2,9,05-spain,,,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,+1 lap,13,,65,1,10,05-spain,,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1 lap,16,,65,,11,05-spain,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+1 lap,19,,65,,12,05-spain,,,,pirelli,2016
+renault,jolyon-palmer,30,renault,+1 lap,17,,65,,13,05-spain,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,20,,65,,14,05-spain,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,+1 lap,15,,65,,15,05-spain,,,10.000,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+1 lap,21,,65,,16,05-spain,,,,pirelli,2016
+manor,rio-haryanto,88,mercedes,+1 lap,22,,65,,17,05-spain,,,,pirelli,2016
+haas,romain-grosjean,8,ferrari,,14,,56,,DNF,05-spain,Brakes,,,pirelli,2016
+mclaren,fernando-alonso,14,honda,,10,,45,,DNF,05-spain,Power unit,,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,,11,,20,,DNF,05-spain,Oil leak,,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,,1,,0,,DNF,05-spain,Collision,,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,,2,,0,,DNF,05-spain,Collision,,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,,3,,78,25,1,06-monaco,,1:59:29.133,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+7.252,1,+7.252,78,18,2,06-monaco,,1:59:36.385,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+13.825,7,+6.573,78,15,3,06-monaco,,1:59:42.958,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+15.846,4,+2.021,78,12,4,06-monaco,,1:59:44.979,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+1:25.076,9,+1:09.230,78,10,5,06-monaco,,2:00:54.209,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+1:32.999,5,+7.923,78,8,6,06-monaco,,2:01:02.132,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,+1:33.290,2,+0.291,78,6,7,06-monaco,,2:01:02.423,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1 lap,6,,77,4,8,06-monaco,,,,pirelli,2016
+mclaren,jenson-button,22,honda,+1 lap,13,,77,2,9,06-monaco,,,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1 lap,14,,77,1,10,06-monaco,,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1 lap,12,,77,,11,06-monaco,,,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1 lap,10,,77,,12,06-monaco,,,10.000,pirelli,2016
+haas,romain-grosjean,8,ferrari,+2 laps,15,,76,,13,06-monaco,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+2 laps,20,,76,,14,06-monaco,,,10.000,pirelli,2016
+manor,rio-haryanto,88,mercedes,+4 laps,19,,74,,15,06-monaco,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,,17,,51,,DNF,06-monaco,Collision damage,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,,PL,,48,,DNF,06-monaco,Collision damage,,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,,PL,,34,,DNF,06-monaco,Accident,,,pirelli,2016
+renault,kevin-magnussen,20,renault,,16,,32,,DNF,06-monaco,Collision damage,,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,,8,,18,,DNF,06-monaco,Collision,,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,,11,,10,,DNF,06-monaco,Accident damage,,,pirelli,2016
+renault,jolyon-palmer,30,renault,,18,,7,,DNF,06-monaco,Accident,,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,,1,,70,25,1,07-canada,,1:31:05.296,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+5.011,3,+5.011,70,18,2,07-canada,,1:31:10.307,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+46.422,7,+41.411,70,15,3,07-canada,,1:31:51.718,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+53.020,5,+6.598,70,12,4,07-canada,,1:31:58.316,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,+1:02.093,2,+9.073,70,10,5,07-canada,,1:32:07.389,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+1:03.017,6,+0.924,70,8,6,07-canada,,1:32:08.313,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+1:03.634,4,+0.617,70,6,7,07-canada,,1:32:08.930,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+1 lap,9,,69,4,8,07-canada,,,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1 lap,20,,69,2,9,07-canada,,,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1 lap,11,,69,1,10,07-canada,,,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+1 lap,10,,69,,11,07-canada,,,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,+1 lap,15,,69,,12,07-canada,,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+2 laps,13,,68,,13,07-canada,,,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+2 laps,14,,68,,14,07-canada,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+2 laps,21,,68,,15,07-canada,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,+2 laps,22,,68,,16,07-canada,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+2 laps,17,,68,,17,07-canada,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+2 laps,18,,68,,18,07-canada,,,,pirelli,2016
+manor,rio-haryanto,88,mercedes,+2 laps,19,,68,,19,07-canada,,,,pirelli,2016
+williams,felipe-massa,19,mercedes,,8,,35,,DNF,07-canada,Overheating,,,pirelli,2016
+renault,jolyon-palmer,30,renault,,16,,16,,DNF,07-canada,Water leak,,,pirelli,2016
+mclaren,jenson-button,22,honda,,12,,9,,DNF,07-canada,Engine,,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,,1,,51,25,1,08-europe,,1:32:52.366,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+16.696,3,+16.696,51,18,2,08-europe,,1:33:09.062,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+25.241,7,+8.545,51,15,3,08-europe,,1:33:17.607,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+33.102,4,+7.861,51,12,4,08-europe,,1:33:25.468,5.000,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,+56.335,10,+23.233,51,10,5,08-europe,,1:33:48.701,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1:00.886,8,+4.551,51,8,6,08-europe,,1:33:53.252,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+1:09.229,2,+8.343,51,6,7,08-europe,,1:34:01.595,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+1:10.696,9,+1.467,51,4,8,08-europe,,1:34:03.062,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+1:17.708,12,+7.012,51,2,9,08-europe,,1:34:10.074,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1:25.375,5,+7.667,51,1,10,08-europe,,1:34:17.741,,pirelli,2016
+mclaren,jenson-button,22,honda,+1:44.817,19,+19.442,51,,11,08-europe,,1:34:37.183,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,15,,50,,12,08-europe,,,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+1 lap,11,,50,,13,08-europe,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,+1 lap,PL,,50,,14,08-europe,,,,pirelli,2016
+renault,jolyon-palmer,30,renault,+1 lap,21,,50,,15,08-europe,,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1 lap,14,,50,,16,08-europe,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+1 lap,20,,50,,17,08-europe,,,,pirelli,2016
+manor,rio-haryanto,88,mercedes,+2 laps,16,,49,,18,08-europe,,,,pirelli,2016
+mclaren,fernando-alonso,14,honda,,13,,42,,DNF,08-europe,Gearbox,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,,17,,39,,DNF,08-europe,Brakes,,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,,18,,31,,DNF,08-europe,Suspension,,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,,6,,6,,DNF,08-europe,Suspension,,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,,1,,71,25,1,09-austria,,1:27:38.107,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+5.719,8,+5.719,71,18,2,09-austria,,1:27:43.826,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+6.024,4,+0.305,71,15,3,09-austria,,1:27:44.131,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,+26.710,6,+20.686,71,12,4,09-austria,,1:28:04.817,10.000,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+30.981,5,+4.271,71,10,5,09-austria,,1:28:09.088,,pirelli,2016
+mclaren,jenson-button,22,honda,+37.706,3,+6.725,71,8,6,09-austria,,1:28:15.813,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+44.668,13,+6.962,71,6,7,09-austria,,1:28:22.775,5.000,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+47.400,15,+2.732,71,4,8,09-austria,,1:28:25.507,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1 lap,7,,70,2,9,09-austria,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+1 lap,12,,70,1,10,09-austria,,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1 lap,11,,70,,11,09-austria,,,,pirelli,2016
+renault,jolyon-palmer,30,renault,+1 lap,19,,70,,12,09-austria,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,21,,70,,13,09-austria,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,+1 lap,17,,70,,14,09-austria,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+1 lap,18,,70,,15,09-austria,,,,pirelli,2016
+manor,rio-haryanto,88,mercedes,+1 lap,20,,70,,16,09-austria,,,,pirelli,2016
+force-india,sergio-perez,11,mercedes,,16,,69,,17,09-austria,Accident,,,pirelli,2016
+mclaren,fernando-alonso,14,honda,,14,,64,,18,09-austria,Battery,,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,,2,,64,,19,09-austria,Brakes,,,pirelli,2016
+williams,felipe-massa,19,mercedes,,PL,,63,,20,09-austria,Brakes,,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,,9,,26,,DNF,09-austria,Accident,,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,,PL,,2,,DNF,09-austria,Mechenical,,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,,1,,52,25,1,10-great-britain,,1:34:55.831,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+8.250,3,+8.250,52,18,2,10-great-britain,,1:35:04.081,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,+16.911,2,+8.661,52,15,3,10-great-britain,,1:35:12.742,10.000,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+26.211,4,+9.300,52,12,4,10-great-britain,,1:35:22.042,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+1:09.743,5,+43.532,52,10,5,10-great-britain,,1:36:05.574,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1:16.941,10,+7.198,52,8,6,10-great-britain,,1:36:12.772,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+1:17.712,8,+0.771,52,6,7,10-great-britain,,1:36:13.543,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1:25.858,7,+8.146,52,4,8,10-great-britain,,1:36:21.689,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+1:31.654,11,+5.796,52,2,9,10-great-britain,,1:36:27.485,5.000,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,+1:32.600,15,+0.946,52,1,10,10-great-britain,,1:36:28.431,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1 lap,12,,51,,11,10-great-britain,,,,pirelli,2016
+mclaren,jenson-button,22,honda,+1 lap,17,,51,,12,10-great-britain,,,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+1 lap,9,,51,,13,10-great-britain,,,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1 lap,6,,51,,14,10-great-britain,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,21,,51,,15,10-great-britain,,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1 lap,14,,51,,16,10-great-britain,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,,16,,49,,17,10-great-britain,Gearbox,,,pirelli,2016
+renault,jolyon-palmer,30,renault,,18,,37,,DNF,10-great-britain,Gearbox,,,pirelli,2016
+manor,rio-haryanto,88,mercedes,,19,,24,,DNF,10-great-britain,Spun off,,,pirelli,2016
+haas,romain-grosjean,8,ferrari,,13,,17,,DNF,10-great-britain,Transmission,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,,PL,,11,,DNF,10-great-britain,Power unit,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,,20,,6,,DNF,10-great-britain,Spun off,,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,,2,,70,25,1,11-hungary,,1:40:30.115,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,+1.977,1,+1.977,70,18,2,11-hungary,,1:40:32.092,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+27.539,3,+25.562,70,15,3,11-hungary,,1:40:57.654,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+28.213,5,+0.674,70,12,4,11-hungary,,1:40:58.328,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+48.659,4,+20.446,70,10,5,11-hungary,,1:41:18.774,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+49.044,14,+0.385,70,8,6,11-hungary,,1:41:19.159,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+1 lap,7,,69,6,7,11-hungary,,,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1 lap,6,,69,4,8,11-hungary,,,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1 lap,10,,69,2,9,11-hungary,,,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+1 lap,9,,69,1,10,11-hungary,,,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1 lap,13,,69,,11,11-hungary,,,,pirelli,2016
+renault,jolyon-palmer,30,renault,+1 lap,17,,69,,12,11-hungary,,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1 lap,15,,69,,13,11-hungary,,,5.000,pirelli,2016
+haas,romain-grosjean,8,ferrari,+1 lap,11,,69,,14,11-hungary,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,+1 lap,19,,69,,15,11-hungary,,,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,+1 lap,12,,69,,16,11-hungary,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,16,,69,,17,11-hungary,,,,pirelli,2016
+williams,felipe-massa,19,mercedes,+2 laps,18,,68,,18,11-hungary,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+2 laps,20,,68,,19,11-hungary,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+2 laps,PL,,68,,20,11-hungary,,,,pirelli,2016
+manor,rio-haryanto,88,mercedes,+2 laps,21,,68,,21,11-hungary,,,,pirelli,2016
+mclaren,jenson-button,22,honda,,8,,60,,DNF,11-hungary,Oil leak,,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,,2,,67,25,1,12-germany,,1:30:44.200,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+6.996,3,+6.996,67,18,2,12-germany,,1:30:51.196,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+13.413,4,+6.417,67,15,3,12-germany,,1:30:57.613,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,+15.845,1,+2.432,67,12,4,12-germany,,1:31:00.045,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+32.570,6,+16.725,67,10,5,12-germany,,1:31:16.770,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+37.023,5,+4.453,67,8,6,12-germany,,1:31:21.223,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+1:10.049,8,+33.026,67,6,7,12-germany,,1:31:54.249,,pirelli,2016
+mclaren,jenson-button,22,honda,+1 lap,12,,66,4,8,12-germany,,,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1 lap,7,,66,2,9,12-germany,,,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1 lap,9,,66,1,10,12-germany,,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1 lap,11,,66,,11,12-germany,,,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+1 lap,13,,66,,12,12-germany,,,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+1 lap,20,,66,,13,12-germany,,,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1 lap,15,,66,,14,12-germany,,,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,+1 lap,18,,66,,15,12-germany,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,+1 lap,16,,66,,16,12-germany,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+2 laps,17,,65,,17,12-germany,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+2 laps,22,,65,,18,12-germany,,,,pirelli,2016
+renault,jolyon-palmer,30,renault,+2 laps,14,,65,,19,12-germany,,,,pirelli,2016
+manor,rio-haryanto,88,mercedes,+2 laps,19,,65,,20,12-germany,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,,21,,57,,DNF,12-germany,Power unit,,,pirelli,2016
+williams,felipe-massa,19,mercedes,,10,,36,,DNF,12-germany,Suspension,,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,,1,,44,25,1,13-belgium,,1:44:51.058,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+14.113,5,+14.113,44,18,2,13-belgium,,1:45:05.171,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,+27.634,21,+13.521,44,15,3,13-belgium,,1:45:18.692,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+35.907,7,+8.273,44,12,4,13-belgium,,1:45:26.965,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+40.660,6,+4.753,44,10,5,13-belgium,,1:45:31.718,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+45.394,4,+4.734,44,8,6,13-belgium,,1:45:36.452,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+59.445,22,+14.051,44,6,7,13-belgium,,1:45:50.503,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1:00.151,8,+0.706,44,4,8,13-belgium,,1:45:51.209,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+1:01.109,3,+0.958,44,2,9,13-belgium,,1:45:52.167,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1:05.873,10,+4.764,44,1,10,13-belgium,,1:45:56.931,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+1:11.138,2,+5.265,44,,11,13-belgium,,1:46:02.196,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1:13.877,18,+2.739,44,,12,13-belgium,,1:46:04.935,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+1:16.474,11,+2.597,44,,13,13-belgium,,1:46:07.532,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,+1:27.097,19,+10.623,44,,14,13-belgium,,1:46:18.155,,pirelli,2016
+renault,jolyon-palmer,30,renault,+1:33.165,13,+6.068,44,,15,13-belgium,,1:46:24.223,,pirelli,2016
+manor,esteban-ocon,31,mercedes,+1 lap,17,,43,,16,13-belgium,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,16,,43,,17,13-belgium,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,,12,,5,,DNF,13-belgium,Accident,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,,20,,3,,DNF,13-belgium,Gearbox,,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,,14,,1,,DNF,13-belgium,Puncture damage,,,pirelli,2016
+mclaren,jenson-button,22,honda,,9,,1,,DNF,13-belgium,Collision damage,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,,15,,0,,DNF,13-belgium,Collision,,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,,2,,53,25,1,14-italy,,1:17:28.089,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,+15.070,1,+15.070,53,18,2,14-italy,,1:17:43.159,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+20.990,3,+5.920,53,15,3,14-italy,,1:17:49.079,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+27.561,4,+6.571,53,12,4,14-italy,,1:17:55.650,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+45.295,6,+17.734,53,10,5,14-italy,,1:18:13.384,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+51.015,5,+5.720,53,8,6,14-italy,,1:18:19.104,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+54.236,7,+3.221,53,6,7,14-italy,,1:18:22.325,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1:04.954,8,+10.718,53,4,8,14-italy,,1:18:33.043,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1:05.617,11,+0.663,53,2,9,14-italy,,1:18:33.706,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+1:18.656,9,+13.039,53,1,10,14-italy,,1:18:46.745,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+1 lap,17,,52,,11,14-italy,,,,pirelli,2016
+mclaren,jenson-button,22,honda,+1 lap,14,,52,,12,14-italy,,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1 lap,10,,52,,13,14-italy,,,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+1 lap,12,,52,,14,14-italy,,,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1 lap,15,,52,,15,14-italy,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+1 lap,19,,52,,16,14-italy,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,+1 lap,21,,52,,17,14-italy,,,,pirelli,2016
+manor,esteban-ocon,31,mercedes,+2 laps,22,,51,,18,14-italy,,,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,,16,,36,,DNF,14-italy,Battery,,5.000,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,,13,,26,,DNF,14-italy,Oil leak,,,pirelli,2016
+renault,jolyon-palmer,30,renault,,20,,7,,DNF,14-italy,Collision damage,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,,18,,6,,DNF,14-italy,Collision damage,,10.000,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,,1,,61,25,1,15-singapore,,1:55:48.950,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+0.488,2,+0.488,61,18,2,15-singapore,,1:55:49.438,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,+8.038,3,+7.550,61,15,3,15-singapore,,1:55:56.988,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+10.219,5,+2.181,61,12,4,15-singapore,,1:55:59.169,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+27.694,22,+17.475,61,10,5,15-singapore,,1:56:16.644,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+1:11.197,4,+43.503,61,8,6,15-singapore,,1:57:00.147,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+1:29.198,9,+18.001,61,6,7,15-singapore,,1:57:18.148,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1:51.062,17,+21.864,61,4,8,15-singapore,,1:57:40.012,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,+1:51.557,7,+0.495,61,2,9,15-singapore,,1:57:40.507,,pirelli,2016
+renault,kevin-magnussen,20,renault,+1:59.952,15,+8.395,61,1,10,15-singapore,,1:57:48.902,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1 lap,13,,60,,11,15-singapore,,,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1 lap,11,,60,,12,15-singapore,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,16,,60,,13,15-singapore,,,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1 lap,6,,60,,14,15-singapore,,,,pirelli,2016
+renault,jolyon-palmer,30,renault,+1 lap,18,,60,,15,15-singapore,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+1 lap,19,,60,,16,15-singapore,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+1 lap,14,,60,,17,15-singapore,,,,pirelli,2016
+manor,esteban-ocon,31,mercedes,+2 laps,21,,59,,18,15-singapore,,,,pirelli,2016
+mclaren,jenson-button,22,honda,,12,,43,,DNF,15-singapore,Brakes,,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,,10,,35,,DNF,15-singapore,Overheating,,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,,8,,0,,DNF,15-singapore,Collision,,,pirelli,2016
+haas,romain-grosjean,8,ferrari,,20,,,,DNS,15-singapore,Brakes,,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,,4,,56,25,1,16-malaysia,,1:37:12.776,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+2.443,3,+2.443,56,18,2,16-malaysia,,1:37:15.219,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,+25.516,2,+23.073,56,15,3,16-malaysia,,1:37:38.292,10.000,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+28.785,6,+3.269,56,12,4,16-malaysia,,1:37:41.561,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1:01.582,11,+32.797,56,10,5,16-malaysia,,1:38:14.358,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1:03.794,7,+2.212,56,8,6,16-malaysia,,1:38:16.570,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+1:05.205,22,+1.411,56,6,7,16-malaysia,,1:38:17.981,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+1:14.062,8,+8.857,56,4,8,16-malaysia,,1:38:26.838,,pirelli,2016
+mclaren,jenson-button,22,honda,+1:21.816,9,+7.754,56,2,9,16-malaysia,,1:38:34.592,,pirelli,2016
+renault,jolyon-palmer,30,renault,+1:35.466,19,+13.650,56,1,10,16-malaysia,,1:38:48.242,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1:38.878,16,+3.412,56,,11,16-malaysia,,1:38:51.654,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+1 lap,17,,55,,12,16-malaysia,,,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1 lap,10,,55,,13,16-malaysia,,,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,+1 lap,15,,55,,14,16-malaysia,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+1 lap,21,,55,,15,16-malaysia,,,,pirelli,2016
+manor,esteban-ocon,31,mercedes,+1 lap,20,,55,,16,16-malaysia,,,10.000,pirelli,2016
+sauber,felipe-nasr,12,ferrari,,18,,46,,DNF,16-malaysia,Brakes,,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,,1,,40,,DNF,16-malaysia,Engine,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,,13,,39,,DNF,16-malaysia,Wheel,,,pirelli,2016
+renault,kevin-magnussen,20,renault,,14,,17,,DNF,16-malaysia,Power loss,,,pirelli,2016
+haas,romain-grosjean,8,ferrari,,12,,7,,DNF,16-malaysia,Brakes,,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,,5,,0,,DNF,16-malaysia,Collision,,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,,1,,53,25,1,17-japan,,1:26:43.333,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+4.978,3,+4.978,53,18,2,17-japan,,1:26:48.311,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,+5.776,2,+0.798,53,15,3,17-japan,,1:26:49.109,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+20.269,6,+14.493,53,12,4,17-japan,,1:27:03.602,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+28.370,8,+8.101,53,10,5,17-japan,,1:27:11.703,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+33.941,4,+5.571,53,8,6,17-japan,,1:27:17.274,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+57.495,5,+23.554,53,6,7,17-japan,,1:27:40.828,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+59.177,9,+1.682,53,4,8,17-japan,,1:27:42.510,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1:37.763,12,+38.586,53,2,9,17-japan,,1:28:21.096,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1:38.323,11,+0.560,53,1,10,17-japan,,1:28:21.656,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+1:39.254,7,+0.931,53,,11,17-japan,,1:28:22.587,,pirelli,2016
+renault,jolyon-palmer,30,renault,+1 lap,16,,52,,12,17-japan,,,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,+1 lap,13,,52,,13,17-japan,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,+1 lap,17,,52,,14,17-japan,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+1 lap,18,,52,,15,17-japan,,,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+1 lap,15,,52,,16,17-japan,,,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1 lap,14,,52,,17,17-japan,,,,pirelli,2016
+mclaren,jenson-button,22,honda,+1 lap,22,,52,,18,17-japan,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,19,,52,,19,17-japan,,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1 lap,10,,52,,20,17-japan,,,,pirelli,2016
+manor,esteban-ocon,31,mercedes,+1 lap,20,,52,,21,17-japan,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+1 lap,21,,52,,22,17-japan,,,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,,1,,56,25,1,18-united-states,,1:38:12.618,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,+4.520,2,+4.520,56,18,2,18-united-states,,1:38:17.138,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+19.692,3,+15.172,56,15,3,18-united-states,,1:38:32.310,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+43.134,6,+23.442,56,12,4,18-united-states,,1:38:55.752,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+1:33.953,12,+50.819,56,10,5,18-united-states,,1:39:46.571,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1:36.124,10,+2.171,56,8,6,18-united-states,,1:39:48.742,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1 lap,9,,55,6,7,18-united-states,,,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1 lap,11,,55,4,8,18-united-states,,,,pirelli,2016
+mclaren,jenson-button,22,honda,+1 lap,19,,55,2,9,18-united-states,,,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+1 lap,17,,55,1,10,18-united-states,,,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,+1 lap,13,,55,,11,18-united-states,,,,pirelli,2016
+renault,kevin-magnussen,20,renault,+1 lap,18,,55,,12,18-united-states,,,5.000,pirelli,2016
+renault,jolyon-palmer,30,renault,+1 lap,15,,55,,13,18-united-states,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+1 lap,16,,55,,14,18-united-states,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,21,,55,,15,18-united-states,,,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1 lap,8,,55,,16,18-united-states,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+1 lap,20,,55,,17,18-united-states,,,,pirelli,2016
+manor,esteban-ocon,31,mercedes,+2 laps,22,,54,,18,18-united-states,,,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,,5,,38,,DNF,18-united-states,Loose wheel,,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,,4,,28,,DNF,18-united-states,Gearbox,,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,,14,,16,,DNF,18-united-states,Brakes,,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,,7,,1,,DNF,18-united-states,Collision damage,,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,,1,,71,25,1,19-mexico,,1:40:31.402,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,+8.354,2,+8.354,71,18,2,19-mexico,,1:40:39.756,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+20.858,4,+12.504,71,15,3,19-mexico,,1:40:52.260,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+21.323,3,+0.465,71,12,4,19-mexico,,1:40:52.725,5.000,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+27.313,7,+5.990,71,10,5,19-mexico,,1:40:58.715,10.000,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+49.376,6,+22.063,71,8,6,19-mexico,,1:41:20.778,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+58.891,5,+9.515,71,6,7,19-mexico,,1:41:30.293,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+1:05.612,8,+6.721,71,4,8,19-mexico,,1:41:37.014,,pirelli,2016
+williams,felipe-massa,19,mercedes,+1:16.206,9,+10.594,71,2,9,19-mexico,,1:41:47.608,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+1:16.798,12,+0.592,71,1,10,19-mexico,,1:41:48.200,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+1 lap,15,,70,,11,19-mexico,,,,pirelli,2016
+mclaren,jenson-button,22,honda,+1 lap,13,,70,,12,19-mexico,,,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+1 lap,11,,70,,13,19-mexico,,,,pirelli,2016
+renault,jolyon-palmer,30,renault,+1 lap,21,,70,,14,19-mexico,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,19,,70,,15,19-mexico,,,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+1 lap,10,,70,,16,19-mexico,,,5.000,pirelli,2016
+renault,kevin-magnussen,20,renault,+1 lap,14,,70,,17,19-mexico,,,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,+1 lap,18,,70,,18,19-mexico,,,5.000,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1 lap,17,,70,,19,19-mexico,,,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+1 lap,PL,,70,,20,19-mexico,,,,pirelli,2016
+manor,esteban-ocon,31,mercedes,+2 laps,20,,69,,21,19-mexico,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,,16,,0,,DNF,19-mexico,Collision,,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,,1,,71,25,1,20-brazil,,3:01:01.335,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,+11.455,2,+11.455,71,18,2,20-brazil,,3:01:12.790,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+21.481,4,+10.026,71,15,3,20-brazil,,3:01:22.816,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+25.346,9,+3.865,71,12,4,20-brazil,,3:01:26.681,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+26.334,5,+0.988,71,10,5,20-brazil,,3:01:27.669,,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,+29.160,15,+2.826,71,8,6,20-brazil,,3:01:30.495,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+29.827,8,+0.667,71,6,7,20-brazil,,3:01:31.162,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+30.486,6,+0.659,71,4,8,20-brazil,,3:01:31.821,5.000,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+42.620,21,+12.134,71,2,9,20-brazil,,3:01:43.955,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+44.432,10,+1.812,71,1,10,20-brazil,,3:01:45.767,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,+45.292,11,+0.860,71,,11,20-brazil,,3:01:46.627,,pirelli,2016
+manor,esteban-ocon,31,mercedes,+45.809,22,+0.517,71,,12,20-brazil,,3:01:47.144,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,+51.192,14,+5.383,71,,13,20-brazil,,3:01:52.527,,pirelli,2016
+renault,kevin-magnussen,20,renault,+51.555,18,+0.363,71,,14,20-brazil,,3:01:52.890,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+1:00.498,19,+8.943,71,,15,20-brazil,,3:02:01.833,,pirelli,2016
+mclaren,jenson-button,22,honda,+1:21.994,17,+21.496,71,,16,20-brazil,,3:02:23.329,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,,12,,60,,DNF,20-brazil,Electrical,,,pirelli,2016
+williams,felipe-massa,19,mercedes,,13,,46,,DNF,20-brazil,Accident,,5.000,pirelli,2016
+renault,jolyon-palmer,30,renault,,16,,20,,DNF,20-brazil,Collision damage,,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,,3,,19,,DNF,20-brazil,Accident,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,,20,,11,,DNF,20-brazil,Accident,,,pirelli,2016
+haas,romain-grosjean,8,ferrari,,7,,,,DNS,20-brazil,Accident,,,pirelli,2016
+mercedes,lewis-hamilton,44,mercedes,,1,,55,25,1,21-abu-dhabi,,1:38:04.013,,pirelli,2016
+mercedes,nico-rosberg,6,mercedes,+0.439,2,+0.439,55,18,2,21-abu-dhabi,,1:38:04.452,,pirelli,2016
+ferrari,sebastian-vettel,5,ferrari,+0.843,5,+0.404,55,15,3,21-abu-dhabi,,1:38:04.856,,pirelli,2016
+red-bull,max-verstappen,33,tag-heuer,+1.685,6,+0.842,55,12,4,21-abu-dhabi,,1:38:05.698,,pirelli,2016
+red-bull,daniel-ricciardo,3,tag-heuer,+5.315,3,+3.630,55,10,5,21-abu-dhabi,,1:38:09.328,,pirelli,2016
+ferrari,kimi-raikkonen,7,ferrari,+18.816,4,+13.501,55,8,6,21-abu-dhabi,,1:38:22.829,,pirelli,2016
+force-india,nico-hulkenberg,27,mercedes,+50.114,7,+31.298,55,6,7,21-abu-dhabi,,1:38:54.127,,pirelli,2016
+force-india,sergio-perez,11,mercedes,+58.776,8,+8.662,55,4,8,21-abu-dhabi,,1:39:02.789,,pirelli,2016
+williams,felipe-massa,19,mercedes,+59.436,10,+0.660,55,2,9,21-abu-dhabi,,1:39:03.449,,pirelli,2016
+mclaren,fernando-alonso,14,honda,+59.896,9,+0.460,55,1,10,21-abu-dhabi,,1:39:03.909,,pirelli,2016
+haas,romain-grosjean,8,ferrari,+1:16.777,14,+16.881,55,,11,21-abu-dhabi,,1:39:20.790,,pirelli,2016
+haas,esteban-gutierrez,21,ferrari,+1:35.113,13,+18.336,55,,12,21-abu-dhabi,,1:39:39.126,,pirelli,2016
+manor,esteban-ocon,31,mercedes,+1 lap,20,,54,,13,21-abu-dhabi,,,,pirelli,2016
+manor,pascal-wehrlein,94,mercedes,+1 lap,16,,54,,14,21-abu-dhabi,,,,pirelli,2016
+sauber,marcus-ericsson,9,ferrari,+1 lap,22,,54,,15,21-abu-dhabi,,,,pirelli,2016
+sauber,felipe-nasr,12,ferrari,+1 lap,19,,54,,16,21-abu-dhabi,,,,pirelli,2016
+renault,jolyon-palmer,30,renault,+1 lap,15,,54,,17,21-abu-dhabi,,,5.000,pirelli,2016
+toro-rosso,carlos-sainz-jr,55,ferrari,,21,,41,,DNF,21-abu-dhabi,Collision damage,,,pirelli,2016
+toro-rosso,daniil-kvyat,26,ferrari,,17,,14,,DNF,21-abu-dhabi,Gearbox,,,pirelli,2016
+mclaren,jenson-button,22,honda,,12,,12,,DNF,21-abu-dhabi,Suspension,,,pirelli,2016
+williams,valtteri-bottas,77,mercedes,,11,,6,,DNF,21-abu-dhabi,Suspension,,,pirelli,2016
+renault,kevin-magnussen,20,renault,,18,,5,,DNF,21-abu-dhabi,Suspension,,,pirelli,2016

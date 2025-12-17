@@ -1,0 +1,441 @@
+constructorId,driverId,driverNumber,engineManufacturerId,gap,grandSlam,gridPosition,interval,laps,points,position,race,reasonRetired,time,timePenalty,tyreManufacturerId,year
+mercedes,lewis-hamilton,44,mercedes,,,2,,56,25,1,01-bahrain,,1:32:03.897,,pirelli,2021
+red-bull,max-verstappen,33,honda,+0.745,,1,+0.745,56,18,2,01-bahrain,,1:32:04.642,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+37.383,,3,+36.638,56,16,3,01-bahrain,,1:32:41.280,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+46.466,,7,+9.083,56,12,4,01-bahrain,,1:32:50.363,,pirelli,2021
+red-bull,sergio-perez,11,honda,+52.047,,PL,+5.581,56,10,5,01-bahrain,,1:32:55.944,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+59.090,,4,+7.043,56,8,6,01-bahrain,,1:33:02.987,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1:06.004,,6,+6.914,56,6,7,01-bahrain,,1:33:09.901,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+1:07.100,,8,+1.096,56,4,8,01-bahrain,,1:33:10.997,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1:25.692,,13,+18.592,56,2,9,01-bahrain,,1:33:29.589,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1:26.713,,10,+1.021,56,1,10,01-bahrain,,1:33:30.610,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1:28.864,,14,+2.151,56,,11,01-bahrain,,1:33:32.761,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,12,,55,,12,01-bahrain,,,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1 lap,,16,,55,,13,01-bahrain,,,,pirelli,2021
+williams,george-russell,63,mercedes,+1 lap,,15,,55,,14,01-bahrain,,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,20,,55,,15,01-bahrain,,,10.000,pirelli,2021
+haas,mick-schumacher,47,ferrari,+1 lap,,18,,55,,16,01-bahrain,,,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,,,5,,52,,17,01-bahrain,Suspension,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,,,17,,51,,18,01-bahrain,Fuel system,,,pirelli,2021
+alpine,fernando-alonso,14,renault,,,9,,32,,DNF,01-bahrain,Brakes,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,,,19,,0,,DNF,01-bahrain,Accident,,,pirelli,2021
+red-bull,max-verstappen,33,honda,,,3,,63,25,1,02-emilia-romagna,,2:02:34.598,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,+22.000,,1,+22.000,63,19,2,02-emilia-romagna,,2:02:56.598,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+23.702,,7,+1.702,63,15,3,02-emilia-romagna,,2:02:58.300,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+25.579,,4,+1.877,63,12,4,02-emilia-romagna,,2:03:00.177,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+27.036,,11,+1.457,63,10,5,02-emilia-romagna,,2:03:01.634,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+51.220,,6,+24.184,63,8,6,02-emilia-romagna,,2:03:25.818,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+52.818,,5,+1.598,63,6,7,02-emilia-romagna,,2:03:27.416,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+56.909,,10,+4.091,63,4,8,02-emilia-romagna,,2:03:31.507,5.000,pirelli,2021
+alpine,esteban-ocon,31,renault,+1:05.704,,9,+8.795,63,2,9,02-emilia-romagna,,2:03:40.302,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1:06.561,,15,+0.857,63,1,10,02-emilia-romagna,,2:03:41.159,,pirelli,2021
+red-bull,sergio-perez,11,honda,+1:07.151,,2,+0.590,63,,11,02-emilia-romagna,,2:03:41.749,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1:13.184,,20,+6.033,63,,12,02-emilia-romagna,,2:03:47.782,5.000,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1:34.773,,16,+21.589,63,,13,02-emilia-romagna,,2:04:09.371,30.000,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,17,,62,,14,02-emilia-romagna,,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,,,PL,,61,,15,02-emilia-romagna,Gearbox,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+2 laps,,18,,61,,16,02-emilia-romagna,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+2 laps,,19,,61,,17,02-emilia-romagna,,,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,,,8,,30,,DNF,02-emilia-romagna,Collision,,,pirelli,2021
+williams,george-russell,63,mercedes,,,12,,30,,DNF,02-emilia-romagna,Collision,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,,,14,,0,,DNF,02-emilia-romagna,Accident,,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,,,2,,66,25,1,03-portugal,,1:34:31.421,,pirelli,2021
+red-bull,max-verstappen,33,honda,+29.148,,3,+29.148,66,18,2,03-portugal,,1:35:00.569,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+33.530,,1,+4.382,66,16,3,03-portugal,,1:35:04.951,,pirelli,2021
+red-bull,sergio-perez,11,honda,+39.735,,4,+6.205,66,12,4,03-portugal,,1:35:11.156,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+51.369,,7,+11.634,66,10,5,03-portugal,,1:35:22.790,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+55.781,,8,+4.412,66,8,6,03-portugal,,1:35:27.202,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1:03.749,,6,+7.968,66,6,7,03-portugal,,1:35:35.170,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1:04.808,,13,+1.059,66,4,8,03-portugal,,1:35:36.229,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1:15.369,,16,+10.561,66,2,9,03-portugal,,1:35:46.790,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+1:16.463,,9,+1.094,66,1,10,03-portugal,,1:35:47.884,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+1:18.955,,5,+2.492,66,,11,03-portugal,,1:35:50.376,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,12,,65,,12,03-portugal,,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,10,,65,,13,03-portugal,,,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1 lap,,17,,65,,14,03-portugal,,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1 lap,,14,,65,,15,03-portugal,,,,pirelli,2021
+williams,george-russell,63,mercedes,+1 lap,,11,,65,,16,03-portugal,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+2 laps,,19,,64,,17,03-portugal,,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+2 laps,,18,,64,,18,03-portugal,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+2 laps,,20,,64,,19,03-portugal,,,5.000,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,,,15,,1,,DNF,03-portugal,Collision,,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,,,1,,66,25,1,04-spain,,1:33:07.680,,pirelli,2021
+red-bull,max-verstappen,33,honda,+15.841,,2,+15.841,66,19,2,04-spain,,1:33:23.521,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+26.610,,3,+10.769,66,15,3,04-spain,,1:33:34.290,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+54.616,,4,+28.006,66,12,4,04-spain,,1:34:02.296,,pirelli,2021
+red-bull,sergio-perez,11,honda,+1:03.671,,8,+9.055,66,10,5,04-spain,,1:34:11.351,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1:13.768,,7,+10.097,66,8,6,04-spain,,1:34:21.448,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+1:14.670,,6,+0.902,66,6,7,04-spain,,1:34:22.350,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+1 lap,,9,,65,4,8,04-spain,,,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1 lap,,5,,65,2,9,04-spain,,,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+1 lap,,12,,65,1,10,04-spain,,,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1 lap,,11,,65,,11,04-spain,,,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,17,,65,,12,04-spain,,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,13,,65,,13,04-spain,,,,pirelli,2021
+williams,george-russell,63,mercedes,+1 lap,,15,,65,,14,04-spain,,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,14,,65,,15,04-spain,,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+1 lap,,19,,65,,16,04-spain,,,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1 lap,,10,,65,,17,04-spain,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+2 laps,,18,,64,,18,04-spain,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+2 laps,,20,,64,,19,04-spain,,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,,,16,,6,,DNF,04-spain,Electrical,,,pirelli,2021
+red-bull,max-verstappen,33,honda,,,2,,78,25,1,05-monaco,,1:38:56.820,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+8.968,,4,+8.968,78,18,2,05-monaco,,1:39:05.788,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+19.427,,5,+10.459,78,15,3,05-monaco,,1:39:16.247,,pirelli,2021
+red-bull,sergio-perez,11,honda,+20.490,,9,+1.063,78,12,4,05-monaco,,1:39:17.310,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+52.591,,8,+32.101,78,10,5,05-monaco,,1:39:49.411,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+53.896,,6,+1.305,78,8,6,05-monaco,,1:39:50.716,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,+1:08.231,,7,+14.335,78,7,7,05-monaco,,1:40:05.051,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1 lap,,13,,77,4,8,05-monaco,,,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1 lap,,11,,77,2,9,05-monaco,,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,10,,77,1,10,05-monaco,,,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,14,,77,,11,05-monaco,,,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1 lap,,12,,77,,12,05-monaco,,,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1 lap,,17,,77,,13,05-monaco,,,,pirelli,2021
+williams,george-russell,63,mercedes,+1 lap,,15,,77,,14,05-monaco,,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+1 lap,,18,,77,,15,05-monaco,,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1 lap,,16,,77,,16,05-monaco,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+3 laps,,19,,75,,17,05-monaco,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+3 laps,,20,,75,,18,05-monaco,,,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,,,3,,29,,DNF,05-monaco,Wheel nut,,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,,,,,,,DNS,05-monaco,Driveshaft hub,,,pirelli,2021
+red-bull,sergio-perez,11,honda,,,6,,51,25,1,06-azerbaijan,,2:13:36.410,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1.385,,11,+1.385,51,18,2,06-azerbaijan,,2:13:37.795,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+2.762,,4,+1.377,51,15,3,06-azerbaijan,,2:13:39.172,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+3.828,,1,+1.066,51,12,4,06-azerbaijan,,2:13:40.238,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+4.754,,9,+0.926,51,10,5,06-azerbaijan,,2:13:41.164,,pirelli,2021
+alpine,fernando-alonso,14,renault,+6.382,,8,+1.628,51,8,6,06-azerbaijan,,2:13:42.792,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+6.624,,7,+0.242,51,6,7,06-azerbaijan,,2:13:43.034,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+7.709,,5,+1.085,51,4,8,06-azerbaijan,,2:13:44.119,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+8.874,,13,+1.165,51,2,9,06-azerbaijan,,2:13:45.284,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+9.576,,14,+0.702,51,1,10,06-azerbaijan,,2:13:45.986,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+10.254,,20,+0.678,51,,11,06-azerbaijan,,2:13:46.664,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+11.264,,10,+1.010,51,,12,06-azerbaijan,,2:13:47.674,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+14.241,,17,+2.977,51,,13,06-azerbaijan,,2:13:50.651,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+14.315,,18,+0.074,51,,14,06-azerbaijan,,2:13:50.725,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,+17.668,,2,+3.353,51,,15,06-azerbaijan,,2:13:54.078,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+42.379,,16,+24.711,51,,16,06-azerbaijan,,2:14:18.789,30.000,pirelli,2021
+williams,george-russell,63,mercedes,,,15,,48,,17,06-azerbaijan,Gearbox,,,pirelli,2021
+red-bull,max-verstappen,33,honda,,,3,,45,,18,06-azerbaijan,Tyre,,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,,,19,,29,,DNF,06-azerbaijan,Tyre,,,pirelli,2021
+alpine,esteban-ocon,31,renault,,,12,,3,,DNF,06-azerbaijan,Turbocharger,,,pirelli,2021
+red-bull,max-verstappen,33,honda,,,1,,53,26,1,07-france,,1:27:25.770,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,+2.904,,2,+2.904,53,18,2,07-france,,1:27:28.674,,pirelli,2021
+red-bull,sergio-perez,11,honda,+8.811,,4,+5.907,53,15,3,07-france,,1:27:34.581,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+14.618,,3,+5.807,53,12,4,07-france,,1:27:40.388,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+1:04.032,,8,+49.414,53,10,5,07-france,,1:28:29.802,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1:15.857,,10,+11.825,53,8,6,07-france,,1:28:41.627,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+1:16.596,,6,+0.739,53,6,7,07-france,,1:28:42.366,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1:17.695,,9,+1.099,53,4,8,07-france,,1:28:43.465,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1:19.666,,12,+1.971,53,2,9,07-france,,1:28:45.436,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1:31.946,,19,+12.280,53,1,10,07-france,,1:28:57.716,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+1:39.337,,5,+7.391,53,,11,07-france,,1:29:05.107,,pirelli,2021
+williams,george-russell,63,mercedes,+1 lap,,14,,52,,12,07-france,,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1 lap,,PL,,52,,13,07-france,,,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1 lap,,11,,52,,14,07-france,,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,13,,52,,15,07-france,,,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+1 lap,,7,,52,,16,07-france,,,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,17,,52,,17,07-france,,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+1 lap,,16,,52,,18,07-france,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+1 lap,,15,,52,,19,07-france,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+1 lap,,18,,52,,20,07-france,,,,pirelli,2021
+red-bull,max-verstappen,33,honda,,,1,,71,25,1,08-styria,,1:22:18.925,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,+35.743,,2,+35.743,71,19,2,08-styria,,1:22:54.668,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+46.907,,5,+11.164,71,15,3,08-styria,,1:23:05.832,,pirelli,2021
+red-bull,sergio-perez,11,honda,+47.434,,4,+0.527,71,12,4,08-styria,,1:23:06.359,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+1 lap,,3,,70,10,5,08-styria,,,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+1 lap,,12,,70,8,6,08-styria,,,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+1 lap,,7,,70,6,7,08-styria,,,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1 lap,,9,,70,4,8,08-styria,,,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1 lap,,8,,70,2,9,08-styria,,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1 lap,,11,,70,1,10,08-styria,,,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,18,,70,,11,08-styria,,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,14,,70,,12,08-styria,,,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1 lap,,13,,70,,13,08-styria,,,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1 lap,,17,,70,,14,08-styria,,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,15,,70,,15,08-styria,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+2 laps,,19,,69,,16,08-styria,,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+3 laps,,16,,68,,17,08-styria,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+3 laps,,20,,68,,18,08-styria,,,,pirelli,2021
+williams,george-russell,63,mercedes,,,10,,36,,DNF,08-styria,Power unit,,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,,,6,,1,,DNF,08-styria,Collision,,,pirelli,2021
+red-bull,max-verstappen,33,honda,,True,1,,71,26,1,09-austria,,1:23:54.543,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+17.973,,5,+17.973,71,18,2,09-austria,,1:24:12.516,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+20.019,,2,+2.046,71,15,3,09-austria,,1:24:14.562,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,+46.452,,4,+26.433,71,12,4,09-austria,,1:24:40.995,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+57.144,,10,+10.692,71,10,5,09-austria,,1:24:51.687,,pirelli,2021
+red-bull,sergio-perez,11,honda,+57.915,,3,+0.771,71,8,6,09-austria,,1:24:52.458,10.000,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1:00.395,,13,+2.480,71,6,7,09-austria,,1:24:54.938,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+1:01.195,,12,+0.800,71,4,8,09-austria,,1:24:55.738,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+1:01.844,,6,+0.649,71,2,9,09-austria,,1:24:56.387,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1 lap,,14,,70,1,10,09-austria,,,,pirelli,2021
+williams,george-russell,63,mercedes,+1 lap,,8,,70,,11,09-austria,,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1 lap,,7,,70,,12,09-austria,,,5.000,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1 lap,,9,,70,,13,09-austria,,,5.000,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,15,,70,,14,09-austria,,,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,16,,70,,15,09-austria,,,20.000,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+1 lap,,18,,70,,16,09-austria,,,30.000,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,,,11,,69,,17,09-austria,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+2 laps,,19,,69,,18,09-austria,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+2 laps,,20,,69,,19,09-austria,,,30.000,pirelli,2021
+alpine,esteban-ocon,31,renault,,,17,,0,,DNF,09-austria,Collision,,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,,,2,,52,25,1,10-great-britain,,1:58:23.284,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+3.871,,4,+3.871,52,18,2,10-great-britain,,1:58:27.155,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+11.125,,3,+7.254,52,15,3,10-great-britain,,1:58:34.409,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+28.573,,5,+17.448,52,12,4,10-great-britain,,1:58:51.857,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+42.624,,6,+14.051,52,10,5,10-great-britain,,1:59:05.908,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+43.454,,10,+0.830,52,8,6,10-great-britain,,1:59:06.738,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1:12.093,,7,+28.639,52,6,7,10-great-britain,,1:59:35.377,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1:14.289,,14,+2.196,52,4,8,10-great-britain,,1:59:37.573,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1:16.162,,9,+1.873,52,2,9,10-great-britain,,1:59:39.446,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1:22.065,,16,+5.903,52,1,10,10-great-britain,,1:59:45.349,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+1:25.327,,11,+3.262,52,,11,10-great-britain,,1:59:48.611,,pirelli,2021
+williams,george-russell,63,mercedes,+1 lap,,12,,51,,12,10-great-britain,,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,15,,51,,13,10-great-britain,,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+1 lap,,17,,51,,14,10-great-britain,,,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,13,,51,,15,10-great-britain,,,,pirelli,2021
+red-bull,sergio-perez,11,honda,+1 lap,,PL,,51,,16,10-great-britain,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+1 lap,,19,,51,,17,10-great-britain,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+1 lap,,18,,51,,18,10-great-britain,,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,,,8,,40,,DNF,10-great-britain,Overheating,,,pirelli,2021
+red-bull,max-verstappen,33,honda,,,1,,0,,DNF,10-great-britain,Collision,,,pirelli,2021
+alpine,esteban-ocon,31,renault,,,8,,70,25,1,11-hungary,,2:04:43.199,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,+2.736,,1,+0.877,70,18,2,11-hungary,,2:04:45.935,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+15.018,,15,+12.282,70,15,3,11-hungary,,2:04:58.217,,pirelli,2021
+alpine,fernando-alonso,14,renault,+15.651,,9,+0.633,70,12,4,11-hungary,,2:04:58.850,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+1:03.614,,5,+47.963,70,11,5,11-hungary,,2:05:46.813,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1:15.803,,16,+12.189,70,8,6,11-hungary,,2:05:59.002,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+1:17.910,,18,+2.107,70,6,7,11-hungary,,2:06:01.109,,pirelli,2021
+williams,george-russell,63,mercedes,+1:19.094,,17,+1.184,70,4,8,11-hungary,,2:06:02.293,,pirelli,2021
+red-bull,max-verstappen,33,honda,+1:20.244,,3,+1.150,70,2,9,11-hungary,,2:06:03.443,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,13,,69,1,10,11-hungary,,,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1 lap,,11,,69,,11,11-hungary,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+1 lap,,20,,69,,12,11-hungary,,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,PL,,69,,13,11-hungary,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,,,19,,3,,DNF,11-hungary,Collision,,,pirelli,2021
+mclaren,lando-norris,4,mercedes,,,6,,2,,DNF,11-hungary,Collision damage,,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,,,2,,0,,DNF,11-hungary,Collision,,,pirelli,2021
+red-bull,sergio-perez,11,honda,,,4,,0,,DNF,11-hungary,Collision,,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,,,7,,0,,DNF,11-hungary,Collision,,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,,,12,,0,,DNF,11-hungary,Collision,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1.859,,10,+1.859,70,,DSQ,11-hungary,Fuel sample,2:04:45.058,,pirelli,2021
+red-bull,max-verstappen,33,honda,,,1,,1,12.5,1,12-belgium,,3:27.071,,pirelli,2021
+williams,george-russell,63,mercedes,+1.995,,2,+1.995,1,9,2,12-belgium,,3:29.066,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,+2.601,,3,+0.606,1,7.5,3,12-belgium,,3:29.672,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+4.496,,4,+1.895,1,6,4,12-belgium,,3:31.567,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+7.479,,5,+2.983,1,5,5,12-belgium,,3:34.550,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+10.177,,6,+2.698,1,4,6,12-belgium,,3:37.248,,pirelli,2021
+alpine,esteban-ocon,31,renault,+11.579,,8,+1.402,1,3,7,12-belgium,,3:38.650,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+12.608,,9,+1.029,1,2,8,12-belgium,,3:39.679,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+15.484,,10,+2.876,1,1,9,12-belgium,,3:42.555,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+16.166,,11,+0.682,1,0.5,10,12-belgium,,3:43.237,,pirelli,2021
+alpine,fernando-alonso,14,renault,+20.590,,12,+4.424,1,,11,12-belgium,,3:47.661,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+22.414,,13,+1.824,1,,12,12-belgium,,3:49.485,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+24.163,,14,+1.749,1,,13,12-belgium,,3:51.234,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+27.109,,15,+2.946,1,,14,12-belgium,,3:54.180,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+28.329,,16,+1.220,1,,15,12-belgium,,3:55.400,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+29.507,,17,+1.178,1,,16,12-belgium,,3:56.578,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+31.993,,18,+2.486,1,,17,12-belgium,,3:59.064,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+36.054,,PL,+4.061,1,,18,12-belgium,,4:03.125,,pirelli,2021
+red-bull,sergio-perez,11,honda,+38.205,,PL,+2.151,1,,19,12-belgium,,4:05.276,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+44.108,,19,+5.903,1,,20,12-belgium,,4:11.179,10.000,pirelli,2021
+red-bull,max-verstappen,33,honda,,,1,,72,25,1,13-netherlands,,1:30:05.395,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,+20.932,,2,+20.932,72,19,2,13-netherlands,,1:30:26.327,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+56.460,,3,+35.528,72,15,3,13-netherlands,,1:31:01.855,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+1 lap,,4,,71,12,4,13-netherlands,,,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+1 lap,,5,,71,10,5,13-netherlands,,,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1 lap,,9,,71,8,6,13-netherlands,,,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+1 lap,,6,,71,6,7,13-netherlands,,,,pirelli,2021
+red-bull,sergio-perez,11,honda,+1 lap,,PL,,71,4,8,13-netherlands,,,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1 lap,,8,,71,2,9,13-netherlands,,,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+1 lap,,13,,71,1,10,13-netherlands,,,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1 lap,,10,,71,,11,13-netherlands,,,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+2 laps,,12,,70,,12,13-netherlands,,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+2 laps,,15,,70,,13,13-netherlands,,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+2 laps,,7,,70,,14,13-netherlands,,,,pirelli,2021
+alfa-romeo,robert-kubica,88,ferrari,+2 laps,,16,,70,,15,13-netherlands,,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+2 laps,,PL,,70,,16,13-netherlands,,,,pirelli,2021
+williams,george-russell,63,mercedes,,,11,,69,,17,13-netherlands,Battery,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+3 laps,,17,,69,,18,13-netherlands,,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,,,14,,48,,DNF,13-netherlands,Engine,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,,,18,,41,,DNF,13-netherlands,Water leak,,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,,,2,,53,26,1,14-italy,,1:21:54.365,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+1.747,,3,+1.747,53,18,2,14-italy,,1:21:56.112,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+4.921,,19,+3.174,53,15,3,14-italy,,1:21:59.286,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+7.309,,5,+2.388,53,12,4,14-italy,,1:22:01.674,,pirelli,2021
+red-bull,sergio-perez,11,honda,+8.723,,8,+1.414,53,10,5,14-italy,,1:22:03.088,5.000,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+10.535,,6,+1.812,53,8,6,14-italy,,1:22:04.900,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+15.804,,9,+5.269,53,6,7,14-italy,,1:22:10.169,,pirelli,2021
+alpine,fernando-alonso,14,renault,+17.201,,10,+1.397,53,4,8,14-italy,,1:22:11.566,,pirelli,2021
+williams,george-russell,63,mercedes,+19.742,,14,+2.541,53,2,9,14-italy,,1:22:14.107,,pirelli,2021
+alpine,esteban-ocon,31,renault,+20.868,,12,+1.126,53,1,10,14-italy,,1:22:15.233,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+23.743,,13,+2.875,53,,11,14-italy,,1:22:18.108,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+24.621,,11,+0.878,53,,12,14-italy,,1:22:18.986,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+27.216,,7,+2.595,53,,13,14-italy,,1:22:21.581,,pirelli,2021
+alfa-romeo,robert-kubica,88,ferrari,+29.769,,17,+2.553,53,,14,14-italy,,1:22:24.134,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+51.088,,18,+21.319,53,,15,14-italy,,1:22:45.453,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,,,16,,41,,DNF,14-italy,Power unit,,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,,,4,,25,,DNF,14-italy,Collision,,,pirelli,2021
+red-bull,max-verstappen,33,honda,,,1,,25,,DNF,14-italy,Collision,,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,,,,,3,,DNF,14-italy,Suspension,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,,,15,,0,,DNS,14-italy,Brakes,,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,,,4,,53,25,1,15-russia,,1:30:41.001,,pirelli,2021
+red-bull,max-verstappen,33,honda,+53.271,,20,+53.271,53,18,2,15-russia,,1:31:34.272,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+1:02.475,,2,+9.204,53,15,3,15-russia,,1:31:43.476,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1:05.607,,5,+3.132,53,12,4,15-russia,,1:31:46.608,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+1:07.533,,16,+1.926,53,10,5,15-russia,,1:31:48.534,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1:21.321,,6,+13.788,53,8,6,15-russia,,1:32:02.322,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+1:27.224,,1,+5.903,53,7,7,15-russia,,1:32:08.225,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1:28.955,,13,+1.731,53,4,8,15-russia,,1:32:09.956,,pirelli,2021
+red-bull,sergio-perez,11,honda,+1:30.076,,8,+1.121,53,2,9,15-russia,,1:32:11.077,,pirelli,2021
+williams,george-russell,63,mercedes,+1:40.551,,3,+10.475,53,1,10,15-russia,,1:32:21.552,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1:56.198,,7,+15.647,53,,11,15-russia,,1:32:37.199,10.000,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,10,,52,,12,15-russia,,,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+1 lap,,11,,52,,13,15-russia,,,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1 lap,,9,,52,,14,15-russia,,,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+1 lap,,19,,52,,15,15-russia,,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,17,,52,,16,15-russia,,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1 lap,,12,,52,,17,15-russia,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+2 laps,,15,,51,,18,15-russia,,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,,,18,,47,,19,15-russia,Accident damage,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,,,14,,32,,DNF,15-russia,Oil leak,,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,,,1,,58,26,1,16-turkey,,1:31:04.103,,pirelli,2021
+red-bull,max-verstappen,33,honda,+14.584,,2,+14.584,58,18,2,16-turkey,,1:31:18.687,,pirelli,2021
+red-bull,sergio-perez,11,honda,+33.471,,6,+18.887,58,15,3,16-turkey,,1:31:37.574,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+37.814,,3,+4.343,58,12,4,16-turkey,,1:31:41.917,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,+41.812,,11,+3.998,58,10,5,16-turkey,,1:31:45.915,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+44.292,,4,+2.480,58,8,6,16-turkey,,1:31:48.395,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+47.213,,7,+2.921,58,6,7,16-turkey,,1:31:51.316,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+51.526,,19,+4.313,58,4,8,16-turkey,,1:31:55.629,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1:22.018,,8,+30.492,58,2,9,16-turkey,,1:32:26.121,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1 lap,,12,,57,1,10,16-turkey,,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,16,,57,,11,16-turkey,,,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,17,,57,,12,16-turkey,,,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1 lap,,20,,57,,13,16-turkey,,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1 lap,,9,,57,,14,16-turkey,,,,pirelli,2021
+williams,george-russell,63,mercedes,+1 lap,,13,,57,,15,16-turkey,,,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1 lap,,5,,57,,16,16-turkey,,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+1 lap,,15,,57,,17,16-turkey,,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,10,,57,,18,16-turkey,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+2 laps,,14,,56,,19,16-turkey,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+2 laps,,18,,56,,20,16-turkey,,,,pirelli,2021
+red-bull,max-verstappen,33,honda,,,1,,56,25,1,17-united-states,,1:34:36.552,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,+1.333,,2,+1.333,56,19,2,17-united-states,,1:34:37.885,,pirelli,2021
+red-bull,sergio-perez,11,honda,+42.223,,3,+40.890,56,15,3,17-united-states,,1:35:18.775,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+52.246,,4,+10.023,56,12,4,17-united-states,,1:35:28.798,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1:16.854,,6,+24.608,56,10,5,17-united-states,,1:35:53.406,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+1:20.128,,9,+3.274,56,8,6,17-united-states,,1:35:56.680,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+1:23.545,,5,+3.417,56,6,7,17-united-states,,1:36:00.097,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+1:24.395,,7,+0.850,56,4,8,17-united-states,,1:36:00.947,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1 lap,,10,,55,2,9,17-united-states,,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,18,,55,1,10,17-united-states,,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,12,,55,,11,17-united-states,,,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1 lap,,13,,55,,12,17-united-states,,,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,15,,55,,13,17-united-states,,,,pirelli,2021
+williams,george-russell,63,mercedes,+1 lap,,20,,55,,14,17-united-states,,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+1 lap,,14,,55,,15,17-united-states,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+2 laps,,16,,54,,16,17-united-states,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+2 laps,,17,,54,,17,17-united-states,,,,pirelli,2021
+alpine,fernando-alonso,14,renault,,,19,,49,,DNF,17-united-states,Rear wing,,,pirelli,2021
+alpine,esteban-ocon,31,renault,,,11,,40,,DNF,17-united-states,Mechanical,,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,,,8,,14,,DNF,17-united-states,Suspension,,,pirelli,2021
+red-bull,max-verstappen,33,honda,,,3,,71,25,1,18-mexico,,1:38:39.086,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,+16.555,,2,+16.555,71,18,2,18-mexico,,1:38:55.641,,pirelli,2021
+red-bull,sergio-perez,11,honda,+17.752,,4,+1.197,71,15,3,18-mexico,,1:38:56.838,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+1:03.845,,5,+46.093,71,12,4,18-mexico,,1:39:42.931,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+1:21.037,,8,+17.192,71,10,5,18-mexico,,1:40:00.123,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+1 lap,,6,,70,8,6,18-mexico,,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,9,,70,6,7,18-mexico,,,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,10,,70,4,8,18-mexico,,,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1 lap,,12,,70,2,9,18-mexico,,,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+1 lap,,18,,70,1,10,18-mexico,,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,11,,70,,11,18-mexico,,,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1 lap,,7,,70,,12,18-mexico,,,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1 lap,,19,,70,,13,18-mexico,,,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+2 laps,,20,,69,,14,18-mexico,,,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+2 laps,,1,,69,,15,18-mexico,,,,pirelli,2021
+williams,george-russell,63,mercedes,+2 laps,,16,,69,,16,18-mexico,,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+2 laps,,13,,69,,17,18-mexico,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+3 laps,,15,,68,,18,18-mexico,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,,,14,,0,,DNF,18-mexico,Collision,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,,,17,,0,,DNF,18-mexico,Collision,,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,,,10,,71,25,1,19-sao-paulo,,1:32:22.851,,pirelli,2021
+red-bull,max-verstappen,33,honda,+10.496,,2,+10.496,71,18,2,19-sao-paulo,,1:32:33.347,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+13.576,,1,+3.080,71,15,3,19-sao-paulo,,1:32:36.427,,pirelli,2021
+red-bull,sergio-perez,11,honda,+39.940,,4,+26.364,71,13,4,19-sao-paulo,,1:33:02.791,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+49.517,,6,+9.577,71,10,5,19-sao-paulo,,1:33:12.368,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+51.820,,3,+2.303,71,8,6,19-sao-paulo,,1:33:14.671,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+1 lap,,7,,70,6,7,19-sao-paulo,,,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1 lap,,8,,70,4,8,19-sao-paulo,,,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1 lap,,12,,70,2,9,19-sao-paulo,,,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+1 lap,,5,,70,1,10,19-sao-paulo,,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,9,,70,,11,19-sao-paulo,,,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,PL,,70,,12,19-sao-paulo,,,,pirelli,2021
+williams,george-russell,63,mercedes,+1 lap,,17,,70,,13,19-sao-paulo,,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,13,,70,,14,19-sao-paulo,,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1 lap,,15,,70,,15,19-sao-paulo,,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+1 lap,,16,,70,,16,19-sao-paulo,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+2 laps,,19,,69,,17,19-sao-paulo,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+2 laps,,18,,69,,18,19-sao-paulo,,,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,,,11,,49,,DNF,19-sao-paulo,Power loss,,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,,,14,,47,,DNF,19-sao-paulo,Collision damage,,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,,,1,,57,25,1,20-qatar,,1:24:28.471,,pirelli,2021
+red-bull,max-verstappen,33,honda,+25.743,,7,+25.743,57,19,2,20-qatar,,1:24:54.214,,pirelli,2021
+alpine,fernando-alonso,14,renault,+59.457,,3,+33.714,57,15,3,20-qatar,,1:25:27.928,,pirelli,2021
+red-bull,sergio-perez,11,honda,+1:02.306,,11,+2.849,57,12,4,20-qatar,,1:25:30.777,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1:20.570,,9,+18.264,57,10,5,20-qatar,,1:25:49.041,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1:21.274,,12,+0.704,57,8,6,20-qatar,,1:25:49.745,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+1:21.911,,5,+0.637,57,6,7,20-qatar,,1:25:50.382,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+1:23.126,,13,+1.215,57,4,8,20-qatar,,1:25:51.597,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+1 lap,,4,,56,2,9,20-qatar,,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1 lap,,10,,56,1,10,20-qatar,,,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+1 lap,,2,,56,,11,20-qatar,,,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1 lap,,14,,56,,12,20-qatar,,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1 lap,,8,,56,,13,20-qatar,,,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,16,,56,,14,20-qatar,,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+1 lap,,18,,56,,15,20-qatar,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+1 lap,,19,,56,,16,20-qatar,,,,pirelli,2021
+williams,george-russell,63,mercedes,+2 laps,,15,,55,,17,20-qatar,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,+2 laps,,20,,55,,18,20-qatar,,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,,,17,,50,,DNF,20-qatar,Puncture,,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,,,6,,48,,DNF,20-qatar,Puncture damage,,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,,,1,,50,26,1,21-saudi-arabia,,2:06:15.118,,pirelli,2021
+red-bull,max-verstappen,33,honda,+21.825,,3,+21.825,50,18,2,21-saudi-arabia,,2:06:36.943,15.000,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+27.531,,2,+5.706,50,15,3,21-saudi-arabia,,2:06:42.649,,pirelli,2021
+alpine,esteban-ocon,31,renault,+27.633,,9,+0.102,50,12,4,21-saudi-arabia,,2:06:42.751,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+40.121,,11,+12.488,50,10,5,21-saudi-arabia,,2:06:55.239,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+41.613,,6,+1.492,50,8,6,21-saudi-arabia,,2:06:56.731,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+44.475,,4,+2.862,50,6,7,21-saudi-arabia,,2:06:59.593,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+46.606,,15,+2.131,50,4,8,21-saudi-arabia,,2:07:01.724,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,+58.505,,10,+11.899,50,2,9,21-saudi-arabia,,2:07:13.623,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+1:01.358,,7,+2.853,50,1,10,21-saudi-arabia,,2:07:16.476,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1:17.212,,18,+15.854,50,,11,21-saudi-arabia,,2:07:32.330,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,+1:23.249,,16,+6.037,50,,12,21-saudi-arabia,,2:07:38.367,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1 lap,,13,,49,,13,21-saudi-arabia,,,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+1 lap,,8,,49,,14,21-saudi-arabia,,,5.000,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,+1 lap,,12,,49,,15,21-saudi-arabia,,,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,,,17,,44,,DNF,21-saudi-arabia,,,,pirelli,2021
+red-bull,sergio-perez,11,honda,,,5,,14,,DNF,21-saudi-arabia,,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,,,20,,14,,DNF,21-saudi-arabia,,,,pirelli,2021
+williams,george-russell,63,mercedes,,,14,,14,,DNF,21-saudi-arabia,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,,,19,,8,,DNF,21-saudi-arabia,,,,pirelli,2021
+red-bull,max-verstappen,33,honda,,,1,,58,26,1,22-abu-dhabi,,1:30:17.345,,pirelli,2021
+mercedes,lewis-hamilton,44,mercedes,+2.256,,2,+2.256,58,18,2,22-abu-dhabi,,1:30:19.601,,pirelli,2021
+ferrari,carlos-sainz-jr,55,ferrari,+5.173,,5,+2.917,58,15,3,22-abu-dhabi,,1:30:22.518,,pirelli,2021
+alphatauri,yuki-tsunoda,22,honda,+5.692,,8,+0.519,58,12,4,22-abu-dhabi,,1:30:23.037,,pirelli,2021
+alphatauri,pierre-gasly,10,honda,+6.531,,12,+0.839,58,10,5,22-abu-dhabi,,1:30:23.876,,pirelli,2021
+mercedes,valtteri-bottas,77,mercedes,+7.463,,6,+0.932,58,8,6,22-abu-dhabi,,1:30:24.808,,pirelli,2021
+mclaren,lando-norris,4,mercedes,+59.200,,3,+51.737,58,6,7,22-abu-dhabi,,1:31:16.545,,pirelli,2021
+alpine,fernando-alonso,14,renault,+1:01.708,,11,+2.508,58,4,8,22-abu-dhabi,,1:31:19.053,,pirelli,2021
+alpine,esteban-ocon,31,renault,+1:04.026,,9,+2.318,58,2,9,22-abu-dhabi,,1:31:21.371,,pirelli,2021
+ferrari,charles-leclerc,16,ferrari,+1:06.057,,7,+2.031,58,1,10,22-abu-dhabi,,1:31:23.402,,pirelli,2021
+aston-martin,sebastian-vettel,5,mercedes,+1:07.527,,15,+1.470,58,,11,22-abu-dhabi,,1:31:24.872,,pirelli,2021
+mclaren,daniel-ricciardo,3,mercedes,+1 lap,,10,,57,,12,22-abu-dhabi,,,,pirelli,2021
+aston-martin,lance-stroll,18,mercedes,+1 lap,,13,,57,,13,22-abu-dhabi,,,,pirelli,2021
+haas,mick-schumacher,47,ferrari,+1 lap,,19,,57,,14,22-abu-dhabi,,,,pirelli,2021
+red-bull,sergio-perez,11,honda,,,4,,55,,15,22-abu-dhabi,Oil pressure,,,pirelli,2021
+williams,nicholas-latifi,6,mercedes,,,16,,50,,DNF,22-abu-dhabi,Accident,,,pirelli,2021
+alfa-romeo,antonio-giovinazzi,99,ferrari,,,14,,33,,DNF,22-abu-dhabi,Hydraulics,,,pirelli,2021
+williams,george-russell,63,mercedes,,,17,,26,,DNF,22-abu-dhabi,Gearbox,,,pirelli,2021
+alfa-romeo,kimi-raikkonen,7,ferrari,,,18,,25,,DNF,22-abu-dhabi,Brakes,,,pirelli,2021
+haas,nikita-mazepin,9,ferrari,,,,,,,DNS,22-abu-dhabi,Withdrew,,,pirelli,2021

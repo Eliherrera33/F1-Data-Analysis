@@ -1,0 +1,419 @@
+constructorId,driverId,driverNumber,engineManufacturerId,gap,grandSlam,gridPosition,interval,laps,points,position,race,reasonRetired,time,timePenalty,tyreManufacturerId,year
+lotus-f1,kimi-raikkonen,7,renault,,,7,,58,25,1,01-australia,,1:30:03.225,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+12.451,,5,+12.451,58,18,2,01-australia,,1:30:15.676,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,+22.346,,1,+9.895,58,15,3,01-australia,,1:30:25.571,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+33.577,,4,+11.231,58,12,4,01-australia,,1:30:36.802,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+45.561,,3,+11.984,58,10,5,01-australia,,1:30:48.786,,pirelli,2013
+red-bull,mark-webber,2,renault,+46.800,,2,+1.239,58,8,6,01-australia,,1:30:50.025,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,+1:05.068,,12,+18.268,58,6,7,01-australia,,1:31:08.293,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,+1:08.449,,9,+3.381,58,4,8,01-australia,,1:31:11.674,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+1:21.630,,10,+13.181,58,2,9,01-australia,,1:31:24.855,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+1:22.759,,8,+1.129,58,1,10,01-australia,,1:31:25.984,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+1:23.367,,15,+0.608,58,,11,01-australia,,1:31:26.592,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,+1:23.857,,13,+0.490,58,,12,01-australia,,1:31:27.082,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+1 lap,,18,,57,,13,01-australia,,,,pirelli,2013
+williams,valtteri-bottas,17,renault,+1 lap,,16,,57,,14,01-australia,,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+1 lap,,19,,57,,15,01-australia,,,,pirelli,2013
+caterham,charles-pic,20,renault,+2 laps,,22,,56,,16,01-australia,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+2 laps,,20,,56,,17,01-australia,,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+2 laps,,21,,56,,18,01-australia,,,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,,,14,,39,,DNF,01-australia,Exhaust,,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,,,6,,26,,DNF,01-australia,Electrical,,,pirelli,2013
+williams,pastor-maldonado,16,renault,,,17,,24,,DNF,01-australia,Spun off,,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,,,11,,,,DNS,01-australia,Fuel system,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,,1,,56,25,1,02-malaysia,,1:38:56.681,,pirelli,2013
+red-bull,mark-webber,2,renault,+4.298,,5,+4.298,56,18,2,02-malaysia,,1:39:00.979,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+12.181,,4,+7.883,56,15,3,02-malaysia,,1:39:08.862,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+12.640,,6,+0.459,56,12,4,02-malaysia,,1:39:09.321,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+25.648,,2,+13.008,56,10,5,02-malaysia,,1:39:22.329,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+35.564,,11,+9.916,56,8,6,02-malaysia,,1:39:32.245,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+48.479,,10,+12.915,56,6,7,02-malaysia,,1:39:45.160,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+53.044,,12,+4.565,56,4,8,02-malaysia,,1:39:49.725,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+1:12.357,,9,+19.313,56,2,9,02-malaysia,,1:40:09.038,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,+1:27.124,,17,+14.767,56,1,10,02-malaysia,,1:40:23.805,,pirelli,2013
+williams,valtteri-bottas,17,renault,+1:28.610,,18,+1.486,56,,11,02-malaysia,,1:40:25.291,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+1 lap,,14,,55,,12,02-malaysia,,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+1 lap,,19,,55,,13,02-malaysia,,,,pirelli,2013
+caterham,charles-pic,20,renault,+1 lap,,20,,55,,14,02-malaysia,,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+1 lap,,22,,55,,15,02-malaysia,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+2 laps,,21,,54,,16,02-malaysia,,,,pirelli,2013
+mclaren,jenson-button,5,mercedes,,,7,,53,,17,02-malaysia,Wheel,,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,,,13,,51,,18,02-malaysia,Exhaust,,,pirelli,2013
+williams,pastor-maldonado,16,renault,,,16,,45,,DNF,02-malaysia,KERS failure,,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,,,8,,27,,DNF,02-malaysia,Wheel nut,,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,,,15,,22,,DNF,02-malaysia,Wheel nut,,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,,,3,,1,,DNF,02-malaysia,Collision damage,,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,,,3,,56,25,1,03-china,,1:36:26.945,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+10.168,,2,+10.168,56,18,2,03-china,,1:36:37.113,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+12.322,,1,+2.154,56,15,3,03-china,,1:36:39.267,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,+12.525,,9,+0.203,56,12,4,03-china,,1:36:39.470,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+35.285,,8,+22.760,56,10,5,03-china,,1:37:02.230,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+40.827,,5,+5.542,56,8,6,03-china,,1:37:07.772,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+42.691,,7,+1.864,56,6,7,03-china,,1:37:09.636,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,+51.084,,11,+8.393,56,4,8,03-china,,1:37:18.029,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+53.423,,6,+2.339,56,2,9,03-china,,1:37:20.368,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+56.598,,10,+3.175,56,1,10,03-china,,1:37:23.543,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+1:03.860,,12,+7.262,56,,11,03-china,,1:37:30.805,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,+1:12.604,,15,+8.744,56,,12,03-china,,1:37:39.549,,pirelli,2013
+williams,valtteri-bottas,17,renault,+1:33.861,,16,+21.257,56,,13,03-china,,1:38:00.806,,pirelli,2013
+williams,pastor-maldonado,16,renault,+1:35.453,,14,+1.592,56,,14,03-china,,1:38:02.398,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+1 lap,,18,,55,,15,03-china,,,,pirelli,2013
+caterham,charles-pic,20,renault,+1 lap,,20,,55,,16,03-china,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+1 lap,,19,,55,,17,03-china,,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+1 lap,,21,,55,,18,03-china,,,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,,,4,,21,,DNF,03-china,Suspension,,,pirelli,2013
+red-bull,mark-webber,2,renault,,,PL,,15,,DNF,03-china,Wheel,,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,,,13,,5,,DNF,03-china,Collision damage,,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,,,17,,4,,DNF,03-china,Collision,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,,2,,57,25,1,04-bahrain,,1:36:00.498,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+9.111,,8,+9.111,57,18,2,04-bahrain,,1:36:09.609,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+19.507,,11,+10.396,57,15,3,04-bahrain,,1:36:20.005,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,+21.727,,5,+2.220,57,12,4,04-bahrain,,1:36:22.225,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+35.230,,9,+13.503,57,10,5,04-bahrain,,1:36:35.728,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+35.998,,12,+0.768,57,8,6,04-bahrain,,1:36:36.496,,pirelli,2013
+red-bull,mark-webber,2,renault,+37.244,,7,+1.246,57,6,7,04-bahrain,,1:36:37.742,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+37.574,,3,+0.330,57,4,8,04-bahrain,,1:36:38.072,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+41.126,,1,+3.552,57,2,9,04-bahrain,,1:36:41.624,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+46.631,,10,+5.505,57,1,10,04-bahrain,,1:36:47.129,,pirelli,2013
+williams,pastor-maldonado,16,renault,+1:06.450,,17,+19.819,57,,11,04-bahrain,,1:37:06.948,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+1:12.933,,14,+6.483,57,,12,04-bahrain,,1:37:13.431,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,+1:16.719,,6,+3.786,57,,13,04-bahrain,,1:37:17.217,,pirelli,2013
+williams,valtteri-bottas,17,renault,+1:21.511,,15,+4.792,57,,14,04-bahrain,,1:37:22.009,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+1:26.364,,4,+4.853,57,,15,04-bahrain,,1:37:26.862,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+1 lap,,13,,56,,16,04-bahrain,,,,pirelli,2013
+caterham,charles-pic,20,renault,+1 lap,,18,,56,,17,04-bahrain,,,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+1 lap,,22,,56,,18,04-bahrain,,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+1 lap,,19,,56,,19,04-bahrain,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+1 lap,,21,,56,,20,04-bahrain,,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+2 laps,,20,,55,,21,04-bahrain,,,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,,,16,,16,,DNF,04-bahrain,Puncture damage,,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,,,5,,66,25,1,05-spain,,1:39:16.596,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+9.338,,4,+9.338,66,18,2,05-spain,,1:39:25.934,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+26.049,,9,+16.711,66,15,3,05-spain,,1:39:42.645,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,+38.273,,3,+12.224,66,12,4,05-spain,,1:39:54.869,,pirelli,2013
+red-bull,mark-webber,2,renault,+47.963,,7,+9.690,66,10,5,05-spain,,1:40:04.559,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+1:08.020,,1,+20.057,66,8,6,05-spain,,1:40:24.616,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,+1:08.988,,10,+0.968,66,6,7,05-spain,,1:40:25.584,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+1:19.506,,14,+10.518,66,4,8,05-spain,,1:40:36.102,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+1:21.738,,8,+2.232,66,2,9,05-spain,,1:40:38.334,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+1 lap,,11,,65,1,10,05-spain,,,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+1 lap,,19,,65,,11,05-spain,,,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+1 lap,,2,,65,,12,05-spain,,,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,+1 lap,,13,,65,,13,05-spain,,,,pirelli,2013
+williams,pastor-maldonado,16,renault,+1 lap,,17,,65,,14,05-spain,,,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+1 lap,,15,,65,,15,05-spain,,,,pirelli,2013
+williams,valtteri-bottas,17,renault,+1 lap,,16,,65,,16,05-spain,,,,pirelli,2013
+caterham,charles-pic,20,renault,+1 lap,,22,,65,,17,05-spain,,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+2 laps,,20,,64,,18,05-spain,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+2 laps,,21,,64,,19,05-spain,,,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,,,12,,52,,DNF,05-spain,Collision damage,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,,,18,,21,,DNF,05-spain,Wheel,,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,,,6,,8,,DNF,05-spain,Suspension,,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,,,1,,78,25,1,06-monaco,,2:17:52.056,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,+3.888,,3,+3.888,78,18,2,06-monaco,,2:17:55.944,,pirelli,2013
+red-bull,mark-webber,2,renault,+6.314,,4,+2.426,78,15,3,06-monaco,,2:17:58.370,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+13.894,,2,+7.580,78,12,4,06-monaco,,2:18:05.950,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,+21.477,,8,+7.583,78,10,5,06-monaco,,2:18:13.533,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+23.103,,9,+1.626,78,8,6,06-monaco,,2:18:15.159,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+26.734,,6,+3.631,78,6,7,06-monaco,,2:18:18.790,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,+27.223,,10,+0.489,78,4,8,06-monaco,,2:18:19.279,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,+27.608,,17,+0.385,78,2,9,06-monaco,,2:18:19.664,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+36.582,,5,+8.974,78,1,10,06-monaco,,2:18:28.638,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+42.572,,11,+5.990,78,,11,06-monaco,,2:18:34.628,,pirelli,2013
+williams,valtteri-bottas,17,renault,+42.691,,14,+0.119,78,,12,06-monaco,,2:18:34.747,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+43.212,,19,+0.521,78,,13,06-monaco,,2:18:35.268,,pirelli,2013
+marussia,max-chilton,23,cosworth,+49.885,,22,+6.673,78,,14,06-monaco,,2:18:41.941,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+1:02.590,,15,+12.705,78,,15,06-monaco,,2:18:54.646,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,,,7,,72,,16,06-monaco,Collision damage,,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,,,13,,63,,DNF,06-monaco,Collision damage,,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,,,12,,61,,DNF,06-monaco,Collision,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,,,20,,58,,DNF,06-monaco,Accident,,,pirelli,2013
+williams,pastor-maldonado,16,renault,,,16,,44,,DNF,06-monaco,Collision,,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,,,21,,28,,DNF,06-monaco,Accident,,,pirelli,2013
+caterham,charles-pic,20,renault,,,18,,7,,DNF,06-monaco,Engine,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,,1,,70,25,1,07-canada,,1:32:09.143,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+14.408,,6,+14.408,70,18,2,07-canada,,1:32:23.551,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+15.942,,2,+1.534,70,15,3,07-canada,,1:32:25.085,,pirelli,2013
+red-bull,mark-webber,2,renault,+25.731,,5,+9.789,70,12,4,07-canada,,1:32:34.874,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+1:09.725,,4,+43.994,70,10,5,07-canada,,1:33:18.868,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,+1 lap,,7,,69,8,6,07-canada,,,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,+1 lap,,17,,69,6,7,07-canada,,,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+1 lap,,16,,69,4,8,07-canada,,,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+1 lap,,10,,69,2,9,07-canada,,,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,+1 lap,,8,,69,1,10,07-canada,,,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+1 lap,,12,,69,,11,07-canada,,,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+1 lap,,14,,69,,12,07-canada,,,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+1 lap,,22,,69,,13,07-canada,,,,pirelli,2013
+williams,valtteri-bottas,17,renault,+1 lap,,3,,69,,14,07-canada,,,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+2 laps,,11,,68,,15,07-canada,,,,pirelli,2013
+williams,pastor-maldonado,16,renault,+2 laps,,13,,68,,16,07-canada,,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+2 laps,,19,,68,,17,07-canada,,,,pirelli,2013
+caterham,charles-pic,20,renault,+3 laps,,18,,67,,18,07-canada,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+3 laps,,20,,67,,19,07-canada,,,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,,,15,,63,,20,07-canada,Accident,,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,,,9,,45,,DNF,07-canada,Collision damage,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,,,21,,43,,DNF,07-canada,Collision,,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,,,2,,52,25,1,08-great-britain,,1:32:59.456,,pirelli,2013
+red-bull,mark-webber,2,renault,+0.765,,4,+0.765,52,18,2,08-great-britain,,1:33:00.221,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+7.124,,9,+6.359,52,15,3,08-great-britain,,1:33:06.580,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+7.756,,1,+0.632,52,12,4,08-great-britain,,1:33:07.212,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+11.257,,8,+3.501,52,10,5,08-great-britain,,1:33:10.713,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+14.573,,11,+3.316,52,8,6,08-great-britain,,1:33:14.029,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,+16.335,,6,+1.762,52,6,7,08-great-britain,,1:33:15.791,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+16.543,,5,+0.208,52,4,8,08-great-britain,,1:33:15.999,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,+17.943,,21,+1.400,52,2,9,08-great-britain,,1:33:17.399,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+19.709,,14,+1.766,52,1,10,08-great-britain,,1:33:19.165,,pirelli,2013
+williams,pastor-maldonado,16,renault,+21.135,,15,+1.426,52,,11,08-great-britain,,1:33:20.591,,pirelli,2013
+williams,valtteri-bottas,17,renault,+25.094,,16,+3.959,52,,12,08-great-britain,,1:33:24.550,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+25.969,,10,+0.875,52,,13,08-great-britain,,1:33:25.425,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+26.285,,17,+0.316,52,,14,08-great-britain,,1:33:25.741,,pirelli,2013
+caterham,charles-pic,20,renault,+31.613,,18,+5.328,52,,15,08-great-britain,,1:33:31.069,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+36.097,,19,+4.484,52,,16,08-great-britain,,1:33:35.553,,pirelli,2013
+marussia,max-chilton,23,cosworth,+1:07.660,,20,+31.563,52,,17,08-great-britain,,1:34:07.116,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+1:07.759,,22,+0.099,52,,18,08-great-britain,,1:34:07.215,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,,,7,,51,,19,08-great-britain,Handling,,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,,,13,,46,,20,08-great-britain,Puncture damage,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,,3,,41,,DNF,08-great-britain,Gearbox,,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,,,12,,35,,DNF,08-great-britain,Puncture damage,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,,2,,60,25,1,09-germany,,1:41:14.711,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+1.008,,4,+1.008,60,18,2,09-germany,,1:41:15.719,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+5.830,,5,+4.822,60,15,3,09-germany,,1:41:20.541,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+7.721,,8,+1.891,60,12,4,09-germany,,1:41:22.432,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+26.927,,1,+19.206,60,10,5,09-germany,,1:41:41.638,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+27.996,,9,+1.069,60,8,6,09-germany,,1:41:42.707,,pirelli,2013
+red-bull,mark-webber,2,renault,+37.562,,3,+9.566,60,6,7,09-germany,,1:41:52.273,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+38.306,,13,+0.744,60,4,8,09-germany,,1:41:53.017,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+46.821,,11,+8.515,60,2,9,09-germany,,1:42:01.532,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+49.892,,10,+3.071,60,1,10,09-germany,,1:42:04.603,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,+53.771,,12,+3.879,60,,11,09-germany,,1:42:08.482,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+56.975,,6,+3.204,60,,12,09-germany,,1:42:11.686,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,+57.738,,15,+0.763,60,,13,09-germany,,1:42:12.449,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+1:00.160,,14,+2.422,60,,14,09-germany,,1:42:14.871,,pirelli,2013
+williams,pastor-maldonado,16,renault,+1:01.929,,18,+1.769,60,,15,09-germany,,1:42:16.640,,pirelli,2013
+williams,valtteri-bottas,17,renault,+1 lap,,17,,59,,16,09-germany,,,,pirelli,2013
+caterham,charles-pic,20,renault,+1 lap,,22,,59,,17,09-germany,,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+1 lap,,20,,59,,18,09-germany,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+1 lap,,21,,59,,19,09-germany,,,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,,,16,,22,,DNF,09-germany,Hydraulics,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,,,19,,21,,DNF,09-germany,Engine,,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,,,7,,3,,DNF,09-germany,Gearbox,,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,,,1,,70,25,1,10-hungary,,1:42:29.445,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+10.938,,6,+10.938,70,18,2,10-hungary,,1:42:40.383,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,+12.459,,2,+1.521,70,15,3,10-hungary,,1:42:41.904,,pirelli,2013
+red-bull,mark-webber,2,renault,+18.044,,10,+5.585,70,12,4,10-hungary,,1:42:47.489,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+31.411,,5,+13.367,70,10,5,10-hungary,,1:43:00.856,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+52.295,,3,+20.884,70,8,6,10-hungary,,1:43:21.740,20.000,pirelli,2013
+mclaren,jenson-button,5,mercedes,+53.819,,13,+1.524,70,6,7,10-hungary,,1:43:23.264,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+56.447,,7,+2.628,70,4,8,10-hungary,,1:43:25.892,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+1 lap,,9,,69,2,9,10-hungary,,,,pirelli,2013
+williams,pastor-maldonado,16,renault,+1 lap,,15,,69,1,10,10-hungary,,,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+1 lap,,12,,69,,11,10-hungary,,,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,+1 lap,,14,,69,,12,10-hungary,,,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+1 lap,,8,,69,,13,10-hungary,,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+2 laps,,20,,68,,14,10-hungary,,,,pirelli,2013
+caterham,charles-pic,20,renault,+2 laps,,19,,68,,15,10-hungary,,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+3 laps,,21,,67,,16,10-hungary,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+3 laps,,22,,67,,17,10-hungary,,,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,,,18,,66,,18,10-hungary,Hydraulics,,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,,,4,,64,,19,10-hungary,Engine,,,pirelli,2013
+williams,valtteri-bottas,17,renault,,,16,,42,,DNF,10-hungary,Hydraulics,,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,,,17,,28,,DNF,10-hungary,Transmission,,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,,,11,,19,,DNF,10-hungary,Hydraulics,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,,2,,44,25,1,11-belgium,,1:23:42.196,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+16.869,,9,+16.869,44,18,2,11-belgium,,1:23:59.065,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+27.734,,1,+10.865,44,15,3,11-belgium,,1:24:09.930,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+29.872,,4,+2.138,44,12,4,11-belgium,,1:24:12.068,,pirelli,2013
+red-bull,mark-webber,2,renault,+33.845,,3,+3.973,44,10,5,11-belgium,,1:24:16.041,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+40.794,,6,+6.949,44,8,6,11-belgium,,1:24:22.990,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+53.922,,10,+13.128,44,6,7,11-belgium,,1:24:36.118,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+55.846,,7,+1.924,44,4,8,11-belgium,,1:24:38.042,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,+1:09.547,,12,+13.701,44,2,9,11-belgium,,1:24:51.743,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+1:13.470,,19,+3.923,44,1,10,11-belgium,,1:24:55.666,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+1:21.936,,13,+8.466,44,,11,11-belgium,,1:25:04.132,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,+1:26.740,,18,+4.804,44,,12,11-belgium,,1:25:08.936,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+1:28.258,,11,+1.518,44,,13,11-belgium,,1:25:10.454,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+1:40.436,,21,+12.178,44,,14,11-belgium,,1:25:22.632,,pirelli,2013
+williams,valtteri-bottas,17,renault,+1:47.456,,20,+7.020,44,,15,11-belgium,,1:25:29.652,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+1 lap,,14,,43,,16,11-belgium,,,,pirelli,2013
+williams,pastor-maldonado,16,renault,+1 lap,,17,,43,,17,11-belgium,,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+1 lap,,15,,43,,18,11-belgium,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+2 laps,,16,,42,,19,11-belgium,,,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,,,5,,26,,DNF,11-belgium,Collision,,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,,,8,,25,,DNF,11-belgium,Brakes,,,pirelli,2013
+caterham,charles-pic,20,renault,,,22,,8,,DNF,11-belgium,Oil leak,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,,1,,53,25,1,12-italy,,1:18:33.352,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+5.467,,5,+5.467,53,18,2,12-italy,,1:18:38.819,,pirelli,2013
+red-bull,mark-webber,2,renault,+6.350,,2,+0.883,53,15,3,12-italy,,1:18:39.702,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+9.361,,4,+3.011,53,12,4,12-italy,,1:18:42.713,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+10.355,,3,+0.994,53,10,5,12-italy,,1:18:43.707,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+10.999,,6,+0.644,53,8,6,12-italy,,1:18:44.351,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+32.329,,7,+21.330,53,6,7,12-italy,,1:19:05.681,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+33.130,,13,+0.801,53,4,8,12-italy,,1:19:06.482,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+33.527,,12,+0.397,53,2,9,12-italy,,1:19:06.879,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+38.327,,9,+4.800,53,1,10,12-italy,,1:19:11.679,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+38.695,,11,+0.368,53,,11,12-italy,,1:19:12.047,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+39.765,,8,+1.070,53,,12,12-italy,,1:19:13.117,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+40.880,,16,+1.115,53,,13,12-italy,,1:19:14.232,,pirelli,2013
+williams,pastor-maldonado,16,renault,+49.085,,14,+8.205,53,,14,12-italy,,1:19:22.437,,pirelli,2013
+williams,valtteri-bottas,17,renault,+56.827,,18,+7.742,53,,15,12-italy,,1:19:30.179,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,,,17,,52,,16,12-italy,Brakes,,,pirelli,2013
+caterham,charles-pic,20,renault,+1 lap,,20,,52,,17,12-italy,,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+1 lap,,19,,52,,18,12-italy,,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+1 lap,,21,,52,,19,12-italy,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+1 lap,,22,,52,,20,12-italy,,,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,,,10,,14,,DNF,12-italy,Transmission,,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,,,15,,0,,DNF,12-italy,Collision,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,True,1,,61,25,1,13-singapore,,1:59:13.132,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+32.627,,7,+32.627,61,18,2,13-singapore,,1:59:45.759,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+43.920,,13,+11.293,61,15,3,13-singapore,,1:59:57.052,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+51.155,,2,+7.235,61,12,4,13-singapore,,2:00:4.287,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+53.159,,5,+2.004,61,10,5,13-singapore,,2:00:6.291,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+1:03.877,,6,+10.718,61,8,6,13-singapore,,2:00:17.009,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+1:23.354,,8,+19.477,61,6,7,13-singapore,,2:00:36.486,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+1:23.820,,14,+0.466,61,4,8,13-singapore,,2:00:36.952,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+1:24.261,,11,+0.441,61,2,9,13-singapore,,2:00:37.393,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,+1:24.668,,15,+0.407,61,1,10,13-singapore,,2:00:37.800,,pirelli,2013
+williams,pastor-maldonado,16,renault,+1:28.479,,18,+3.811,61,,11,13-singapore,,2:00:41.611,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+1:37.894,,10,+9.415,61,,12,13-singapore,,2:00:51.026,,pirelli,2013
+williams,valtteri-bottas,17,renault,+1:45.161,,16,+7.267,61,,13,13-singapore,,2:00:58.293,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,+1:53.512,,12,+8.351,61,,14,13-singapore,,2:01:06.644,,pirelli,2013
+red-bull,mark-webber,2,renault,,,4,,60,,15,13-singapore,Engine,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+1 lap,,20,,60,,16,13-singapore,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+1 lap,,22,,60,,17,13-singapore,,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+1 lap,,21,,60,,18,13-singapore,,,,pirelli,2013
+caterham,charles-pic,20,renault,+1 lap,,19,,60,,19,13-singapore,,,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,,,17,,54,,20,13-singapore,Accident,,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,,,3,,37,,DNF,13-singapore,Pneumatics,,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,,,9,,23,,DNF,13-singapore,Accident,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,True,1,,55,25,1,14-korea,,1:43:13.701,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+4.224,,9,+4.224,55,18,2,14-korea,,1:43:17.925,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+4.927,,3,+0.703,55,15,3,14-korea,,1:43:18.628,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+24.114,,7,+19.187,55,12,4,14-korea,,1:43:37.815,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+25.255,,2,+1.141,55,10,5,14-korea,,1:43:38.956,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+26.189,,5,+0.934,55,8,6,14-korea,,1:43:39.890,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+26.698,,4,+0.509,55,6,7,14-korea,,1:43:40.399,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+32.262,,11,+5.564,55,4,8,14-korea,,1:43:45.963,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+34.390,,6,+2.128,55,2,9,14-korea,,1:43:48.091,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+35.155,,10,+0.765,55,1,10,14-korea,,1:43:48.856,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+35.990,,8,+0.835,55,,11,14-korea,,1:43:49.691,,pirelli,2013
+williams,valtteri-bottas,17,renault,+47.049,,17,+11.059,55,,12,14-korea,,1:44:00.750,,pirelli,2013
+williams,pastor-maldonado,16,renault,+50.013,,18,+2.964,55,,13,14-korea,,1:44:03.714,,pirelli,2013
+caterham,charles-pic,20,renault,+1:03.578,,19,+13.565,55,,14,14-korea,,1:44:17.279,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+1:04.501,,20,+0.923,55,,15,14-korea,,1:44:18.202,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+1:07.970,,22,+3.469,55,,16,14-korea,,1:44:21.671,,pirelli,2013
+marussia,max-chilton,23,cosworth,+1:12.898,,21,+4.928,55,,17,14-korea,,1:44:26.599,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,,,16,,53,,18,14-korea,Brakes,,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,,,12,,52,,19,14-korea,Brakes,,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,,,14,,50,,20,14-korea,Collision damage,,,pirelli,2013
+red-bull,mark-webber,2,renault,,,13,,36,,DNF,14-korea,Collision,,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,,,15,,24,,DNF,14-korea,Accident,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,,2,,53,25,1,15-japan,,1:26:49.301,,pirelli,2013
+red-bull,mark-webber,2,renault,+7.129,,1,+7.129,53,18,2,15-japan,,1:26:56.430,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+9.910,,4,+2.781,53,15,3,15-japan,,1:26:59.211,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+45.605,,8,+35.695,53,12,4,15-japan,,1:27:34.906,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+47.325,,9,+1.720,53,10,5,15-japan,,1:27:36.626,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+51.615,,7,+4.290,53,8,6,15-japan,,1:27:40.916,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+1:11.630,,14,+20.015,53,6,7,15-japan,,1:28:00.931,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+1:12.023,,6,+0.393,53,4,8,15-japan,,1:28:01.324,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+1:20.821,,10,+8.798,53,2,9,15-japan,,1:28:10.122,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+1:29.263,,5,+8.442,53,1,10,15-japan,,1:28:18.564,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,+1:38.572,,12,+9.309,53,,11,15-japan,,1:28:27.873,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,+1 lap,,17,,52,,12,15-japan,,,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+1 lap,,16,,52,,13,15-japan,,,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,+1 lap,,22,,52,,14,15-japan,,,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+1 lap,,11,,52,,15,15-japan,,,,pirelli,2013
+williams,pastor-maldonado,16,renault,+1 lap,,15,,52,,16,15-japan,,,,pirelli,2013
+williams,valtteri-bottas,17,renault,+1 lap,,13,,52,,17,15-japan,,,,pirelli,2013
+caterham,charles-pic,20,renault,+1 lap,,20,,52,,18,15-japan,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+1 lap,,18,,52,,19,15-japan,,,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,,,3,,7,,DNF,15-japan,Collision damage,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,,,19,,0,,DNF,15-japan,Collision,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,,,21,,0,,DNF,15-japan,Collision,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,,1,,60,25,1,16-india,,1:31:12.187,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+29.823,,2,+29.823,60,18,2,16-india,,1:31:42.010,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+39.892,,17,+10.069,60,15,3,16-india,,1:31:52.079,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+41.692,,5,+1.800,60,12,4,16-india,,1:31:53.879,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+43.829,,9,+2.137,60,10,5,16-india,,1:31:56.016,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+52.475,,3,+8.646,60,8,6,16-india,,1:32:04.662,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,+1:07.988,,6,+15.513,60,6,7,16-india,,1:32:20.175,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,+1:12.868,,12,+4.880,60,4,8,16-india,,1:32:25.055,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,+1:14.734,,13,+1.866,60,2,9,16-india,,1:32:26.921,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+1:16.237,,11,+1.503,60,1,10,16-india,,1:32:28.424,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+1:18.297,,8,+2.060,60,,11,16-india,,1:32:30.484,,pirelli,2013
+williams,pastor-maldonado,16,renault,+1:18.951,,18,+0.654,60,,12,16-india,,1:32:31.138,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,+1 lap,,14,,59,,13,16-india,,,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+1 lap,,10,,59,,14,16-india,,,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+1 lap,,16,,59,,15,16-india,,,,pirelli,2013
+williams,valtteri-bottas,17,renault,+1 lap,,15,,59,,16,16-india,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+2 laps,,22,,58,,17,16-india,,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+2 laps,,19,,58,,18,16-india,,,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,,,7,,54,,19,16-india,Gearbox,,,pirelli,2013
+red-bull,mark-webber,2,renault,,,4,,39,,DNF,16-india,Alternator,,,pirelli,2013
+caterham,charles-pic,20,renault,,,21,,35,,DNF,16-india,Hydraulics,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,,,20,,1,,DNF,16-india,Collision,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,,2,,55,25,1,17-abu-dhabi,,1:38:06.106,,pirelli,2013
+red-bull,mark-webber,2,renault,+30.829,,1,+30.829,55,18,2,17-abu-dhabi,,1:38:36.935,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+33.650,,3,+2.821,55,15,3,17-abu-dhabi,,1:38:39.756,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+34.802,,6,+1.152,55,12,4,17-abu-dhabi,,1:38:40.908,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+1:07.181,,10,+32.379,55,10,5,17-abu-dhabi,,1:39:13.287,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,+1:18.174,,11,+10.993,55,8,6,17-abu-dhabi,,1:39:24.280,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+1:19.267,,4,+1.093,55,6,7,17-abu-dhabi,,1:39:25.373,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+1:22.886,,7,+3.619,55,4,8,17-abu-dhabi,,1:39:28.992,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+1:31.198,,8,+8.312,55,2,9,17-abu-dhabi,,1:39:37.304,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,+1:33.257,,17,+2.059,55,1,10,17-abu-dhabi,,1:39:39.363,,pirelli,2013
+williams,pastor-maldonado,16,renault,+1:35.989,,14,+2.732,55,,11,17-abu-dhabi,,1:39:42.095,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+1:43.767,,12,+7.778,55,,12,17-abu-dhabi,,1:39:49.873,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+1:44.295,,16,+0.528,55,,13,17-abu-dhabi,,1:39:50.401,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+1 lap,,5,,54,,14,17-abu-dhabi,,,,pirelli,2013
+williams,valtteri-bottas,17,renault,+1 lap,,15,,54,,15,17-abu-dhabi,,,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+1 lap,,9,,54,,16,17-abu-dhabi,,,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,+1 lap,,13,,54,,17,17-abu-dhabi,,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+1 lap,,18,,54,,18,17-abu-dhabi,,,,pirelli,2013
+caterham,charles-pic,20,renault,+1 lap,,19,,54,,19,17-abu-dhabi,,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+2 laps,,21,,53,,20,17-abu-dhabi,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+2 laps,,20,,53,,21,17-abu-dhabi,,,,pirelli,2013
+lotus-f1,kimi-raikkonen,7,renault,,,22,,0,,DNF,17-abu-dhabi,Collision,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,,1,,56,25,1,18-united-states,,1:39:17.148,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,+6.284,,3,+6.284,56,18,2,18-united-states,,1:39:23.432,,pirelli,2013
+red-bull,mark-webber,2,renault,+8.396,,2,+2.112,56,15,3,18-united-states,,1:39:25.544,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+27.358,,5,+18.962,56,12,4,18-united-states,,1:39:44.506,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+29.592,,6,+2.234,56,10,5,18-united-states,,1:39:46.740,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+30.400,,4,+0.808,56,8,6,18-united-states,,1:39:47.548,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+46.692,,7,+16.292,56,6,7,18-united-states,,1:40:03.840,,pirelli,2013
+williams,valtteri-bottas,17,renault,+54.509,,9,+7.817,56,4,8,18-united-states,,1:40:11.657,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+59.141,,12,+4.632,56,2,9,18-united-states,,1:40:16.289,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+1:17.278,,15,+18.137,56,1,10,18-united-states,,1:40:34.426,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+1:21.004,,10,+3.726,56,,11,18-united-states,,1:40:38.152,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+1:26.914,,13,+5.910,56,,12,18-united-states,,1:40:44.062,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+1:31.707,,20,+4.793,56,,13,18-united-states,,1:40:48.855,,pirelli,2013
+lotus-f1,heikki-kovalainen,7,renault,+1:35.063,,8,+3.356,56,,14,18-united-states,,1:40:52.211,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,+1:36.853,,11,+1.790,56,,15,18-united-states,,1:40:54.001,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,+1:44.574,,14,+7.721,56,,16,18-united-states,,1:41:01.722,20.000,pirelli,2013
+williams,pastor-maldonado,16,renault,+1 lap,,17,,55,,17,18-united-states,,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+1 lap,,19,,55,,18,18-united-states,,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+1 lap,,18,,55,,19,18-united-states,,,,pirelli,2013
+caterham,charles-pic,20,renault,+1 lap,,22,,55,,20,18-united-states,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+2 laps,,21,,54,,21,18-united-states,,,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,,,16,,0,,DNF,18-united-states,Collision,,,pirelli,2013
+red-bull,sebastian-vettel,1,renault,,,1,,71,25,1,19-brazil,,1:32:36.300,,pirelli,2013
+red-bull,mark-webber,2,renault,+10.452,,4,+10.452,71,18,2,19-brazil,,1:32:46.752,,pirelli,2013
+ferrari,fernando-alonso,3,ferrari,+18.913,,3,+8.461,71,15,3,19-brazil,,1:32:55.213,,pirelli,2013
+mclaren,jenson-button,5,mercedes,+37.360,,14,+18.447,71,12,4,19-brazil,,1:33:13.660,,pirelli,2013
+mercedes,nico-rosberg,9,mercedes,+39.048,,2,+1.688,71,10,5,19-brazil,,1:33:15.348,,pirelli,2013
+mclaren,sergio-perez,6,mercedes,+44.051,,19,+5.003,71,8,6,19-brazil,,1:33:20.351,,pirelli,2013
+ferrari,felipe-massa,4,ferrari,+49.110,,9,+5.059,71,6,7,19-brazil,,1:33:25.410,,pirelli,2013
+sauber,nico-hulkenberg,11,ferrari,+1:04.252,,10,+15.142,71,4,8,19-brazil,,1:33:40.552,,pirelli,2013
+mercedes,lewis-hamilton,10,mercedes,+1:12.903,,5,+8.651,71,2,9,19-brazil,,1:33:49.203,,pirelli,2013
+toro-rosso,daniel-ricciardo,19,ferrari,+1 lap,,7,,70,1,10,19-brazil,,,,pirelli,2013
+force-india,paul-di-resta,14,mercedes,+1 lap,,12,,70,,11,19-brazil,,,,pirelli,2013
+sauber,esteban-gutierrez,12,ferrari,+1 lap,,17,,70,,12,19-brazil,,,,pirelli,2013
+force-india,adrian-sutil,15,mercedes,+1 lap,,15,,70,,13,19-brazil,,,,pirelli,2013
+lotus-f1,heikki-kovalainen,7,renault,+1 lap,,11,,70,,14,19-brazil,,,,pirelli,2013
+toro-rosso,jean-eric-vergne,18,ferrari,+1 lap,,8,,70,,15,19-brazil,,,,pirelli,2013
+williams,pastor-maldonado,16,renault,+1 lap,,16,,70,,16,19-brazil,,,,pirelli,2013
+marussia,jules-bianchi,22,cosworth,+2 laps,,21,,69,,17,19-brazil,,,,pirelli,2013
+caterham,giedo-van-der-garde,21,renault,+2 laps,,20,,69,,18,19-brazil,,,,pirelli,2013
+marussia,max-chilton,23,cosworth,+2 laps,,22,,69,,19,19-brazil,,,,pirelli,2013
+caterham,charles-pic,20,renault,,,18,,58,,DNF,19-brazil,Suspension,,,pirelli,2013
+williams,valtteri-bottas,17,renault,,,13,,45,,DNF,19-brazil,Collision,,,pirelli,2013
+lotus-f1,romain-grosjean,8,renault,,,6,,2,,DNF,19-brazil,Engine,,,pirelli,2013

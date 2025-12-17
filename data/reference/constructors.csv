@@ -1,0 +1,186 @@
+chronology,countryId,fullName,id,name
+,united-states-of-america,Adams,adams,Adams
+,germany,Alex von Falkenhausen Motorenbau,afm,AFM
+,france,Automobiles Gonfaronnaises Sportives,ags,AGS
+"{'constructorId': 'sauber', 'yearFrom': 1993, 'yearTo': 2005}, {'constructorId': 'bmw-sauber', 'yearFrom': 2006, 'yearTo': 2010}, {'constructorId': 'sauber', 'yearFrom': 2011, 'yearTo': 2018}, {'constructorId': 'alfa-romeo', 'yearFrom': 2019, 'yearTo': 2023}, {'constructorId': 'kick-sauber', 'yearFrom': 2024, 'yearTo': None}",italy,Alfa Romeo Racing,alfa-romeo,Alfa Romeo
+,south-africa,Alfa Special,alfa-special,Alfa Special
+"{'constructorId': 'minardi', 'yearFrom': 1985, 'yearTo': 2005}, {'constructorId': 'toro-rosso', 'yearFrom': 2006, 'yearTo': 2019}, {'constructorId': 'alphatauri', 'yearFrom': 2020, 'yearTo': 2023}, {'constructorId': 'rb', 'yearFrom': 2024, 'yearTo': 2024}, {'constructorId': 'racing-bulls', 'yearFrom': 2025, 'yearTo': None}",italy,Scuderia AlphaTauri,alphatauri,AlphaTauri
+"{'constructorId': 'toleman', 'yearFrom': 1981, 'yearTo': 1985}, {'constructorId': 'benetton', 'yearFrom': 1986, 'yearTo': 2001}, {'constructorId': 'renault', 'yearFrom': 2002, 'yearTo': 2011}, {'constructorId': 'lotus-f1', 'yearFrom': 2012, 'yearTo': 2015}, {'constructorId': 'renault', 'yearFrom': 2016, 'yearTo': 2020}, {'constructorId': 'alpine', 'yearFrom': 2021, 'yearTo': None}",france,Alpine F1 Team,alpine,Alpine
+,united-kingdom,Alta Car and Engineering Company,alta,Alta
+,new-zealand,Chris Amon Racing,amon,Amon
+"{'constructorId': 'coloni', 'yearFrom': 1987, 'yearTo': 1991}, {'constructorId': 'andrea-moda', 'yearFrom': 1992, 'yearTo': 1992}",italy,Andrea Moda Formula,andrea-moda,Andrea Moda
+,switzerland,Apollon,apollon,Apollon
+"{'constructorId': 'arrows', 'yearFrom': 1978, 'yearTo': 1990}, {'constructorId': 'footwork', 'yearFrom': 1991, 'yearTo': 1996}, {'constructorId': 'arrows', 'yearFrom': 1997, 'yearTo': 2002}",united-kingdom,Arrows Grand Prix International,arrows,Arrows
+,italy,Scuderia Arzani-Volpini,arzani-volpini,Arzani-Volpini
+,united-kingdom,Aston Butterworth,aston-butterworth,Aston Butterworth
+"{'constructorId': 'jordan', 'yearFrom': 1991, 'yearTo': 2005}, {'constructorId': 'midland', 'yearFrom': 2006, 'yearTo': 2006}, {'constructorId': 'spyker', 'yearFrom': 2007, 'yearTo': 2007}, {'constructorId': 'force-india', 'yearFrom': 2008, 'yearTo': 2018}, {'constructorId': 'racing-point', 'yearFrom': 2019, 'yearTo': 2020}, {'constructorId': 'aston-martin', 'yearFrom': 2021, 'yearTo': None}",united-kingdom,Aston Martin,aston-martin,Aston Martin
+,germany,ATS Wheels,ats-wheels,ATS
+,italy,Automobili Turismo e Sport,ats,ATS
+,germany,Balsa,balsa,Balsa
+"{'constructorId': 'tyrrell', 'yearFrom': 1970, 'yearTo': 1998}, {'constructorId': 'bar', 'yearFrom': 1999, 'yearTo': 2005}, {'constructorId': 'honda', 'yearFrom': 2006, 'yearTo': 2008}, {'constructorId': 'brawn', 'yearFrom': 2009, 'yearTo': 2009}, {'constructorId': 'mercedes', 'yearFrom': 2010, 'yearTo': None}",united-kingdom,British American Racing,bar,BAR
+,germany,Behra-Porsche,behra-porsche,Behra-Porsche
+,italy,Bellasi,bellasi,Bellasi
+"{'constructorId': 'toleman', 'yearFrom': 1981, 'yearTo': 1985}, {'constructorId': 'benetton', 'yearFrom': 1986, 'yearTo': 2001}, {'constructorId': 'renault', 'yearFrom': 2002, 'yearTo': 2011}, {'constructorId': 'lotus-f1', 'yearFrom': 2012, 'yearTo': 2015}, {'constructorId': 'renault', 'yearFrom': 2016, 'yearTo': 2020}, {'constructorId': 'alpine', 'yearFrom': 2021, 'yearTo': None}",italy,Benetton Formula,benetton,Benetton
+"{'constructorId': 'sauber', 'yearFrom': 1993, 'yearTo': 2005}, {'constructorId': 'bmw-sauber', 'yearFrom': 2006, 'yearTo': 2010}, {'constructorId': 'sauber', 'yearFrom': 2011, 'yearTo': 2018}, {'constructorId': 'alfa-romeo', 'yearFrom': 2019, 'yearTo': 2023}, {'constructorId': 'kick-sauber', 'yearFrom': 2024, 'yearTo': None}",germany,BMW Sauber F1 Team,bmw-sauber,BMW Sauber
+,germany,BMW,bmw,BMW
+,netherlands,Boro,boro,Boro
+,united-kingdom,Motor Racing Developments,brabham,Brabham
+"{'constructorId': 'tyrrell', 'yearFrom': 1970, 'yearTo': 1998}, {'constructorId': 'bar', 'yearFrom': 1999, 'yearTo': 2005}, {'constructorId': 'honda', 'yearFrom': 2006, 'yearTo': 2008}, {'constructorId': 'brawn', 'yearFrom': 2009, 'yearTo': 2009}, {'constructorId': 'mercedes', 'yearFrom': 2010, 'yearTo': None}",united-kingdom,Brawn GP Formula One Team,brawn,Brawn
+,united-kingdom,British Racing Motors,brm,BRM
+,united-states-of-america,Bromme,bromme,Bromme
+,united-kingdom,British Racing Partnership,brp,BRP
+,france,Bugatti,bugatti,Bugatti
+"{'constructorId': 'lotus-racing', 'yearFrom': 2010, 'yearTo': 2011}, {'constructorId': 'caterham', 'yearFrom': 2012, 'yearTo': 2014}",malaysia,Caterham F1 Team,caterham,Caterham
+,united-states-of-america,Christensen,christensen,Christensen
+,italy,Cisitalia,cisitalia,Cisitalia
+"{'constructorId': 'coloni', 'yearFrom': 1987, 'yearTo': 1991}, {'constructorId': 'andrea-moda', 'yearFrom': 1992, 'yearTo': 1992}",italy,Scuderia Coloni,coloni,Coloni
+,united-kingdom,Connaught Engineering,connaught,Connaught
+,united-kingdom,Connew Racing Team,connew,Connew
+,united-kingdom,Cooper Car Company,cooper,Cooper
+,italy,Dallara Automobili,dallara,Dallara
+,italy,De Tomaso Modena,de-tomaso,De Tomaso
+,united-states-of-america,Deidt,deidt,Deidt
+,united-states-of-america,Del Roy,del-roy,Del Roy
+,united-kingdom,Derrington-Francis Racing Team,derrington-francis,Derrington-Francis
+,united-states-of-america,Dunn,dunn,Dunn
+,united-states-of-america,All American Racers,eagle,Eagle
+,germany,Team Eifelland Caravans,eifelland,Eifelland
+,united-states-of-america,Elder,elder,Elder
+,united-kingdom,Emeryson Cars,emeryson,Emeryson
+,germany,Eisenacher Motorenwerk,emw,EMW
+,belgium,Ecurie National Belge,enb,ENB
+,united-kingdom,Ensign Racing,ensign,Ensign
+,united-states-of-america,Epperly,epperly,Epperly
+,united-kingdom,English Racing Automobiles,era,ERA
+,italy,EuroBrun Racing,eurobrun,EuroBrun
+,united-states-of-america,Ewing,ewing,Ewing
+,united-kingdom,Harry Ferguson Research,ferguson,Ferguson
+,italy,Scuderia Ferrari,ferrari,Ferrari
+,italy,FIRST Racing,first,FIRST
+,brazil,Fittipaldi Automotive,fittipaldi,Fittipaldi
+"{'constructorId': 'osella', 'yearFrom': 1980, 'yearTo': 1990}, {'constructorId': 'fondmetal', 'yearFrom': 1991, 'yearTo': 1992}",italy,Fondmetal,fondmetal,Fondmetal
+"{'constructorId': 'arrows', 'yearFrom': 1978, 'yearTo': 1990}, {'constructorId': 'footwork', 'yearFrom': 1991, 'yearTo': 1996}, {'constructorId': 'arrows', 'yearFrom': 1997, 'yearTo': 2002}",united-kingdom,Footwork Arrows,footwork,Footwork
+"{'constructorId': 'jordan', 'yearFrom': 1991, 'yearTo': 2005}, {'constructorId': 'midland', 'yearFrom': 2006, 'yearTo': 2006}, {'constructorId': 'spyker', 'yearFrom': 2007, 'yearTo': 2007}, {'constructorId': 'force-india', 'yearFrom': 2008, 'yearTo': 2018}, {'constructorId': 'racing-point', 'yearFrom': 2019, 'yearTo': 2020}, {'constructorId': 'aston-martin', 'yearFrom': 2021, 'yearTo': None}",india,Force India F1 Team,force-india,Force India
+,italy,Forti Corse,forti,Forti
+"{'constructorId': 'politoys', 'yearFrom': 1972, 'yearTo': 1972}, {'constructorId': 'iso-marlboro', 'yearFrom': 1973, 'yearTo': 1974}, {'constructorId': 'frank-williams-racing-cars', 'yearFrom': 1975, 'yearTo': 1975}, {'constructorId': 'wolf-williams', 'yearFrom': 1976, 'yearTo': 1976}, {'constructorId': 'wolf', 'yearFrom': 1977, 'yearTo': 1979}",united-kingdom,Frank Williams Racing Cars,frank-williams-racing-cars,Frank Williams Racing Cars
+,united-kingdom,Frazer-Nash,frazer-nash,Frazer-Nash
+,united-kingdom,Fry Racing Team,fry,Fry
+,united-kingdom,Gilby Engineering,gilby,Gilby
+,france,Gordini,gordini,Gordini
+,germany,Greifzu,greifzu,Greifzu
+,united-states-of-america,Haas F1 Team,haas,Haas
+,united-states-of-america,Hall,hall,Hall
+,germany,Heck,heck,Heck
+,united-kingdom,Hesketh Racing,hesketh,Hesketh
+,united-kingdom,Embassy Racing With Graham Hill,hill,Hill
+"{'constructorId': 'tyrrell', 'yearFrom': 1970, 'yearTo': 1998}, {'constructorId': 'bar', 'yearFrom': 1999, 'yearTo': 2005}, {'constructorId': 'honda', 'yearFrom': 2006, 'yearTo': 2008}, {'constructorId': 'brawn', 'yearFrom': 2009, 'yearTo': 2009}, {'constructorId': 'mercedes', 'yearFrom': 2010, 'yearTo': None}",japan,Honda Racing F1 Team,honda,Honda
+,spain,Hispania Racing Team,hrt,HRT
+,united-kingdom,Hersham and Walton Motors,hwm,HWM
+"{'constructorId': 'politoys', 'yearFrom': 1972, 'yearTo': 1972}, {'constructorId': 'iso-marlboro', 'yearFrom': 1973, 'yearTo': 1974}, {'constructorId': 'frank-williams-racing-cars', 'yearFrom': 1975, 'yearTo': 1975}, {'constructorId': 'wolf-williams', 'yearFrom': 1976, 'yearTo': 1976}, {'constructorId': 'wolf', 'yearFrom': 1977, 'yearTo': 1979}",united-kingdom,Iso-Marlboro,iso-marlboro,Iso-Marlboro
+"{'constructorId': 'stewart', 'yearFrom': 1997, 'yearTo': 1999}, {'constructorId': 'jaguar', 'yearFrom': 2000, 'yearTo': 2004}, {'constructorId': 'red-bull', 'yearFrom': 2005, 'yearTo': None}",united-kingdom,Jaguar Racing F1 Team,jaguar,Jaguar
+,united-kingdom,JBW Cars,jbw,JBW
+"{'constructorId': 'jordan', 'yearFrom': 1991, 'yearTo': 2005}, {'constructorId': 'midland', 'yearFrom': 2006, 'yearTo': 2006}, {'constructorId': 'spyker', 'yearFrom': 2007, 'yearTo': 2007}, {'constructorId': 'force-india', 'yearFrom': 2008, 'yearTo': 2018}, {'constructorId': 'racing-point', 'yearFrom': 2019, 'yearTo': 2020}, {'constructorId': 'aston-martin', 'yearFrom': 2021, 'yearTo': None}",ireland,Jordan Grand Prix,jordan,Jordan
+,germany,Kauhsen,kauhsen,Kauhsen
+"{'constructorId': 'sauber', 'yearFrom': 1993, 'yearTo': 2005}, {'constructorId': 'bmw-sauber', 'yearFrom': 2006, 'yearTo': 2010}, {'constructorId': 'sauber', 'yearFrom': 2011, 'yearTo': 2018}, {'constructorId': 'alfa-romeo', 'yearFrom': 2019, 'yearTo': 2023}, {'constructorId': 'kick-sauber', 'yearFrom': 2024, 'yearTo': None}",switzerland,Kick Sauber F1 Team,kick-sauber,Kick Sauber
+,germany,Klenk,klenk,Klenk
+,japan,Kojima Engineering,kojima,Kojima
+,germany,Krakau,krakau,Krakau
+,united-states-of-america,Kurtis Kraft,kurtis-kraft,Kurtis Kraft
+,united-states-of-america,Kuzma,kuzma,Kuzma
+,italy,Lancia,lancia,Lancia
+,united-states-of-america,Langley,langley,Langley
+,france,Larrousse F1,larrousse,Larrousse
+,south-africa,LDS,lds,LDS
+,united-kingdom,LEC Refrigeration Racing,lec,LEC
+,united-states-of-america,Lesovsky,lesovsky,Lesovsky
+"{'constructorId': 'march', 'yearFrom': 1970, 'yearTo': 1989}, {'constructorId': 'leyton-house', 'yearFrom': 1990, 'yearTo': 1991}, {'constructorId': 'march', 'yearFrom': 1992, 'yearTo': 1992}",united-kingdom,Leyton House Racing,leyton-house,Leyton House
+,italy,Life Racing Engines,life,Life
+"{'constructorId': 'ligier', 'yearFrom': 1976, 'yearTo': 1996}, {'constructorId': 'prost', 'yearFrom': 1997, 'yearTo': 2001}",france,Equipe Ligier,ligier,Ligier
+,united-kingdom,Lola Cars,lola,Lola
+"{'constructorId': 'toleman', 'yearFrom': 1981, 'yearTo': 1985}, {'constructorId': 'benetton', 'yearFrom': 1986, 'yearTo': 2001}, {'constructorId': 'renault', 'yearFrom': 2002, 'yearTo': 2011}, {'constructorId': 'lotus-f1', 'yearFrom': 2012, 'yearTo': 2015}, {'constructorId': 'renault', 'yearFrom': 2016, 'yearTo': 2020}, {'constructorId': 'alpine', 'yearFrom': 2021, 'yearTo': None}",united-kingdom,Lotus F1 Team,lotus-f1,Lotus
+"{'constructorId': 'lotus-racing', 'yearFrom': 2010, 'yearTo': 2011}, {'constructorId': 'caterham', 'yearFrom': 2012, 'yearTo': 2014}",malaysia,Lotus Racing,lotus-racing,Lotus Racing
+,united-kingdom,Team Lotus,lotus,Lotus
+,united-kingdom,Lyncar,lyncar,Lyncar
+,japan,Maki Engineering,maki,Maki
+"{'constructorId': 'virgin', 'yearFrom': 2010, 'yearTo': 2011}, {'constructorId': 'marussia', 'yearFrom': 2012, 'yearTo': 2015}, {'constructorId': 'manor', 'yearFrom': 2016, 'yearTo': 2016}",united-kingdom,Manor Racing,manor,Manor
+"{'constructorId': 'march', 'yearFrom': 1970, 'yearTo': 1989}, {'constructorId': 'leyton-house', 'yearFrom': 1990, 'yearTo': 1991}, {'constructorId': 'march', 'yearFrom': 1992, 'yearTo': 1992}",united-kingdom,March Engineering,march,March
+,united-states-of-america,Marchese,marchese,Marchese
+,france,Automobiles Martini,martini,Martini
+"{'constructorId': 'virgin', 'yearFrom': 2010, 'yearTo': 2011}, {'constructorId': 'marussia', 'yearFrom': 2012, 'yearTo': 2015}, {'constructorId': 'manor', 'yearFrom': 2016, 'yearTo': 2016}",united-kingdom,Marussia F1 Team,marussia,Marussia
+,italy,Maserati,maserati,Maserati
+,france,Equipe Matra Sports,matra,Matra
+,australia,McGuire,mcguire,McGuire
+,united-kingdom,McLaren Racing,mclaren,McLaren
+"{'constructorId': 'tyrrell', 'yearFrom': 1970, 'yearTo': 1998}, {'constructorId': 'bar', 'yearFrom': 1999, 'yearTo': 2005}, {'constructorId': 'honda', 'yearFrom': 2006, 'yearTo': 2008}, {'constructorId': 'brawn', 'yearFrom': 2009, 'yearTo': 2009}, {'constructorId': 'mercedes', 'yearFrom': 2010, 'yearTo': None}",germany,Mercedes AMG F1,mercedes,Mercedes
+,italy,Team Merzario,merzario,Merzario
+,united-states-of-america,Meskowski,meskowski,Meskowski
+"{'constructorId': 'jordan', 'yearFrom': 1991, 'yearTo': 2005}, {'constructorId': 'midland', 'yearFrom': 2006, 'yearTo': 2006}, {'constructorId': 'spyker', 'yearFrom': 2007, 'yearTo': 2007}, {'constructorId': 'force-india', 'yearFrom': 2008, 'yearTo': 2018}, {'constructorId': 'racing-point', 'yearFrom': 2019, 'yearTo': 2020}, {'constructorId': 'aston-martin', 'yearFrom': 2021, 'yearTo': None}",russia,Midland F1 Racing,midland,Midland
+"{'constructorId': 'minardi', 'yearFrom': 1985, 'yearTo': 2005}, {'constructorId': 'toro-rosso', 'yearFrom': 2006, 'yearTo': 2019}, {'constructorId': 'alphatauri', 'yearFrom': 2020, 'yearTo': 2023}, {'constructorId': 'rb', 'yearFrom': 2024, 'yearTo': 2024}, {'constructorId': 'racing-bulls', 'yearFrom': 2025, 'yearTo': None}",italy,Minardi F1 Team,minardi,Minardi
+,italy,Modena Team,modena,Modena
+,united-states-of-america,Moore,moore,Moore
+,germany,Nacke,nacke,Nacke
+,united-states-of-america,Nichels,nichels,Nichels
+,united-states-of-america,Olson,olson,Olson
+,united-kingdom,Onyx Grand Prix,onyx,Onyx
+,italy,Officine Specializzate Costruzione Automobili,osca,O.S.C.A.
+"{'constructorId': 'osella', 'yearFrom': 1980, 'yearTo': 1990}, {'constructorId': 'fondmetal', 'yearFrom': 1991, 'yearTo': 1992}",italy,Osella Squadra Corse,osella,Osella
+,united-kingdom,Pacific Racing,pacific,Pacific
+,united-states-of-america,Pankratz,pankratz,Pankratz
+,united-states-of-america,Vel's Parnelli Jones Racing,parnelli,Parnelli
+,united-states-of-america,Pawl,pawl,Pawl
+,united-states-of-america,Team Penske,penske,Penske
+,united-states-of-america,Phillips,phillips,Phillips
+"{'constructorId': 'politoys', 'yearFrom': 1972, 'yearTo': 1972}, {'constructorId': 'iso-marlboro', 'yearFrom': 1973, 'yearTo': 1974}, {'constructorId': 'frank-williams-racing-cars', 'yearFrom': 1975, 'yearTo': 1975}, {'constructorId': 'wolf-williams', 'yearFrom': 1976, 'yearTo': 1976}, {'constructorId': 'wolf', 'yearFrom': 1977, 'yearTo': 1979}",united-kingdom,Politoys,politoys,Politoys
+,germany,Porsche,porsche,Porsche
+"{'constructorId': 'ligier', 'yearFrom': 1976, 'yearTo': 1996}, {'constructorId': 'prost', 'yearFrom': 1997, 'yearTo': 2001}",france,Prost Grand Prix,prost,Prost
+,united-kingdom,Protos,protos,Protos
+"{'constructorId': 'minardi', 'yearFrom': 1985, 'yearTo': 2005}, {'constructorId': 'toro-rosso', 'yearFrom': 2006, 'yearTo': 2019}, {'constructorId': 'alphatauri', 'yearFrom': 2020, 'yearTo': 2023}, {'constructorId': 'rb', 'yearFrom': 2024, 'yearTo': 2024}, {'constructorId': 'racing-bulls', 'yearFrom': 2025, 'yearTo': None}",italy,Racing Bulls,racing-bulls,Racing Bulls
+"{'constructorId': 'jordan', 'yearFrom': 1991, 'yearTo': 2005}, {'constructorId': 'midland', 'yearFrom': 2006, 'yearTo': 2006}, {'constructorId': 'spyker', 'yearFrom': 2007, 'yearTo': 2007}, {'constructorId': 'force-india', 'yearFrom': 2008, 'yearTo': 2018}, {'constructorId': 'racing-point', 'yearFrom': 2019, 'yearTo': 2020}, {'constructorId': 'aston-martin', 'yearFrom': 2021, 'yearTo': None}",united-kingdom,Racing Point F1 Team,racing-point,Racing Point
+,united-states-of-america,Rae,rae,Rae
+,united-kingdom,RAM Racing,ram,RAM
+"{'constructorId': 'minardi', 'yearFrom': 1985, 'yearTo': 2005}, {'constructorId': 'toro-rosso', 'yearFrom': 2006, 'yearTo': 2019}, {'constructorId': 'alphatauri', 'yearFrom': 2020, 'yearTo': 2023}, {'constructorId': 'rb', 'yearFrom': 2024, 'yearTo': 2024}, {'constructorId': 'racing-bulls', 'yearFrom': 2025, 'yearTo': None}",italy,Racing Bulls,rb,RB
+,mexico,Team Rebaque,rebaque,Rebaque
+"{'constructorId': 'stewart', 'yearFrom': 1997, 'yearTo': 1999}, {'constructorId': 'jaguar', 'yearFrom': 2000, 'yearTo': 2004}, {'constructorId': 'red-bull', 'yearFrom': 2005, 'yearTo': None}",austria,Red Bull Racing,red-bull,Red Bull
+,germany,Reif,reif,Reif
+"{'constructorId': 'toleman', 'yearFrom': 1981, 'yearTo': 1985}, {'constructorId': 'benetton', 'yearFrom': 1986, 'yearTo': 2001}, {'constructorId': 'renault', 'yearFrom': 2002, 'yearTo': 2011}, {'constructorId': 'lotus-f1', 'yearFrom': 2012, 'yearTo': 2015}, {'constructorId': 'renault', 'yearFrom': 2016, 'yearTo': 2020}, {'constructorId': 'alpine', 'yearFrom': 2021, 'yearTo': None}",france,Renault Sport Formula One Team,renault,Renault
+,germany,Rial Racing,rial,Rial
+"{'constructorId': 'sauber', 'yearFrom': 1993, 'yearTo': 2005}, {'constructorId': 'bmw-sauber', 'yearFrom': 2006, 'yearTo': 2010}, {'constructorId': 'sauber', 'yearFrom': 2011, 'yearTo': 2018}, {'constructorId': 'alfa-romeo', 'yearFrom': 2019, 'yearTo': 2023}, {'constructorId': 'kick-sauber', 'yearFrom': 2024, 'yearTo': None}",switzerland,Sauber F1 Team,sauber,Sauber
+,united-states-of-america,Scarab,scarab,Scarab
+,united-states-of-america,Schroeder,schroeder,Schroeder
+,united-kingdom,Scirocco-Powell,scirocco,Scirocco
+,united-kingdom,Shadow Racing Cars,shadow,Shadow
+,united-kingdom,Shannon Racing Cars,shannon,Shannon
+,united-states-of-america,Sherman,sherman,Sherman
+,france,Simca-Gordini,simca-gordini,Simca-Gordini
+,united-kingdom,Simtek,simtek,Simtek
+,united-states-of-america,Snowberger,snowberger,Snowberger
+,united-kingdom,Spirit Racing,spirit,Spirit
+"{'constructorId': 'jordan', 'yearFrom': 1991, 'yearTo': 2005}, {'constructorId': 'midland', 'yearFrom': 2006, 'yearTo': 2006}, {'constructorId': 'spyker', 'yearFrom': 2007, 'yearTo': 2007}, {'constructorId': 'force-india', 'yearFrom': 2008, 'yearTo': 2018}, {'constructorId': 'racing-point', 'yearFrom': 2019, 'yearTo': 2020}, {'constructorId': 'aston-martin', 'yearFrom': 2021, 'yearTo': None}",netherlands,Spyker F1 Team,spyker,Spyker
+,canada,Stebro,stebro,Stebro
+,united-states-of-america,Stevens,stevens,Stevens
+"{'constructorId': 'stewart', 'yearFrom': 1997, 'yearTo': 1999}, {'constructorId': 'jaguar', 'yearFrom': 2000, 'yearTo': 2004}, {'constructorId': 'red-bull', 'yearFrom': 2005, 'yearTo': None}",united-kingdom,Stewart Grand Prix,stewart,Stewart
+,japan,Super Aguri F1 Team,super-aguri,Super Aguri
+,united-kingdom,Surtees Racing Organisation,surtees,Surtees
+,united-states-of-america,Sutton,sutton,Sutton
+,france,Talbot-Lago,talbot-lago,Talbot-Lago
+,united-states-of-america,Studio Tecnica Meccanica,tec-mec,Tec-Mec
+,italy,Tecno Racing Team,tecno,Tecno
+,hong-kong,Theodore Racing,theodore,Theodore
+,united-kingdom,Token Racing,token,Token
+"{'constructorId': 'toleman', 'yearFrom': 1981, 'yearTo': 1985}, {'constructorId': 'benetton', 'yearFrom': 1986, 'yearTo': 2001}, {'constructorId': 'renault', 'yearFrom': 2002, 'yearTo': 2011}, {'constructorId': 'lotus-f1', 'yearFrom': 2012, 'yearTo': 2015}, {'constructorId': 'renault', 'yearFrom': 2016, 'yearTo': 2020}, {'constructorId': 'alpine', 'yearFrom': 2021, 'yearTo': None}",united-kingdom,Toleman Motorsport,toleman,Toleman
+"{'constructorId': 'minardi', 'yearFrom': 1985, 'yearTo': 2005}, {'constructorId': 'toro-rosso', 'yearFrom': 2006, 'yearTo': 2019}, {'constructorId': 'alphatauri', 'yearFrom': 2020, 'yearTo': 2023}, {'constructorId': 'rb', 'yearFrom': 2024, 'yearTo': 2024}, {'constructorId': 'racing-bulls', 'yearFrom': 2025, 'yearTo': None}",italy,Scuderia Toro Rosso,toro-rosso,Toro Rosso
+,japan,Toyota Racing,toyota,Toyota
+,united-states-of-america,Trevis,trevis,Trevis
+,united-kingdom,Trojan-Tauranac Racing,trojan,Trojan
+,united-states-of-america,Turner,turner,Turner
+"{'constructorId': 'tyrrell', 'yearFrom': 1970, 'yearTo': 1998}, {'constructorId': 'bar', 'yearFrom': 1999, 'yearTo': 2005}, {'constructorId': 'honda', 'yearFrom': 2006, 'yearTo': 2008}, {'constructorId': 'brawn', 'yearFrom': 2009, 'yearTo': 2009}, {'constructorId': 'mercedes', 'yearFrom': 2010, 'yearTo': None}",united-kingdom,Tyrrell Racing,tyrrell,Tyrrell
+,united-kingdom,Vanwall,vanwall,Vanwall
+,france,Venturi Automobiles,venturi,Venturi
+,germany,Veritas,veritas,Veritas
+"{'constructorId': 'virgin', 'yearFrom': 2010, 'yearTo': 2011}, {'constructorId': 'marussia', 'yearFrom': 2012, 'yearTo': 2015}, {'constructorId': 'manor', 'yearFrom': 2016, 'yearTo': 2016}",united-kingdom,Virgin Racing,virgin,Virgin
+,united-states-of-america,Watson,watson,Watson
+,united-states-of-america,Wetteroth,wetteroth,Wetteroth
+,united-kingdom,Williams Grand Prix Engineering,williams,Williams
+"{'constructorId': 'politoys', 'yearFrom': 1972, 'yearTo': 1972}, {'constructorId': 'iso-marlboro', 'yearFrom': 1973, 'yearTo': 1974}, {'constructorId': 'frank-williams-racing-cars', 'yearFrom': 1975, 'yearTo': 1975}, {'constructorId': 'wolf-williams', 'yearFrom': 1976, 'yearTo': 1976}, {'constructorId': 'wolf', 'yearFrom': 1977, 'yearTo': 1979}",united-kingdom,Wolf-Williams Racing,wolf-williams,Wolf-Williams
+"{'constructorId': 'politoys', 'yearFrom': 1972, 'yearTo': 1972}, {'constructorId': 'iso-marlboro', 'yearFrom': 1973, 'yearTo': 1974}, {'constructorId': 'frank-williams-racing-cars', 'yearFrom': 1975, 'yearTo': 1975}, {'constructorId': 'wolf-williams', 'yearFrom': 1976, 'yearTo': 1976}, {'constructorId': 'wolf', 'yearFrom': 1977, 'yearTo': 1979}",canada,Walter Wolf Racing,wolf,Wolf
+,germany,Zakspeed Racing,zakspeed,Zakspeed
