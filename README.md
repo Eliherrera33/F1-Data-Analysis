@@ -1,199 +1,284 @@
-# F1 Data Analysis Repository
+<div align="center">
 
-A comprehensive Formula 1 data repository covering 1950-2025 with detailed telemetry, race results, driver/constructor statistics, and visualizations.
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=F1%20DATA%20ANALYTICS&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Pushing%20the%20Limits%20of%20Motorsport%20Data%20Science&descAlignY=55&descAlign=50" width="100%"/>
 
-## Data Sources
+<!-- Animated F1 Car -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
-| Source | Years | Content |
-|--------|-------|---------|
-| **f1db** | 1950-2025 | Complete historical F1 database (race results, qualifying, standings, pit stops) |
-| **formula1-datasets** | 2013-2025 | Clean CSVs with race results, qualifying, sprint races, calendars |
-| **FastF1** | 2018-2025 | Detailed telemetry data (speed, throttle, brake, gear, DRS, position) |
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🏎️+Telemetry+Analysis+%7C+G-Force+Mapping+%7C+Aerodynamics;📊+50%2B+Visualizations+%7C+12+Analysis+Scripts;⚡+Real-time+Data+%7C+Physics-based+Calculations)](https://git.io/typing-svg)
 
-## Quick Start
+<!-- Badges -->
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastF1-E10600?style=for-the-badge&logo=f1&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+</p>
 
-```powershell
-# Activate virtual environment
-cd "e:\Repose E\F1 Data"
-.\venv\Scripts\activate
+<!-- Live Demo Button -->
+<a href="https://eliherrera33.github.io/F1-Data-Analysis/">
+<img src="https://img.shields.io/badge/🏁_LIVE_DEMO-View_Dashboard-E10600?style=for-the-badge&logoColor=white"/>
+</a>
 
-# Run any analysis script
-python f1_analysis.py           # Driver/constructor performance charts
-python telemetry_analysis.py    # Track maps, throttle/brake traces, speed data
-python circuit_analysis.py      # Circuit comparisons
-python consolidate_data.py      # Generate consolidated data lists
-```
+</div>
 
-## Scripts
+---
 
-| Script | Description |
-|--------|-------------|
-| `f1_analysis.py` | Driver/constructor wins, podiums, points progression, heatmaps |
-| `telemetry_analysis.py` | Track maps, speed traces, throttle/brake usage, driver comparisons |
-| `circuit_analysis.py` | Circuit length/turns comparisons, world map, street vs permanent |
-| `tire_pitstop_analysis.py` | Tire compounds, pit stop times, strategies, degradation analysis |
-| `car_aero_analysis.py` | DRS usage, car speed profiles, chassis data, downforce comparison |
-| `gforce_analysis.py` | G-force calculation and visualization from telemetry |
-| `engine_analysis.py` | Engine specifications, manufacturers, power unit evolution |
-| `consolidate_data.py` | Create unified data lists (winners, points, fastest laps) |
-| `convert_yaml_to_csv.py` | Convert f1db YAML to CSV format |
-| `convert_reference_data.py` | Convert circuits, drivers, constructors to CSV |
-| `download_f1_data.py` | Download race telemetry using FastF1 |
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Visualizations
+## 🏎️ About This Project
 
-### Performance Charts (`visualizations/`)
-- Driver wins bar chart
-- Constructor wins bar chart
-- Podium finishes
-- Points progression (line chart)
-- Wins heatmap by year
-- Championship dominance
-- DNF rates
-- Individual driver position distributions
+> **A comprehensive Formula 1 data analysis suite** that processes telemetry, calculates G-forces, analyzes aerodynamics, and visualizes race strategy. Built for those who want to understand the science behind the fastest motorsport on Earth.
 
-### Telemetry Charts (`telemetry_visualizations/`)
-- **Track Maps**: Colored by speed, gear
-- **Speed Traces**: Speed over lap distance
-- **Throttle/Brake**: Input traces over lap
-- **RPM & Gear**: Engine data traces
-- **DRS Usage**: DRS zones highlighted
-- **Weather**: Air/track temperature, humidity, wind
-- **Driver Comparisons**: Side-by-side telemetry
-- **Racing Lines**: Track position comparison
-- **Tire Strategy**: Compound usage per driver
-- **Lap Evolution**: Lap times through race
+<table>
+<tr>
+<td width="50%">
 
-### Circuit Charts (`circuit_visualizations/`)
-- Circuit lengths comparison
-- Number of turns
-- Circuit types (street, permanent, road)
-- Circuits by country
-- Clockwise vs anti-clockwise
-- Length vs turns scatter plot
-- World map of circuit locations
-- Street vs permanent comparison
+### 📊 Key Features
+- **Real-time Telemetry Analysis** - Speed traces, throttle/brake, gear shifts
+- **G-Force Calculations** - Longitudinal & lateral G with driver-style gauges
+- **Aerodynamic Modeling** - CFD-based downforce/drag calculations
+- **Tire Strategy Analysis** - Compound degradation & pit stop optimization
+- **Engine/Power Unit Data** - 1.6L V6 Turbo Hybrid specifications
+- **Multi-Track Comparison** - Monaco vs Spa vs Monza analysis
 
-### Tire & Pit Stop Charts (`tire_pitstop_visualizations/`)
-- **Tire Strategy**: Compound usage per driver per lap (race visualization)
-- **Tire Degradation**: Lap time vs tire age scatter plot
-- **Compound Usage**: Pie chart of total laps per compound
-- **Stint Analysis**: Visual breakdown of stint lengths per driver
-- **Average Stint Length**: Bar chart per compound
-- **Fastest Pit Stops**: Fastest pit stop per team
-- **Pit Stop Distribution**: Box plot of pit stop times per team
-- **Pit Stops per Race**: Total pit stops per race in season
+</td>
+<td width="50%">
 
-### Car & Aero Charts (`car_aero_visualizations/`)
-- **DRS Zones**: Track map showing DRS activation zones
-- **DRS Usage by Driver**: Percentage of time each driver uses DRS
-- **DRS Speed Analysis**: Speed comparison DRS open vs closed
-- **Downforce Comparison**: Monaco (high DF) vs Monza (low DF) speed profiles
-- **Speed Trace Comparison**: Normalized lap overlay between tracks
-- **Cornering Speed**: Average corner speeds per driver (downforce indicator)
-- **Chassis by Team**: Historical chassis models per constructor
-- **Chassis Timeline**: Evolution of chassis per top team
-
-### G-Force Charts (`gforce_visualizations/`)
-- **G-Force Trace**: Longitudinal (braking/accel) and lateral (cornering) G over lap distance
-- **G-Force Histogram**: Distribution of G-forces experienced during fastest lap
-- **G-Force Comparison**: Comparison of max G-forces across all drivers
-- **G-Force Map**: Track map colored by G-force intensity (braking, lateral, total)
-- **Track Comparison**: Cross-track comparison of G-forces (Monaco vs Spa vs Monza)
-
-### Engine & Power Unit Charts (`engine_visualizations/`)
-- **Engine Configurations**: Pie chart of all F1 engine configurations (V6, V8, V10, V12, etc.)
-- **Aspiration Types**: Bar chart comparing NA, Turbo, Turbo Hybrid, Supercharged
-- **Engine Capacity**: Histogram of engine displacements through F1 history
-- **Engines by Manufacturer**: Top 20 manufacturers by number of engine models
-- **Manufacturer Countries**: Pie chart of engine manufacturers by country
-- **Hybrid Era Engines**: Analysis of 2014-2025 turbo hybrid power units
-- **Current PU Specs**: Technical specifications infographic for current era
-- **Engine Evolution**: Timeline of F1 engine eras from 1950-2025
-- **Config by Era**: Stacked bar chart of configurations per capacity era
-- **V-Engine Comparison**: Detailed comparison of V6, V8, V10, V12 engines
-
-## Data Files
-
-### Consolidated Lists (`data/consolidated/`)
-- `world_champions.csv` - WDC winners 2012-2025
-- `constructor_champions.csv` - WCC winners
-- `drivers_by_wins.csv` - Career wins ranking
-- `drivers_by_podiums.csv` - Career podiums ranking
-- `drivers_by_points.csv` - Career points ranking
-- `constructors_by_wins.csv` - Team wins ranking
-- `all_drivers.csv` - Driver career spans
-- `all_races.csv` - All race entries
-
-### Reference Data (`data/reference/`)
-- `circuits.csv` - 77 circuits with location, length, turns
-- `drivers.csv` - 915 drivers with nationalities, DOB
-- `constructors.csv` - 185 constructors
-- `engines.csv` - 419 engine specifications
-- `chassis.csv` - 1138 chassis models
-
-### Season Data (`data/f1db_csv/`)
-- `{year}_race_results.csv` - Complete race results
-- `{year}_qualifying.csv` - Qualifying results
-- `{year}_fastest_laps.csv` - Fastest lap data
-- `{year}_pit_stops.csv` - Pit stop times
-- `{year}_driver_standings.csv` - Championship standings
-- `{year}_constructor_standings.csv` - Constructor standings
-
-## Key Statistics (2012-2025)
-
+### 📈 By The Numbers
 | Metric | Value |
 |--------|-------|
-| Total Races | 291 |
-| Unique Drivers | 73 |
-| Unique Constructors | 23 |
-| Most Driver Wins | Lewis Hamilton (88) |
-| Most Constructor Wins | Mercedes (122) |
+| 🎨 Visualizations | **50+** |
+| 🐍 Python Scripts | **12** |
+| 🏁 Tracks Analyzed | **3** |
+| 👨‍✈️ Drivers Compared | **20** |
+| 🔧 Engine Records | **419** |
+| ⚡ Data Points | **1M+** |
 
-## Telemetry Data Available
+</td>
+</tr>
+</table>
 
-For 2018-2025 races (via FastF1):
-- **Car Telemetry**: Speed, RPM, Gear, Throttle, Brake, DRS
-- **Position Data**: X, Y, Z coordinates (track position)
-- **Timing**: Lap times, sector times, gap data
-- **Weather**: Air temp, track temp, humidity, wind speed/direction
-- **Race Control**: Flags, penalties, safety car periods
+---
 
-## Installation
+## 🎯 Analysis Modules
 
-The virtual environment includes:
-- FastF1 (telemetry access)
-- Pandas (data manipulation)
-- Matplotlib (static charts)
-- Seaborn (statistical visualizations)
-- Plotly (interactive charts)
-- PyYAML (data conversion)
+<details>
+<summary><b>🔬 TELEMETRY ANALYSIS</b> - Click to expand</summary>
+<br>
 
-Re-install dependencies:
-```powershell
-pip install -r requirements.txt
-```
+Real-time car data processing including speed traces, throttle/brake application, DRS usage, and driver comparison.
 
-## Adding More Data
+| Visualization | Description |
+|--------------|-------------|
+| 🗺️ Track Maps | GPS-based circuit visualization with speed coloring |
+| 📈 Speed Traces | Lap-by-lap speed comparison |
+| 🎮 Driver Inputs | Throttle, brake, and gear shift patterns |
+| 🏎️ Racing Lines | Corner-by-corner trajectory analysis |
 
-### Download telemetry for a specific race:
 ```python
+# Example: Load Monaco GP telemetry
 import fastf1
-
-session = fastf1.get_session(2024, 'Silverstone', 'R')
+session = fastf1.get_session(2024, 'Monaco', 'R')
 session.load()
-
-# Access telemetry for a driver
-lap = session.laps.pick_driver('VER').pick_fastest()
-telemetry = lap.get_telemetry()
+lap = session.laps.pick_fastest()
+tel = lap.get_telemetry()
 ```
 
-### Analyze a different race:
-Edit `telemetry_analysis.py` and change:
-```python
-analyze_session(2024, 'Monaco', 'R')  # Change to any race
+</details>
+
+<details>
+<summary><b>💪 G-FORCE MAPPING</b> - Click to expand</summary>
+<br>
+
+Calculate and visualize the extreme forces drivers experience - up to **6G** in corners and under braking!
+
+| G-Force Type | Max Value | Description |
+|--------------|-----------|-------------|
+| 🔴 Braking | **5.5G** | Deceleration force |
+| 🟢 Acceleration | **1.5G** | Acceleration force |
+| 🟡 Lateral | **5.8G** | Cornering force |
+
+**Physics Behind It:**
+```
+Longitudinal G = (Δv / Δt) / 9.81
+Lateral G = (v² × κ) / 9.81
+Total G = √(G_long² + G_lat²)
 ```
 
-## License
+Features F1 TV-style circular and diamond G-force gauges!
 
-Data sourced from f1db (open source), formula1-datasets (GitHub), and FastF1 (official F1 timing data).
+</details>
+
+<details>
+<summary><b>🌪️ AERODYNAMICS</b> - Click to expand</summary>
+<br>
+
+Wind tunnel data analysis using PERRINN F1 CFD coefficients.
+
+| Setup | sCx (Drag) | sCz (Downforce) | L/D Ratio |
+|-------|------------|-----------------|-----------|
+| 🔴 Monaco (High DF) | 1.35 | 4.0 | 2.96 |
+| 🟡 Silverstone (Med) | 1.16 | 3.25 | 2.80 |
+| 🟢 Monza (Low DF) | 0.95 | 2.5 | 2.63 |
+
+**Key Insight:** At 250 km/h, downforce exceeds car weight - an F1 car could theoretically drive upside down! 🤯
+
+</details>
+
+<details>
+<summary><b>🛞 TIRE STRATEGY</b> - Click to expand</summary>
+<br>
+
+Compound analysis, degradation modeling, and pit stop optimization.
+
+| Compound | Grip | Durability | Ideal For |
+|----------|------|------------|-----------|
+| 🔴 SOFT | ⭐⭐⭐⭐⭐ | ⭐⭐ | Qualifying, short stints |
+| 🟡 MEDIUM | ⭐⭐⭐⭐ | ⭐⭐⭐ | Race balance |
+| ⚪ HARD | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Long stints, hot conditions |
+
+</details>
+
+<details>
+<summary><b>⚡ POWER UNITS</b> - Click to expand</summary>
+<br>
+
+Current F1 Power Unit specifications (2014-present era):
+
+| Component | Specification |
+|-----------|--------------|
+| Configuration | 1.6L V6 Turbo Hybrid |
+| Total Power | ~1,000 HP |
+| ICE Output | ~550 HP |
+| MGU-K | 120 kW (160 HP) |
+| Thermal Efficiency | 50%+ |
+| RPM Limit | 15,000 |
+
+</details>
+
+---
+
+## 🖼️ Visualization Gallery
+
+<div align="center">
+
+### Telemetry & Track Analysis
+<img src="telemetry_visualizations/2024_Monaco_Grand_Prix_track_map.png" width="45%"/>
+<img src="telemetry_visualizations/2024_Monaco_Grand_Prix_speed_trace.png" width="45%"/>
+
+### G-Force Gauges
+<img src="gforce_visualizations/gforce_circular_meter.png" width="45%"/>
+<img src="gforce_visualizations/gforce_diamond_cross.png" width="45%"/>
+
+### Aerodynamics
+<img src="windtunnel_data/visualizations/aero_calculator_plots.png" width="45%"/>
+<img src="windtunnel_data/visualizations/atr_wind_tunnel_hours.png" width="45%"/>
+
+### Strategy & Engines
+<img src="tire_pitstop_visualizations/2024_Monaco_Grand_Prix_tire_strategy.png" width="45%"/>
+<img src="engine_visualizations/engine_evolution.png" width="45%"/>
+
+</div>
+
+---
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/Eliherrera33/F1-Data-Analysis.git
+cd F1-Data-Analysis
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # or `venv\Scripts\activate` on Windows
+
+# Install dependencies
+pip install fastf1 matplotlib numpy pandas scipy seaborn
+
+# Run any analysis script
+python telemetry_analysis.py
+python gforce_analysis.py
+python aero_calculator.py
+```
+
+---
+
+## 📁 Project Structure
+
+```
+F1-Data-Analysis/
+├── 🌐 index.html                    # Portfolio website
+├── 🎨 styles.css                    # Website styling
+├── ⚡ script.js                     # Interactive features
+│
+├── 🔬 Analysis Scripts
+│   ├── f1_analysis.py               # Core F1 data analysis
+│   ├── telemetry_analysis.py        # Telemetry processing
+│   ├── gforce_analysis.py           # G-force calculations
+│   ├── gforce_driver_comparison.py  # Driver G-force comparison
+│   ├── car_aero_analysis.py         # DRS & aero analysis
+│   ├── aero_calculator.py           # Downforce/drag calculator
+│   ├── atr_visualization.py         # Wind tunnel restrictions
+│   ├── downforce_vs_speed.py        # Speed-based aero analysis
+│   ├── estimated_aero_analysis.py   # Telemetry-based aero inference
+│   ├── tire_pitstop_analysis.py     # Tire & pit strategy
+│   ├── engine_analysis.py           # Power unit analysis
+│   └── circuit_analysis.py          # Track comparison
+│
+├── 📊 Visualizations
+│   ├── telemetry_visualizations/    # Track maps, speed traces
+│   ├── gforce_visualizations/       # G-force gauges (22 files)
+│   ├── engine_visualizations/       # Power unit charts
+│   ├── tire_pitstop_visualizations/ # Strategy charts
+│   ├── car_aero_visualizations/     # DRS, chassis
+│   └── windtunnel_data/             # CFD data & ATR
+│
+└── 📚 Data
+    └── data/reference/              # Historical F1 data
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Category | Technologies |
+|----------|-------------|
+| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Data** | ![FastF1](https://img.shields.io/badge/FastF1-E10600?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) |
+| **Science** | ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) |
+| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+</div>
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🏁_Portfolio-View_Dashboard-E10600?style=for-the-badge)](https://eliherrera33.github.io/F1-Data-Analysis/)
+[![GitHub](https://img.shields.io/badge/GitHub-Eliherrera33-181717?style=for-the-badge&logo=github)](https://github.com/Eliherrera33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Star this repo if you found it useful!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<sub>Built with 🏎️ and Python | Data sourced via FastF1 API</sub>
+
+</div>
