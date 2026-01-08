@@ -1,0 +1,36 @@
+#!/bin/bash
+# OpenFOAM F1 Car CFD Run Script
+
+# Source OpenFOAM environment
+source /opt/openfoam10/etc/bashrc
+
+echo "=== F1 Car CFD Simulation ==="
+echo ""
+
+# 1. Create background mesh
+echo "Step 1: Creating background mesh..."
+blockMesh | tee log.blockMesh
+
+# 2. Extract surface features
+echo "Step 2: Extracting surface features..."
+surfaceFeatures | tee log.surfaceFeatures
+
+# 3. Create mesh around car
+echo "Step 3: Creating mesh with snappyHexMesh..."
+snappyHexMesh -overwrite | tee log.snappyHexMesh
+
+# 4. Check mesh quality
+echo "Step 4: Checking mesh..."
+checkMesh | tee log.checkMesh
+
+# 5. Run solver
+echo "Step 5: Running simpleFoam..."
+simpleFoam | tee log.simpleFoam
+
+# 6. Post-process
+echo "Step 6: Post-processing..."
+postProcess -func forceCoeffs
+
+echo ""
+echo "=== Simulation Complete ==="
+echo "View results with: paraFoam"

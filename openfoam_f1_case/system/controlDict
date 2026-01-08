@@ -1,0 +1,51 @@
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       dictionary;
+    object      controlDict;
+}
+
+application     simpleFoam;
+
+startFrom       startTime;
+startTime       0;
+stopAt          endTime;
+endTime         1000;
+
+deltaT          1;
+writeControl    timeStep;
+writeInterval   100;
+
+purgeWrite      3;
+writeFormat     binary;
+writePrecision  8;
+writeCompression off;
+timeFormat      general;
+timePrecision   6;
+
+runTimeModifiable true;
+
+functions
+{
+    forceCoeffs
+    {
+        type            forceCoeffs;
+        libs            (forces);
+        writeControl    timeStep;
+        writeInterval   1;
+        
+        patches         (car);
+        rho             rhoInf;
+        rhoInf          1.225;
+        
+        CofR            (2.5 0 0.3);  // Center of car
+        liftDir         (0 0 1);
+        dragDir         (1 0 0);
+        pitchAxis       (0 1 0);
+        
+        magUInf         50.0;
+        lRef            5.7;   // Car length
+        Aref            1.5;   // Frontal area
+    }
+}

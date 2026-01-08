@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1 Aerodynamics Interactive Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #0f0f1a 100%);
+            color: #fff;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            text-align: center;
+            padding: 40px 0;
+            border-bottom: 2px solid #e10600;
+            margin-bottom: 40px;
+        }
+        
+        .header h1 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 2.5rem;
+            color: #e10600;
+            margin-bottom: 10px;
+            text-shadow: 0 0 20px rgba(225, 6, 0, 0.5);
+        }
+        
+        .header p {
+            color: #888;
+            font-size: 1.1rem;
+        }
+        
+        .dashboard {
+            display: grid;
+            grid-template-columns: 350px 1fr;
+            gap: 30px;
+        }
+        
+        .controls {
+            background: rgba(20, 20, 40, 0.8);
+            border: 1px solid #333;
+            border-radius: 15px;
+            padding: 25px;
+            backdrop-filter: blur(10px);
+        }
+        
+        .control-group {
+            margin-bottom: 25px;
+        }
+        
+        .control-group label {
+            display: block;
+            font-size: 0.85rem;
+            color: #00d2be;
+            margin-bottom: 8px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .slider-container {
+            position: relative;
+        }
+        
+        input[type="range"] {
+            width: 100%;
+            height: 8px;
+            background: linear-gradient(90deg, #1a1a2e, #333);
+            border-radius: 4px;
+            outline: none;
+            -webkit-appearance: none;
+        }
+        
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 22px;
+            height: 22px;
+            background: linear-gradient(135deg, #e10600, #ff4444);
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 0 15px rgba(225, 6, 0, 0.6);
+            transition: transform 0.2s;
+        }
+        
+        input[type="range"]::-webkit-slider-thumb:hover {
+            transform: scale(1.2);
+        }
+        
+        .value-display {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 8px;
+            font-size: 0.9rem;
+        }
+        
+        .value-display .current {
+            color: #fff;
+            font-weight: 600;
+            font-size: 1.2rem;
+        }
+        
+        .value-display .unit {
+            color: #666;
+        }
+        
+        .results {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        .result-card {
+            background: rgba(20, 20, 40, 0.8);
+            border: 1px solid #333;
+            border-radius: 15px;
+            padding: 25px;
+            backdrop-filter: blur(10px);
+        }
+        
+        .result-card h3 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1rem;
+            color: #888;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        
+        .force-display {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+        
+        .force-item {
+            text-align: center;
+            padding: 20px;
+            background: linear-gradient(145deg, #1a1a2e, #0f0f1a);
+            border-radius: 12px;
+            border: 1px solid #333;
+        }
+        
+        .force-item .label {
+            font-size: 0.8rem;
+            color: #888;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+        }
+        
+        .force-item .value {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 2rem;
+            font-weight: 700;
+        }
+        
+        .force-item .unit {
+            font-size: 0.9rem;
+            color: #666;
+        }
+        
+        .force-item.downforce .value { color: #00ff00; }
+        .force-item.drag .value { color: #ff4444; }
+        .force-item.efficiency .value { color: #00d2be; }
+        
+        .car-visual {
+            position: relative;
+            height: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(180deg, transparent 0%, rgba(0,0,0,0.3) 100%);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        
+        .car-svg {
+            width: 80%;
+            max-width: 500px;
+        }
+        
+        .force-arrows {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+        }
+        
+        .arrow {
+            position: absolute;
+            transition: all 0.3s ease;
+        }
+        
+        .arrow-down {
+            left: 50%;
+            top: 20%;
+            transform: translateX(-50%);
+            width: 4px;
+            background: linear-gradient(180deg, transparent, #00ff00);
+            border-radius: 2px;
+        }
+        
+        .arrow-back {
+            left: 20%;
+            top: 50%;
+            transform: translateY(-50%);
+            height: 4px;
+            background: linear-gradient(90deg, #ff4444, transparent);
+            border-radius: 2px;
+        }
+        
+        .streamlines {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            opacity: 0.3;
+        }
+        
+        .streamline {
+            position: absolute;
+            height: 2px;
+            background: linear-gradient(90deg, #00d2be, transparent);
+            animation: flow 2s linear infinite;
+        }
+        
+        @keyframes flow {
+            0% { transform: translateX(-100%); opacity: 0; }
+            50% { opacity: 1; }
+            100% { transform: translateX(200%); opacity: 0; }
+        }
+        
+        .gauge-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+        
+        .gauge {
+            position: relative;
+            width: 150px;
+            height: 150px;
+            margin: 0 auto;
+        }
+        
+        .gauge svg {
+            transform: rotate(-90deg);
+        }
+        
+        .gauge-bg {
+            fill: none;
+            stroke: #1a1a2e;
+            stroke-width: 12;
+        }
+        
+        .gauge-fill {
+            fill: none;
+            stroke-width: 12;
+            stroke-linecap: round;
+            transition: stroke-dashoffset 0.5s ease;
+        }
+        
+        .gauge-center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+        
+        .gauge-value {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+        
+        .gauge-label {
+            font-size: 0.7rem;
+            color: #888;
+            text-transform: uppercase;
+        }
+        
+        .coefficients {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .coeff {
+            text-align: center;
+            padding: 15px 10px;
+            background: rgba(0,0,0,0.3);
+            border-radius: 10px;
+            border: 1px solid #333;
+        }
+        
+        .coeff .label {
+            font-size: 0.75rem;
+            color: #666;
+            margin-bottom: 5px;
+        }
+        
+        .coeff .value {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.3rem;
+            color: #fff;
+        }
+        
+        .setup-selector {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .setup-btn {
+            flex: 1;
+            padding: 12px;
+            border: 2px solid #333;
+            background: transparent;
+            color: #888;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.85rem;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .setup-btn:hover {
+            border-color: #e10600;
+            color: #fff;
+        }
+        
+        .setup-btn.active {
+            border-color: #e10600;
+            background: rgba(225, 6, 0, 0.2);
+            color: #e10600;
+        }
+        
+        .formula-box {
+            background: rgba(0, 210, 190, 0.1);
+            border: 1px solid #00d2be;
+            border-radius: 10px;
+            padding: 15px;
+            margin-top: 20px;
+        }
+        
+        .formula-box h4 {
+            color: #00d2be;
+            font-size: 0.85rem;
+            margin-bottom: 10px;
+        }
+        
+        .formula {
+            font-family: 'Courier New', monospace;
+            color: #fff;
+            font-size: 0.9rem;
+            line-height: 1.8;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 40px;
+            margin-top: 40px;
+            border-top: 1px solid #333;
+            color: #666;
+        }
+        
+        .footer a {
+            color: #e10600;
+            text-decoration: none;
+        }
+        
+        @media (max-width: 1024px) {
+            .dashboard {
+                grid-template-columns: 1fr;
+            }
+            .force-display {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>🏎️ F1 AERODYNAMICS CALCULATOR</h1>
+            <p>Interactive CFD-based downforce and drag simulation using PERRINN data</p>
+        </header>
+        
+        <div class="dashboard">
+            <div class="controls">
+                <h3 style="color: #e10600; font-family: 'Orbitron', sans-serif; margin-bottom: 20px;">PARAMETERS</h3>
+                
+                <div class="setup-selector">
+                    <button class="setup-btn active" onclick="setSetup('monaco')">Monaco</button>
+                    <button class="setup-btn" onclick="setSetup('silverstone')">Silverstone</button>
+                    <button class="setup-btn" onclick="setSetup('monza')">Monza</button>
+                </div>
+                
+                <div class="control-group">
+                    <label>Speed</label>
+                    <div class="slider-container">
+                        <input type="range" id="speed" min="50" max="370" value="250" oninput="updateCalculations()">
+                    </div>
+                    <div class="value-display">
+                        <span class="current" id="speed-value">250</span>
+                        <span class="unit">km/h</span>
+                    </div>
+                </div>
+                
+                <div class="control-group">
+                    <label>Rear Wing Angle</label>
+                    <div class="slider-container">
+                        <input type="range" id="wing-angle" min="5" max="35" value="20" oninput="updateCalculations()">
+                    </div>
+                    <div class="value-display">
+                        <span class="current" id="wing-angle-value">20</span>
+                        <span class="unit">degrees</span>
+                    </div>
+                </div>
+                
+                <div class="control-group">
+                    <label>Ride Height</label>
+                    <div class="slider-container">
+                        <input type="range" id="ride-height" min="15" max="80" value="35" oninput="updateCalculations()">
+                    </div>
+                    <div class="value-display">
+                        <span class="current" id="ride-height-value">35</span>
+                        <span class="unit">mm</span>
+                    </div>
+                </div>
+                
+                <div class="control-group">
+                    <label>Front Wing Flap</label>
+                    <div class="slider-container">
+                        <input type="range" id="front-wing" min="0" max="20" value="10" oninput="updateCalculations()">
+                    </div>
+                    <div class="value-display">
+                        <span class="current" id="front-wing-value">10</span>
+                        <span class="unit">degrees</span>
+                    </div>
+                </div>
+                
+                <div class="formula-box">
+                    <h4>Physics Equations</h4>
+                    <div class="formula">
+                        F = ½ρv²SCₓ<br>
+                        ρ = 1.225 kg/m³<br>
+                        S = 1.5 m² (frontal area)<br>
+                        Cₓ = f(wing angle, ride height)
+                    </div>
+                </div>
+            </div>
+            
+            <div class="results">
+                <div class="result-card">
+                    <h3>Aerodynamic Forces</h3>
+                    <div class="force-display">
+                        <div class="force-item downforce">
+                            <div class="label">Downforce</div>
+                            <div class="value" id="downforce">12,450</div>
+                            <div class="unit">N (<span id="downforce-kg">1,269</span> kg)</div>
+                        </div>
+                        <div class="force-item drag">
+                            <div class="label">Drag</div>
+                            <div class="value" id="drag">4,446</div>
+                            <div class="unit">N</div>
+                        </div>
+                        <div class="force-item efficiency">
+                            <div class="label">L/D Ratio</div>
+                            <div class="value" id="ld-ratio">2.80</div>
+                            <div class="unit">efficiency</div>
+                        </div>
+                    </div>
+                    
+                    <div class="coefficients">
+                        <div class="coeff">
+                            <div class="label">Cl (Lift)</div>
+                            <div class="value" id="cl">3.25</div>
+                        </div>
+                        <div class="coeff">
+                            <div class="label">Cd (Drag)</div>
+                            <div class="value" id="cd">1.16</div>
+                        </div>
+                        <div class="coeff">
+                            <div class="label">Power Loss</div>
+                            <div class="value" id="power">309</div>
+                        </div>
+                        <div class="coeff">
+                            <div class="label">DF/Weight</div>
+                            <div class="value" id="df-ratio">159%</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="result-card">
+                    <h3>Car Visualization</h3>
+                    <div class="car-visual">
+                        <div class="streamlines">
+                            <div class="streamline" style="top: 30%; animation-delay: 0s;"></div>
+                            <div class="streamline" style="top: 40%; animation-delay: 0.3s;"></div>
+                            <div class="streamline" style="top: 50%; animation-delay: 0.6s;"></div>
+                            <div class="streamline" style="top: 60%; animation-delay: 0.9s;"></div>
+                            <div class="streamline" style="top: 70%; animation-delay: 1.2s;"></div>
+                        </div>
+                        <div class="force-arrows">
+                            <div class="arrow arrow-down" id="arrow-down"></div>
+                            <div class="arrow arrow-back" id="arrow-back"></div>
+                        </div>
+                        <svg class="car-svg" viewBox="0 0 200 60">
+                            <!-- F1 Car silhouette -->
+                            <path d="M5,35 L15,30 L25,28 L40,25 L60,22 L80,20 L100,19 L120,20 L140,22 L160,25 L175,30 L185,35 L190,40 L185,45 L175,48 L160,48 L140,45 L120,43 L100,42 L80,43 L60,45 L40,47 L25,48 L15,45 L5,40 Z" 
+                                  fill="#1a1a2e" stroke="#e10600" stroke-width="2"/>
+                            <!-- Front wing -->
+                            <path d="M0,38 L5,35 L5,42 L0,45 Z" fill="#2a2a4a" stroke="#00d2be" stroke-width="1"/>
+                            <path d="M0,40 L-3,38 L-3,45 L0,43 Z" fill="#2a2a4a" stroke="#00d2be" stroke-width="1"/>
+                            <!-- Rear wing -->
+                            <path d="M185,25 L195,25 L195,35 L185,35 Z" fill="#2a2a4a" stroke="#00d2be" stroke-width="1"/>
+                            <path d="M190,20 L200,20 L200,25 L190,25 Z" fill="#2a2a4a" stroke="#00d2be" stroke-width="1" id="rear-wing"/>
+                            <!-- Wheels -->
+                            <circle cx="35" cy="42" r="12" fill="#333" stroke="#666" stroke-width="2"/>
+                            <circle cx="165" cy="42" r="12" fill="#333" stroke="#666" stroke-width="2"/>
+                            <!-- Halo -->
+                            <path d="M85,20 Q100,10 115,20" fill="none" stroke="#444" stroke-width="3"/>
+                        </svg>
+                    </div>
+                </div>
+                
+                <div class="result-card">
+                    <h3>Performance Gauges</h3>
+                    <div class="gauge-container">
+                        <div class="gauge">
+                            <svg width="150" height="150">
+                                <circle class="gauge-bg" cx="75" cy="75" r="60"/>
+                                <circle class="gauge-fill" id="gauge-df" cx="75" cy="75" r="60" 
+                                        stroke="#00ff00" stroke-dasharray="377" stroke-dashoffset="100"/>
+                            </svg>
+                            <div class="gauge-center">
+                                <div class="gauge-value" id="gauge-df-value" style="color:#00ff00">75%</div>
+                                <div class="gauge-label">Downforce</div>
+                            </div>
+                        </div>
+                        <div class="gauge">
+                            <svg width="150" height="150">
+                                <circle class="gauge-bg" cx="75" cy="75" r="60"/>
+                                <circle class="gauge-fill" id="gauge-drag" cx="75" cy="75" r="60"
+                                        stroke="#ff4444" stroke-dasharray="377" stroke-dashoffset="200"/>
+                            </svg>
+                            <div class="gauge-center">
+                                <div class="gauge-value" id="gauge-drag-value" style="color:#ff4444">47%</div>
+                                <div class="gauge-label">Drag</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <footer class="footer">
+            <p>F1 Aerodynamics Calculator | Based on PERRINN Open Source CFD Data</p>
+            <p><a href="https://github.com/Eliherrera33/F1-Data-Analysis">View Project on GitHub</a></p>
+        </footer>
+    </div>
+    
+    <script>
+        // Constants
+        const RHO = 1.225;  // Air density kg/m³
+        const FRONTAL_AREA = 1.5;  // m²
+        const CAR_WEIGHT = 798;  // kg (2024 regulations)
+        
+        // Base coefficients (PERRINN reference)
+        let baseCl = 3.25;
+        let baseCd = 1.16;
+        
+        // Setup presets
+        const setups = {
+            monaco: { wingAngle: 32, rideHeight: 30, frontWing: 15, baseCl: 4.0, baseCd: 1.35 },
+            silverstone: { wingAngle: 20, rideHeight: 35, frontWing: 10, baseCl: 3.25, baseCd: 1.16 },
+            monza: { wingAngle: 8, rideHeight: 45, frontWing: 5, baseCl: 2.5, baseCd: 0.95 }
+        };
+        
+        function setSetup(track) {
+            const setup = setups[track];
+            
+            document.getElementById('wing-angle').value = setup.wingAngle;
+            document.getElementById('ride-height').value = setup.rideHeight;
+            document.getElementById('front-wing').value = setup.frontWing;
+            
+            baseCl = setup.baseCl;
+            baseCd = setup.baseCd;
+            
+            // Update button states
+            document.querySelectorAll('.setup-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            updateCalculations();
+        }
+        
+        function updateCalculations() {
+            // Get input values
+            const speed = parseFloat(document.getElementById('speed').value);
+            const wingAngle = parseFloat(document.getElementById('wing-angle').value);
+            const rideHeight = parseFloat(document.getElementById('ride-height').value);
+            const frontWing = parseFloat(document.getElementById('front-wing').value);
+            
+            // Update displays
+            document.getElementById('speed-value').textContent = speed;
+            document.getElementById('wing-angle-value').textContent = wingAngle;
+            document.getElementById('ride-height-value').textContent = rideHeight;
+            document.getElementById('front-wing-value').textContent = frontWing;
+            
+            // Calculate coefficients based on parameters
+            // Wing angle effect
+            const wingFactor = 1 + (wingAngle - 20) * 0.015;
+            
+            // Ride height effect (lower = more ground effect, but too low = stall)
+            let rideHeightFactor = 1.0;
+            if (rideHeight < 25) {
+                rideHeightFactor = 0.8 + (rideHeight / 25) * 0.2;  // Stall region
+            } else if (rideHeight < 40) {
+                rideHeightFactor = 1.0 + (40 - rideHeight) * 0.01;  // Optimal
+            } else {
+                rideHeightFactor = 1.0 - (rideHeight - 40) * 0.005;  // Reduced ground effect
+            }
+            
+            // Front wing effect
+            const frontWingFactor = 1 + (frontWing - 10) * 0.008;
+            
+            // Final coefficients
+            const Cl = baseCl * wingFactor * rideHeightFactor * frontWingFactor;
+            const Cd = baseCd * (1 + (wingAngle - 20) * 0.01) * (1 + frontWing * 0.003);
+            
+            // Convert speed to m/s
+            const v = speed / 3.6;
+            
+            // Calculate dynamic pressure
+            const q = 0.5 * RHO * v * v;
+            
+            // Calculate forces
+            const downforce = q * FRONTAL_AREA * Cl;
+            const drag = q * FRONTAL_AREA * Cd;
+            const ldRatio = Cl / Cd;
+            
+            // Power to overcome drag
+            const power = drag * v / 1000;  // kW
+            
+            // Downforce as percentage of car weight
+            const dfRatio = (downforce / (CAR_WEIGHT * 9.81)) * 100;
+            
+            // Update display
+            document.getElementById('downforce').textContent = downforce.toLocaleString('en-US', {maximumFractionDigits: 0});
+            document.getElementById('downforce-kg').textContent = (downforce / 9.81).toLocaleString('en-US', {maximumFractionDigits: 0});
+            document.getElementById('drag').textContent = drag.toLocaleString('en-US', {maximumFractionDigits: 0});
+            document.getElementById('ld-ratio').textContent = ldRatio.toFixed(2);
+            document.getElementById('cl').textContent = Cl.toFixed(2);
+            document.getElementById('cd').textContent = Cd.toFixed(2);
+            document.getElementById('power').textContent = power.toFixed(0);
+            document.getElementById('df-ratio').textContent = dfRatio.toFixed(0) + '%';
+            
+            // Update gauges
+            const maxDownforce = 25000;  // N
+            const maxDrag = 8000;  // N
+            
+            const dfPercent = Math.min(downforce / maxDownforce * 100, 100);
+            const dragPercent = Math.min(drag / maxDrag * 100, 100);
+            
+            const dfOffset = 377 - (377 * dfPercent / 100);
+            const dragOffset = 377 - (377 * dragPercent / 100);
+            
+            document.getElementById('gauge-df').style.strokeDashoffset = dfOffset;
+            document.getElementById('gauge-drag').style.strokeDashoffset = dragOffset;
+            document.getElementById('gauge-df-value').textContent = dfPercent.toFixed(0) + '%';
+            document.getElementById('gauge-drag-value').textContent = dragPercent.toFixed(0) + '%';
+            
+            // Update force arrows
+            const arrowDown = document.getElementById('arrow-down');
+            const arrowBack = document.getElementById('arrow-back');
+            
+            arrowDown.style.height = Math.min(downforce / 100, 200) + 'px';
+            arrowBack.style.width = Math.min(drag / 30, 150) + 'px';
+        }
+        
+        // Initial calculation
+        updateCalculations();
+    </script>
+</body>
+</html>
