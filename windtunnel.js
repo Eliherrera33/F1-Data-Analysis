@@ -50,6 +50,23 @@
 
     const clamp = (v, lo, hi) => v < lo ? lo : (v > hi ? hi : v);
 
+    // ---------- analytics ----------
+    // The wind tunnel is the reason this page exists, so the one thing worth
+    // measuring is whether visitors actually touch it. Fires once per page
+    // view on first interaction, then reports which controls got used.
+    let engaged = false;
+    function track(action, label) {
+        if (typeof window.gtag !== 'function') return;
+        if (!engaged) {
+            engaged = true;
+            window.gtag('event', 'wind_tunnel_engage', { engagement_type: action });
+        }
+        window.gtag('event', 'wind_tunnel_control', {
+            control: action,
+            value_label: label === undefined ? '' : String(label)
+        });
+    }
+
     // ============================================================
     // FORCE MODEL
     // ============================================================
@@ -658,6 +675,7 @@
 
         // ---------- controls ----------
         root.querySelectorAll('.wt-slider').forEach(input => {
+            input.addEventListener('change', () => track('slider', input.dataset.param));
             input.addEventListener('input', () => {
                 params[input.dataset.param] = parseFloat(input.value);
                 if (params.rearRH < params.frontRH + 2) {
@@ -675,6 +693,7 @@
         if (drsBtn) {
             drsBtn.addEventListener('click', () => {
                 params.drs = !params.drs;
+                track('drs', params.drs ? 'open' : 'closed');
                 drsBtn.classList.toggle('active', params.drs);
                 drsBtn.setAttribute('aria-pressed', String(params.drs));
                 recompute();
@@ -684,6 +703,7 @@
         root.querySelectorAll('.wt-mode').forEach(btn => {
             btn.addEventListener('click', () => {
                 mode = btn.dataset.mode;
+                track('mode', mode);
                 root.querySelectorAll('.wt-mode').forEach(b => {
                     const on = b === btn;
                     b.classList.toggle('active', on);
@@ -698,6 +718,7 @@
             btn.addEventListener('click', () => {
                 const preset = PRESETS[btn.dataset.preset];
                 if (!preset) return;
+                track('preset', btn.dataset.preset);
                 Object.assign(params, preset);
                 delete params.label;
                 root.querySelectorAll('.wt-slider').forEach(s => { s.value = params[s.dataset.param]; });
