@@ -9,7 +9,6 @@ document.addEventListener('DOMContentLoaded', function () {
     initCounters();
     initImageModal();
     initParallax();
-    initAeroCalculator();
     initSimTabs();
     initFooterYear();
 });
@@ -117,7 +116,7 @@ function initScrollAnimations() {
         '.section-header, .analysis-card, .gforce-main, .gallery-item, ' +
         '.explanation-card, .aero-card, .metric-card, .strategy-card, ' +
         '.spec-block, .mfr-card, .tech-item, .stats-list li, ' +
-        '.calc-panel, .media-card, .coeff'
+        '.media-card'
     );
 
     animateElements.forEach(el => {
@@ -177,7 +176,7 @@ function initImageModal() {
     const closeBtn = document.querySelector('.modal-close');
 
     // All clickable images
-    const images = document.querySelectorAll('.card-image img, .gforce-main img, .gallery-item img, .aero-card img, .atr-visual img, .strategy-card img, .engine-visuals img, .media-card img');
+    const images = document.querySelectorAll('.card-image img, .gforce-main img, .gallery-item img, .atr-visual img, .strategy-card img, .engine-visuals img, .media-card img');
 
     images.forEach(img => {
         img.style.cursor = 'pointer';
@@ -321,117 +320,6 @@ document.querySelectorAll('img').forEach(img => {
 });
 
 console.log('🏎️ F1 Data Analytics Portfolio - Loaded Successfully');
-
-// ============================================
-// INTERACTIVE AERO CALCULATOR
-// Physics ported from aero_calculator.html
-// ============================================
-
-function initAeroCalculator() {
-    const panel = document.querySelector('.calc-panel');
-    if (!panel) return;
-
-    const RHO = 1.225;          // air density, kg/m^3
-    const FRONTAL_AREA = 1.5;   // m^2
-    const CAR_WEIGHT = 798;     // kg, 2024 regulations
-    const MAX_DOWNFORCE = 25000; // N, gauge full scale
-    const MAX_DRAG = 8000;       // N, gauge full scale
-    const MAX_POWER = 750;       // kW, gauge full scale
-
-    const SETUPS = {
-        monaco: { wing: 32, ride: 30, front: 15, baseCl: 4.00, baseCd: 1.35, speed: 160 },
-        silverstone: { wing: 20, ride: 35, front: 10, baseCl: 3.25, baseCd: 1.16, speed: 250 },
-        monza: { wing: 8, ride: 45, front: 5, baseCl: 2.50, baseCd: 0.95, speed: 320 }
-    };
-
-    let baseCl = SETUPS.silverstone.baseCl;
-    let baseCd = SETUPS.silverstone.baseCd;
-
-    const inputs = {
-        speed: document.getElementById('calcSpeed'),
-        wing: document.getElementById('calcWing'),
-        ride: document.getElementById('calcRide'),
-        front: document.getElementById('calcFront')
-    };
-    const outs = {
-        speed: document.getElementById('calcSpeedOut'),
-        wing: document.getElementById('calcWingOut'),
-        ride: document.getElementById('calcRideOut'),
-        front: document.getElementById('calcFrontOut')
-    };
-
-    const el = id => document.getElementById(id);
-    const fmt = n => n.toLocaleString('en-US', { maximumFractionDigits: 0 });
-
-    function rideHeightFactor(ride) {
-        if (ride < 25) return 0.8 + (ride / 25) * 0.2;   // porpoising / stall region
-        if (ride < 40) return 1.0 + (40 - ride) * 0.01;  // optimal ground effect
-        return 1.0 - (ride - 40) * 0.005;                // floor works less
-    }
-
-    function update() {
-        const speed = parseFloat(inputs.speed.value);
-        const wing = parseFloat(inputs.wing.value);
-        const ride = parseFloat(inputs.ride.value);
-        const front = parseFloat(inputs.front.value);
-
-        outs.speed.textContent = speed;
-        outs.wing.textContent = wing;
-        outs.ride.textContent = ride;
-        outs.front.textContent = front;
-
-        const Cl = baseCl
-            * (1 + (wing - 20) * 0.015)
-            * rideHeightFactor(ride)
-            * (1 + (front - 10) * 0.008);
-        const Cd = baseCd * (1 + (wing - 20) * 0.01) * (1 + front * 0.003);
-
-        const v = speed / 3.6;
-        const q = 0.5 * RHO * v * v;
-        const downforce = q * FRONTAL_AREA * Cl;
-        const drag = q * FRONTAL_AREA * Cd;
-        const power = drag * v / 1000;
-
-        el('calcDownforce').textContent = fmt(downforce);
-        el('calcDownforceKg').textContent = fmt(downforce / 9.81);
-        el('calcDfRatio').textContent = Math.round(downforce / (CAR_WEIGHT * 9.81) * 100) + '%';
-        el('calcDrag').textContent = fmt(drag);
-        el('calcLd').textContent = (Cl / Cd).toFixed(2);
-        el('calcPower').textContent = fmt(power);
-        el('calcHp').textContent = fmt(power * 1.341);
-        el('calcCl').textContent = Cl.toFixed(2);
-        el('calcCd').textContent = Cd.toFixed(2);
-
-        const pct = (value, max) => Math.min(value / max * 100, 100).toFixed(0) + '%';
-        el('calcDfBar').style.setProperty('--progress', pct(downforce, MAX_DOWNFORCE));
-        el('calcDragBar').style.setProperty('--progress', pct(drag, MAX_DRAG));
-        el('calcPowerBar').style.setProperty('--progress', pct(power, MAX_POWER));
-    }
-
-    Object.keys(inputs).forEach(key => {
-        inputs[key].addEventListener('input', update);
-    });
-
-    document.querySelectorAll('.preset-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-            const setup = SETUPS[btn.dataset.preset];
-            if (!setup) return;
-
-            document.querySelectorAll('.preset-btn').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-
-            baseCl = setup.baseCl;
-            baseCd = setup.baseCd;
-            inputs.speed.value = setup.speed;
-            inputs.wing.value = setup.wing;
-            inputs.ride.value = setup.ride;
-            inputs.front.value = setup.front;
-            update();
-        });
-    });
-
-    update();
-}
 
 // ============================================
 // RACE SIMULATION TABS

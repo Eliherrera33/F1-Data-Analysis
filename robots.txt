@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eliherrera33.github.io/F1-Data-Analysis/sitemap.xml
