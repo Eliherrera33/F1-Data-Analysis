@@ -1284,3 +1284,438 @@ body {
         font-size: 3rem;
     }
 }
+
+/* ============================================
+   INTERACTIVE AERO CALCULATOR
+   ============================================ */
+
+.calc-panel {
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: var(--border-radius);
+    padding: var(--card-padding);
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.calc-head h3 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.15rem;
+    margin-bottom: 6px;
+}
+
+.calc-head p {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+}
+
+.calc-presets {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+}
+
+.preset-btn {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 10px 8px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    background: var(--bg-tertiary);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: var(--transition-fast);
+}
+
+.preset-btn span {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.68rem;
+    font-weight: 400;
+    color: var(--text-muted);
+}
+
+.preset-btn:hover {
+    border-color: rgba(225, 6, 0, 0.4);
+    color: var(--text-primary);
+}
+
+.preset-btn.active {
+    background: rgba(225, 6, 0, 0.15);
+    border-color: var(--accent-primary);
+    color: var(--text-primary);
+}
+
+.preset-btn:focus-visible,
+.sim-tab:focus-visible,
+.calc-control input:focus-visible {
+    outline: 2px solid var(--accent-secondary);
+    outline-offset: 2px;
+}
+
+.calc-controls {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.calc-control label {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+}
+
+.calc-control output {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 700;
+    color: var(--accent-primary);
+    font-size: 0.95rem;
+}
+
+.calc-control input[type="range"] {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+    height: 6px;
+    border-radius: 3px;
+    background: var(--bg-tertiary);
+    cursor: pointer;
+}
+
+.calc-control input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: var(--gradient-primary);
+    border: 2px solid #fff;
+    box-shadow: var(--shadow-sm);
+}
+
+.calc-control input[type="range"]::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    background: #e10600;
+    box-shadow: var(--shadow-sm);
+}
+
+.calc-formula {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.72rem;
+    line-height: 1.8;
+    color: var(--text-muted);
+    padding-top: 16px;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.calc-coeffs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+}
+
+.coeff {
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: var(--border-radius);
+    padding: 16px;
+    text-align: center;
+}
+
+.coeff-label {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-bottom: 4px;
+}
+
+.coeff-value {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--accent-secondary);
+}
+
+/* ============================================
+   SHARED MEDIA CARD (CFD + SIMULATION)
+   ============================================ */
+
+.media-card {
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: var(--border-radius);
+    overflow: hidden;
+    transition: var(--transition-medium);
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.media-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+    border-color: rgba(225, 6, 0, 0.3);
+}
+
+.media-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    background: var(--bg-tertiary);
+    cursor: pointer;
+}
+
+.media-card figcaption {
+    padding: var(--card-padding);
+}
+
+.media-card figcaption h3 {
+    font-size: 1.05rem;
+    margin-bottom: 8px;
+}
+
+.media-card figcaption p {
+    font-size: 0.88rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+}
+
+/* ============================================
+   CFD SECTION
+   ============================================ */
+
+.cfd-section {
+    background: var(--bg-secondary);
+}
+
+.cfd-feature {
+    display: grid;
+    grid-template-columns: 1.6fr 1fr;
+    gap: 24px;
+    margin-bottom: 60px;
+}
+
+.cfd-side {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.anim-grid,
+.cfd-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+}
+
+.anim-grid {
+    margin-bottom: 60px;
+}
+
+.anim-card {
+    position: relative;
+}
+
+.anim-card::before {
+    content: 'ANIMATED';
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 2;
+    padding: 4px 10px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.62rem;
+    letter-spacing: 1px;
+    color: var(--text-primary);
+    background: rgba(225, 6, 0, 0.85);
+    border-radius: 4px;
+}
+
+/* ============================================
+   RACE SIMULATION SECTION
+   ============================================ */
+
+.simulation-section {
+    background: var(--gradient-dark);
+}
+
+.sim-tabs {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 32px;
+}
+
+.sim-tab {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    padding: 12px 28px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: var(--transition-fast);
+}
+
+.sim-tab span {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 400;
+    color: var(--text-muted);
+}
+
+.sim-tab:hover {
+    border-color: rgba(225, 6, 0, 0.4);
+    color: var(--text-primary);
+}
+
+.sim-tab.active {
+    background: rgba(225, 6, 0, 0.15);
+    border-color: var(--accent-primary);
+    color: var(--text-primary);
+}
+
+.sim-panel {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+}
+
+.sim-panel[hidden] {
+    display: none;
+}
+
+.sim-compare {
+    margin-top: 24px;
+}
+
+/* ============================================
+   FIXES & RESPONSIVE POLISH
+   ============================================ */
+
+/* ATR table gained a fourth column */
+.atr-row {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    font-size: 0.92rem;
+}
+
+/* The nav has nine links now - keep it on one line, and collapse it earlier */
+.nav-brand,
+.nav-links a {
+    white-space: nowrap;
+}
+
+.nav-links {
+    gap: 22px;
+}
+
+@media (max-width: 1300px) {
+    .nav-links {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: var(--bg-primary);
+        flex-direction: column;
+        padding: 20px;
+        gap: 16px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    .nav-links.active {
+        display: flex;
+    }
+
+    .nav-toggle {
+        display: flex;
+    }
+}
+
+@media (max-width: 1024px) {
+    .cfd-feature {
+        grid-template-columns: 1fr;
+    }
+
+    .cfd-side {
+        flex-direction: row;
+    }
+
+    .cfd-side .media-card {
+        flex: 1;
+    }
+}
+
+@media (max-width: 768px) {
+    .cfd-side {
+        flex-direction: column;
+    }
+
+    .sim-panel {
+        grid-template-columns: 1fr;
+    }
+
+    .calc-presets {
+        grid-template-columns: 1fr;
+    }
+
+    .atr-row {
+        font-size: 0.82rem;
+        padding: 12px 10px;
+    }
+
+    .gforce-gallery {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 480px) {
+    .atr-row {
+        grid-template-columns: 1fr 1fr;
+        row-gap: 4px;
+    }
+
+    .sim-tabs {
+        flex-direction: column;
+    }
+
+    .sim-tab {
+        width: 100%;
+    }
+
+    .calc-coeffs {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Respect reduced-motion preferences */
+@media (prefers-reduced-motion: reduce) {
+
+    html {
+        scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.001ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.001ms !important;
+    }
+}

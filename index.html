@@ -30,6 +30,8 @@
             <li><a href="#aero" class="nav-link">Aerodynamics</a></li>
             <li><a href="#strategy" class="nav-link">Strategy</a></li>
             <li><a href="#engines" class="nav-link">Power Units</a></li>
+            <li><a href="#cfd" class="nav-link">CFD</a></li>
+            <li><a href="#simulation" class="nav-link">Simulation</a></li>
             <li><a href="#about" class="nav-link">About</a></li>
         </ul>
         <div class="nav-toggle" id="navToggle">
@@ -52,7 +54,7 @@
             </p>
             <div class="hero-stats">
                 <div class="stat-card">
-                    <div class="stat-value" data-count="22">0</div>
+                    <div class="stat-value" data-count="170">0</div>
                     <div class="stat-label">Visualizations</div>
                 </div>
                 <div class="stat-card">
@@ -70,7 +72,7 @@
             </div>
             <div class="hero-cta">
                 <a href="#telemetry" class="btn btn-primary">Explore Analysis</a>
-                <a href="https://github.com/Eliherrera33/F1-Data-Analysis" class="btn btn-secondary" target="_blank">
+                <a href="https://github.com/Eliherrera33/F1-Data-Analysis" class="btn btn-secondary" target="_blank" rel="noopener">
                     <svg class="github-icon" viewBox="0 0 24 24">
                         <path fill="currentColor"
                             d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" />
@@ -151,7 +153,7 @@
 
             <div class="analysis-card">
                 <div class="card-image">
-                    <img src="telemetry_visualizations/2024_Monaco_Grand_Prix_driver_comparison.png"
+                    <img src="telemetry_visualizations/2024_Monaco_Grand_Prix_detailed_LEC_vs_PIA.png"
                         alt="Driver Comparison" loading="lazy">
                 </div>
                 <div class="card-content">
@@ -240,48 +242,79 @@
         </div>
 
         <div class="aero-dashboard">
-            <div class="aero-card main-card">
-                <img src="windtunnel_data/visualizations/aero_calculator_plots.png" alt="Aero Calculator"
-                    loading="lazy">
-                <div class="aero-info">
+            <div class="calc-panel">
+                <div class="calc-head">
                     <h3>Downforce vs Speed Calculator</h3>
-                    <p>Physics-based calculations using PERRINN F1 CFD coefficients</p>
+                    <p>Live physics model using PERRINN F1 CFD coefficients &mdash; drag the sliders.</p>
                 </div>
+
+                <div class="calc-presets" role="group" aria-label="Track setup presets">
+                    <button type="button" class="preset-btn" data-preset="monaco">Monaco <span>High DF</span></button>
+                    <button type="button" class="preset-btn active" data-preset="silverstone">Silverstone <span>Balanced</span></button>
+                    <button type="button" class="preset-btn" data-preset="monza">Monza <span>Low Drag</span></button>
+                </div>
+
+                <div class="calc-controls">
+                    <div class="calc-control">
+                        <label for="calcSpeed">Speed <output id="calcSpeedOut">250</output> km/h</label>
+                        <input type="range" id="calcSpeed" min="50" max="360" step="5" value="250">
+                    </div>
+                    <div class="calc-control">
+                        <label for="calcWing">Rear wing angle <output id="calcWingOut">20</output>&deg;</label>
+                        <input type="range" id="calcWing" min="5" max="35" step="1" value="20">
+                    </div>
+                    <div class="calc-control">
+                        <label for="calcRide">Ride height <output id="calcRideOut">35</output> mm</label>
+                        <input type="range" id="calcRide" min="15" max="60" step="1" value="35">
+                    </div>
+                    <div class="calc-control">
+                        <label for="calcFront">Front wing flap <output id="calcFrontOut">10</output>&deg;</label>
+                        <input type="range" id="calcFront" min="0" max="25" step="1" value="10">
+                    </div>
+                </div>
+
+                <p class="calc-formula">
+                    F = &frac12; &rho; v&sup2; S C &nbsp;&middot;&nbsp; &rho; = 1.225 kg/m&sup3; &nbsp;&middot;&nbsp; S = 1.5 m&sup2; &nbsp;&middot;&nbsp; mass = 798 kg
+                </p>
             </div>
 
             <div class="aero-metrics">
                 <div class="metric-card">
                     <div class="metric-header">
-                        <span class="metric-icon">⬇️</span>
-                        <span class="metric-title">Downforce @ 250 km/h</span>
+                        <span class="metric-icon">&#11015;&#65039;</span>
+                        <span class="metric-title">Downforce</span>
                     </div>
-                    <div class="metric-value">9,600 <span>N</span></div>
-                    <div class="metric-sub">979 kg (exceeds car weight!)</div>
-                    <div class="metric-bar" style="--progress: 80%"></div>
+                    <div class="metric-value"><span id="calcDownforce">9,600</span> <span>N</span></div>
+                    <div class="metric-sub"><span id="calcDownforceKg">979</span> kg &mdash; <span id="calcDfRatio">123%</span> of car weight</div>
+                    <div class="metric-bar" id="calcDfBar" style="--progress: 38%"></div>
                 </div>
 
                 <div class="metric-card">
                     <div class="metric-header">
-                        <span class="metric-icon">💨</span>
-                        <span class="metric-title">Drag Force @ 250 km/h</span>
+                        <span class="metric-icon">&#128168;</span>
+                        <span class="metric-title">Drag Force</span>
                     </div>
-                    <div class="metric-value">3,426 <span>N</span></div>
-                    <div class="metric-sub">L/D Efficiency: 2.80</div>
-                    <div class="metric-bar" style="--progress: 45%"></div>
+                    <div class="metric-value"><span id="calcDrag">3,426</span> <span>N</span></div>
+                    <div class="metric-sub">L/D efficiency: <span id="calcLd">2.80</span></div>
+                    <div class="metric-bar" id="calcDragBar" style="--progress: 43%"></div>
                 </div>
 
                 <div class="metric-card">
                     <div class="metric-header">
-                        <span class="metric-icon">🔋</span>
+                        <span class="metric-icon">&#128267;</span>
                         <span class="metric-title">Power to Overcome Drag</span>
                     </div>
-                    <div class="metric-value">238 <span>kW</span></div>
-                    <div class="metric-sub">319 HP at 250 km/h</div>
-                    <div class="metric-bar" style="--progress: 32%"></div>
+                    <div class="metric-value"><span id="calcPower">238</span> <span>kW</span></div>
+                    <div class="metric-sub"><span id="calcHp">319</span> HP at this speed</div>
+                    <div class="metric-bar" id="calcPowerBar" style="--progress: 32%"></div>
+                </div>
+
+                <div class="calc-coeffs">
+                    <div class="coeff"><span class="coeff-label">C<sub>l</sub></span><span class="coeff-value" id="calcCl">3.25</span></div>
+                    <div class="coeff"><span class="coeff-label">C<sub>d</sub></span><span class="coeff-value" id="calcCd">1.16</span></div>
                 </div>
             </div>
         </div>
-
         <div class="atr-section">
             <h3 class="subsection-title">FIA Aerodynamic Testing Restrictions</h3>
             <div class="atr-grid">
@@ -296,21 +329,25 @@
                             <span>Position</span>
                             <span>Allocation</span>
                             <span>Hours/Year</span>
+                            <span>Hours/Season</span>
                         </div>
                         <div class="atr-row">
                             <span>P1</span>
                             <span>70%</span>
                             <span>224h</span>
+                            <span>16h</span>
                         </div>
                         <div class="atr-row">
                             <span>P5</span>
                             <span>90%</span>
                             <span>288h</span>
+                            <span>20h</span>
                         </div>
                         <div class="atr-row">
                             <span>P10</span>
                             <span>115%</span>
                             <span>368h</span>
+                            <span>26h</span>
                         </div>
                     </div>
                 </div>
@@ -432,10 +469,189 @@
         </div>
     </section>
 
+    <!-- CFD Section -->
+    <section id="cfd" class="section cfd-section">
+        <div class="section-header">
+            <span class="section-number">06</span>
+            <h2 class="section-title">CFD <span class="accent">SIMULATION</span></h2>
+            <p class="section-desc">OpenFOAM-style pressure and velocity fields, streamline tracing, and ground-effect
+                modelling of a full car in freestream</p>
+        </div>
+
+        <div class="cfd-feature">
+            <figure class="media-card wide">
+                <img src="cfd_visualizations/pressure_velocity_fields.png"
+                    alt="Pressure and velocity fields around the car" loading="lazy">
+                <figcaption>
+                    <h3>Pressure &amp; Velocity Fields</h3>
+                    <p>Static pressure and velocity magnitude through the centreline plane, showing the low-pressure
+                        region generated under the floor.</p>
+                </figcaption>
+            </figure>
+
+            <div class="cfd-side">
+                <figure class="media-card">
+                    <img src="cfd_visualizations/ground_effect.png" alt="Ground effect analysis" loading="lazy">
+                    <figcaption>
+                        <h3>Ground Effect</h3>
+                        <p>Venturi floor behaviour across ride heights, including the stall region.</p>
+                    </figcaption>
+                </figure>
+                <figure class="media-card">
+                    <img src="cfd_visualizations/force_vectors.png" alt="Aerodynamic force vectors" loading="lazy">
+                    <figcaption>
+                        <h3>Force Vectors</h3>
+                        <p>Resolved lift and drag components acting on each aero surface.</p>
+                    </figcaption>
+                </figure>
+            </div>
+        </div>
+
+        <h3 class="subsection-title">Flow Animations</h3>
+        <div class="anim-grid">
+            <figure class="media-card anim-card">
+                <img src="cfd_visualizations/streamline_flow.gif" alt="Animated streamlines over the car"
+                    loading="lazy">
+                <figcaption>
+                    <h3>Streamline Flow</h3>
+                    <p>Particle traces sweeping over the front wing, sidepods and rear wing.</p>
+                </figcaption>
+            </figure>
+            <figure class="media-card anim-card">
+                <img src="cfd_visualizations/pressure_animation.gif" alt="Animated pressure field" loading="lazy">
+                <figcaption>
+                    <h3>Pressure Field</h3>
+                    <p>Pressure distribution evolving as freestream velocity ramps up.</p>
+                </figcaption>
+            </figure>
+            <figure class="media-card anim-card">
+                <img src="cfd_visualizations/force_buildup.gif" alt="Animated downforce build-up with speed"
+                    loading="lazy">
+                <figcaption>
+                    <h3>Force Build-up</h3>
+                    <p>Downforce and drag growing with the square of speed.</p>
+                </figcaption>
+            </figure>
+        </div>
+
+        <div class="cfd-grid">
+            <figure class="media-card">
+                <img src="cfd_visualizations/component_breakdown.png" alt="Downforce contribution by component"
+                    loading="lazy">
+                <figcaption>
+                    <h3>Component Breakdown</h3>
+                    <p>Share of total downforce from floor, front wing, rear wing and bodywork.</p>
+                </figcaption>
+            </figure>
+            <figure class="media-card">
+                <img src="cfd_visualizations/speed_comparison.png" alt="Aerodynamic loads across speeds"
+                    loading="lazy">
+                <figcaption>
+                    <h3>Speed Comparison</h3>
+                    <p>Aerodynamic loads sampled from 100 to 350 km/h.</p>
+                </figcaption>
+            </figure>
+            <figure class="media-card">
+                <img src="cfd_visualizations/streamlines_visualization.png" alt="Streamline visualization"
+                    loading="lazy">
+                <figcaption>
+                    <h3>Streamline Structure</h3>
+                    <p>Wake and vortex structure trailing the rear wing endplates.</p>
+                </figcaption>
+            </figure>
+        </div>
+    </section>
+
+    <!-- Race Simulation Section -->
+    <section id="simulation" class="section simulation-section">
+        <div class="section-header">
+            <span class="section-number">07</span>
+            <h2 class="section-title">RACE <span class="accent">SIMULATION</span></h2>
+            <p class="section-desc">Lap-by-lap animated race reconstructions driven by real telemetry across three
+                contrasting circuits</p>
+        </div>
+
+        <div class="sim-tabs" role="tablist" aria-label="Circuit selection">
+            <button type="button" class="sim-tab active" role="tab" aria-selected="true" aria-controls="sim-monaco"
+                id="tab-monaco" data-sim="monaco">Monaco <span>Street</span></button>
+            <button type="button" class="sim-tab" role="tab" aria-selected="false" aria-controls="sim-spa"
+                id="tab-spa" data-sim="spa">Spa <span>High Speed</span></button>
+            <button type="button" class="sim-tab" role="tab" aria-selected="false" aria-controls="sim-monza"
+                id="tab-monza" data-sim="monza">Monza <span>Low Drag</span></button>
+        </div>
+
+        <div class="sim-panels">
+            <div class="sim-panel active" id="sim-monaco" role="tabpanel" aria-labelledby="tab-monaco">
+                <figure class="media-card">
+                    <img src="race_simulations/monaco_gp_race_simulation.gif" alt="Monaco Grand Prix race simulation"
+                        loading="lazy">
+                    <figcaption>
+                        <h3>Monaco GP &mdash; Race Simulation</h3>
+                        <p>Car positions animated around the full lap with live gap tracking.</p>
+                    </figcaption>
+                </figure>
+                <figure class="media-card">
+                    <img src="race_simulations/monaco_gp_advanced.gif" alt="Monaco advanced telemetry simulation"
+                        loading="lazy">
+                    <figcaption>
+                        <h3>Monaco GP &mdash; Advanced Telemetry</h3>
+                        <p>Speed, throttle and brake channels overlaid on the animated track map.</p>
+                    </figcaption>
+                </figure>
+            </div>
+
+            <div class="sim-panel" id="sim-spa" role="tabpanel" aria-labelledby="tab-spa" hidden>
+                <figure class="media-card">
+                    <img src="race_simulations/spa_gp_race_simulation.gif" alt="Spa Grand Prix race simulation"
+                        loading="lazy">
+                    <figcaption>
+                        <h3>Spa GP &mdash; Race Simulation</h3>
+                        <p>Eau Rouge to Blanchimont at full scale, with sector-by-sector deltas.</p>
+                    </figcaption>
+                </figure>
+                <figure class="media-card">
+                    <img src="race_simulations/spa_gp_advanced.gif" alt="Spa advanced telemetry simulation"
+                        loading="lazy">
+                    <figcaption>
+                        <h3>Spa GP &mdash; Advanced Telemetry</h3>
+                        <p>Full-channel telemetry through the longest lap on the calendar.</p>
+                    </figcaption>
+                </figure>
+            </div>
+
+            <div class="sim-panel" id="sim-monza" role="tabpanel" aria-labelledby="tab-monza" hidden>
+                <figure class="media-card">
+                    <img src="race_simulations/monza_gp_race_simulation.gif" alt="Monza Grand Prix race simulation"
+                        loading="lazy">
+                    <figcaption>
+                        <h3>Monza GP &mdash; Race Simulation</h3>
+                        <p>The Temple of Speed, where trap speeds top 350 km/h on the main straight.</p>
+                    </figcaption>
+                </figure>
+                <figure class="media-card">
+                    <img src="race_simulations/monza_gp_advanced.gif" alt="Monza advanced telemetry simulation"
+                        loading="lazy">
+                    <figcaption>
+                        <h3>Monza GP &mdash; Advanced Telemetry</h3>
+                        <p>Braking events at Rettifilo and Ascari resolved against the speed trace.</p>
+                    </figcaption>
+                </figure>
+            </div>
+        </div>
+
+        <figure class="media-card wide sim-compare">
+            <img src="race_simulations/track_comparison.png" alt="Comparison of Monaco, Spa and Monza" loading="lazy">
+            <figcaption>
+                <h3>Circuit Comparison</h3>
+                <p>Lap length, corner count and speed profile compared across all three simulated circuits.</p>
+            </figcaption>
+        </figure>
+    </section>
+
     <!-- About Section -->
     <section id="about" class="section about-section">
         <div class="section-header">
-            <span class="section-number">06</span>
+            <span class="section-number">08</span>
             <h2 class="section-title">ABOUT THIS <span class="accent">PROJECT</span></h2>
         </div>
 
@@ -478,7 +694,7 @@
                 <h3>Project Overview</h3>
                 <ul class="stats-list">
                     <li><strong>12</strong> Analysis Scripts</li>
-                    <li><strong>50+</strong> Visualizations Generated</li>
+                    <li><strong>170</strong> Visualizations Generated</li>
                     <li><strong>3</strong> Tracks Deep-Dived (Monaco, Spa, Monza)</li>
                     <li><strong>419</strong> Engine Records Analyzed</li>
                     <li><strong>Real-time</strong> Telemetry Processing</li>
@@ -488,7 +704,7 @@
 
             <div class="cta-section">
                 <a href="https://github.com/Eliherrera33/F1-Data-Analysis" class="btn btn-primary btn-large"
-                    target="_blank">
+                    target="_blank" rel="noopener">
                     View Full Repository on GitHub
                 </a>
             </div>
@@ -506,12 +722,12 @@
                 Built with Python, FastF1, and passion for motorsport data science.
             </p>
             <div class="footer-links">
-                <a href="https://github.com/Eliherrera33" target="_blank">GitHub</a>
-                <a href="https://linkedin.com/in/" target="_blank">LinkedIn</a>
+                <a href="https://github.com/Eliherrera33" target="_blank" rel="noopener">GitHub</a>
+                <a href="https://github.com/Eliherrera33/F1-Data-Analysis" target="_blank" rel="noopener">Source</a>
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2024 F1 Data Analysis Portfolio. Data sourced via FastF1 API.</p>
+            <p>&copy; <span id="footerYear">2026</span> F1 Data Analysis Portfolio. Data sourced via FastF1 API.</p>
         </div>
     </footer>
 
