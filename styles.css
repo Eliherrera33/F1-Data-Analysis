@@ -2404,3 +2404,47 @@ body {
     flex-wrap: wrap;
     gap: 14px;
 }
+
+
+/* ============================================
+   VIDEO FIGURES
+   ============================================ */
+
+/* MP4 replaced the GIF renders: 50-60 fps and 1080p at a fraction of the
+   bytes. The <img> inside each <video> is the fallback for anything that
+   cannot play it, and doubles as the poster. */
+.media-video {
+    display: block;
+    width: 100%;
+    height: auto;
+    background: var(--bg-tertiary);
+}
+
+.media-video img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.media-card.film {
+    overflow: hidden;
+}
+
+.cfd-films {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 24px;
+    margin-bottom: 60px;
+}
+
+.sim-panel .media-card.film {
+    grid-column: 1 / -1;
+}
+
+/* Reduced motion is handled in script.js, not here: the fallback <img> lives
+   INSIDE the <video>, so hiding the video would hide the fallback with it.
+   The script pauses the clips and exposes controls instead. */
+
+.media-video[controls] {
+    background: #000;
+}

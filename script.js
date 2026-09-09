@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
     initParallax();
     initSimTabs();
     initFooterYear();
+    initVideos();
 });
 
 // ============================================
@@ -361,4 +362,77 @@ function initSimTabs() {
 function initFooterYear() {
     const year = document.getElementById('footerYear');
     if (year) year.textContent = new Date().getFullYear();
+}
+
+
+// ============================================
+// VIDEO FIGURES
+// ============================================
+
+function initVideos() {
+    const videos = Array.from(document.querySelectorAll('.media-video'));
+    if (!videos.length) return;
+
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    // The markup carries `autoplay` so the clips still run without JS. Once we
+    // are here the script takes over: left to itself, autoplay starts videos
+    // inside hidden tab panels and races the visibility check.
+    videos.forEach(v => {
+        v.removeAttribute('autoplay');
+        v.autoplay = false;
+    });
+
+    if (reduced) {
+        // An autoplaying loop is precisely what this preference asks us not to
+        // do. Show the poster, hand over the controls, let the visitor choose.
+        videos.forEach(v => {
+            v.loop = false;
+            v.controls = true;
+            v.pause();
+        });
+        return;
+    }
+
+    // Visibility is measured when it is needed rather than cached from the last
+    // observer callback: unhiding a tab panel changes layout without firing one,
+    // which previously left the newly revealed clip paused.
+    function onScreen(v) {
+        if (v.closest('[hidden]')) return false;
+        const r = v.getBoundingClientRect();
+        return r.height > 0 && r.bottom > 0 && r.top < window.innerHeight;
+    }
+
+    function update() {
+        videos.forEach(v => {
+            if (onScreen(v)) {
+                if (v.paused) {
+                    const p = v.play();
+                    if (p && p.catch) p.catch(() => { /* blocked; poster stands */ });
+                }
+            } else if (!v.paused) {
+                v.pause();
+            }
+        });
+    }
+
+    let ticking = false;
+    function schedule() {
+        if (ticking) return;
+        ticking = true;
+        requestAnimationFrame(() => { ticking = false; update(); });
+    }
+
+    window.addEventListener('scroll', schedule, { passive: true });
+    window.addEventListener('resize', schedule, { passive: true });
+    document.querySelectorAll('.sim-tab').forEach(tab => {
+        tab.addEventListener('click', () => setTimeout(update, 0));
+    });
+    document.addEventListener('visibilitychange', () => {
+        if (document.hidden) videos.forEach(v => v.pause());
+        else update();
+    });
+
+    videos.forEach(v => v.addEventListener('loadeddata', schedule, { once: true }));
+    update();
 }

@@ -606,8 +606,8 @@
         <div class="section-header">
             <span class="section-number">06</span>
             <h2 class="section-title">CFD <span class="accent">SIMULATION</span></h2>
-            <p class="section-desc">Full-resolution renders from the offline Python and OpenFOAM pipeline &mdash;
-                the reference solutions the interactive wind tunnel above is calibrated against</p>
+            <p class="section-desc">The offline twin of the wind tunnel above &mdash; the same potential-flow
+                model and the same PERRINN coefficients, rendered at full resolution in Python</p>
         </div>
 
         <div class="cfd-feature">
@@ -639,29 +639,34 @@
             </div>
         </div>
 
-        <h3 class="subsection-title">Flow Animations</h3>
-        <div class="anim-grid">
-            <figure class="media-card anim-card">
-                <img src="cfd_visualizations/streamline_flow.gif" alt="Animated streamlines over the car"
-                    loading="lazy" decoding="async">
+        <h3 class="subsection-title">Flow Solutions</h3>
+        <div class="cfd-films">
+            <figure class="media-card film">
+                <video class="media-video" autoplay muted loop playsinline preload="metadata"
+                    poster="cfd_visualizations/streamlines_pressure.jpg" aria-label="Animated streamlines and pressure field around a Formula 1 car">
+                    <source src="cfd_visualizations/streamlines_pressure.mp4" type="video/mp4">
+                    <img src="cfd_visualizations/streamlines_pressure.jpg" alt="Animated streamlines and pressure field around a Formula 1 car" loading="lazy" decoding="async">
+                </video>
                 <figcaption>
-                    <h3>Streamline Flow</h3>
-                    <p>Particle traces sweeping over the front wing, sidepods and rear wing.</p>
+                    <h3>Pressure Field &amp; Streamlines</h3>
+                    <p>Particles advected through a potential-flow solution &mdash; doublets for body
+                        thickness, Rankine vortices for circulation, every element mirrored about the
+                        ground plane. Colour is Bernoulli pressure: teal where the flow is accelerated
+                        and pressure drops, red at the stagnation points ahead of the wheels.</p>
                 </figcaption>
             </figure>
-            <figure class="media-card anim-card">
-                <img src="cfd_visualizations/pressure_animation.gif" alt="Animated pressure field" loading="lazy" decoding="async">
+
+            <figure class="media-card film">
+                <video class="media-video" autoplay muted loop playsinline preload="metadata"
+                    poster="cfd_visualizations/ride_height_sweep.jpg" aria-label="Animation sweeping ride height to show ground effect and the underfloor stall">
+                    <source src="cfd_visualizations/ride_height_sweep.mp4" type="video/mp4">
+                    <img src="cfd_visualizations/ride_height_sweep.jpg" alt="Animation sweeping ride height to show ground effect and the underfloor stall" loading="lazy" decoding="async">
+                </video>
                 <figcaption>
-                    <h3>Pressure Field</h3>
-                    <p>Pressure distribution evolving as freestream velocity ramps up.</p>
-                </figcaption>
-            </figure>
-            <figure class="media-card anim-card">
-                <img src="cfd_visualizations/force_buildup.gif" alt="Animated downforce build-up with speed"
-                    loading="lazy" decoding="async">
-                <figcaption>
-                    <h3>Force Build-up</h3>
-                    <p>Downforce and drag growing with the square of speed.</p>
+                    <h3>Ground Effect &amp; the Stall Cliff</h3>
+                    <p>Sweeping the floor from 60&nbsp;mm down to 15&nbsp;mm. Downforce climbs as the
+                        underfloor works harder, peaks around 24&nbsp;mm, then collapses as the venturi
+                        stalls. That cliff is why the 2022 generation of cars porpoised.</p>
                 </figcaption>
             </figure>
         </div>
@@ -699,8 +704,8 @@
         <div class="section-header">
             <span class="section-number">07</span>
             <h2 class="section-title">RACE <span class="accent">SIMULATION</span></h2>
-            <p class="section-desc">Lap-by-lap animated race reconstructions driven by real telemetry across three
-                contrasting circuits</p>
+            <p class="section-desc">The two fastest laps of a qualifying session, replayed against each other
+                from real telemetry &mdash; where the lap time actually goes</p>
         </div>
 
         <div class="sim-tabs" role="tablist" aria-label="Circuit selection">
@@ -713,59 +718,56 @@
         </div>
 
         <div class="sim-panels">
-            <div class="sim-panel active" id="sim-monaco" role="tabpanel" aria-labelledby="tab-monaco">
-                <figure class="media-card">
-                    <img src="race_simulations/monaco_gp_race_simulation.gif" alt="Monaco Grand Prix race simulation"
-                        loading="lazy" decoding="async">
+            <div class="sim-panel active" id="sim-monaco" role="tabpanel"
+                aria-labelledby="tab-monaco">
+                <figure class="media-card film wide">
+                    <video class="media-video" autoplay muted loop playsinline preload="metadata"
+                    poster="race_simulations/monaco_qualifying_duel.jpg" aria-label="Monaco qualifying head-to-head telemetry animation">
+                    <source src="race_simulations/monaco_qualifying_duel.mp4" type="video/mp4">
+                    <img src="race_simulations/monaco_qualifying_duel.jpg" alt="Monaco qualifying head-to-head telemetry animation" loading="lazy" decoding="async">
+                </video>
                     <figcaption>
-                        <h3>Monaco GP &mdash; Race Simulation</h3>
-                        <p>Car positions animated around the full lap with live gap tracking.</p>
-                    </figcaption>
-                </figure>
-                <figure class="media-card">
-                    <img src="race_simulations/monaco_gp_advanced.gif" alt="Monaco advanced telemetry simulation"
-                        loading="lazy" decoding="async">
-                    <figcaption>
-                        <h3>Monaco GP &mdash; Advanced Telemetry</h3>
-                        <p>Speed, throttle and brake channels overlaid on the animated track map.</p>
-                    </figcaption>
-                </figure>
-            </div>
-
-            <div class="sim-panel" id="sim-spa" role="tabpanel" aria-labelledby="tab-spa" hidden>
-                <figure class="media-card">
-                    <img src="race_simulations/spa_gp_race_simulation.gif" alt="Spa Grand Prix race simulation"
-                        loading="lazy" decoding="async">
-                    <figcaption>
-                        <h3>Spa GP &mdash; Race Simulation</h3>
-                        <p>Eau Rouge to Blanchimont at full scale, with sector-by-sector deltas.</p>
-                    </figcaption>
-                </figure>
-                <figure class="media-card">
-                    <img src="race_simulations/spa_gp_advanced.gif" alt="Spa advanced telemetry simulation"
-                        loading="lazy" decoding="async">
-                    <figcaption>
-                        <h3>Spa GP &mdash; Advanced Telemetry</h3>
-                        <p>Full-channel telemetry through the longest lap on the calendar.</p>
+                        <h3>Monaco &mdash; Qualifying Head-to-Head</h3>
+                        <p>The slowest lap on the calendar and the least forgiving. Barriers on both sides mean the time is won in the braking zones, not on the exits. The two quickest laps of the session, locked to one clock:
+                            the track is coloured by minisector dominance, both cars are placed by
+                            time so the quicker driver visibly pulls away, and the delta trace shows
+                            exactly where the lap was won.</p>
                     </figcaption>
                 </figure>
             </div>
 
-            <div class="sim-panel" id="sim-monza" role="tabpanel" aria-labelledby="tab-monza" hidden>
-                <figure class="media-card">
-                    <img src="race_simulations/monza_gp_race_simulation.gif" alt="Monza Grand Prix race simulation"
-                        loading="lazy" decoding="async">
+            <div class="sim-panel" id="sim-spa" role="tabpanel"
+                aria-labelledby="tab-spa" hidden>
+                <figure class="media-card film wide">
+                    <video class="media-video" autoplay muted loop playsinline preload="metadata"
+                    poster="race_simulations/spa_qualifying_duel.jpg" aria-label="Spa-Francorchamps qualifying head-to-head telemetry animation">
+                    <source src="race_simulations/spa_qualifying_duel.mp4" type="video/mp4">
+                    <img src="race_simulations/spa_qualifying_duel.jpg" alt="Spa-Francorchamps qualifying head-to-head telemetry animation" loading="lazy" decoding="async">
+                </video>
                     <figcaption>
-                        <h3>Monza GP &mdash; Race Simulation</h3>
-                        <p>The Temple of Speed, where trap speeds top 350 km/h on the main straight.</p>
+                        <h3>Spa-Francorchamps &mdash; Qualifying Head-to-Head</h3>
+                        <p>Seven kilometres and the biggest elevation change of the year. Sector one is a power circuit, sector two is not, and the setup has to serve both. The two quickest laps of the session, locked to one clock:
+                            the track is coloured by minisector dominance, both cars are placed by
+                            time so the quicker driver visibly pulls away, and the delta trace shows
+                            exactly where the lap was won.</p>
                     </figcaption>
                 </figure>
-                <figure class="media-card">
-                    <img src="race_simulations/monza_gp_advanced.gif" alt="Monza advanced telemetry simulation"
-                        loading="lazy" decoding="async">
+            </div>
+
+            <div class="sim-panel" id="sim-monza" role="tabpanel"
+                aria-labelledby="tab-monza" hidden>
+                <figure class="media-card film wide">
+                    <video class="media-video" autoplay muted loop playsinline preload="metadata"
+                    poster="race_simulations/monza_qualifying_duel.jpg" aria-label="Monza qualifying head-to-head telemetry animation">
+                    <source src="race_simulations/monza_qualifying_duel.mp4" type="video/mp4">
+                    <img src="race_simulations/monza_qualifying_duel.jpg" alt="Monza qualifying head-to-head telemetry animation" loading="lazy" decoding="async">
+                </video>
                     <figcaption>
-                        <h3>Monza GP &mdash; Advanced Telemetry</h3>
-                        <p>Braking events at Rettifilo and Ascari resolved against the speed trace.</p>
+                        <h3>Monza &mdash; Qualifying Head-to-Head</h3>
+                        <p>The Temple of Speed. Minimum wing, maximum trap speed, and almost all of the lap spent at full throttle. The two quickest laps of the session, locked to one clock:
+                            the track is coloured by minisector dominance, both cars are placed by
+                            time so the quicker driver visibly pulls away, and the delta trace shows
+                            exactly where the lap was won.</p>
                     </figcaption>
                 </figure>
             </div>
