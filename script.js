@@ -79,13 +79,11 @@ function initNavigation() {
             }
         });
 
-        // Navbar background on scroll
+        // Navbar elevation on scroll. This toggles a class rather than writing
+        // an inline colour: inline styles beat the stylesheet, so the old
+        // version silently pinned the navbar to the previous palette.
         const navbar = document.querySelector('.navbar');
-        if (window.scrollY > 50) {
-            navbar.style.background = 'rgba(10, 10, 15, 0.95)';
-        } else {
-            navbar.style.background = 'rgba(10, 10, 15, 0.9)';
-        }
+        navbar.classList.toggle('scrolled', window.scrollY > 50);
     }
 }
 
