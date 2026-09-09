@@ -143,27 +143,85 @@ function initScrollAnimations() {
 // ============================================
 
 function initCounters() {
-    // Counters will be triggered by scroll observer
+    // The hero counters never ran: animateCounter is only called for elements
+    // the reveal observer watches, and .stat-card was not in that selector, so
+    // every stat sat at its placeholder 0. They get their own observer here,
+    // which also keeps them clear of the reveal animation's opacity handling.
+    const counters = document.querySelectorAll('[data-count]');
+    if (!counters.length) return;
+
+    // The hero stats are above the fold, so run anything already on screen
+    // straight away rather than waiting on an observer callback that may never
+    // arrive (embedded webviews and some headless renderers never deliver one).
+    function inViewport(el) {
+        const r = el.getBoundingClientRect();
+        return r.height > 0 && r.bottom > 0 && r.top < window.innerHeight;
+    }
+
+    const pending = [];
+    counters.forEach(c => (inViewport(c) ? animateCounter(c) : pending.push(c)));
+    if (!pending.length) return;
+
+    if (!('IntersectionObserver' in window)) {
+        pending.forEach(animateCounter);
+        return;
+    }
+
+    const observer = new IntersectionObserver((entries, obs) => {
+        entries.forEach(entry => {
+            if (!entry.isIntersecting) return;
+            animateCounter(entry.target);
+            obs.unobserve(entry.target);
+        });
+    }, { threshold: 0.4 });
+
+    pending.forEach(c => observer.observe(c));
+
+    // Belt and braces: a scroll listener catches anything the observer misses.
+    function sweep() {
+        for (let i = pending.length - 1; i >= 0; i--) {
+            if (inViewport(pending[i])) {
+                animateCounter(pending[i]);
+                observer.unobserve(pending[i]);
+                pending.splice(i, 1);
+            }
+        }
+        if (!pending.length) window.removeEventListener('scroll', sweep);
+    }
+    window.addEventListener('scroll', sweep, { passive: true });
 }
 
 function animateCounter(element) {
     if (element.classList.contains('counted')) return;
-
-    const target = parseInt(element.getAttribute('data-count'));
-    const duration = 2000;
-    const step = target / (duration / 16);
-    let current = 0;
-
     element.classList.add('counted');
 
-    const timer = setInterval(() => {
-        current += step;
-        if (current >= target) {
-            current = target;
-            clearInterval(timer);
-        }
-        element.textContent = Math.floor(current);
-    }, 16);
+    const target = parseInt(element.getAttribute('data-count'), 10);
+    if (!isFinite(target)) return;
+
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        element.textContent = target.toLocaleString();
+        return;
+    }
+
+    // Ease out, and drive it off the clock rather than a fixed increment so it
+    // always finishes on the exact number.
+    const duration = 1600;
+    const start = performance.now();
+
+    function tick(now) {
+        const t = Math.min((now - start) / duration, 1);
+        const eased = 1 - Math.pow(1 - t, 3);
+        element.textContent = Math.round(target * eased).toLocaleString();
+        if (t < 1) requestAnimationFrame(tick);
+    }
+    requestAnimationFrame(tick);
+
+    // Guarantee the final value even where rAF never runs - a backgrounded tab,
+    // an embedded webview, a headless renderer. The animation is decoration; the
+    // number is not optional.
+    setTimeout(() => {
+        element.textContent = target.toLocaleString();
+    }, duration + 250);
 }
 
 // ============================================
