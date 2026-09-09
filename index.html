@@ -199,6 +199,8 @@
                 </div>
             </div>
         </div>
+
+        <div id="traceQuiz" class="quiz" aria-label="Read the trace"></div>
     </section>
 
     <!-- G-Force Section -->
@@ -437,6 +439,8 @@
             </aside>
         </div>
 
+        <section id="lapSim" class="ls" aria-label="Run a lap"></section>
+
         <details class="wt-method">
             <summary>How this model works</summary>
             <div class="wt-method-body">
@@ -456,6 +460,16 @@
                     <code>C<sub>p</sub>&nbsp;=&nbsp;1&nbsp;&minus;&nbsp;(V/V<sub>&infin;</sub>)&sup2;</code>.
                     Streamline magnitudes are scaled for legibility &mdash; treat the flow as qualitative and the forces
                     as quantitative.</p>
+                <p><strong>Run a lap</strong> is a quasi-steady lap-time model over the real pole lap's
+                    centreline: grip-limited speed at every point from the downforce your setup produces,
+                    a forward pass limited by the friction circle and by power against drag, and a
+                    backward pass for braking. Track curvature comes from the FastF1 position channel,
+                    smoothed with a Savitzky&ndash;Golay fit; DRS zones come from the pole lap's DRS
+                    channel where it exists and from the two longest full-throttle straights where it
+                    does not. Tyre grip and power were fitted so the fastest setup the model can find
+                    lands on the real pole time at all three circuits &mdash; the residuals are in the
+                    exported data. It is a first-order model: it has no tyre temperature, no wind, no
+                    kerbs and no driver.</p>
                 <p><strong>Grip</strong> assumes a peak slick friction coefficient of 1.8 on the combined weight and
                     downforce; <strong>V<sub>max</sub></strong> solves drag power against roughly 470&nbsp;kW at the
                     wheels, calibrated so a Monza DRS setup tops out around 355&nbsp;km/h. Both are first-order estimates, not a lap simulation.</p>
@@ -704,8 +718,8 @@
         <div class="section-header">
             <span class="section-number">07</span>
             <h2 class="section-title">RACE <span class="accent">SIMULATION</span></h2>
-            <p class="section-desc">The two fastest laps of a qualifying session, replayed against each other
-                from real telemetry &mdash; where the lap time actually goes</p>
+            <p class="section-desc">The two fastest laps of a qualifying session, locked to one clock and
+                under your control. Scrub the lap, watch the gap build, jump to where it was won.</p>
         </div>
 
         <div class="sim-tabs" role="tablist" aria-label="Circuit selection">
@@ -720,56 +734,17 @@
         <div class="sim-panels">
             <div class="sim-panel active" id="sim-monaco" role="tabpanel"
                 aria-labelledby="tab-monaco">
-                <figure class="media-card film wide">
-                    <video class="media-video" autoplay muted loop playsinline preload="metadata"
-                    poster="race_simulations/monaco_qualifying_duel.jpg" aria-label="Monaco qualifying head-to-head telemetry animation">
-                    <source src="race_simulations/monaco_qualifying_duel.mp4" type="video/mp4">
-                    <img src="race_simulations/monaco_qualifying_duel.jpg" alt="Monaco qualifying head-to-head telemetry animation" loading="lazy" decoding="async">
-                </video>
-                    <figcaption>
-                        <h3>Monaco &mdash; Qualifying Head-to-Head</h3>
-                        <p>The slowest lap on the calendar and the least forgiving. Barriers on both sides mean the time is won in the braking zones, not on the exits. The two quickest laps of the session, locked to one clock:
-                            the track is coloured by minisector dominance, both cars are placed by
-                            time so the quicker driver visibly pulls away, and the delta trace shows
-                            exactly where the lap was won.</p>
-                    </figcaption>
-                </figure>
+                <div class="duel" data-key="monaco"></div>
             </div>
 
             <div class="sim-panel" id="sim-spa" role="tabpanel"
                 aria-labelledby="tab-spa" hidden>
-                <figure class="media-card film wide">
-                    <video class="media-video" autoplay muted loop playsinline preload="metadata"
-                    poster="race_simulations/spa_qualifying_duel.jpg" aria-label="Spa-Francorchamps qualifying head-to-head telemetry animation">
-                    <source src="race_simulations/spa_qualifying_duel.mp4" type="video/mp4">
-                    <img src="race_simulations/spa_qualifying_duel.jpg" alt="Spa-Francorchamps qualifying head-to-head telemetry animation" loading="lazy" decoding="async">
-                </video>
-                    <figcaption>
-                        <h3>Spa-Francorchamps &mdash; Qualifying Head-to-Head</h3>
-                        <p>Seven kilometres and the biggest elevation change of the year. Sector one is a power circuit, sector two is not, and the setup has to serve both. The two quickest laps of the session, locked to one clock:
-                            the track is coloured by minisector dominance, both cars are placed by
-                            time so the quicker driver visibly pulls away, and the delta trace shows
-                            exactly where the lap was won.</p>
-                    </figcaption>
-                </figure>
+                <div class="duel" data-key="spa"></div>
             </div>
 
             <div class="sim-panel" id="sim-monza" role="tabpanel"
                 aria-labelledby="tab-monza" hidden>
-                <figure class="media-card film wide">
-                    <video class="media-video" autoplay muted loop playsinline preload="metadata"
-                    poster="race_simulations/monza_qualifying_duel.jpg" aria-label="Monza qualifying head-to-head telemetry animation">
-                    <source src="race_simulations/monza_qualifying_duel.mp4" type="video/mp4">
-                    <img src="race_simulations/monza_qualifying_duel.jpg" alt="Monza qualifying head-to-head telemetry animation" loading="lazy" decoding="async">
-                </video>
-                    <figcaption>
-                        <h3>Monza &mdash; Qualifying Head-to-Head</h3>
-                        <p>The Temple of Speed. Minimum wing, maximum trap speed, and almost all of the lap spent at full throttle. The two quickest laps of the session, locked to one clock:
-                            the track is coloured by minisector dominance, both cars are placed by
-                            time so the quicker driver visibly pulls away, and the delta trace shows
-                            exactly where the lap was won.</p>
-                    </figcaption>
-                </figure>
+                <div class="duel" data-key="monza"></div>
             </div>
         </div>
 
@@ -882,6 +857,10 @@
 
     <script src="script.js" defer></script>
     <script src="windtunnel.js" defer></script>
+    <script src="f1ui.js" defer></script>
+    <script src="lapsim.js" defer></script>
+    <script src="duel.js" defer></script>
+    <script src="tracequiz.js" defer></script>
 
     <script type="application/ld+json">
     {

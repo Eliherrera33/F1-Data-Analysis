@@ -143,6 +143,15 @@
         };
     }
 
+    // The lap simulator needs the same force model for its setup search,
+    // so it is exposed here rather than duplicated.
+    window.F1Aero = {
+        solve: p => {
+            const r = solve(p);
+            return { sCz: r.sCz, sCx: r.sCx, downforce: r.downforce, drag: r.drag };
+        }
+    };
+
     // ============================================================
     // POTENTIAL FLOW FIELD
     // ============================================================
@@ -647,6 +656,9 @@
             renderCar();
             renderField();
             if (reduced) drawStatic();
+            document.dispatchEvent(new CustomEvent('wt:change', {
+                detail: { params: Object.assign({}, params), result: { sCz: result.sCz, sCx: result.sCx } }
+            }));
         }
 
         // ---------- sizing ----------
@@ -736,6 +748,27 @@
             });
         });
 
+        document.addEventListener('wt:set', e => {
+            const d = e.detail || {};
+            ['rearWing', 'frontWing', 'frontRH', 'rearRH'].forEach(k => {
+                if (typeof d[k] === 'number') params[k] = d[k];
+            });
+            if (typeof d.drs === 'boolean') params.drs = d.drs;
+            if (params.rearRH < params.frontRH + 2) params.rearRH = params.frontRH + 2;
+            root.querySelectorAll('.wt-slider').forEach(s => { s.value = params[s.dataset.param]; });
+            if (drsBtn) {
+                drsBtn.classList.toggle('active', params.drs);
+                drsBtn.setAttribute('aria-pressed', String(params.drs));
+            }
+            clearPreset();
+            syncLabels();
+            recompute();
+            // Show the visitor what just happened.
+            root.querySelectorAll('.wt-slider').forEach(s => {
+                s.classList.remove('wt-flash'); void s.offsetWidth; s.classList.add('wt-flash');
+            });
+        });
+
         function clearPreset() {
             root.querySelectorAll('.wt-preset').forEach(b => {
                 b.classList.remove('active');
@@ -793,6 +826,11 @@
 
         syncLabels();
         resize();
+
+        window.F1WindTunnel = {
+            getState: () => ({ params: Object.assign({}, params),
+                               result: { sCz: result.sCz, sCx: result.sCx } })
+        };
     }
 
     // ============================================================

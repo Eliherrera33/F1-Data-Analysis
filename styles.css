@@ -2734,3 +2734,958 @@ body {
     font-weight: 500;
     letter-spacing: 0.02em;
 }
+
+
+/* ============================================================
+   INTERACTIVES: RUN A LAP · HEAD-TO-HEAD · READ THE TRACE
+   Shared vocabulary: a raised card, an inset screen well, an
+   Orbitron kicker, tabular numerals for anything that moves.
+   ============================================================ */
+
+.ls-kicker,
+.quiz-kicker,
+.duel-gap-label,
+.duel-swings-label,
+.ls-lap-unit,
+.ls-delta-unit,
+.duel-stat-unit {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.68rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+
+.ls-title,
+.quiz-title {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin: 6px 0 8px;
+    letter-spacing: -0.01em;
+}
+
+.ls-desc,
+.quiz-desc {
+    max-width: 62ch;
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    line-height: 1.65;
+}
+
+/* ---- run a lap --------------------------------------------------------- */
+
+.ls {
+    margin-top: 32px;
+    padding: 26px;
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-md), var(--edge-light);
+}
+
+.ls-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 24px;
+    margin-bottom: 22px;
+}
+
+.ls-legend {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+
+.ls-legend-ramp {
+    width: 88px;
+    height: 6px;
+    border-radius: 3px;
+    background: linear-gradient(90deg, #12124a, #1b4a8f, #00a0c0, #00d2be, #c8f5ee, #fff);
+}
+
+.ls-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+}
+
+.ls-card {
+    position: relative;
+    padding: 14px;
+    background: var(--bg-secondary);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    transition: var(--transition-medium);
+}
+
+.ls-card.optimal {
+    border-color: rgba(0, 210, 190, 0.45);
+    box-shadow: 0 0 0 1px rgba(0, 210, 190, 0.18), 0 12px 32px rgba(0, 210, 190, 0.08);
+}
+
+.ls-card-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.ls-circuit {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 700;
+}
+
+.ls-badge {
+    padding: 3px 9px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.6rem;
+    letter-spacing: 1.5px;
+    color: var(--bg-primary);
+    background: var(--accent-secondary);
+    border-radius: 4px;
+}
+
+.ls-well {
+    background: var(--bg-screen);
+    border-radius: 8px;
+    box-shadow: inset 0 0 0 1px var(--line), inset 0 0 40px rgba(0, 0, 0, 0.5);
+    padding: 6px;
+    margin-bottom: 12px;
+}
+
+.ls-map {
+    display: block;
+    width: 100%;
+}
+
+.ls-readout {
+    display: grid;
+    grid-template-columns: 1.3fr 1fr;
+    gap: 10px;
+    align-items: end;
+    margin-bottom: 12px;
+}
+
+.ls-lap-value {
+    display: block;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.55rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.05;
+}
+
+.ls-delta-value {
+    display: block;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--accent-soft);
+    font-variant-numeric: tabular-nums;
+    line-height: 1.2;
+}
+
+.ls-delta-value.good {
+    color: var(--accent-secondary);
+}
+
+.ls-lap-unit,
+.ls-delta-unit {
+    display: block;
+    margin-top: 4px;
+    font-size: 0.6rem;
+    letter-spacing: 1.2px;
+}
+
+.ls-sectors {
+    display: grid;
+    gap: 6px;
+    margin-bottom: 14px;
+}
+
+.ls-sector {
+    display: grid;
+    grid-template-columns: 22px 1fr 52px;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.72rem;
+    color: var(--text-muted);
+}
+
+.ls-sector-bar {
+    height: 5px;
+    border-radius: 3px;
+    background: rgba(255, 255, 255, 0.06);
+    overflow: hidden;
+}
+
+.ls-sector-fill {
+    display: block;
+    height: 100%;
+    width: 0;
+    background: var(--accent-secondary);
+    border-radius: 3px;
+    transition: width 0.25s ease;
+}
+
+.ls-sector.bad .ls-sector-fill {
+    background: var(--accent-primary);
+}
+
+.ls-sector-value {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+    color: var(--text-secondary);
+}
+
+.ls-foot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding-top: 12px;
+    border-top: 1px solid var(--line);
+}
+
+.ls-pole {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+}
+
+.ls-opt {
+    padding: 8px 12px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.66rem;
+    letter-spacing: 0.8px;
+    color: var(--text-primary);
+    background: var(--bg-tertiary);
+    border: 1px solid var(--line-strong);
+    border-radius: 7px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: var(--transition-fast);
+}
+
+.ls-opt:hover {
+    border-color: var(--accent-primary);
+    background: rgba(225, 6, 0, 0.14);
+}
+
+.ls-opt:focus-visible,
+.duel-play:focus-visible,
+.duel-chip:focus-visible,
+.duel-rate button:focus-visible,
+.quiz-option:focus-visible,
+.quiz-next:focus-visible,
+.quiz-restart:focus-visible,
+.duel-stage:focus-visible {
+    outline: 2px solid var(--accent-secondary);
+    outline-offset: 3px;
+}
+
+.ls-insight {
+    margin: 20px 0 0;
+    padding: 14px 16px;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    background: var(--bg-screen);
+    border-left: 3px solid var(--accent-primary);
+    border-radius: 6px;
+    min-height: 1.6em;
+}
+
+.ls-insight b {
+    color: var(--text-primary);
+    font-weight: 600;
+}
+
+/* slider flash when a setup is applied from outside */
+@keyframes wtFlash {
+    0% { box-shadow: 0 0 0 0 rgba(0, 210, 190, 0.55); }
+    100% { box-shadow: 0 0 0 10px rgba(0, 210, 190, 0); }
+}
+
+.wt-slider.wt-flash {
+    animation: wtFlash 0.7s ease-out;
+    border-radius: 4px;
+}
+
+/* ---- head-to-head player ---------------------------------------------- */
+
+.duel {
+    display: grid;
+    gap: 14px;
+    padding: 14px;
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-md), var(--edge-light);
+}
+
+.duel-stage {
+    position: relative;
+    background: var(--bg-screen);
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 1px var(--line), inset 0 0 80px rgba(0, 0, 0, 0.6);
+    padding: 8px;
+    cursor: pointer;
+}
+
+.duel-map,
+.duel-traces {
+    display: block;
+    width: 100%;
+}
+
+.duel-gap {
+    position: absolute;
+    top: 16px;
+    right: 18px;
+    text-align: right;
+    pointer-events: none;
+}
+
+.duel-gap-value {
+    display: block;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.7rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.1;
+    margin-top: 2px;
+}
+
+.duel-gap-who {
+    display: block;
+    font-size: 0.72rem;
+    color: var(--text-muted);
+}
+
+.duel-hint {
+    position: absolute;
+    left: 50%;
+    bottom: 14px;
+    transform: translateX(-50%);
+    padding: 6px 12px;
+    font-size: 0.72rem;
+    color: var(--text-secondary);
+    background: rgba(18, 20, 26, 0.85);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    pointer-events: none;
+    transition: opacity 0.4s ease;
+}
+
+.duel-hint.gone {
+    opacity: 0;
+}
+
+.duel-tiles {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
+.duel-tile {
+    position: relative;
+    padding: 12px 14px 12px 18px;
+    background: var(--bg-secondary);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.duel-tile::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: var(--drv);
+}
+
+.duel-tile-head {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    margin-bottom: 8px;
+}
+
+.duel-abbr {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.15rem;
+    font-weight: 800;
+}
+
+.duel-team {
+    flex: 1;
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.duel-time {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.85rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--text-secondary);
+}
+
+.duel-tile-body {
+    display: grid;
+    grid-template-columns: auto auto 1fr;
+    align-items: center;
+    gap: 14px;
+}
+
+.duel-stat-value {
+    display: block;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    line-height: 1;
+}
+
+.duel-stat-unit {
+    display: block;
+    margin-top: 3px;
+    font-size: 0.56rem;
+}
+
+.duel-pedals {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.duel-thr {
+    flex: 1;
+    height: 7px;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.07);
+    overflow: hidden;
+}
+
+.duel-thr-fill {
+    display: block;
+    height: 100%;
+    width: 0;
+    background: var(--accent-secondary);
+    border-radius: 4px;
+    transition: width 0.08s linear;
+}
+
+.duel-brk {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid var(--line-strong);
+    transition: var(--transition-fast);
+}
+
+.duel-brk.on {
+    background: var(--accent-primary);
+    box-shadow: 0 0 10px rgba(225, 6, 0, 0.8);
+    border-color: var(--accent-primary);
+}
+
+.duel-traces {
+    background: var(--bg-screen);
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 1px var(--line);
+}
+
+.duel-controls {
+    display: grid;
+    grid-template-columns: auto 1fr auto auto;
+    align-items: center;
+    gap: 14px;
+}
+
+.duel-play {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    border: 1px solid var(--line-strong);
+    background: var(--bg-tertiary);
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    transition: var(--transition-fast);
+}
+
+.duel-play:hover {
+    border-color: var(--accent-primary);
+    background: rgba(225, 6, 0, 0.16);
+}
+
+.duel-play-icon {
+    width: 0;
+    height: 0;
+    border-left: 12px solid var(--text-primary);
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    margin-left: 3px;
+}
+
+.duel-play.playing .duel-play-icon {
+    width: 12px;
+    height: 14px;
+    margin-left: 0;
+    border: 0;
+    background: linear-gradient(90deg, var(--text-primary) 0 35%, transparent 35% 65%, var(--text-primary) 65%);
+}
+
+.duel-scrub {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+    height: 6px;
+    border-radius: 3px;
+    background: linear-gradient(90deg, rgba(0, 210, 190, 0.6), rgba(255, 255, 255, 0.10));
+    cursor: pointer;
+}
+
+.duel-scrub::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #fff;
+    border: 3px solid var(--accent-secondary);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.duel-scrub::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #fff;
+    border: 3px solid var(--accent-secondary);
+}
+
+.duel-clock {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.8rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--text-secondary);
+    white-space: nowrap;
+}
+
+.duel-clock-sep {
+    margin: 0 6px;
+    color: var(--text-muted);
+}
+
+.duel-rate {
+    display: flex;
+    gap: 3px;
+    padding: 3px;
+    background: var(--bg-tertiary);
+    border: 1px solid var(--line);
+    border-radius: 7px;
+}
+
+.duel-rate button {
+    padding: 5px 9px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.66rem;
+    color: var(--text-muted);
+    background: transparent;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.duel-rate button.active {
+    background: var(--accent-primary);
+    color: #fff;
+}
+
+.duel-swings {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    padding-top: 12px;
+    border-top: 1px solid var(--line);
+}
+
+.duel-swings-label {
+    margin-right: 6px;
+}
+
+.duel-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 10px 6px 8px;
+    background: var(--bg-secondary);
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--drv);
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    transition: var(--transition-fast);
+}
+
+.duel-chip:hover {
+    background: var(--bg-tertiary);
+    border-color: var(--line-strong);
+    border-left-color: var(--drv);
+    color: var(--text-primary);
+}
+
+.duel-chip-ms {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.62rem;
+    color: var(--text-muted);
+}
+
+.duel-chip-who {
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.duel-chip-val {
+    font-variant-numeric: tabular-nums;
+    color: var(--drv);
+}
+
+/* ---- read the trace ---------------------------------------------------- */
+
+.quiz {
+    margin-top: 56px;
+    padding: 26px;
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-md), var(--edge-light);
+}
+
+.quiz-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 24px;
+    margin-bottom: 20px;
+}
+
+.quiz-progress {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.quiz-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.10);
+    border: 1px solid var(--line-strong);
+}
+
+.quiz-dot.now {
+    background: var(--text-primary);
+    border-color: var(--text-primary);
+}
+
+.quiz-dot.right {
+    background: var(--accent-secondary);
+    border-color: var(--accent-secondary);
+}
+
+.quiz-dot.wrong {
+    background: var(--accent-primary);
+    border-color: var(--accent-primary);
+}
+
+.quiz-count {
+    margin-left: 8px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    font-variant-numeric: tabular-nums;
+}
+
+.quiz-body {
+    display: grid;
+    grid-template-columns: minmax(0, 1.5fr) minmax(280px, 1fr);
+    gap: 18px;
+    align-items: start;
+}
+
+.quiz-stage {
+    position: relative;
+    background: var(--bg-screen);
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 1px var(--line), inset 0 0 60px rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+.quiz-canvas {
+    display: block;
+    width: 100%;
+}
+
+.quiz-legend {
+    position: absolute;
+    top: 14px;
+    right: 18px;
+    display: flex;
+    gap: 12px;
+    font-size: 0.72rem;
+    color: var(--text-secondary);
+}
+
+.quiz-legend-item i {
+    display: inline-block;
+    width: 14px;
+    height: 3px;
+    margin-right: 6px;
+    vertical-align: middle;
+    border-radius: 2px;
+}
+
+.quiz-panel {
+    display: grid;
+    gap: 12px;
+    padding: 18px;
+    background: var(--bg-secondary);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    min-height: 100%;
+}
+
+.quiz-prompt {
+    font-size: 1.05rem;
+    font-weight: 600;
+    line-height: 1.45;
+}
+
+.quiz-hint {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+    min-height: 1em;
+}
+
+.quiz-options {
+    display: grid;
+    gap: 8px;
+}
+
+.quiz-option {
+    padding: 11px 14px;
+    text-align: left;
+    font-size: 0.92rem;
+    font-weight: 500;
+    color: var(--text-primary);
+    background: var(--bg-tertiary);
+    border: 1px solid var(--line-strong);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: var(--transition-fast);
+}
+
+.quiz-option:hover:not(:disabled) {
+    border-color: var(--accent-secondary);
+    background: rgba(0, 210, 190, 0.10);
+}
+
+.quiz-option:disabled {
+    cursor: default;
+    opacity: 0.75;
+}
+
+.quiz-option.right {
+    border-color: var(--accent-secondary);
+    background: rgba(0, 210, 190, 0.16);
+    opacity: 1;
+}
+
+.quiz-option.wrong {
+    border-color: var(--accent-primary);
+    background: rgba(225, 6, 0, 0.14);
+    opacity: 1;
+}
+
+.quiz-verdict {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.85rem;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.quiz-verdict.right {
+    color: var(--accent-secondary);
+}
+
+.quiz-verdict.wrong {
+    color: var(--accent-soft);
+}
+
+.quiz-explain {
+    font-size: 0.88rem;
+    line-height: 1.65;
+    color: var(--text-secondary);
+}
+
+.quiz-explain b {
+    color: var(--text-primary);
+}
+
+.quiz-next,
+.quiz-restart {
+    justify-self: start;
+    padding: 10px 16px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.7rem;
+    letter-spacing: 1px;
+    color: #fff;
+    background: var(--accent-primary);
+    border: 0;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 0 6px 18px rgba(225, 6, 0, 0.28);
+    transition: var(--transition-fast);
+}
+
+.quiz-next:hover,
+.quiz-restart:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 10px 26px rgba(225, 6, 0, 0.38);
+}
+
+.quiz-summary {
+    display: grid;
+    gap: 6px;
+}
+
+.quiz-score {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2.2rem;
+    font-weight: 800;
+    font-variant-numeric: tabular-nums;
+    line-height: 1;
+}
+
+.quiz-tier {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--accent-secondary);
+}
+
+.quiz-summary-text {
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+}
+
+/* ---- responsive -------------------------------------------------------- */
+
+@media (max-width: 1100px) {
+    .ls-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .ls-card {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0 18px;
+        align-items: center;
+    }
+
+    .ls-card-head,
+    .ls-foot {
+        grid-column: 1 / -1;
+    }
+
+    .ls-well {
+        grid-row: 2 / span 2;
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width: 820px) {
+    .ls-head,
+    .quiz-head {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .ls-card {
+        grid-template-columns: 1fr;
+    }
+
+    .ls-well {
+        grid-row: auto;
+        margin-bottom: 12px;
+    }
+
+    .quiz-body {
+        grid-template-columns: 1fr;
+    }
+
+    .duel-tiles {
+        grid-template-columns: 1fr;
+    }
+
+    .duel-controls {
+        grid-template-columns: auto 1fr;
+    }
+
+    .duel-clock,
+    .duel-rate {
+        grid-column: 2;
+        justify-self: end;
+    }
+
+    .duel-gap-value {
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 520px) {
+    .ls,
+    .quiz,
+    .duel {
+        padding: 14px;
+    }
+
+    .ls-foot {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .ls-opt {
+        text-align: center;
+    }
+
+    .duel-hint {
+        display: none;
+    }
+}
+
+/* The hidden attribute has to beat display rules like .quiz-summary { display: grid }.
+   Without this the quiz summary stayed on screen under the next question. */
+[hidden] {
+    display: none !important;
+}
