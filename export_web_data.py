@@ -20,6 +20,7 @@ import warnings
 from pathlib import Path
 
 import numpy as np
+import pandas as pd
 from scipy.signal import savgol_filter
 
 import fastf1
@@ -315,67 +316,218 @@ def export_duels(n_points=720):
 # (key, year, name passed to fastf1, label shown, word that must appear in the
 # resolved event name)
 QUIZ_CIRCUITS = [
-    ('monaco', 2024, 'Monaco', 'Monaco', 'Monaco'),
-    ('spa', 2024, 'Belgium', 'Spa-Francorchamps', 'Belgian'),
-    ('monza', 2024, 'Italy', 'Monza', 'Italian'),
-    ('silverstone', 2024, 'British', 'Silverstone', 'British'),
-    ('suzuka', 2024, 'Japan', 'Suzuka', 'Japanese'),
-    ('redbullring', 2024, 'Austria', 'Red Bull Ring', 'Austrian'),
+    # key, year, gp, label, must-match word in the resolved event name, kind
+    ('monaco', 2024, 'Monaco', 'Monaco', 'Monaco', 'street'),
+    ('spa', 2024, 'Belgium', 'Spa-Francorchamps', 'Belgian', 'power'),
+    ('monza', 2024, 'Italy', 'Monza', 'Italian', 'power'),
+    ('silverstone', 2024, 'British', 'Silverstone', 'British', 'flowing'),
+    ('suzuka', 2024, 'Japan', 'Suzuka', 'Japanese', 'flowing'),
+    ('redbullring', 2024, 'Austria', 'Red Bull Ring', 'Austrian', 'stop-go'),
+    ('singapore', 2024, 'Singapore', 'Singapore', 'Singapore', 'street'),
+    ('bahrain', 2024, 'Bahrain', 'Bahrain', 'Bahrain', 'stop-go'),
+    ('hungaroring', 2024, 'Hungary', 'Hungaroring', 'Hungarian', 'twisty'),
+    ('baku', 2024, 'Azerbaijan', 'Baku', 'Azerbaijan', 'street'),
+    ('zandvoort', 2024, 'Netherlands', 'Zandvoort', 'Dutch', 'flowing'),
 ]
+
+CSV = ROOT / 'data' / 'f1db_csv'
+REF = ROOT / 'data' / 'reference'
+CONS = ROOT / 'data' / 'consolidated'
+
+
+def _resample(u, y, g):
+    return np.interp(g, u, np.asarray(y, float))
+
+
+def _quiz_circuit(key, year, gp, label, must, kind, n_points):
+    ses = _session(year, gp)
+    ev = str(ses.event['EventName'])
+    if must.lower() not in ev.lower():
+        raise RuntimeError(f'fastf1 resolved "{gp}" to "{ev}"')
+    laps, track = [], None
+    for _, r in ses.results.head(8).iterrows():
+        abbr = r['Abbreviation']
+        try:
+            lap = _pick(ses.laps, abbr).pick_fastest()
+            tel = lap.get_telemetry()
+            if tel is None or len(tel) < 50:
+                continue
+        except Exception:
+            continue
+        d = tel['Distance'].to_numpy(float)
+        d = d - d[0]
+        u = d / d[-1]
+        g = np.linspace(0, 1, n_points)
+        spd = _resample(u, tel['Speed'], g)
+        thr = tel['Throttle'].to_numpy(float)
+        brk = tel['Brake'].to_numpy(float)
+        gear = tel['nGear'].to_numpy(float)
+        if track is None:
+            gm = np.linspace(0, 1, 360)
+            x = _resample(u, tel['X'], gm)
+            y = _resample(u, tel['Y'], gm)
+            x -= (x.max() + x.min()) / 2
+            y -= (y.max() + y.min()) / 2
+            scale = max(np.ptp(x), np.ptp(y)) / 2 or 1
+            track = dict(x=_round(x / scale, 3), y=_round(y / scale, 3),
+                         speed=_round(_resample(u, tel['Speed'], gm), 0),
+                         length=round(float(d[-1]), 0))
+        laps.append(dict(
+            abbr=abbr, team=str(lap['Team']),
+            laptime=round(float(lap['LapTime'].total_seconds()), 3),
+            speed=_round(spd, 0),
+            throttle=_round(_resample(u, thr, g), 0),
+            brake=_round(_resample(u, brk, g), 0),
+            gear=_round(_resample(u, gear, g), 0),
+            top=round(float(spd.max()), 0), low=round(float(spd.min()), 0),
+            full_throttle=round(float((thr > 98).mean() * 100), 0),
+            braking=round(float((brk > 0).mean() * 100), 0),
+            brake_events=int(np.sum(np.diff((brk > 0).astype(int)) == 1)),
+            gear_max=int(np.nanmax(gear)),
+            gear_min=int(np.nanmin(gear[gear > 0])) if (gear > 0).any() else 1,
+        ))
+        if len(laps) == 2:
+            break
+    if len(laps) < 2:
+        raise RuntimeError('fewer than two clean laps')
+    return dict(key=key, label=label, name=ev, year=year, kind=kind,
+                length=track['length'], map=track, laps=laps)
+
+
+def _names():
+    drivers = pd.read_csv(REF / 'drivers.csv')
+    cons = pd.read_csv(REF / 'constructors.csv')
+    dn = dict(zip(drivers['id'], drivers['name']))
+    cn = dict(zip(cons['id'], cons['name']))
+    return dn, cn
+
+
+def _secs(s):
+    """'1:29.179' or '25.208' -> seconds; NaN on failure."""
+    try:
+        s = str(s)
+        if ':' in s:
+            m, r = s.split(':')
+            return int(m) * 60 + float(r)
+        return float(s)
+    except Exception:
+        return float('nan')
+
+
+def _race_name(r):
+    return r.split('-', 1)[1].replace('-', ' ').title().replace(' Of ', ' of ')
+
+
+def export_history():
+    """Season-level facts for the history / strategy questions. Everything
+    is derived from the f1db CSVs so the quiz can cite real numbers."""
+    dn, cn = _names()
+
+    champions = []
+    wc = pd.read_csv(CONS / 'world_champions.csv')
+    cc = pd.read_csv(CONS / 'constructor_champions.csv').set_index('year')
+    rp = pd.read_csv(CONS / 'races_per_year.csv').set_index('year')
+    for _, r in wc.iterrows():
+        y = int(r['year'])
+        champions.append(dict(
+            year=y, driver=dn.get(r['champion'], r['champion']), points=float(r['points']),
+            team=cn.get(cc.loc[y, 'champion'], cc.loc[y, 'champion']) if y in cc.index else None,
+            team_points=float(cc.loc[y, 'points']) if y in cc.index else None,
+            races=int(rp.loc[y, 'races']) if y in rp.index else None))
+
+    seasons = {}
+    pit_evolution = []
+    summ_all = pd.read_csv(CONS / 'driver_season_summary.csv')
+    for y in range(2012, 2026):
+        try:
+            pit = pd.read_csv(CSV / f'{y}_pit_stops.csv')
+        except FileNotFoundError:
+            continue
+        pit['secs'] = pit['time'].map(_secs)
+        # pit-lane time incl. stationary; drops red-flag / penalty stops
+        clean = pit[(pit['secs'] > 15) & (pit['secs'] < 60)]
+        if len(clean):
+            pit_evolution.append(dict(year=y, median=round(float(clean['secs'].median()), 2),
+                                      fastest=round(float(clean['secs'].min()), 2), n=int(len(clean))))
+        if y < 2022:
+            continue
+        res = pd.read_csv(CSV / f'{y}_race_results.csv')
+        qual = pd.read_csv(CSV / f'{y}_qualifying.csv')
+        fl = pd.read_csv(CSV / f'{y}_fastest_laps.csv')
+        summ = summ_all[summ_all['year'] == y].sort_values('total_points', ascending=False).head(8)
+
+        winners = []
+        for race, grp in res.groupby('race', sort=True):
+            w = grp[grp['position'].astype(str) == '1']
+            if not len(w):
+                continue
+            w = w.iloc[0]
+            try:
+                grid = int(float(w['gridPosition']))
+            except Exception:
+                grid = None
+            winners.append(dict(race=_race_name(race), driver=dn.get(w['driverId'], w['driverId']),
+                                team=cn.get(w['constructorId'], w['constructorId']), grid=grid,
+                                laps=int(float(w['laps'])) if pd.notna(w['laps']) else None))
+        poles = []
+        for race, grp in qual.groupby('race', sort=True):
+            g = grp.assign(_p=pd.to_numeric(grp['position'], errors='coerce')).dropna(subset=['_p']).sort_values('_p')
+            if len(g) < 2:
+                continue
+            p1, p2 = g.iloc[0], g.iloc[1]
+            t1, t2 = _secs(p1['q3']), _secs(p2['q3'])
+            if not (np.isfinite(t1) and np.isfinite(t2)):
+                continue
+            poles.append(dict(race=_race_name(race), driver=dn.get(p1['driverId'], p1['driverId']),
+                              team=cn.get(p1['constructorId'], p1['constructorId']),
+                              time=round(t1, 3), margin=round(t2 - t1, 3),
+                              second=dn.get(p2['driverId'], p2['driverId'])))
+        fastest = []
+        for race, grp in fl.groupby('race', sort=True):
+            g = grp[grp['position'].astype(str) == '1']
+            if not len(g):
+                continue
+            g = g.iloc[0]
+            fastest.append(dict(race=_race_name(race), driver=dn.get(g['driverId'], g['driverId']),
+                                lap=int(float(g['lap'])) if pd.notna(g['lap']) else None,
+                                time=round(_secs(g['time']), 3)))
+        by_team = clean.groupby('constructorId')['secs'].median().sort_values()
+        quick = clean.nsmallest(5, 'secs')
+        seasons[str(y)] = dict(
+            standings=[dict(driver=dn.get(r['driver'], r['driver']), team=cn.get(r['constructor'], r['constructor']),
+                            points=float(r['total_points']), wins=int(r['wins']), podiums=int(r['podiums']),
+                            races=int(r['races'])) for _, r in summ.iterrows()],
+            winners=winners, poles=poles, fastest=fastest,
+            pit_by_team=[dict(team=cn.get(k, k), median=round(float(v), 2)) for k, v in by_team.items()],
+            pit_fastest=[dict(team=cn.get(r['constructorId'], r['constructorId']),
+                              driver=dn.get(r['driverId'], r['driverId']),
+                              race=_race_name(r['race']), time=round(float(r['secs']), 3), lap=int(r['lap']))
+                         for _, r in quick.iterrows()],
+            pit_median=round(float(clean['secs'].median()), 2),
+            stops_per_car_race=round(float(len(clean)) / max(1, clean['driverId'].nunique()) / max(1, len(winners)), 2),
+        )
+    return dict(champions=champions, seasons=seasons, pit_evolution=pit_evolution)
 
 
 def export_quiz(n_points=320):
-    out = []
-    for key, year, gp, label, must in QUIZ_CIRCUITS:
+    circuits = []
+    for key, year, gp, label, must, kind in QUIZ_CIRCUITS:
         try:
-            ses = _session(year, gp)
+            c = _quiz_circuit(key, year, gp, label, must, kind, n_points)
         except Exception as exc:
             print(f'  skipped {label}: {exc}')
             continue
-        ev = str(ses.event['EventName'])
-        if must.lower() not in ev.lower():
-            print(f'  skipped {label}: fastf1 resolved "{gp}" to "{ev}"')
-            continue
-        laps = []
-        for _, r in ses.results.head(6).iterrows():
-            abbr = r['Abbreviation']
-            try:
-                lap = _pick(ses.laps, abbr).pick_fastest()
-                tel = lap.get_telemetry()
-                if tel is None or len(tel) < 50:
-                    continue
-            except Exception:
-                continue
-            d = tel['Distance'].to_numpy(float)
-            d = d - d[0]
-            u = d / d[-1]
-            g = np.linspace(0, 1, n_points)
-            spd = np.interp(g, u, tel['Speed'].to_numpy(float))
-            thr = tel['Throttle'].to_numpy(float)
-            brk = tel['Brake'].to_numpy(float)
-            laps.append(dict(
-                abbr=abbr, team=str(lap['Team']),
-                laptime=round(float(lap['LapTime'].total_seconds()), 3),
-                speed=_round(spd, 0),
-                top=round(float(spd.max()), 0), low=round(float(spd.min()), 0),
-                full_throttle=round(float((thr > 98).mean() * 100), 0),
-                braking=round(float((brk > 0).mean() * 100), 0),
-                brake_events=int(np.sum(np.diff((brk > 0).astype(int)) == 1)),
-            ))
-            if len(laps) == 2:
-                break
-        if len(laps) < 2:
-            print(f'  skipped {label}: fewer than two clean laps')
-            continue
-        out.append(dict(key=key, label=label, name=ses.event['EventName'], year=year,
-                        length=round(float(d[-1]), 0), laps=laps))
-        print(f'  {label}: {laps[0]["abbr"]} {laps[0]["laptime"]} / '
-              f'{laps[1]["abbr"]} {laps[1]["laptime"]}  top {laps[0]["top"]:.0f}  '
-              f'full throttle {laps[0]["full_throttle"]:.0f}%')
-
+        circuits.append(c)
+        L = c['laps']
+        print(f'  {label}: {L[0]["abbr"]} {L[0]["laptime"]} / {L[1]["abbr"]} {L[1]["laptime"]}  '
+              f'top {L[0]["top"]:.0f}  full throttle {L[0]["full_throttle"]:.0f}%  '
+              f'gears {L[0]["gear_min"]}-{L[0]["gear_max"]}')
+    history = export_history()
+    out = dict(version=2, circuits=circuits, history=history)
     path = OUT / 'quiz.json'
     path.write_text(json.dumps(out, separators=(',', ':')), encoding='utf-8')
-    print(f'wrote {path.name}  {path.stat().st_size/1e3:.0f} KB')
+    print(f'wrote {path.name}  {path.stat().st_size/1e3:.0f} KB  ({len(circuits)} circuits, '
+          f'{len(history["seasons"])} seasons)')
 
 
 if __name__ == '__main__':
